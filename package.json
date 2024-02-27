@@ -1,0 +1,20 @@
+{
+  "name": "h2occhio",
+  "version": "1.0.0",
+  "description": "A package to easily access hydrometic and pluviometric data",
+  "main": "dist/index.js",
+  "scripts": {
+    "extraction": "tsc && node dist/extract.js",
+    "test": "jest"
+  },
+  "author": "Simone Chiesi <simone@chie.si>",
+  "license": "GPL-3.0-only",
+  "devDependencies": {
+    "@types/jsdom": "^21.1.6",
+    "@types/node": "^20.10.7",
+    "typescript": "^5.3.3"
+  },
+  "dependencies": {
+    "jsdom": "^24.0.0"
+  }
+}
