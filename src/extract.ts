@@ -28,7 +28,9 @@ function parseHydrometricRequestData(inputMeasurements: RawSIRMeasurements) {
         const newMeasurement : Measurement = {
             timestamp: 0,
             /** As a float */
-            value: parseFloat(inputMeasurement[6]),
+            value: inputMeasurement[6].length > 0 ?
+                parseFloat(inputMeasurement[6]) :
+                0,
             unit: 'm',
             type: 'hydrometric'
         };
