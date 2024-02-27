@@ -1,0 +1,15 @@
+{"sensor_id":"TOS01004965","timestamp":1708998000,"value":4.5,"unit":"m","type":"hydrometric"}
+{"sensor_id":"TOS01005672","timestamp":1708998000,"value":7.5,"unit":"m","type":"hydrometric"}
+{"sensor_id":"TOS01005761","timestamp":1708997400,"value":4.5,"unit":"m","type":"hydrometric"}
+{"sensor_id":"TOS03004505","timestamp":1708996500,"value":1.5,"unit":"m","type":"hydrometric"}
+{"sensor_id":"TOS03004508","timestamp":1708997400,"value":1.8,"unit":"m","type":"hydrometric"}
+{"sensor_id":"TOS03004512","timestamp":1708997400,"value":0,"unit":"m","type":"hydrometric"}
+{"sensor_id":"TOS03004513","timestamp":1708997400,"value":3,"unit":"m","type":"hydrometric"}
+{"sensor_id":"TOS03005641","timestamp":1708997400,"value":0,"unit":"m","type":"hydrometric"}
+{"sensor_id":"TOS03005651","timestamp":1708997400,"value":0,"unit":"m","type":"hydrometric"}
+{"sensor_id":"TOS03005655","timestamp":1708998000,"value":5.5,"unit":"m","type":"hydrometric"}
+{"sensor_id":"TOS03005657","timestamp":1708997400,"value":0,"unit":"m","type":"hydrometric"}
+{"sensor_id":"TOS03005707","timestamp":1708997400,"value":3.5,"unit":"m","type":"hydrometric"}
+{"sensor_id":"TOS03005711","timestamp":1708998000,"value":3,"unit":"m","type":"hydrometric"}
+{"sensor_id":"TOS03005725","timestamp":1708998000,"value":7.82,"unit":"m","type":"hydrometric"}
+{"sensor_id":"TOS03005781","timestamp":1708998000,"value":3,"unit":"m","type":"hydrometric"}

@@ -16,6 +16,7 @@ type Sensor = {
 type MeasurementType = "hydrometric" | "pluviometric" | "thermic" | "anemometric";
 
 type Measurement = {
+    sensor_id: string
     /** Seconds elapsed since Unix epoch at the measurement */
     timestamp: number,
     /** As a float */

@@ -11,10 +11,13 @@
   "license": "GPL-3.0-only",
   "devDependencies": {
     "@types/jsdom": "^21.1.6",
+    "@types/jsonfile": "^6.1.4",
     "@types/node": "^20.10.7",
     "typescript": "^5.3.3"
   },
   "dependencies": {
-    "jsdom": "^24.0.0"
+    "dayjs": "^1.11.10",
+    "jsdom": "^24.0.0",
+    "jsonfile": "^6.1.0"
   }
 }
