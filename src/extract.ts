@@ -13,6 +13,7 @@ dayjs.extend(timezone);
 const SIR_BASE_URL = 'https://www.sir.toscana.it';
 const SIR_HYDROMETRIC_STATIONS_URL = `${SIR_BASE_URL}/monitoraggio/stazioni.php?type=idro`;
 const SIR_PLUVIOMETRIC_STATIONS_URL = `${SIR_BASE_URL}/monitoraggio/stazioni.php?type=pluvio`;
+const SIR_HYDROMETRIC_MAP_STATIONS_URL = `${SIR_BASE_URL}/monitoraggio/actions.php?action=list&type_gauge=idro`;
 const ROME_TIMEZONE = 'Europe/Rome';
 
 type MeasurementWindow = 15 | 60 | 180 | 360 | 720 | 1440 | 2160;
@@ -30,8 +31,15 @@ type CatalogStation = {
 type HydrometricStation = CatalogStation & {
     river: string,
     basin: string,
+    source_order: number,
     flow?: number,
-    level?: number
+    level?: number,
+    limit_1_m?: number,
+    limit_2_m?: number,
+    first_limit_ratio?: number,
+    second_limit_ratio?: number,
+    lat?: number,
+    lon?: number
 };
 
 type PluviometricStation = CatalogStation & {
@@ -50,6 +58,21 @@ type CollectorResult = {
     pluviometric_measurements: IndexedMeasurement[],
     hydrometric_stations: HydrometricStation[],
     pluviometric_stations: PluviometricStation[]
+};
+
+type SirMapStation = {
+    IDStazione: string,
+    Lat: string,
+    Lon: string
+};
+
+type SirMapStationsResponse = {
+    features?: SirMapStation[]
+};
+
+type StationCoordinates = {
+    lat: number,
+    lon: number
 };
 
 const PLUVIOMETRIC_WINDOWS: Array<{ index: number, minutes: MeasurementWindow }> = [
@@ -108,12 +131,13 @@ export function parseSirTimestamp(input: string, now: Dayjs = dayjs()): number {
 
 export function normalizeHydrometricRows(
     rows: RawSIRMeasurements,
-    now: Dayjs = dayjs()
+    now: Dayjs = dayjs(),
+    coordinatesBySensorId: Record<string, StationCoordinates> = {}
 ): { measurements: IndexedMeasurement[], stations: HydrometricStation[] } {
     const measurements: IndexedMeasurement[] = [];
     const stations: HydrometricStation[] = [];
 
-    rows.forEach((row) => {
+    rows.forEach((row, sourceOrder) => {
         const sensorId = cleanText(row[0]);
         const river = cleanText(row[1]);
         const stationName = cleanText(row[2]);
@@ -121,8 +145,11 @@ export function normalizeHydrometricRows(
         const basin = cleanText(row[4]);
         const alertZone = cleanText(row[5]);
         const timestamp = safeParseSirTimestamp(row[13], now);
+        const limit2 = parseNumericValue(row[6]);
+        const limit1 = parseNumericValue(row[7]);
         const level = parseNumericValue(row[8]);
         const flow = parseNumericValue(row[9]);
+        const coordinates = coordinatesBySensorId[sensorId];
 
         if (!sensorId || !province || level === null || timestamp === null) {
             return;
@@ -148,7 +175,13 @@ export function normalizeHydrometricRows(
             detail_url: sirDetailUrl(sensorId, 'idro'),
             river,
             basin,
+            source_order: sourceOrder,
             level,
+            ...(limit1 === null ? {} : { limit_1_m: limit1 }),
+            ...(limit2 === null ? {} : { limit_2_m: limit2 }),
+            ...(limit1 === null ? {} : { first_limit_ratio: level / limit1 }),
+            ...(limit2 === null ? {} : { second_limit_ratio: level / limit2 }),
+            ...(coordinates ? coordinates : {}),
             ...(flow === null ? {} : { flow })
         });
     });
@@ -282,6 +315,24 @@ export function writeCatalogs(
     writeJson(path.join(catalogPath, 'pluviometric-stations-by-province.json'), sortGroupedStations(pluviometricByProvince));
 }
 
+export function parseHydrometricStationCoordinates(source: string): Record<string, StationCoordinates> {
+    const parsed = JSON.parse(source) as SirMapStationsResponse;
+    const coordinatesBySensorId: Record<string, StationCoordinates> = {};
+
+    (parsed.features ?? []).forEach((station) => {
+        const lat = Number.parseFloat(station.Lat);
+        const lon = Number.parseFloat(station.Lon);
+
+        if (!station.IDStazione || Number.isNaN(lat) || Number.isNaN(lon)) {
+            return;
+        }
+
+        coordinatesBySensorId[station.IDStazione] = { lat, lon };
+    });
+
+    return coordinatesBySensorId;
+}
+
 export function renderIndexHtml(hydrometricStations: HydrometricStation[]): string {
     const stationsByProvince = sortGroupedHydrometricStations(groupBy(hydrometricStations, (station) => station.province));
     const provinceSections = Object.entries(stationsByProvince)
@@ -313,6 +364,7 @@ export function renderIndexHtml(hydrometricStations: HydrometricStation[]): stri
                 <li><a href="https://www.regione.toscana.it/allertameteo">Allerte meteo attuali</a></li>
                 <li><a href="https://www.sir.toscana.it/idrometria-pub">Mappa sensori e livelli di allerta idrogeologici</a></li>
                 <li><a href="https://www.sir.toscana.it/pluviometria-pub">Mappa sensori pluviometrici</a></li>
+                <li><a href="v2.html">H2Occhio v2</a></li>
                 <li><a href="rain.html">Stazioni pluviometriche</a></li>
                 <li><a href="https://www.regione.toscana.it/documents/10180/344853/zone+di+allerta+2015.pdf/16cb0480-e91c-4faf-ada4-a30dc6231d9f">Mappa divisione zone rischio idrogeologico</a></li>
             </ul>
@@ -358,6 +410,7 @@ export function renderRainHtml(pluviometricStations: PluviometricStation[]): str
         <h1>Stazioni pluviometriche - Toscana</h1>
         <nav>
             <a href="index.html">Fiumi e idrometria</a> |
+            <a href="v2.html">H2Occhio v2</a> |
             <a href="https://www.sir.toscana.it/pluviometria-pub">Mappa SIR pluviometria</a>
         </nav>
         <hr />
@@ -371,11 +424,13 @@ ${provinceSections}
 }
 
 export async function collectSirData(baseDataPath = path.join('docs', 'data')): Promise<CollectorResult> {
-    const [hydrometricHtml, pluviometricHtml] = await Promise.all([
+    const [hydrometricHtml, pluviometricHtml, hydrometricMapJson] = await Promise.all([
         fetchText(SIR_HYDROMETRIC_STATIONS_URL),
-        fetchText(SIR_PLUVIOMETRIC_STATIONS_URL)
+        fetchText(SIR_PLUVIOMETRIC_STATIONS_URL),
+        fetchText(SIR_HYDROMETRIC_MAP_STATIONS_URL)
     ]);
-    const hydrometric = normalizeHydrometricRows(extractSirRows(hydrometricHtml));
+    const hydrometricCoordinates = parseHydrometricStationCoordinates(hydrometricMapJson);
+    const hydrometric = normalizeHydrometricRows(extractSirRows(hydrometricHtml), dayjs(), hydrometricCoordinates);
     const pluviometric = normalizePluviometricRows(extractSirRows(pluviometricHtml, 'VALUES'));
     const measurements = hydrometric.measurements.concat(pluviometric.measurements);
 

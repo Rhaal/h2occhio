@@ -1,0 +1,632 @@
+<!DOCTYPE html>
+<html lang="it">
+    <head>
+        <title>H2Occhio v2 - Fiumi Toscana</title>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+        <style>
+            :root {
+                color-scheme: light;
+                --ink: #172026;
+                --muted: #66737d;
+                --line: #d9e1e7;
+                --panel: #ffffff;
+                --soft: #f4f7f9;
+                --blue: #1f78d1;
+                --yellow: #f0c419;
+                --orange: #f07f24;
+                --red: #d92727;
+            }
+
+            * { box-sizing: border-box; }
+
+            html, body {
+                min-height: 100%;
+            }
+
+            body {
+                margin: 0;
+                background: var(--soft);
+                color: var(--ink);
+                font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+                line-height: 1.45;
+            }
+
+            a { color: var(--blue); }
+
+            .shell {
+                min-height: 100vh;
+                display: grid;
+                grid-template-columns: 360px minmax(0, 1fr);
+            }
+
+            .sidebar {
+                background: var(--panel);
+                border-right: 1px solid var(--line);
+                padding: 18px;
+                overflow: auto;
+                max-height: 100vh;
+                z-index: 20;
+            }
+
+            .main {
+                position: relative;
+                min-width: 0;
+                min-height: 100vh;
+                overflow: hidden;
+            }
+
+            h1, h2, h3, p { margin-top: 0; }
+            h1 { font-size: 1.35rem; margin-bottom: 4px; }
+            h2 { font-size: 1rem; margin-bottom: 12px; }
+            h3 { font-size: 0.95rem; margin-bottom: 6px; }
+
+            .muted { color: var(--muted); }
+            .nav { display: flex; gap: 12px; margin: 12px 0 18px; font-size: 0.92rem; }
+
+            .control {
+                display: grid;
+                gap: 6px;
+                margin-bottom: 18px;
+            }
+
+            label { font-size: 0.82rem; color: var(--muted); }
+
+            select, input {
+                width: 100%;
+                border: 1px solid var(--line);
+                border-radius: 6px;
+                padding: 9px 10px;
+                background: #fff;
+                color: var(--ink);
+                font: inherit;
+            }
+
+            .metric-grid {
+                display: grid;
+                grid-template-columns: repeat(2, 1fr);
+                gap: 10px;
+                margin: 16px 0;
+            }
+
+            .metric {
+                border: 1px solid var(--line);
+                border-radius: 8px;
+                padding: 10px;
+                background: #fbfdfe;
+            }
+
+            .metric strong {
+                display: block;
+                font-size: 1.2rem;
+            }
+
+            .risk-list {
+                display: grid;
+                gap: 8px;
+            }
+
+            .risk-row {
+                border: 1px solid var(--line);
+                border-radius: 8px;
+                padding: 9px;
+                background: #fff;
+                cursor: pointer;
+            }
+
+            .risk-row.active {
+                outline: 2px solid var(--blue);
+                outline-offset: 0;
+            }
+
+            .row-top {
+                display: flex;
+                align-items: center;
+                justify-content: space-between;
+                gap: 10px;
+                margin-bottom: 7px;
+            }
+
+            .badge {
+                border-radius: 999px;
+                padding: 2px 8px;
+                color: #fff;
+                font-size: 0.78rem;
+                white-space: nowrap;
+            }
+
+            .bar {
+                height: 7px;
+                border-radius: 999px;
+                background: #e6ecf1;
+                overflow: hidden;
+            }
+
+            .bar > span {
+                display: block;
+                height: 100%;
+                border-radius: inherit;
+            }
+
+            #map {
+                width: 100%;
+                height: 100%;
+                min-height: 100vh;
+            }
+
+            .profile {
+                position: absolute;
+                z-index: 500;
+                left: 18px;
+                right: 18px;
+                bottom: 18px;
+                max-height: min(46vh, 520px);
+                overflow: auto;
+                pointer-events: none;
+            }
+
+            .panel {
+                background: rgba(255, 255, 255, 0.96);
+                border: 1px solid var(--line);
+                border-radius: 8px;
+                padding: 14px;
+                box-shadow: 0 18px 50px rgba(23, 32, 38, 0.22);
+                pointer-events: auto;
+            }
+
+            .profile-head {
+                display: flex;
+                align-items: start;
+                justify-content: space-between;
+                gap: 16px;
+                margin-bottom: 12px;
+            }
+
+            .chart {
+                width: 100%;
+                height: 220px;
+                border: 1px solid var(--line);
+                border-radius: 8px;
+                background: linear-gradient(#fff, #f8fbfd);
+            }
+
+            .stations {
+                display: grid;
+                grid-template-columns: repeat(auto-fill, minmax(210px, 1fr));
+                gap: 10px;
+                margin-top: 12px;
+            }
+
+            .station {
+                border: 1px solid var(--line);
+                border-radius: 8px;
+                background: #fff;
+                padding: 10px;
+            }
+
+            .station dl {
+                display: grid;
+                grid-template-columns: auto 1fr;
+                gap: 3px 8px;
+                margin: 8px 0 0;
+                font-size: 0.86rem;
+            }
+
+            .station dt { color: var(--muted); }
+            .station dd { margin: 0; text-align: right; }
+
+            .legend {
+                position: absolute;
+                z-index: 450;
+                right: 12px;
+                bottom: 12px;
+                padding: 8px 10px;
+                border-radius: 8px;
+                background: rgba(255, 255, 255, 0.94);
+                border: 1px solid var(--line);
+                box-shadow: 0 6px 18px rgba(23, 32, 38, 0.12);
+                font-size: 0.8rem;
+            }
+
+            .legend-gradient {
+                width: 170px;
+                height: 8px;
+                border-radius: 999px;
+                background: linear-gradient(90deg, var(--blue), var(--yellow), var(--orange), var(--red));
+                margin: 5px 0;
+            }
+
+            .map-wrap {
+                position: relative;
+                min-height: 100vh;
+                height: 100%;
+            }
+
+            .empty {
+                padding: 20px;
+                color: var(--muted);
+            }
+
+            @media (max-width: 900px) {
+                .shell { grid-template-columns: 1fr; }
+                .sidebar {
+                    border-right: 0;
+                    border-bottom: 1px solid var(--line);
+                    max-height: none;
+                }
+                .main { min-height: 760px; }
+                #map,
+                .map-wrap { min-height: 760px; }
+                .profile {
+                    left: 10px;
+                    right: 10px;
+                    bottom: 10px;
+                    max-height: 48vh;
+                }
+            }
+        </style>
+    </head>
+    <body>
+        <div id="root"></div>
+        <script src="https://unpkg.com/react@18/umd/react.production.min.js"></script>
+        <script src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js"></script>
+        <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+        <script>
+            const { useEffect, useMemo, useRef, useState } = React;
+            const h = React.createElement;
+            const DATA_URL = 'data/catalog/hydrometric-stations.json';
+            const TUSCANY_CENTER = [43.43, 11.0];
+            const TUSCANY_BOUNDS = [[42.2, 9.65], [44.55, 12.45]];
+
+            function ratioColor(ratio) {
+                if (!Number.isFinite(ratio)) return '#8795a1';
+                if (ratio >= 1) return '#d92727';
+                if (ratio >= 0.85) return '#f07f24';
+                if (ratio >= 0.65) return '#f0c419';
+                return '#1f78d1';
+            }
+
+            function clamp(value, min, max) {
+                return Math.max(min, Math.min(max, value));
+            }
+
+            function formatNumber(value, digits = 2) {
+                if (!Number.isFinite(value)) return '-';
+                return value.toLocaleString('it-IT', {
+                    maximumFractionDigits: digits,
+                    minimumFractionDigits: value % 1 === 0 ? 0 : Math.min(digits, 1)
+                });
+            }
+
+            function formatPercent(value) {
+                if (!Number.isFinite(value)) return '-';
+                return `${Math.round(value * 100)}%`;
+            }
+
+            function groupBy(values, getKey) {
+                return values.reduce((groups, value) => {
+                    const key = getKey(value) || 'Sconosciuto';
+                    groups[key] = groups[key] || [];
+                    groups[key].push(value);
+                    return groups;
+                }, {});
+            }
+
+            function computeRiverSummaries(stations) {
+                return Object.entries(groupBy(stations.filter((station) => station.river), (station) => station.river))
+                    .map(([river, riverStations]) => {
+                        const orderedStations = riverStations
+                            .slice()
+                            .sort((a, b) => (a.source_order ?? 0) - (b.source_order ?? 0));
+                        const maxFlow = Math.max(...orderedStations.map((station) => station.flow ?? 0));
+                        const firstRatio = Math.max(...orderedStations.map((station) => station.first_limit_ratio ?? -Infinity));
+                        const secondRatio = Math.max(...orderedStations.map((station) => station.second_limit_ratio ?? -Infinity));
+                        const closestStation = orderedStations
+                            .slice()
+                            .sort((a, b) => (b.second_limit_ratio ?? -Infinity) - (a.second_limit_ratio ?? -Infinity))[0];
+                        const coordinates = orderedStations
+                            .filter((station) => Number.isFinite(station.lat) && Number.isFinite(station.lon))
+                            .map((station) => [station.lat, station.lon]);
+
+                        return {
+                            river,
+                            stations: orderedStations,
+                            stationCount: orderedStations.length,
+                            maxFlow: Number.isFinite(maxFlow) ? maxFlow : 0,
+                            firstRatio: Number.isFinite(firstRatio) ? firstRatio : null,
+                            secondRatio: Number.isFinite(secondRatio) ? secondRatio : null,
+                            closestStation,
+                            coordinates
+                        };
+                    })
+                    .sort((a, b) =>
+                        (b.secondRatio ?? -Infinity) - (a.secondRatio ?? -Infinity) ||
+                        (b.firstRatio ?? -Infinity) - (a.firstRatio ?? -Infinity) ||
+                        b.maxFlow - a.maxFlow ||
+                        a.river.localeCompare(b.river)
+                    );
+            }
+
+            function App() {
+                const [stations, setStations] = useState([]);
+                const [status, setStatus] = useState('loading');
+                const [selectedRiver, setSelectedRiver] = useState('');
+                const [query, setQuery] = useState('');
+
+                useEffect(() => {
+                    fetch(DATA_URL, { cache: 'no-store' })
+                        .then((response) => {
+                            if (!response.ok) throw new Error(`HTTP ${response.status}`);
+                            return response.json();
+                        })
+                        .then((data) => {
+                            setStations(data);
+                            setStatus('ready');
+                        })
+                        .catch((error) => {
+                            console.error(error);
+                            setStatus('error');
+                        });
+                }, []);
+
+                const rivers = useMemo(() => computeRiverSummaries(stations), [stations]);
+
+                useEffect(() => {
+                    if (!selectedRiver && rivers.length > 0) {
+                        setSelectedRiver(rivers[0].river);
+                    }
+                }, [rivers, selectedRiver]);
+
+                const visibleRivers = useMemo(() => {
+                    const normalizedQuery = query.trim().toLowerCase();
+                    if (!normalizedQuery) return rivers.slice(0, 20);
+                    return rivers.filter((river) => river.river.toLowerCase().includes(normalizedQuery)).slice(0, 30);
+                }, [rivers, query]);
+
+                const selected = rivers.find((river) => river.river === selectedRiver) || rivers[0];
+
+                if (status === 'loading') {
+                    return h('div', { className: 'empty' }, 'Caricamento dati idrometrici...');
+                }
+
+                if (status === 'error') {
+                    return h('div', { className: 'empty' }, 'Dati idrometrici non disponibili.');
+                }
+
+                return h('div', { className: 'shell' },
+                    h('aside', { className: 'sidebar' },
+                        h('h1', null, 'H2Occhio v2'),
+                        h('p', { className: 'muted' }, 'Fiumi, livelli e portate in Toscana'),
+                        h('nav', { className: 'nav' },
+                            h('a', { href: 'index.html' }, 'Index'),
+                            h('a', { href: 'rain.html' }, 'Pioggia'),
+                            h('a', { href: 'https://www.sir.toscana.it/idrometria-pub' }, 'SIR')
+                        ),
+                        h('div', { className: 'control' },
+                            h('label', { htmlFor: 'river-search' }, 'Cerca fiume'),
+                            h('input', {
+                                id: 'river-search',
+                                value: query,
+                                onChange: (event) => setQuery(event.target.value),
+                                placeholder: 'Arno, Bisenzio, Serchio...'
+                            })
+                        ),
+                        h('div', { className: 'control' },
+                            h('label', { htmlFor: 'river-select' }, 'Profilo idrometrico'),
+                            h('select', {
+                                id: 'river-select',
+                                value: selected?.river || '',
+                                onChange: (event) => setSelectedRiver(event.target.value)
+                            }, rivers.map((river) => h('option', { key: river.river, value: river.river }, river.river)))
+                        ),
+                        h('div', { className: 'metric-grid' },
+                            h('div', { className: 'metric' },
+                                h('span', { className: 'muted' }, 'Fiumi'),
+                                h('strong', null, rivers.length)
+                            ),
+                            h('div', { className: 'metric' },
+                                h('span', { className: 'muted' }, 'Stazioni'),
+                                h('strong', null, stations.length)
+                            )
+                        ),
+                        h('h2', null, 'Vicini alle soglie'),
+                        h('div', { className: 'risk-list' },
+                            visibleRivers.map((river) => h(RiskRow, {
+                                key: river.river,
+                                river,
+                                active: selected?.river === river.river,
+                                onSelect: () => setSelectedRiver(river.river)
+                            }))
+                        )
+                    ),
+                    h('main', { className: 'main' },
+                        h('section', { className: 'map-wrap' },
+                            h(MapView, { rivers, selectedRiver: selected?.river })
+                        ),
+                        h('section', { className: 'profile' },
+                            selected ? h(RiverProfile, { river: selected }) : h('div', { className: 'empty' }, 'Nessun fiume selezionato')
+                        )
+                    )
+                );
+            }
+
+            function RiskRow({ river, active, onSelect }) {
+                const ratio = river.secondRatio ?? river.firstRatio ?? 0;
+                const width = `${clamp(ratio, 0, 1) * 100}%`;
+                const color = ratioColor(ratio);
+
+                return h('button', {
+                    className: `risk-row${active ? ' active' : ''}`,
+                    onClick: onSelect,
+                    type: 'button'
+                },
+                    h('div', { className: 'row-top' },
+                        h('strong', null, river.river),
+                        h('span', { className: 'badge', style: { background: color } }, formatPercent(ratio))
+                    ),
+                    h('div', { className: 'bar' }, h('span', { style: { width, background: color } })),
+                    h('div', { className: 'muted', style: { marginTop: '6px', fontSize: '0.82rem' } },
+                        `${river.closestStation?.station_name || '-'} · flow ${formatNumber(river.maxFlow)}`
+                    )
+                );
+            }
+
+            function MapView({ rivers, selectedRiver }) {
+                const mapElementRef = useRef(null);
+                const mapRef = useRef(null);
+                const layerRef = useRef(null);
+
+                useEffect(() => {
+                    if (!mapElementRef.current || mapRef.current) return;
+
+                    const map = L.map(mapElementRef.current, {
+                        center: TUSCANY_CENTER,
+                        zoom: 8,
+                        maxBounds: TUSCANY_BOUNDS,
+                        scrollWheelZoom: true
+                    });
+
+                    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+                        attribution: '&copy; OpenStreetMap'
+                    }).addTo(map);
+
+                    mapRef.current = map;
+                    layerRef.current = L.layerGroup().addTo(map);
+                }, []);
+
+                useEffect(() => {
+                    const map = mapRef.current;
+                    const layer = layerRef.current;
+                    if (!map || !layer) return;
+
+                    layer.clearLayers();
+                    const maxFlow = Math.max(...rivers.map((river) => river.maxFlow || 0), 1);
+                    const bounds = [];
+
+                    rivers.forEach((river) => {
+                        const ratio = river.secondRatio ?? river.firstRatio ?? 0;
+                        const color = ratioColor(ratio);
+                        const weight = 2 + 10 * Math.sqrt((river.maxFlow || 0) / maxFlow);
+                        const opacity = selectedRiver && river.river !== selectedRiver ? 0.28 : 0.88;
+
+                        if (river.coordinates.length >= 2) {
+                            L.polyline(river.coordinates, {
+                                color,
+                                weight,
+                                opacity,
+                                lineCap: 'round',
+                                lineJoin: 'round'
+                            })
+                                .bindPopup(`<b>${river.river}</b><br>Portata max: ${formatNumber(river.maxFlow)}<br>Soglia 2: ${formatPercent(ratio)}`)
+                                .addTo(layer);
+                            river.coordinates.forEach((coordinate) => bounds.push(coordinate));
+                        } else if (river.coordinates.length === 1) {
+                            L.circleMarker(river.coordinates[0], {
+                                radius: 4 + weight / 2,
+                                color,
+                                weight: 2,
+                                fillColor: color,
+                                fillOpacity: opacity,
+                                opacity
+                            })
+                                .bindPopup(`<b>${river.river}</b><br>Portata max: ${formatNumber(river.maxFlow)}<br>Soglia 2: ${formatPercent(ratio)}`)
+                                .addTo(layer);
+                            bounds.push(river.coordinates[0]);
+                        }
+                    });
+
+                    if (bounds.length > 0) {
+                        map.fitBounds(bounds, { padding: [24, 24], maxZoom: 9 });
+                    }
+                }, [rivers, selectedRiver]);
+
+                return h(React.Fragment, null,
+                    h('div', { id: 'map', ref: mapElementRef }),
+                    h('div', { className: 'legend' },
+                        h('strong', null, 'Soglia 2'),
+                        h('div', { className: 'legend-gradient' }),
+                        h('div', { className: 'muted' }, 'blu · giallo · arancio · rosso')
+                    )
+                );
+            }
+
+            function RiverProfile({ river }) {
+                return h('div', { className: 'panel' },
+                    h('div', { className: 'profile-head' },
+                        h('div', null,
+                            h('h2', null, river.river),
+                            h('p', { className: 'muted' },
+                                `${river.stationCount} stazioni · portata max ${formatNumber(river.maxFlow)} · soglia 2 ${formatPercent(river.secondRatio)}`
+                            )
+                        ),
+                        h('span', {
+                            className: 'badge',
+                            style: { background: ratioColor(river.secondRatio ?? river.firstRatio ?? 0) }
+                        }, formatPercent(river.secondRatio ?? river.firstRatio))
+                    ),
+                    h(ProfileChart, { stations: river.stations }),
+                    h('div', { className: 'stations' },
+                        river.stations.map((station) => h(StationCard, { key: station.sensor_id, station }))
+                    )
+                );
+            }
+
+            function ProfileChart({ stations }) {
+                const width = 900;
+                const height = 220;
+                const padding = 30;
+                const levels = stations.map((station) => station.level).filter(Number.isFinite);
+                const maxLevel = Math.max(...levels, ...stations.map((station) => station.limit_2_m || -Infinity));
+                const minLevel = Math.min(...levels, 0);
+                const yRange = Math.max(maxLevel - minLevel, 1);
+
+                const points = stations.map((station, index) => {
+                    const x = padding + (stations.length <= 1 ? 0 : index * ((width - padding * 2) / (stations.length - 1)));
+                    const y = height - padding - (((station.level ?? minLevel) - minLevel) / yRange) * (height - padding * 2);
+                    return { x, y, station };
+                });
+                const path = points.map((point, index) => `${index === 0 ? 'M' : 'L'} ${point.x} ${point.y}`).join(' ');
+
+                return h('svg', { className: 'chart', viewBox: `0 0 ${width} ${height}`, role: 'img' },
+                    h('line', { x1: padding, y1: height - padding, x2: width - padding, y2: height - padding, stroke: '#d9e1e7' }),
+                    h('path', { d: path, fill: 'none', stroke: '#1f78d1', strokeWidth: 3, strokeLinecap: 'round', strokeLinejoin: 'round' }),
+                    points.map((point) => h('g', { key: point.station.sensor_id },
+                        h('circle', {
+                            cx: point.x,
+                            cy: point.y,
+                            r: 5,
+                            fill: ratioColor(point.station.second_limit_ratio ?? point.station.first_limit_ratio ?? 0)
+                        }),
+                        h('title', null, `${point.station.station_name}: ${formatNumber(point.station.level)} m`)
+                    ))
+                );
+            }
+
+            function StationCard({ station }) {
+                const ratio = station.second_limit_ratio ?? station.first_limit_ratio ?? 0;
+
+                return h('article', { className: 'station' },
+                    h('h3', null, station.station_name),
+                    h('div', { className: 'bar' },
+                        h('span', {
+                            style: {
+                                width: `${clamp(ratio, 0, 1) * 100}%`,
+                                background: ratioColor(ratio)
+                            }
+                        })
+                    ),
+                    h('dl', null,
+                        h('dt', null, 'Livello'), h('dd', null, `${formatNumber(station.level)} m`),
+                        h('dt', null, 'Soglia 1'), h('dd', null, `${formatNumber(station.limit_1_m)} m`),
+                        h('dt', null, 'Soglia 2'), h('dd', null, `${formatNumber(station.limit_2_m)} m`),
+                        h('dt', null, 'Portata'), h('dd', null, formatNumber(station.flow)),
+                        h('dt', null, 'Zona'), h('dd', null, station.alert_zone || '-')
+                    )
+                );
+            }
+
+            ReactDOM.createRoot(document.getElementById('root')).render(h(App));
+        </script>
+    </body>
+</html>

@@ -11,6 +11,7 @@ import {
     mergeMeasurements,
     normalizeHydrometricRows,
     normalizePluviometricRows,
+    parseHydrometricStationCoordinates,
     parseSirTimestamp,
     readMeasurementFile,
     renderIndexHtml,
@@ -55,6 +56,9 @@ test('extracts the rendered obfuscated hydrometric array', () => {
 
 test('normalizes hydrometric rows using the level column', () => {
     const now = dayjs.tz('2024-02-27 10:00', 'Europe/Rome');
+    const coordinates = {
+        TOS01004782: { lat: 43.8794427106622, lon: 11.1049844957344 }
+    };
     const row = [
         'TOS01004782',
         'Bisenzio',
@@ -72,14 +76,37 @@ test('normalizes hydrometric rows using the level column', () => {
         '27/02 03.10'
     ];
 
-    const { measurements, stations } = normalizeHydrometricRows([row], now);
+    const { measurements, stations } = normalizeHydrometricRows([row], now, coordinates);
 
     assert.equal(measurements.length, 1);
     assert.equal(measurements[0].value, 0.30);
     assert.equal(measurements[0].unit, 'm');
     assert.equal(measurements[0].river, 'Bisenzio');
     assert.equal(stations[0].level, 0.30);
+    assert.equal(stations[0].limit_1_m, 1);
+    assert.equal(stations[0].limit_2_m, 1.5);
+    assert.equal(stations[0].first_limit_ratio, 0.3);
+    assert.ok(Math.abs((stations[0].second_limit_ratio ?? 0) - 0.2) < 0.000001);
     assert.equal(stations[0].flow, 42.70);
+    assert.equal(stations[0].lat, 43.8794427106622);
+    assert.equal(stations[0].lon, 11.1049844957344);
+});
+
+test('parses hydrometric station coordinates from SIR map data', () => {
+    const coordinates = parseHydrometricStationCoordinates(JSON.stringify({
+        features: [
+            {
+                IDStazione: 'TOS01004782',
+                Lat: '43.8794427106622',
+                Lon: '11.1049844957344'
+            }
+        ]
+    }));
+
+    assert.deepEqual(coordinates.TOS01004782, {
+        lat: 43.8794427106622,
+        lon: 11.1049844957344
+    });
 });
 
 test('normalizes pluviometric rows and strips html from numbers', () => {

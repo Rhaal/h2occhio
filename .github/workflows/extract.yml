@@ -33,13 +33,13 @@ jobs:
 
       - name: Commit updated data
         run: |
-          if [ -z "$(git status --porcelain -- docs/data docs/index.html docs/rain.html)" ]; then
+          if [ -z "$(git status --porcelain -- docs/data docs/index.html docs/rain.html docs/v2.html)" ]; then
             echo "No data changes to commit."
             exit 0
           fi
 
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add docs/data docs/index.html docs/rain.html
+          git add docs/data docs/index.html docs/rain.html docs/v2.html
           git commit -m "chore: Update SIR Toscana data"
           git push
