@@ -488,5 +488,75 @@
     "window_minutes": 2160,
     "province": "FI",
     "station_name": "Firenze Orto Botanico (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03001097",
+    "timestamp": 1778101200,
+    "value": 0.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "FI",
+    "station_name": "Firenze Orto Botanico (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03001097",
+    "timestamp": 1778101200,
+    "value": 2.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "FI",
+    "station_name": "Firenze Orto Botanico (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03001097",
+    "timestamp": 1778101200,
+    "value": 4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "FI",
+    "station_name": "Firenze Orto Botanico (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03001097",
+    "timestamp": 1778101200,
+    "value": 8.7,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "FI",
+    "station_name": "Firenze Orto Botanico (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03001097",
+    "timestamp": 1778101200,
+    "value": 9.5,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "FI",
+    "station_name": "Firenze Orto Botanico (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03001097",
+    "timestamp": 1778101200,
+    "value": 27.5,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "FI",
+    "station_name": "Firenze Orto Botanico (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03001097",
+    "timestamp": 1778101200,
+    "value": 67.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "FI",
+    "station_name": "Firenze Orto Botanico (RADIO)"
   }
 ]

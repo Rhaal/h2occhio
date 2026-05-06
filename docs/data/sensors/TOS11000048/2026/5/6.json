@@ -488,5 +488,75 @@
     "window_minutes": 2160,
     "province": "LU",
     "station_name": "Barga (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000048",
+    "timestamp": 1778101200,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "LU",
+    "station_name": "Barga (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000048",
+    "timestamp": 1778101200,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "LU",
+    "station_name": "Barga (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000048",
+    "timestamp": 1778101200,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "LU",
+    "station_name": "Barga (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000048",
+    "timestamp": 1778101200,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "LU",
+    "station_name": "Barga (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000048",
+    "timestamp": 1778101200,
+    "value": 7.9,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "LU",
+    "station_name": "Barga (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000048",
+    "timestamp": 1778101200,
+    "value": 76.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "LU",
+    "station_name": "Barga (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000048",
+    "timestamp": 1778101200,
+    "value": 89.1,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "LU",
+    "station_name": "Barga (RADIO)"
   }
 ]

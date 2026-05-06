@@ -488,5 +488,75 @@
     "window_minutes": 2160,
     "province": "FI",
     "station_name": "Le Croci (Barberino) (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000926",
+    "timestamp": 1778101200,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "FI",
+    "station_name": "Le Croci (Barberino) (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000926",
+    "timestamp": 1778101200,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "FI",
+    "station_name": "Le Croci (Barberino) (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000926",
+    "timestamp": 1778101200,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "FI",
+    "station_name": "Le Croci (Barberino) (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000926",
+    "timestamp": 1778101200,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "FI",
+    "station_name": "Le Croci (Barberino) (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000926",
+    "timestamp": 1778101200,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "FI",
+    "station_name": "Le Croci (Barberino) (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000926",
+    "timestamp": 1778101200,
+    "value": 43.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "FI",
+    "station_name": "Le Croci (Barberino) (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000926",
+    "timestamp": 1778101200,
+    "value": 66.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "FI",
+    "station_name": "Le Croci (Barberino) (RADIO)"
   }
 ]

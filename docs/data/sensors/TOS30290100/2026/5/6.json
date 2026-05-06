@@ -488,5 +488,75 @@
     "window_minutes": 2160,
     "province": "PO",
     "station_name": "Cottede (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30290100",
+    "timestamp": 1778100300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "PO",
+    "station_name": "Cottede (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30290100",
+    "timestamp": 1778100300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "PO",
+    "station_name": "Cottede (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30290100",
+    "timestamp": 1778100300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "PO",
+    "station_name": "Cottede (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30290100",
+    "timestamp": 1778100300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "PO",
+    "station_name": "Cottede (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30290100",
+    "timestamp": 1778100300,
+    "value": 1.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "PO",
+    "station_name": "Cottede (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30290100",
+    "timestamp": 1778100300,
+    "value": 72.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "PO",
+    "station_name": "Cottede (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30290100",
+    "timestamp": 1778100300,
+    "value": 92.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "PO",
+    "station_name": "Cottede (RADIO)"
   }
 ]
