@@ -58,5 +58,15 @@
     "river": "Sieve",
     "province": "FI",
     "station_name": "Fornacina (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01004641",
+    "timestamp": 1778098500,
+    "value": 2.2,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Sieve",
+    "province": "FI",
+    "station_name": "Fornacina (GPRS)"
   }
 ]

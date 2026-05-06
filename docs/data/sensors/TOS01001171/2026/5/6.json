@@ -418,5 +418,75 @@
     "window_minutes": 2160,
     "province": "PO",
     "station_name": "Vernio (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01001171",
+    "timestamp": 1778097600,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "PO",
+    "station_name": "Vernio (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01001171",
+    "timestamp": 1778097600,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "PO",
+    "station_name": "Vernio (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01001171",
+    "timestamp": 1778097600,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "PO",
+    "station_name": "Vernio (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01001171",
+    "timestamp": 1778097600,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "PO",
+    "station_name": "Vernio (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01001171",
+    "timestamp": 1778097600,
+    "value": 1.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "PO",
+    "station_name": "Vernio (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01001171",
+    "timestamp": 1778097600,
+    "value": 81.9,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "PO",
+    "station_name": "Vernio (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01001171",
+    "timestamp": 1778097600,
+    "value": 114.1,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "PO",
+    "station_name": "Vernio (RADIO)"
   }
 ]

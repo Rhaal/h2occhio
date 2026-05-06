@@ -418,5 +418,75 @@
     "window_minutes": 2160,
     "province": "FI",
     "station_name": "S. Giusto (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01001215",
+    "timestamp": 1778098500,
+    "value": 0.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "FI",
+    "station_name": "S. Giusto (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01001215",
+    "timestamp": 1778098500,
+    "value": 1.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "FI",
+    "station_name": "S. Giusto (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01001215",
+    "timestamp": 1778098500,
+    "value": 3.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "FI",
+    "station_name": "S. Giusto (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01001215",
+    "timestamp": 1778098500,
+    "value": 6.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "FI",
+    "station_name": "S. Giusto (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01001215",
+    "timestamp": 1778098500,
+    "value": 6.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "FI",
+    "station_name": "S. Giusto (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01001215",
+    "timestamp": 1778098500,
+    "value": 26.5,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "FI",
+    "station_name": "S. Giusto (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01001215",
+    "timestamp": 1778098500,
+    "value": 100.9,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "FI",
+    "station_name": "S. Giusto (GPRS)"
   }
 ]

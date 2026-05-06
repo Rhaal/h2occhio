@@ -418,5 +418,75 @@
     "window_minutes": 2160,
     "province": "FI",
     "station_name": "Vaglia (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01000941",
+    "timestamp": 1778098500,
+    "value": 0.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "FI",
+    "station_name": "Vaglia (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01000941",
+    "timestamp": 1778098500,
+    "value": 1,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "FI",
+    "station_name": "Vaglia (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01000941",
+    "timestamp": 1778098500,
+    "value": 1.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "FI",
+    "station_name": "Vaglia (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01000941",
+    "timestamp": 1778098500,
+    "value": 5.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "FI",
+    "station_name": "Vaglia (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01000941",
+    "timestamp": 1778098500,
+    "value": 20.1,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "FI",
+    "station_name": "Vaglia (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01000941",
+    "timestamp": 1778098500,
+    "value": 71.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "FI",
+    "station_name": "Vaglia (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01000941",
+    "timestamp": 1778098500,
+    "value": 97.9,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "FI",
+    "station_name": "Vaglia (GPRS)"
   }
 ]

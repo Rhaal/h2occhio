@@ -178,5 +178,35 @@
     "river": "Lima",
     "province": "LU",
     "station_name": "Chifenti (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02004231",
+    "timestamp": 1778097600,
+    "value": 1.61,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Lima",
+    "province": "LU",
+    "station_name": "Ponte di Lucchio (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02004215",
+    "timestamp": 1778098500,
+    "value": 1.78,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Lima",
+    "province": "PT",
+    "station_name": "Casotti di Cutigliano (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02004255",
+    "timestamp": 1778098500,
+    "value": 1.43,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Lima",
+    "province": "LU",
+    "station_name": "Chifenti (GPRS)"
   }
 ]

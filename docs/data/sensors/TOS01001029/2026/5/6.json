@@ -138,5 +138,75 @@
     "window_minutes": 2160,
     "province": "FI",
     "station_name": "Dicomano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01001029",
+    "timestamp": 1778097600,
+    "value": 1,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "FI",
+    "station_name": "Dicomano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01001029",
+    "timestamp": 1778097600,
+    "value": 1,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "FI",
+    "station_name": "Dicomano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01001029",
+    "timestamp": 1778097600,
+    "value": 4.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "FI",
+    "station_name": "Dicomano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01001029",
+    "timestamp": 1778097600,
+    "value": 21.9,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "FI",
+    "station_name": "Dicomano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01001029",
+    "timestamp": 1778097600,
+    "value": 22.7,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "FI",
+    "station_name": "Dicomano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01001029",
+    "timestamp": 1778097600,
+    "value": 36.9,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "FI",
+    "station_name": "Dicomano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01001029",
+    "timestamp": 1778097600,
+    "value": 72.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "FI",
+    "station_name": "Dicomano (RADIO)"
   }
 ]

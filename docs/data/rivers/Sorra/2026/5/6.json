@@ -58,5 +58,15 @@
     "river": "Sorra",
     "province": "SI",
     "station_name": "Radi (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03005657",
+    "timestamp": 1778097600,
+    "value": 0.46,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Sorra",
+    "province": "SI",
+    "station_name": "Radi (RADIO)"
   }
 ]

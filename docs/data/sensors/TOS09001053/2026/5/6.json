@@ -418,5 +418,75 @@
     "window_minutes": 2160,
     "province": "MS",
     "station_name": "Passo della Cisa (GPRS)"
+  },
+  {
+    "sensor_id": "TOS09001053",
+    "timestamp": 1778098500,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "MS",
+    "station_name": "Passo della Cisa (GPRS)"
+  },
+  {
+    "sensor_id": "TOS09001053",
+    "timestamp": 1778098500,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "MS",
+    "station_name": "Passo della Cisa (GPRS)"
+  },
+  {
+    "sensor_id": "TOS09001053",
+    "timestamp": 1778098500,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "MS",
+    "station_name": "Passo della Cisa (GPRS)"
+  },
+  {
+    "sensor_id": "TOS09001053",
+    "timestamp": 1778098500,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "MS",
+    "station_name": "Passo della Cisa (GPRS)"
+  },
+  {
+    "sensor_id": "TOS09001053",
+    "timestamp": 1778098500,
+    "value": 0.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "MS",
+    "station_name": "Passo della Cisa (GPRS)"
+  },
+  {
+    "sensor_id": "TOS09001053",
+    "timestamp": 1778098500,
+    "value": 13,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "MS",
+    "station_name": "Passo della Cisa (GPRS)"
+  },
+  {
+    "sensor_id": "TOS09001053",
+    "timestamp": 1778098500,
+    "value": 13.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "MS",
+    "station_name": "Passo della Cisa (GPRS)"
   }
 ]

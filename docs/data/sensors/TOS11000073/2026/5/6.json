@@ -418,5 +418,75 @@
     "window_minutes": 2160,
     "province": "FI",
     "station_name": "Greve in Chianti (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000073",
+    "timestamp": 1778097600,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "FI",
+    "station_name": "Greve in Chianti (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000073",
+    "timestamp": 1778097600,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "FI",
+    "station_name": "Greve in Chianti (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000073",
+    "timestamp": 1778097600,
+    "value": 0.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "FI",
+    "station_name": "Greve in Chianti (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000073",
+    "timestamp": 1778097600,
+    "value": 2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "FI",
+    "station_name": "Greve in Chianti (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000073",
+    "timestamp": 1778097600,
+    "value": 2.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "FI",
+    "station_name": "Greve in Chianti (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000073",
+    "timestamp": 1778097600,
+    "value": 3.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "FI",
+    "station_name": "Greve in Chianti (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000073",
+    "timestamp": 1778097600,
+    "value": 17.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "FI",
+    "station_name": "Greve in Chianti (RADIO)"
   }
 ]
