@@ -1,0 +1,12 @@
+[
+  {
+    "sensor_id": "TOS03004935",
+    "timestamp": 1778078700,
+    "value": -0.15,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Orme",
+    "province": "FI",
+    "station_name": "Empoli-Pontorme (RADIO)"
+  }
+]

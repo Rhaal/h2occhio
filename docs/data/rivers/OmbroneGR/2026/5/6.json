@@ -1,0 +1,62 @@
+[
+  {
+    "sensor_id": "TOS03005641",
+    "timestamp": 1778076000,
+    "value": 0.6,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "OmbroneGR",
+    "province": "SI",
+    "station_name": "Ponte del Garbo (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03005831",
+    "timestamp": 1778078700,
+    "value": 0.61,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "OmbroneGR",
+    "province": "GR",
+    "station_name": "Ponte Tura Aurelia (RADIO)"
+  },
+  {
+    "sensor_id": "TOS16005841",
+    "timestamp": 1778078700,
+    "value": 1.33,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "OmbroneGR",
+    "province": "GR",
+    "station_name": "Berrettino (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01005672",
+    "timestamp": 1778079300,
+    "value": 0.06,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "OmbroneGR",
+    "province": "SI",
+    "station_name": "Buonconvento (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01005791",
+    "timestamp": 1778079300,
+    "value": -0.39,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "OmbroneGR",
+    "province": "GR",
+    "station_name": "Sasso d'Ombrone (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01005822",
+    "timestamp": 1778079300,
+    "value": 0,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "OmbroneGR",
+    "province": "GR",
+    "station_name": "Istia (GPRS)"
+  }
+]

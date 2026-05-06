@@ -1,0 +1,72 @@
+[
+  {
+    "sensor_id": "TOS02000191",
+    "timestamp": 1778077800,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "LU",
+    "station_name": "Vagli di Sotto (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000191",
+    "timestamp": 1778077800,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "LU",
+    "station_name": "Vagli di Sotto (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000191",
+    "timestamp": 1778077800,
+    "value": 1,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "LU",
+    "station_name": "Vagli di Sotto (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000191",
+    "timestamp": 1778077800,
+    "value": 9.5,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "LU",
+    "station_name": "Vagli di Sotto (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000191",
+    "timestamp": 1778077800,
+    "value": 41.5,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "LU",
+    "station_name": "Vagli di Sotto (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000191",
+    "timestamp": 1778077800,
+    "value": 86.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "LU",
+    "station_name": "Vagli di Sotto (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000191",
+    "timestamp": 1778077800,
+    "value": 167.7,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "LU",
+    "station_name": "Vagli di Sotto (RADIO)"
+  }
+]

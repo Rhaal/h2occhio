@@ -16,13 +16,15 @@ type Sensor = {
 type MeasurementType = "hydrometric" | "pluviometric" | "thermic" | "anemometric";
 
 type Measurement = {
-    sensor_id: string
+    sensor_id: string,
     /** Seconds elapsed since Unix epoch at the measurement */
     timestamp: number,
     /** As a float */
     value: number,
     unit: string,
-    type: MeasurementType
+    type: MeasurementType,
+    /** Accumulation window for scalar pluviometric values, when applicable. */
+    window_minutes?: number
 }
 
 type RawSIRMeasurement = Array<string>;

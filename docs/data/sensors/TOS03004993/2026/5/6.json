@@ -1,0 +1,12 @@
+[
+  {
+    "sensor_id": "TOS03004993",
+    "timestamp": 1778078700,
+    "value": 0.51,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Arno",
+    "province": "PI",
+    "station_name": "Cassa Piaggioni Arno (RADIO)"
+  }
+]

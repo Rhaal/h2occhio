@@ -1,0 +1,82 @@
+[
+  {
+    "sensor_id": "TOS02004365",
+    "timestamp": 1778079300,
+    "value": 2.87,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Serchio",
+    "province": "PI",
+    "station_name": "Vecchiano (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02004365",
+    "timestamp": 1778079300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "PI",
+    "station_name": "Vecchiano (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02004365",
+    "timestamp": 1778079300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "PI",
+    "station_name": "Vecchiano (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02004365",
+    "timestamp": 1778079300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "PI",
+    "station_name": "Vecchiano (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02004365",
+    "timestamp": 1778079300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "PI",
+    "station_name": "Vecchiano (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02004365",
+    "timestamp": 1778079300,
+    "value": 18.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "PI",
+    "station_name": "Vecchiano (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02004365",
+    "timestamp": 1778079300,
+    "value": 58.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "PI",
+    "station_name": "Vecchiano (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02004365",
+    "timestamp": 1778079300,
+    "value": 82,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "PI",
+    "station_name": "Vecchiano (GPRS)"
+  }
+]
