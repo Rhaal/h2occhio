@@ -38,5 +38,15 @@
     "river": "Marina",
     "province": "FI",
     "station_name": "Calenzano (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01004784",
+    "timestamp": 1778086800,
+    "value": 0.97,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Marina",
+    "province": "FI",
+    "station_name": "Calenzano (GPRS)"
   }
 ]

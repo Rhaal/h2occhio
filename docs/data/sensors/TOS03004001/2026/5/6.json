@@ -38,5 +38,15 @@
     "river": "Carrione (ramo Colonnata)",
     "province": "MS",
     "station_name": "Pesa Miseglia (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03004001",
+    "timestamp": 1778085900,
+    "value": 0.51,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Carrione (ramo Colonnata)",
+    "province": "MS",
+    "station_name": "Pesa Miseglia (RADIO)"
   }
 ]
