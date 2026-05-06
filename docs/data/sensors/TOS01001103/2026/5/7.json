@@ -1,0 +1,72 @@
+[
+  {
+    "sensor_id": "TOS01001103",
+    "timestamp": 1778104800,
+    "value": 0.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "FI",
+    "station_name": "Caldine (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01001103",
+    "timestamp": 1778104800,
+    "value": 3.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "FI",
+    "station_name": "Caldine (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01001103",
+    "timestamp": 1778104800,
+    "value": 6.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "FI",
+    "station_name": "Caldine (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01001103",
+    "timestamp": 1778104800,
+    "value": 9.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "FI",
+    "station_name": "Caldine (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01001103",
+    "timestamp": 1778104800,
+    "value": 12,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "FI",
+    "station_name": "Caldine (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01001103",
+    "timestamp": 1778104800,
+    "value": 23.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "FI",
+    "station_name": "Caldine (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01001103",
+    "timestamp": 1778104800,
+    "value": 78.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "FI",
+    "station_name": "Caldine (GPRS)"
+  }
+]

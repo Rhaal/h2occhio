@@ -488,5 +488,75 @@
     "window_minutes": 2160,
     "province": "FI",
     "station_name": "Casa Sartori (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000505",
+    "timestamp": 1778103900,
+    "value": 0.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "FI",
+    "station_name": "Casa Sartori (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000505",
+    "timestamp": 1778103900,
+    "value": 1.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "FI",
+    "station_name": "Casa Sartori (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000505",
+    "timestamp": 1778103900,
+    "value": 13.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "FI",
+    "station_name": "Casa Sartori (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000505",
+    "timestamp": 1778103900,
+    "value": 18.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "FI",
+    "station_name": "Casa Sartori (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000505",
+    "timestamp": 1778103900,
+    "value": 29.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "FI",
+    "station_name": "Casa Sartori (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000505",
+    "timestamp": 1778103900,
+    "value": 34.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "FI",
+    "station_name": "Casa Sartori (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000505",
+    "timestamp": 1778103900,
+    "value": 82,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "FI",
+    "station_name": "Casa Sartori (RADIO)"
   }
 ]

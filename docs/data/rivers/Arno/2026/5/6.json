@@ -1668,5 +1668,95 @@
     "river": "Arno",
     "province": "PI",
     "station_name": "S. Giovanni alla Vena valle_r (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01004561",
+    "timestamp": 1778103900,
+    "value": 4.41,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Arno",
+    "province": "AR",
+    "station_name": "Ponte Romito (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01004661",
+    "timestamp": 1778103900,
+    "value": 3.08,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Arno",
+    "province": "FI",
+    "station_name": "Nave di Rosano valle (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01004811",
+    "timestamp": 1778103900,
+    "value": 2.24,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Arno",
+    "province": "FI",
+    "station_name": "Ponte a Signa (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01004901",
+    "timestamp": 1778103900,
+    "value": 2.95,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Arno",
+    "province": "FI",
+    "station_name": "Montelupo (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01005001",
+    "timestamp": 1778103900,
+    "value": -2.72,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Arno",
+    "province": "FI",
+    "station_name": "Fucecchio valle (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01005191",
+    "timestamp": 1778103900,
+    "value": 2.13,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Arno",
+    "province": "PI",
+    "station_name": "S. Giovanni alla Vena valle (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03004993",
+    "timestamp": 1778103900,
+    "value": 0.68,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Arno",
+    "province": "PI",
+    "station_name": "Cassa Piaggioni Arno (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03004995",
+    "timestamp": 1778103900,
+    "value": 0.3,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Arno",
+    "province": "PI",
+    "station_name": "Cassa Piaggioni Invaso (RADIO)"
+  },
+  {
+    "sensor_id": "TOS15004682",
+    "timestamp": 1778103900,
+    "value": 2.23,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Arno",
+    "province": "FI",
+    "station_name": "Firenze Uffizi 2 (RADIO)"
   }
 ]

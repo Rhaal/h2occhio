@@ -1,0 +1,122 @@
+[
+  {
+    "sensor_id": "TOS01004379",
+    "timestamp": 1778104800,
+    "value": 1.11,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Arno",
+    "province": "AR",
+    "station_name": "Stia (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01004411",
+    "timestamp": 1778104800,
+    "value": 1.41,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Arno",
+    "province": "AR",
+    "station_name": "Subbiano (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01004571",
+    "timestamp": 1778104800,
+    "value": 0.94,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Arno",
+    "province": "AR",
+    "station_name": "Montevarchi (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01004591",
+    "timestamp": 1778104800,
+    "value": 1.81,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Arno",
+    "province": "FI",
+    "station_name": "Incisa Valle (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01004659",
+    "timestamp": 1778104800,
+    "value": 1.4,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Arno",
+    "province": "FI",
+    "station_name": "Nave di Rosano (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01004679",
+    "timestamp": 1778104800,
+    "value": 1.6,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Arno",
+    "province": "FI",
+    "station_name": "Firenze Uffizi (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01004683",
+    "timestamp": 1778104800,
+    "value": 1.74,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Arno",
+    "province": "FI",
+    "station_name": "Firenze Uffizi 3 (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01004941",
+    "timestamp": 1778104800,
+    "value": -3.79,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Arno",
+    "province": "FI",
+    "station_name": "Empoli (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01005181",
+    "timestamp": 1778104800,
+    "value": 1.85,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Arno",
+    "province": "PI",
+    "station_name": "Pontedera (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01005231",
+    "timestamp": 1778104800,
+    "value": 1.46,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Arno",
+    "province": "PI",
+    "station_name": "Pisa a Sostegno (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01005251",
+    "timestamp": 1778104800,
+    "value": 1.03,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Arno",
+    "province": "PI",
+    "station_name": "Bocca d'Arno 1 (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03005193",
+    "timestamp": 1778104800,
+    "value": 2.13,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Arno",
+    "province": "PI",
+    "station_name": "S. Giovanni alla Vena valle_r (GPRS)"
+  }
+]

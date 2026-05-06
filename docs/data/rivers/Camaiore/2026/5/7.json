@@ -1,0 +1,12 @@
+[
+  {
+    "sensor_id": "TOS02004059",
+    "timestamp": 1778104800,
+    "value": -0.28,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Camaiore",
+    "province": "LU",
+    "station_name": "Camaiore (GPRS)"
+  }
+]

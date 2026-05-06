@@ -398,5 +398,15 @@
     "river": "Cornia",
     "province": "LI",
     "station_name": "Vecchia SS Aurelia (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03005487",
+    "timestamp": 1778103900,
+    "value": -0.75,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Cornia",
+    "province": "LI",
+    "station_name": "Cafaggio (RADIO)"
   }
 ]

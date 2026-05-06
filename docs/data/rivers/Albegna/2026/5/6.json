@@ -238,5 +238,15 @@
     "river": "Albegna",
     "province": "GR",
     "station_name": "Marsiliana (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03005897",
+    "timestamp": 1778103900,
+    "value": 0.76,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Albegna",
+    "province": "GR",
+    "station_name": "SP323 Amiatina (RADIO)"
   }
 ]

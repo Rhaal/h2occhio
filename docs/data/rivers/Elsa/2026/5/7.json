@@ -1,0 +1,22 @@
+[
+  {
+    "sensor_id": "TOS01004965",
+    "timestamp": 1778104800,
+    "value": 0.75,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Elsa",
+    "province": "SI",
+    "station_name": "Poggibonsi (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01004971",
+    "timestamp": 1778104800,
+    "value": 0.13,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Elsa",
+    "province": "FI",
+    "station_name": "Castelfiorentino (GPRS)"
+  }
+]

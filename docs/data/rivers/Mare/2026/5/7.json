@@ -1,0 +1,12 @@
+[
+  {
+    "sensor_id": "TOS01005981",
+    "timestamp": 1778104800,
+    "value": 0.22,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Mare",
+    "province": "LI",
+    "station_name": "Livorno Mareografo (GPRS)"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "sensor_id": "TOS01004007",
+    "timestamp": 1778104800,
+    "value": 1.45,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Carrione",
+    "province": "MS",
+    "station_name": "Avenza (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01004007",
+    "timestamp": 1778104800,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "MS",
+    "station_name": "Avenza (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01004007",
+    "timestamp": 1778104800,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "MS",
+    "station_name": "Avenza (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01004007",
+    "timestamp": 1778104800,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "MS",
+    "station_name": "Avenza (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01004007",
+    "timestamp": 1778104800,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "MS",
+    "station_name": "Avenza (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01004007",
+    "timestamp": 1778104800,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "MS",
+    "station_name": "Avenza (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01004007",
+    "timestamp": 1778104800,
+    "value": 22.7,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "MS",
+    "station_name": "Avenza (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01004007",
+    "timestamp": 1778104800,
+    "value": 30.3,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "MS",
+    "station_name": "Avenza (GPRS)"
+  }
+]

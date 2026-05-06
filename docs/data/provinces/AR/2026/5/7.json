@@ -1,0 +1,822 @@
+[
+  {
+    "sensor_id": "TOS01000581",
+    "timestamp": 1778104800,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "AR",
+    "station_name": "Stia (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01000581",
+    "timestamp": 1778104800,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "AR",
+    "station_name": "Stia (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01000581",
+    "timestamp": 1778104800,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "AR",
+    "station_name": "Stia (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01000581",
+    "timestamp": 1778104800,
+    "value": 1.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "AR",
+    "station_name": "Stia (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01000581",
+    "timestamp": 1778104800,
+    "value": 1.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "AR",
+    "station_name": "Stia (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01000581",
+    "timestamp": 1778104800,
+    "value": 7.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "AR",
+    "station_name": "Stia (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01000581",
+    "timestamp": 1778104800,
+    "value": 47.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "AR",
+    "station_name": "Stia (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01000626",
+    "timestamp": 1778104800,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "AR",
+    "station_name": "Bibbiena (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01000626",
+    "timestamp": 1778104800,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "AR",
+    "station_name": "Bibbiena (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01000626",
+    "timestamp": 1778104800,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "AR",
+    "station_name": "Bibbiena (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01000626",
+    "timestamp": 1778104800,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "AR",
+    "station_name": "Bibbiena (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01000626",
+    "timestamp": 1778104800,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "AR",
+    "station_name": "Bibbiena (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01000626",
+    "timestamp": 1778104800,
+    "value": 4.1,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "AR",
+    "station_name": "Bibbiena (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01000626",
+    "timestamp": 1778104800,
+    "value": 44.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "AR",
+    "station_name": "Bibbiena (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01000639",
+    "timestamp": 1778104800,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "AR",
+    "station_name": "La Verna (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01000639",
+    "timestamp": 1778104800,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "AR",
+    "station_name": "La Verna (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01000639",
+    "timestamp": 1778104800,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "AR",
+    "station_name": "La Verna (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01000639",
+    "timestamp": 1778104800,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "AR",
+    "station_name": "La Verna (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01000639",
+    "timestamp": 1778104800,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "AR",
+    "station_name": "La Verna (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01000639",
+    "timestamp": 1778104800,
+    "value": 5,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "AR",
+    "station_name": "La Verna (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01000639",
+    "timestamp": 1778104800,
+    "value": 61.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "AR",
+    "station_name": "La Verna (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01000751",
+    "timestamp": 1778104800,
+    "value": 0.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "AR",
+    "station_name": "Cortona (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01000751",
+    "timestamp": 1778104800,
+    "value": 2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "AR",
+    "station_name": "Cortona (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01000751",
+    "timestamp": 1778104800,
+    "value": 2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "AR",
+    "station_name": "Cortona (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01000751",
+    "timestamp": 1778104800,
+    "value": 2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "AR",
+    "station_name": "Cortona (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01000751",
+    "timestamp": 1778104800,
+    "value": 2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "AR",
+    "station_name": "Cortona (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01000751",
+    "timestamp": 1778104800,
+    "value": 4.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "AR",
+    "station_name": "Cortona (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01000751",
+    "timestamp": 1778104800,
+    "value": 5,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "AR",
+    "station_name": "Cortona (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01000772",
+    "timestamp": 1778104800,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "AR",
+    "station_name": "Arezzo - Fattoria S. Fabiano (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01000772",
+    "timestamp": 1778104800,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "AR",
+    "station_name": "Arezzo - Fattoria S. Fabiano (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01000772",
+    "timestamp": 1778104800,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "AR",
+    "station_name": "Arezzo - Fattoria S. Fabiano (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01000772",
+    "timestamp": 1778104800,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "AR",
+    "station_name": "Arezzo - Fattoria S. Fabiano (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01000772",
+    "timestamp": 1778104800,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "AR",
+    "station_name": "Arezzo - Fattoria S. Fabiano (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01000772",
+    "timestamp": 1778104800,
+    "value": 0.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "AR",
+    "station_name": "Arezzo - Fattoria S. Fabiano (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01000772",
+    "timestamp": 1778104800,
+    "value": 8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "AR",
+    "station_name": "Arezzo - Fattoria S. Fabiano (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01000811",
+    "timestamp": 1778104800,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "AR",
+    "station_name": "Badia Agnano (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01000811",
+    "timestamp": 1778104800,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "AR",
+    "station_name": "Badia Agnano (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01000811",
+    "timestamp": 1778104800,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "AR",
+    "station_name": "Badia Agnano (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01000811",
+    "timestamp": 1778104800,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "AR",
+    "station_name": "Badia Agnano (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01000811",
+    "timestamp": 1778104800,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "AR",
+    "station_name": "Badia Agnano (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01000811",
+    "timestamp": 1778104800,
+    "value": 1.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "AR",
+    "station_name": "Badia Agnano (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01000811",
+    "timestamp": 1778104800,
+    "value": 11.5,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "AR",
+    "station_name": "Badia Agnano (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01004379",
+    "timestamp": 1778104800,
+    "value": 1.11,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Arno",
+    "province": "AR",
+    "station_name": "Stia (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01004411",
+    "timestamp": 1778104800,
+    "value": 1.41,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Arno",
+    "province": "AR",
+    "station_name": "Subbiano (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01004521",
+    "timestamp": 1778104800,
+    "value": 0.15,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Canale della Chiana",
+    "province": "AR",
+    "station_name": "Ponte Ferrovia FI-Roma (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01004571",
+    "timestamp": 1778104800,
+    "value": 0.94,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Arno",
+    "province": "AR",
+    "station_name": "Montevarchi (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01004571",
+    "timestamp": 1778104800,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "AR",
+    "station_name": "Montevarchi (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01004571",
+    "timestamp": 1778104800,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "AR",
+    "station_name": "Montevarchi (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01004571",
+    "timestamp": 1778104800,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "AR",
+    "station_name": "Montevarchi (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01004571",
+    "timestamp": 1778104800,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "AR",
+    "station_name": "Montevarchi (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01004571",
+    "timestamp": 1778104800,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "AR",
+    "station_name": "Montevarchi (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01004571",
+    "timestamp": 1778104800,
+    "value": 0.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "AR",
+    "station_name": "Montevarchi (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01004571",
+    "timestamp": 1778104800,
+    "value": 32.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "AR",
+    "station_name": "Montevarchi (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03000653",
+    "timestamp": 1778104800,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "AR",
+    "station_name": "Montecchio (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03000653",
+    "timestamp": 1778104800,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "AR",
+    "station_name": "Montecchio (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03000653",
+    "timestamp": 1778104800,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "AR",
+    "station_name": "Montecchio (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03000653",
+    "timestamp": 1778104800,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "AR",
+    "station_name": "Montecchio (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03000653",
+    "timestamp": 1778104800,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "AR",
+    "station_name": "Montecchio (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03000653",
+    "timestamp": 1778104800,
+    "value": 1.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "AR",
+    "station_name": "Montecchio (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03000653",
+    "timestamp": 1778104800,
+    "value": 26.7,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "AR",
+    "station_name": "Montecchio (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03000855",
+    "timestamp": 1778104800,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "AR",
+    "station_name": "Trappola (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03000855",
+    "timestamp": 1778104800,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "AR",
+    "station_name": "Trappola (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03000855",
+    "timestamp": 1778104800,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "AR",
+    "station_name": "Trappola (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03000855",
+    "timestamp": 1778104800,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "AR",
+    "station_name": "Trappola (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03000855",
+    "timestamp": 1778104800,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "AR",
+    "station_name": "Trappola (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03000855",
+    "timestamp": 1778104800,
+    "value": 2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "AR",
+    "station_name": "Trappola (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03000855",
+    "timestamp": 1778104800,
+    "value": 41.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "AR",
+    "station_name": "Trappola (GPRS)"
+  },
+  {
+    "sensor_id": "TOS19000702",
+    "timestamp": 1778104800,
+    "value": -0.07,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Tevere",
+    "province": "AR",
+    "station_name": "Pieve S. Stefano (GPRS)"
+  },
+  {
+    "sensor_id": "TOS19000702",
+    "timestamp": 1778104800,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "AR",
+    "station_name": "Pieve S. Stefano (GPRS)"
+  },
+  {
+    "sensor_id": "TOS19000702",
+    "timestamp": 1778104800,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "AR",
+    "station_name": "Pieve S. Stefano (GPRS)"
+  },
+  {
+    "sensor_id": "TOS19000702",
+    "timestamp": 1778104800,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "AR",
+    "station_name": "Pieve S. Stefano (GPRS)"
+  },
+  {
+    "sensor_id": "TOS19000702",
+    "timestamp": 1778104800,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "AR",
+    "station_name": "Pieve S. Stefano (GPRS)"
+  },
+  {
+    "sensor_id": "TOS19000702",
+    "timestamp": 1778104800,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "AR",
+    "station_name": "Pieve S. Stefano (GPRS)"
+  },
+  {
+    "sensor_id": "TOS19000702",
+    "timestamp": 1778104800,
+    "value": 4.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "AR",
+    "station_name": "Pieve S. Stefano (GPRS)"
+  },
+  {
+    "sensor_id": "TOS19000702",
+    "timestamp": 1778104800,
+    "value": 42,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "AR",
+    "station_name": "Pieve S. Stefano (GPRS)"
+  },
+  {
+    "sensor_id": "TOS19000703",
+    "timestamp": 1778104800,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "AR",
+    "station_name": "Palazzo del Pero 1 (GPRS)"
+  },
+  {
+    "sensor_id": "TOS19000703",
+    "timestamp": 1778104800,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "AR",
+    "station_name": "Palazzo del Pero 1 (GPRS)"
+  },
+  {
+    "sensor_id": "TOS19000703",
+    "timestamp": 1778104800,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "AR",
+    "station_name": "Palazzo del Pero 1 (GPRS)"
+  },
+  {
+    "sensor_id": "TOS19000703",
+    "timestamp": 1778104800,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "AR",
+    "station_name": "Palazzo del Pero 1 (GPRS)"
+  },
+  {
+    "sensor_id": "TOS19000703",
+    "timestamp": 1778104800,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "AR",
+    "station_name": "Palazzo del Pero 1 (GPRS)"
+  },
+  {
+    "sensor_id": "TOS19000703",
+    "timestamp": 1778104800,
+    "value": 0.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "AR",
+    "station_name": "Palazzo del Pero 1 (GPRS)"
+  },
+  {
+    "sensor_id": "TOS19000703",
+    "timestamp": 1778104800,
+    "value": 0.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "AR",
+    "station_name": "Palazzo del Pero 1 (GPRS)"
+  }
+]
