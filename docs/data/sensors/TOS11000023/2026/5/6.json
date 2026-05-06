@@ -68,5 +68,145 @@
     "window_minutes": 2160,
     "province": "FI",
     "station_name": "Lamole (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000023",
+    "timestamp": 1778081400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "FI",
+    "station_name": "Lamole (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000023",
+    "timestamp": 1778081400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "FI",
+    "station_name": "Lamole (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000023",
+    "timestamp": 1778081400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "FI",
+    "station_name": "Lamole (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000023",
+    "timestamp": 1778081400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "FI",
+    "station_name": "Lamole (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000023",
+    "timestamp": 1778081400,
+    "value": 0.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "FI",
+    "station_name": "Lamole (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000023",
+    "timestamp": 1778081400,
+    "value": 12.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "FI",
+    "station_name": "Lamole (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000023",
+    "timestamp": 1778081400,
+    "value": 44.1,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "FI",
+    "station_name": "Lamole (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000023",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "FI",
+    "station_name": "Lamole (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000023",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "FI",
+    "station_name": "Lamole (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000023",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "FI",
+    "station_name": "Lamole (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000023",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "FI",
+    "station_name": "Lamole (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000023",
+    "timestamp": 1778082300,
+    "value": 0.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "FI",
+    "station_name": "Lamole (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000023",
+    "timestamp": 1778082300,
+    "value": 11.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "FI",
+    "station_name": "Lamole (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000023",
+    "timestamp": 1778082300,
+    "value": 43.9,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "FI",
+    "station_name": "Lamole (RADIO)"
   }
 ]

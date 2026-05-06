@@ -68,5 +68,145 @@
     "window_minutes": 2160,
     "province": "MS",
     "station_name": "Vergheto (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000047",
+    "timestamp": 1778081400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "MS",
+    "station_name": "Vergheto (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000047",
+    "timestamp": 1778081400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "MS",
+    "station_name": "Vergheto (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000047",
+    "timestamp": 1778081400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "MS",
+    "station_name": "Vergheto (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000047",
+    "timestamp": 1778081400,
+    "value": 0.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "MS",
+    "station_name": "Vergheto (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000047",
+    "timestamp": 1778081400,
+    "value": 31.1,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "MS",
+    "station_name": "Vergheto (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000047",
+    "timestamp": 1778081400,
+    "value": 92.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "MS",
+    "station_name": "Vergheto (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000047",
+    "timestamp": 1778081400,
+    "value": 175.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "MS",
+    "station_name": "Vergheto (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000047",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "MS",
+    "station_name": "Vergheto (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000047",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "MS",
+    "station_name": "Vergheto (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000047",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "MS",
+    "station_name": "Vergheto (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000047",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "MS",
+    "station_name": "Vergheto (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000047",
+    "timestamp": 1778082300,
+    "value": 31.1,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "MS",
+    "station_name": "Vergheto (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000047",
+    "timestamp": 1778082300,
+    "value": 92.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "MS",
+    "station_name": "Vergheto (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000047",
+    "timestamp": 1778082300,
+    "value": 172.1,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "MS",
+    "station_name": "Vergheto (RADIO)"
   }
 ]

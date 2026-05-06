@@ -8,5 +8,25 @@
     "river": "Bagnone",
     "province": "MS",
     "station_name": "Bagnone (GPRS)"
+  },
+  {
+    "sensor_id": "TOS09000015",
+    "timestamp": 1778082300,
+    "value": 0.92,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Bagnone",
+    "province": "MS",
+    "station_name": "Bagnone (GPRS)"
+  },
+  {
+    "sensor_id": "TOS09000015",
+    "timestamp": 1778082600,
+    "value": 0.92,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Bagnone",
+    "province": "MS",
+    "station_name": "Bagnone (GPRS)"
   }
 ]

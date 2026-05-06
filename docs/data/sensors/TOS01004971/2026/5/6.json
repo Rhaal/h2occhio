@@ -78,5 +78,165 @@
     "window_minutes": 2160,
     "province": "FI",
     "station_name": "Castelfiorentino (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01004971",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Elsa",
+    "province": "FI",
+    "station_name": "Castelfiorentino (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01004971",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "FI",
+    "station_name": "Castelfiorentino (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01004971",
+    "timestamp": 1778082300,
+    "value": 15,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "FI",
+    "station_name": "Castelfiorentino (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01004971",
+    "timestamp": 1778082300,
+    "value": 19.1,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "FI",
+    "station_name": "Castelfiorentino (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01004971",
+    "timestamp": 1778082300,
+    "value": 20.7,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "FI",
+    "station_name": "Castelfiorentino (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01004971",
+    "timestamp": 1778082300,
+    "value": 21.7,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "FI",
+    "station_name": "Castelfiorentino (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01004971",
+    "timestamp": 1778082300,
+    "value": 38.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "FI",
+    "station_name": "Castelfiorentino (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01004971",
+    "timestamp": 1778082300,
+    "value": 84.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "FI",
+    "station_name": "Castelfiorentino (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01004971",
+    "timestamp": 1778082600,
+    "value": 0,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Elsa",
+    "province": "FI",
+    "station_name": "Castelfiorentino (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01004971",
+    "timestamp": 1778082600,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "FI",
+    "station_name": "Castelfiorentino (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01004971",
+    "timestamp": 1778082600,
+    "value": 14.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "FI",
+    "station_name": "Castelfiorentino (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01004971",
+    "timestamp": 1778082600,
+    "value": 19.1,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "FI",
+    "station_name": "Castelfiorentino (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01004971",
+    "timestamp": 1778082600,
+    "value": 20.7,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "FI",
+    "station_name": "Castelfiorentino (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01004971",
+    "timestamp": 1778082600,
+    "value": 21.7,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "FI",
+    "station_name": "Castelfiorentino (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01004971",
+    "timestamp": 1778082600,
+    "value": 38.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "FI",
+    "station_name": "Castelfiorentino (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01004971",
+    "timestamp": 1778082600,
+    "value": 84.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "FI",
+    "station_name": "Castelfiorentino (GPRS)"
   }
 ]

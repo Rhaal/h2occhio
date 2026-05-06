@@ -8,5 +8,25 @@
     "river": "Ombrone PT",
     "province": "PO",
     "station_name": "Ponte alle Vanne Cassa (RADIO)"
+  },
+  {
+    "sensor_id": "TOS15004865",
+    "timestamp": 1778081400,
+    "value": -0.09,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Ombrone PT",
+    "province": "PO",
+    "station_name": "Ponte alle Vanne Cassa (RADIO)"
+  },
+  {
+    "sensor_id": "TOS15004865",
+    "timestamp": 1778082300,
+    "value": -0.08,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Ombrone PT",
+    "province": "PO",
+    "station_name": "Ponte alle Vanne Cassa (RADIO)"
   }
 ]

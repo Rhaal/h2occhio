@@ -68,5 +68,145 @@
     "window_minutes": 2160,
     "province": "LU",
     "station_name": "Renaio (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03000278",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "LU",
+    "station_name": "Renaio (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03000278",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "LU",
+    "station_name": "Renaio (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03000278",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "LU",
+    "station_name": "Renaio (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03000278",
+    "timestamp": 1778082300,
+    "value": 3,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "LU",
+    "station_name": "Renaio (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03000278",
+    "timestamp": 1778082300,
+    "value": 43,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "LU",
+    "station_name": "Renaio (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03000278",
+    "timestamp": 1778082300,
+    "value": 92.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "LU",
+    "station_name": "Renaio (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03000278",
+    "timestamp": 1778082300,
+    "value": 134.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "LU",
+    "station_name": "Renaio (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03000278",
+    "timestamp": 1778082600,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "LU",
+    "station_name": "Renaio (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03000278",
+    "timestamp": 1778082600,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "LU",
+    "station_name": "Renaio (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03000278",
+    "timestamp": 1778082600,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "LU",
+    "station_name": "Renaio (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03000278",
+    "timestamp": 1778082600,
+    "value": 3,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "LU",
+    "station_name": "Renaio (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03000278",
+    "timestamp": 1778082600,
+    "value": 42.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "LU",
+    "station_name": "Renaio (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03000278",
+    "timestamp": 1778082600,
+    "value": 92.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "LU",
+    "station_name": "Renaio (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03000278",
+    "timestamp": 1778082600,
+    "value": 134,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "LU",
+    "station_name": "Renaio (GPRS)"
   }
 ]

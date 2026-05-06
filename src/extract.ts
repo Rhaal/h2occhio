@@ -282,10 +282,10 @@ export function writeCatalogs(
     writeJson(path.join(catalogPath, 'pluviometric-stations-by-province.json'), sortGroupedStations(pluviometricByProvince));
 }
 
-export function renderIndexHtml(pluviometricStations: PluviometricStation[]): string {
-    const stationsByProvince = sortGroupedStations(groupBy(pluviometricStations, (station) => station.province));
+export function renderIndexHtml(hydrometricStations: HydrometricStation[]): string {
+    const stationsByProvince = sortGroupedHydrometricStations(groupBy(hydrometricStations, (station) => station.province));
     const provinceSections = Object.entries(stationsByProvince)
-        .map(([province, stations]) => renderProvinceSection(province, stations))
+        .map(([province, stations]) => renderHydrometricProvinceSection(province, stations))
         .join('\n');
 
     return `<!DOCTYPE html>
@@ -313,6 +313,7 @@ export function renderIndexHtml(pluviometricStations: PluviometricStation[]): st
                 <li><a href="https://www.regione.toscana.it/allertameteo">Allerte meteo attuali</a></li>
                 <li><a href="https://www.sir.toscana.it/idrometria-pub">Mappa sensori e livelli di allerta idrogeologici</a></li>
                 <li><a href="https://www.sir.toscana.it/pluviometria-pub">Mappa sensori pluviometrici</a></li>
+                <li><a href="rain.html">Stazioni pluviometriche</a></li>
                 <li><a href="https://www.regione.toscana.it/documents/10180/344853/zone+di+allerta+2015.pdf/16cb0480-e91c-4faf-ada4-a30dc6231d9f">Mappa divisione zone rischio idrogeologico</a></li>
             </ul>
         </section>
@@ -323,7 +324,45 @@ export function renderIndexHtml(pluviometricStations: PluviometricStation[]): st
         </section>
         <hr />
         <section>
-            <h2>Stazioni pluviometriche</h2>
+            <h2>Fiumi - Idrometria</h2>
+${provinceSections}
+        </section>
+    </body>
+</html>
+`;
+}
+
+export function renderRainHtml(pluviometricStations: PluviometricStation[]): string {
+    const stationsByProvince = sortGroupedStations(groupBy(pluviometricStations, (station) => station.province));
+    const provinceSections = Object.entries(stationsByProvince)
+        .map(([province, stations]) => renderPluviometricProvinceSection(province, stations))
+        .join('\n');
+
+    return `<!DOCTYPE html>
+<html lang="it">
+    <head>
+        <title>H2Occhio - Stazioni pluviometriche - Toscana</title>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <meta http-equiv="cache-control" content="no-cache" />
+        <meta http-equiv="expires" content="0" />
+        <meta http-equiv="pragma" content="no-cache" />
+        <style>
+            body { font-family: sans-serif; line-height: 1.45; margin: 2rem; }
+            table { border-collapse: collapse; width: 100%; }
+            th, td { border-bottom: 1px solid #ddd; padding: 0.4rem; text-align: left; }
+            th { background: #f4f4f4; }
+        </style>
+    </head>
+    <body>
+        <h1>Stazioni pluviometriche - Toscana</h1>
+        <nav>
+            <a href="index.html">Fiumi e idrometria</a> |
+            <a href="https://www.sir.toscana.it/pluviometria-pub">Mappa SIR pluviometria</a>
+        </nav>
+        <hr />
+        <section>
+            <h2>Pioggia - Pluviometria</h2>
 ${provinceSections}
         </section>
     </body>
@@ -342,7 +381,8 @@ export async function collectSirData(baseDataPath = path.join('docs', 'data')): 
 
     writeMeasurementIndexes(baseDataPath, measurements);
     writeCatalogs(baseDataPath, hydrometric.stations, pluviometric.stations);
-    fs.writeFileSync(path.join('docs', 'index.html'), renderIndexHtml(pluviometric.stations));
+    fs.writeFileSync(path.join('docs', 'index.html'), renderIndexHtml(hydrometric.stations));
+    fs.writeFileSync(path.join('docs', 'rain.html'), renderRainHtml(pluviometric.stations));
 
     return {
         hydrometric_measurements: hydrometric.measurements,
@@ -502,6 +542,14 @@ function sortGroupedStations<T extends CatalogStation>(groupedStations: Record<s
     );
 }
 
+function sortGroupedHydrometricStations(groupedStations: Record<string, HydrometricStation[]>): Record<string, HydrometricStation[]> {
+    return Object.fromEntries(
+        Object.entries(groupedStations)
+            .sort(([firstKey], [secondKey]) => firstKey.localeCompare(secondKey))
+            .map(([key, stations]) => [key, sortHydrometricStations(stations)])
+    );
+}
+
 function sortStations<T extends CatalogStation>(stations: T[]): T[] {
     return stations
         .slice()
@@ -512,11 +560,59 @@ function sortStations<T extends CatalogStation>(stations: T[]): T[] {
         );
 }
 
+function sortHydrometricStations(stations: HydrometricStation[]): HydrometricStation[] {
+    return stations
+        .slice()
+        .sort((first, second) =>
+            first.province.localeCompare(second.province) ||
+            first.river.localeCompare(second.river) ||
+            first.station_name.localeCompare(second.station_name) ||
+            first.sensor_id.localeCompare(second.sensor_id)
+        );
+}
+
 function writeJson(filePath: string, value: unknown): void {
     fs.writeFileSync(filePath, `${JSON.stringify(value, null, 2)}\n`);
 }
 
-function renderProvinceSection(province: string, stations: PluviometricStation[]): string {
+function renderHydrometricProvinceSection(province: string, stations: HydrometricStation[]): string {
+    const provinceName = PROVINCE_NAMES[province] ?? province;
+    const rows = stations
+        .map((station) => `                    <tr>
+                        <td>${escapeHtml(station.river)}</td>
+                        <td>${escapeHtml(station.station_name)}</td>
+                        <td><code>${escapeHtml(station.sensor_id)}</code></td>
+                        <td>${escapeHtml(station.alert_zone)}</td>
+                        <td>${station.level ?? ''}</td>
+                        <td>${station.flow ?? ''}</td>
+                        <td>${formatTimestamp(station.latest_timestamp)}</td>
+                        <td><a href="${escapeHtml(station.detail_url)}" target="_blank" rel="noopener">Dettaglio SIR</a></td>
+                    </tr>`)
+        .join('\n');
+
+    return `            <section>
+                <h3>${escapeHtml(provinceName)} - ${escapeHtml(province)}</h3>
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Fiume</th>
+                            <th>Stazione</th>
+                            <th>Sensore</th>
+                            <th>Zona</th>
+                            <th>Livello m</th>
+                            <th>Portata</th>
+                            <th>Ultimo dato</th>
+                            <th>Link</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+${rows}
+                    </tbody>
+                </table>
+            </section>`;
+}
+
+function renderPluviometricProvinceSection(province: string, stations: PluviometricStation[]): string {
     const provinceName = PROVINCE_NAMES[province] ?? province;
     const rows = stations
         .map((station) => `                    <tr>

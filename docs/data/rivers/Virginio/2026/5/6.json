@@ -8,5 +8,25 @@
     "river": "Virginio",
     "province": "FI",
     "station_name": "Montespertoli (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01004915",
+    "timestamp": 1778081400,
+    "value": 0.08,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Virginio",
+    "province": "FI",
+    "station_name": "Montespertoli (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01004915",
+    "timestamp": 1778082300,
+    "value": 0.08,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Virginio",
+    "province": "FI",
+    "station_name": "Montespertoli (RADIO)"
   }
 ]

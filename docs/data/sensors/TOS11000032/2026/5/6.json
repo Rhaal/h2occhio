@@ -68,5 +68,145 @@
     "window_minutes": 2160,
     "province": "LU",
     "station_name": "S. Pietro a Marcigliano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000032",
+    "timestamp": 1778081400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "LU",
+    "station_name": "S. Pietro a Marcigliano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000032",
+    "timestamp": 1778081400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "LU",
+    "station_name": "S. Pietro a Marcigliano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000032",
+    "timestamp": 1778081400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "LU",
+    "station_name": "S. Pietro a Marcigliano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000032",
+    "timestamp": 1778081400,
+    "value": 4.1,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "LU",
+    "station_name": "S. Pietro a Marcigliano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000032",
+    "timestamp": 1778081400,
+    "value": 33.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "LU",
+    "station_name": "S. Pietro a Marcigliano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000032",
+    "timestamp": 1778081400,
+    "value": 72.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "LU",
+    "station_name": "S. Pietro a Marcigliano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000032",
+    "timestamp": 1778081400,
+    "value": 99.3,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "LU",
+    "station_name": "S. Pietro a Marcigliano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000032",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "LU",
+    "station_name": "S. Pietro a Marcigliano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000032",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "LU",
+    "station_name": "S. Pietro a Marcigliano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000032",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "LU",
+    "station_name": "S. Pietro a Marcigliano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000032",
+    "timestamp": 1778082300,
+    "value": 4.1,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "LU",
+    "station_name": "S. Pietro a Marcigliano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000032",
+    "timestamp": 1778082300,
+    "value": 25.1,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "LU",
+    "station_name": "S. Pietro a Marcigliano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000032",
+    "timestamp": 1778082300,
+    "value": 72.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "LU",
+    "station_name": "S. Pietro a Marcigliano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000032",
+    "timestamp": 1778082300,
+    "value": 95.7,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "LU",
+    "station_name": "S. Pietro a Marcigliano (RADIO)"
   }
 ]

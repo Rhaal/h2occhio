@@ -8,5 +8,25 @@
     "river": "Guappero",
     "province": "LU",
     "station_name": "Guappero cassa valle 1 (RADIO)"
+  },
+  {
+    "sensor_id": "TOS15004337",
+    "timestamp": 1778081400,
+    "value": 2.1,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Guappero",
+    "province": "LU",
+    "station_name": "Guappero cassa valle 1 (RADIO)"
+  },
+  {
+    "sensor_id": "TOS15004337",
+    "timestamp": 1778082300,
+    "value": 2.12,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Guappero",
+    "province": "LU",
+    "station_name": "Guappero cassa valle 1 (RADIO)"
   }
 ]

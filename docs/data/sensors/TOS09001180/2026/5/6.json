@@ -68,5 +68,145 @@
     "window_minutes": 2160,
     "province": "MS",
     "station_name": "Turano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001180",
+    "timestamp": 1778081400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "MS",
+    "station_name": "Turano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001180",
+    "timestamp": 1778081400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "MS",
+    "station_name": "Turano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001180",
+    "timestamp": 1778081400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "MS",
+    "station_name": "Turano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001180",
+    "timestamp": 1778081400,
+    "value": 0.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "MS",
+    "station_name": "Turano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001180",
+    "timestamp": 1778081400,
+    "value": 13.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "MS",
+    "station_name": "Turano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001180",
+    "timestamp": 1778081400,
+    "value": 47.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "MS",
+    "station_name": "Turano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001180",
+    "timestamp": 1778081400,
+    "value": 69.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "MS",
+    "station_name": "Turano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001180",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "MS",
+    "station_name": "Turano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001180",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "MS",
+    "station_name": "Turano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001180",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "MS",
+    "station_name": "Turano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001180",
+    "timestamp": 1778082300,
+    "value": 0.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "MS",
+    "station_name": "Turano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001180",
+    "timestamp": 1778082300,
+    "value": 13.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "MS",
+    "station_name": "Turano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001180",
+    "timestamp": 1778082300,
+    "value": 47.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "MS",
+    "station_name": "Turano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001180",
+    "timestamp": 1778082300,
+    "value": 69.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "MS",
+    "station_name": "Turano (RADIO)"
   }
 ]

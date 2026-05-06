@@ -8,5 +8,25 @@
     "river": "Arno",
     "province": "PI",
     "station_name": "Cassa Piaggioni Invaso (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03004995",
+    "timestamp": 1778081400,
+    "value": 0.32,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Arno",
+    "province": "PI",
+    "station_name": "Cassa Piaggioni Invaso (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03004995",
+    "timestamp": 1778082300,
+    "value": 0.32,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Arno",
+    "province": "PI",
+    "station_name": "Cassa Piaggioni Invaso (RADIO)"
   }
 ]

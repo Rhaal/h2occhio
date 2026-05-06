@@ -8,5 +8,25 @@
     "river": "Carrione",
     "province": "MS",
     "station_name": "Carrara (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01004005",
+    "timestamp": 1778082300,
+    "value": 0.57,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Carrione",
+    "province": "MS",
+    "station_name": "Carrara (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01004005",
+    "timestamp": 1778082600,
+    "value": 0.57,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Carrione",
+    "province": "MS",
+    "station_name": "Carrara (GPRS)"
   }
 ]

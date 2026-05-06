@@ -78,5 +78,165 @@
     "window_minutes": 2160,
     "province": "LU",
     "station_name": "Chifenti (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02004255",
+    "timestamp": 1778082300,
+    "value": 1.55,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Lima",
+    "province": "LU",
+    "station_name": "Chifenti (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02004255",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "LU",
+    "station_name": "Chifenti (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02004255",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "LU",
+    "station_name": "Chifenti (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02004255",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "LU",
+    "station_name": "Chifenti (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02004255",
+    "timestamp": 1778082300,
+    "value": 9,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "LU",
+    "station_name": "Chifenti (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02004255",
+    "timestamp": 1778082300,
+    "value": 39.7,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "LU",
+    "station_name": "Chifenti (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02004255",
+    "timestamp": 1778082300,
+    "value": 67.9,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "LU",
+    "station_name": "Chifenti (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02004255",
+    "timestamp": 1778082300,
+    "value": 105.9,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "LU",
+    "station_name": "Chifenti (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02004255",
+    "timestamp": 1778082600,
+    "value": 1.54,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Lima",
+    "province": "LU",
+    "station_name": "Chifenti (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02004255",
+    "timestamp": 1778082600,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "LU",
+    "station_name": "Chifenti (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02004255",
+    "timestamp": 1778082600,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "LU",
+    "station_name": "Chifenti (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02004255",
+    "timestamp": 1778082600,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "LU",
+    "station_name": "Chifenti (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02004255",
+    "timestamp": 1778082600,
+    "value": 9,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "LU",
+    "station_name": "Chifenti (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02004255",
+    "timestamp": 1778082600,
+    "value": 39.5,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "LU",
+    "station_name": "Chifenti (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02004255",
+    "timestamp": 1778082600,
+    "value": 67.9,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "LU",
+    "station_name": "Chifenti (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02004255",
+    "timestamp": 1778082600,
+    "value": 105.1,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "LU",
+    "station_name": "Chifenti (GPRS)"
   }
 ]

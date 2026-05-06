@@ -68,5 +68,145 @@
     "window_minutes": 2160,
     "province": "LU",
     "station_name": "Piazza al Serchio (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000034",
+    "timestamp": 1778081400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "LU",
+    "station_name": "Piazza al Serchio (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000034",
+    "timestamp": 1778081400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "LU",
+    "station_name": "Piazza al Serchio (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000034",
+    "timestamp": 1778081400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "LU",
+    "station_name": "Piazza al Serchio (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000034",
+    "timestamp": 1778081400,
+    "value": 4.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "LU",
+    "station_name": "Piazza al Serchio (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000034",
+    "timestamp": 1778081400,
+    "value": 24.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "LU",
+    "station_name": "Piazza al Serchio (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000034",
+    "timestamp": 1778081400,
+    "value": 45.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "LU",
+    "station_name": "Piazza al Serchio (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000034",
+    "timestamp": 1778081400,
+    "value": 101.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "LU",
+    "station_name": "Piazza al Serchio (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000034",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "LU",
+    "station_name": "Piazza al Serchio (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000034",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "LU",
+    "station_name": "Piazza al Serchio (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000034",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "LU",
+    "station_name": "Piazza al Serchio (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000034",
+    "timestamp": 1778082300,
+    "value": 3.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "LU",
+    "station_name": "Piazza al Serchio (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000034",
+    "timestamp": 1778082300,
+    "value": 21.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "LU",
+    "station_name": "Piazza al Serchio (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000034",
+    "timestamp": 1778082300,
+    "value": 45.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "LU",
+    "station_name": "Piazza al Serchio (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000034",
+    "timestamp": 1778082300,
+    "value": 101,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "LU",
+    "station_name": "Piazza al Serchio (RADIO)"
   }
 ]

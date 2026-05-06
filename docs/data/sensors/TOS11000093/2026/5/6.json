@@ -68,5 +68,145 @@
     "window_minutes": 2160,
     "province": "PT",
     "station_name": "Santomato (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000093",
+    "timestamp": 1778081400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "PT",
+    "station_name": "Santomato (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000093",
+    "timestamp": 1778081400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "PT",
+    "station_name": "Santomato (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000093",
+    "timestamp": 1778081400,
+    "value": 0.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "PT",
+    "station_name": "Santomato (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000093",
+    "timestamp": 1778081400,
+    "value": 5,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "PT",
+    "station_name": "Santomato (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000093",
+    "timestamp": 1778081400,
+    "value": 15.7,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "PT",
+    "station_name": "Santomato (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000093",
+    "timestamp": 1778081400,
+    "value": 91.5,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "PT",
+    "station_name": "Santomato (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000093",
+    "timestamp": 1778081400,
+    "value": 126.9,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "PT",
+    "station_name": "Santomato (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000093",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "PT",
+    "station_name": "Santomato (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000093",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "PT",
+    "station_name": "Santomato (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000093",
+    "timestamp": 1778082300,
+    "value": 0.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "PT",
+    "station_name": "Santomato (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000093",
+    "timestamp": 1778082300,
+    "value": 5,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "PT",
+    "station_name": "Santomato (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000093",
+    "timestamp": 1778082300,
+    "value": 15.5,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "PT",
+    "station_name": "Santomato (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000093",
+    "timestamp": 1778082300,
+    "value": 91.5,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "PT",
+    "station_name": "Santomato (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000093",
+    "timestamp": 1778082300,
+    "value": 125.5,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "PT",
+    "station_name": "Santomato (RADIO)"
   }
 ]

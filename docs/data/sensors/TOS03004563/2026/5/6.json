@@ -8,5 +8,25 @@
     "river": "Ambra",
     "province": "AR",
     "station_name": "Ambra (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03004563",
+    "timestamp": 1778081400,
+    "value": 0.3,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Ambra",
+    "province": "AR",
+    "station_name": "Ambra (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03004563",
+    "timestamp": 1778082300,
+    "value": 0.3,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Ambra",
+    "province": "AR",
+    "station_name": "Ambra (RADIO)"
   }
 ]

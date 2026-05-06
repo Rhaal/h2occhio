@@ -14,6 +14,7 @@ import {
     parseSirTimestamp,
     readMeasurementFile,
     renderIndexHtml,
+    renderRainHtml,
     writeCatalogs,
     writeMeasurementIndexes
 } from './extract';
@@ -198,12 +199,16 @@ test('writes indexes, catalogs, and generated index html from fixtures', () => {
     const riverFile = path.join(baseDataPath, 'rivers', 'Bisenzio', '2024', '2', '27.json');
     const pluvioSensorFile = path.join(baseDataPath, 'sensors', 'TOS01001205', '2024', '2', '27.json');
     const catalogFile = path.join(baseDataPath, 'catalog', 'pluviometric-stations-by-province.json');
-    const html = renderIndexHtml(pluviometric.stations);
+    const html = renderIndexHtml(hydrometric.stations);
+    const rainHtml = renderRainHtml(pluviometric.stations);
 
     assert.equal(JSON.parse(fs.readFileSync(sensorFile, 'utf8')).length, 1);
     assert.equal(JSON.parse(fs.readFileSync(riverFile, 'utf8')).length, 1);
     assert.equal(JSON.parse(fs.readFileSync(pluvioSensorFile, 'utf8')).length, 6);
     assert.equal(JSON.parse(fs.readFileSync(catalogFile, 'utf8')).PO.length, 1);
-    assert.match(html, /Prato Universit/);
-    assert.match(html, /type=pluvio/);
+    assert.match(html, /Bisenzio/);
+    assert.match(html, /type=idro/);
+    assert.match(html, /rain\.html/);
+    assert.match(rainHtml, /Prato Universit/);
+    assert.match(rainHtml, /type=pluvio/);
 });

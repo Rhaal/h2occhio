@@ -68,5 +68,145 @@
     "window_minutes": 2160,
     "province": "FI",
     "station_name": "S. Brigida all'Opaco (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01001059",
+    "timestamp": 1778081400,
+    "value": 0.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "FI",
+    "station_name": "S. Brigida all'Opaco (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01001059",
+    "timestamp": 1778081400,
+    "value": 12.5,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "FI",
+    "station_name": "S. Brigida all'Opaco (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01001059",
+    "timestamp": 1778081400,
+    "value": 14.1,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "FI",
+    "station_name": "S. Brigida all'Opaco (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01001059",
+    "timestamp": 1778081400,
+    "value": 14.1,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "FI",
+    "station_name": "S. Brigida all'Opaco (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01001059",
+    "timestamp": 1778081400,
+    "value": 15.3,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "FI",
+    "station_name": "S. Brigida all'Opaco (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01001059",
+    "timestamp": 1778081400,
+    "value": 61.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "FI",
+    "station_name": "S. Brigida all'Opaco (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01001059",
+    "timestamp": 1778081400,
+    "value": 101.7,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "FI",
+    "station_name": "S. Brigida all'Opaco (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01001059",
+    "timestamp": 1778082300,
+    "value": 2.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "FI",
+    "station_name": "S. Brigida all'Opaco (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01001059",
+    "timestamp": 1778082300,
+    "value": 14.5,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "FI",
+    "station_name": "S. Brigida all'Opaco (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01001059",
+    "timestamp": 1778082300,
+    "value": 16.3,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "FI",
+    "station_name": "S. Brigida all'Opaco (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01001059",
+    "timestamp": 1778082300,
+    "value": 16.3,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "FI",
+    "station_name": "S. Brigida all'Opaco (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01001059",
+    "timestamp": 1778082300,
+    "value": 17.3,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "FI",
+    "station_name": "S. Brigida all'Opaco (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01001059",
+    "timestamp": 1778082300,
+    "value": 63.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "FI",
+    "station_name": "S. Brigida all'Opaco (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01001059",
+    "timestamp": 1778082300,
+    "value": 103.1,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "FI",
+    "station_name": "S. Brigida all'Opaco (RADIO)"
   }
 ]

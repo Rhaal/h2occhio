@@ -8,5 +8,25 @@
     "river": "Elsa",
     "province": "PI",
     "station_name": "Ponte a Elsa (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01004981",
+    "timestamp": 1778081400,
+    "value": 0.96,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Elsa",
+    "province": "PI",
+    "station_name": "Ponte a Elsa (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01004981",
+    "timestamp": 1778082300,
+    "value": 0.95,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Elsa",
+    "province": "PI",
+    "station_name": "Ponte a Elsa (RADIO)"
   }
 ]

@@ -68,5 +68,145 @@
     "window_minutes": 2160,
     "province": "PT",
     "station_name": "Castelmartini (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01001629",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "PT",
+    "station_name": "Castelmartini (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01001629",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "PT",
+    "station_name": "Castelmartini (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01001629",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "PT",
+    "station_name": "Castelmartini (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01001629",
+    "timestamp": 1778082300,
+    "value": 5.9,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "PT",
+    "station_name": "Castelmartini (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01001629",
+    "timestamp": 1778082300,
+    "value": 8.3,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "PT",
+    "station_name": "Castelmartini (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01001629",
+    "timestamp": 1778082300,
+    "value": 60.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "PT",
+    "station_name": "Castelmartini (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01001629",
+    "timestamp": 1778082300,
+    "value": 86.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "PT",
+    "station_name": "Castelmartini (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01001629",
+    "timestamp": 1778082600,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "PT",
+    "station_name": "Castelmartini (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01001629",
+    "timestamp": 1778082600,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "PT",
+    "station_name": "Castelmartini (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01001629",
+    "timestamp": 1778082600,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "PT",
+    "station_name": "Castelmartini (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01001629",
+    "timestamp": 1778082600,
+    "value": 5.9,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "PT",
+    "station_name": "Castelmartini (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01001629",
+    "timestamp": 1778082600,
+    "value": 8.3,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "PT",
+    "station_name": "Castelmartini (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01001629",
+    "timestamp": 1778082600,
+    "value": 59.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "PT",
+    "station_name": "Castelmartini (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01001629",
+    "timestamp": 1778082600,
+    "value": 85.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "PT",
+    "station_name": "Castelmartini (GPRS)"
   }
 ]

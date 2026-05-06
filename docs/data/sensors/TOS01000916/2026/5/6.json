@@ -68,5 +68,145 @@
     "window_minutes": 2160,
     "province": "FI",
     "station_name": "Monte di Fò (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01000916",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "FI",
+    "station_name": "Monte di Fò (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01000916",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "FI",
+    "station_name": "Monte di Fò (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01000916",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "FI",
+    "station_name": "Monte di Fò (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01000916",
+    "timestamp": 1778082300,
+    "value": 3.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "FI",
+    "station_name": "Monte di Fò (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01000916",
+    "timestamp": 1778082300,
+    "value": 10.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "FI",
+    "station_name": "Monte di Fò (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01000916",
+    "timestamp": 1778082300,
+    "value": 86.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "FI",
+    "station_name": "Monte di Fò (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01000916",
+    "timestamp": 1778082300,
+    "value": 112.5,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "FI",
+    "station_name": "Monte di Fò (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01000916",
+    "timestamp": 1778082600,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "FI",
+    "station_name": "Monte di Fò (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01000916",
+    "timestamp": 1778082600,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "FI",
+    "station_name": "Monte di Fò (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01000916",
+    "timestamp": 1778082600,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "FI",
+    "station_name": "Monte di Fò (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01000916",
+    "timestamp": 1778082600,
+    "value": 3.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "FI",
+    "station_name": "Monte di Fò (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01000916",
+    "timestamp": 1778082600,
+    "value": 10,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "FI",
+    "station_name": "Monte di Fò (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01000916",
+    "timestamp": 1778082600,
+    "value": 86.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "FI",
+    "station_name": "Monte di Fò (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01000916",
+    "timestamp": 1778082600,
+    "value": 112.5,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "FI",
+    "station_name": "Monte di Fò (GPRS)"
   }
 ]

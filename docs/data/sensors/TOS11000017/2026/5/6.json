@@ -68,5 +68,145 @@
     "window_minutes": 2160,
     "province": "FI",
     "station_name": "Borgo S. Lorenzo 2 (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000017",
+    "timestamp": 1778081400,
+    "value": 0.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "FI",
+    "station_name": "Borgo S. Lorenzo 2 (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000017",
+    "timestamp": 1778081400,
+    "value": 1.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "FI",
+    "station_name": "Borgo S. Lorenzo 2 (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000017",
+    "timestamp": 1778081400,
+    "value": 15.3,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "FI",
+    "station_name": "Borgo S. Lorenzo 2 (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000017",
+    "timestamp": 1778081400,
+    "value": 18.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "FI",
+    "station_name": "Borgo S. Lorenzo 2 (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000017",
+    "timestamp": 1778081400,
+    "value": 19.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "FI",
+    "station_name": "Borgo S. Lorenzo 2 (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000017",
+    "timestamp": 1778081400,
+    "value": 61.3,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "FI",
+    "station_name": "Borgo S. Lorenzo 2 (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000017",
+    "timestamp": 1778081400,
+    "value": 81.7,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "FI",
+    "station_name": "Borgo S. Lorenzo 2 (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000017",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "FI",
+    "station_name": "Borgo S. Lorenzo 2 (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000017",
+    "timestamp": 1778082300,
+    "value": 1.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "FI",
+    "station_name": "Borgo S. Lorenzo 2 (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000017",
+    "timestamp": 1778082300,
+    "value": 5.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "FI",
+    "station_name": "Borgo S. Lorenzo 2 (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000017",
+    "timestamp": 1778082300,
+    "value": 18.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "FI",
+    "station_name": "Borgo S. Lorenzo 2 (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000017",
+    "timestamp": 1778082300,
+    "value": 19.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "FI",
+    "station_name": "Borgo S. Lorenzo 2 (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000017",
+    "timestamp": 1778082300,
+    "value": 60.7,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "FI",
+    "station_name": "Borgo S. Lorenzo 2 (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000017",
+    "timestamp": 1778082300,
+    "value": 81.7,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "FI",
+    "station_name": "Borgo S. Lorenzo 2 (RADIO)"
   }
 ]

@@ -68,5 +68,145 @@
     "window_minutes": 2160,
     "province": "FI",
     "station_name": "S. Agata di Mugello (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000961",
+    "timestamp": 1778081400,
+    "value": 0.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "FI",
+    "station_name": "S. Agata di Mugello (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000961",
+    "timestamp": 1778081400,
+    "value": 5,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "FI",
+    "station_name": "S. Agata di Mugello (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000961",
+    "timestamp": 1778081400,
+    "value": 12,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "FI",
+    "station_name": "S. Agata di Mugello (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000961",
+    "timestamp": 1778081400,
+    "value": 17.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "FI",
+    "station_name": "S. Agata di Mugello (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000961",
+    "timestamp": 1778081400,
+    "value": 19.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "FI",
+    "station_name": "S. Agata di Mugello (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000961",
+    "timestamp": 1778081400,
+    "value": 55.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "FI",
+    "station_name": "S. Agata di Mugello (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000961",
+    "timestamp": 1778081400,
+    "value": 61.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "FI",
+    "station_name": "S. Agata di Mugello (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000961",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "FI",
+    "station_name": "S. Agata di Mugello (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000961",
+    "timestamp": 1778082300,
+    "value": 3.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "FI",
+    "station_name": "S. Agata di Mugello (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000961",
+    "timestamp": 1778082300,
+    "value": 9.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "FI",
+    "station_name": "S. Agata di Mugello (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000961",
+    "timestamp": 1778082300,
+    "value": 17.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "FI",
+    "station_name": "S. Agata di Mugello (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000961",
+    "timestamp": 1778082300,
+    "value": 19.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "FI",
+    "station_name": "S. Agata di Mugello (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000961",
+    "timestamp": 1778082300,
+    "value": 55,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "FI",
+    "station_name": "S. Agata di Mugello (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000961",
+    "timestamp": 1778082300,
+    "value": 61.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "FI",
+    "station_name": "S. Agata di Mugello (RADIO)"
   }
 ]

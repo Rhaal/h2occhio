@@ -8,5 +8,25 @@
     "river": "Magra",
     "province": "MS",
     "station_name": "Calamazza ARPAL (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001246",
+    "timestamp": 1778080500,
+    "value": 0.92,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Magra",
+    "province": "MS",
+    "station_name": "Calamazza ARPAL (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001246",
+    "timestamp": 1778081400,
+    "value": 0.91,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Magra",
+    "province": "MS",
+    "station_name": "Calamazza ARPAL (RADIO)"
   }
 ]

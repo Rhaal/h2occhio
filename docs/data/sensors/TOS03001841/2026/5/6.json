@@ -68,5 +68,145 @@
     "window_minutes": 2160,
     "province": "LU",
     "station_name": "Pizzorne (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03001841",
+    "timestamp": 1778081400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "LU",
+    "station_name": "Pizzorne (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03001841",
+    "timestamp": 1778081400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "LU",
+    "station_name": "Pizzorne (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03001841",
+    "timestamp": 1778081400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "LU",
+    "station_name": "Pizzorne (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03001841",
+    "timestamp": 1778081400,
+    "value": 7.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "LU",
+    "station_name": "Pizzorne (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03001841",
+    "timestamp": 1778081400,
+    "value": 25.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "LU",
+    "station_name": "Pizzorne (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03001841",
+    "timestamp": 1778081400,
+    "value": 54.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "LU",
+    "station_name": "Pizzorne (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03001841",
+    "timestamp": 1778081400,
+    "value": 84.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "LU",
+    "station_name": "Pizzorne (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03001841",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "LU",
+    "station_name": "Pizzorne (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03001841",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "LU",
+    "station_name": "Pizzorne (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03001841",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "LU",
+    "station_name": "Pizzorne (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03001841",
+    "timestamp": 1778082300,
+    "value": 4.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "LU",
+    "station_name": "Pizzorne (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03001841",
+    "timestamp": 1778082300,
+    "value": 21.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "LU",
+    "station_name": "Pizzorne (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03001841",
+    "timestamp": 1778082300,
+    "value": 54.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "LU",
+    "station_name": "Pizzorne (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03001841",
+    "timestamp": 1778082300,
+    "value": 79,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "LU",
+    "station_name": "Pizzorne (RADIO)"
   }
 ]

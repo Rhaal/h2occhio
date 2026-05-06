@@ -68,5 +68,145 @@
     "window_minutes": 2160,
     "province": "SI",
     "station_name": "Radda in Chianti (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01001284",
+    "timestamp": 1778081400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "SI",
+    "station_name": "Radda in Chianti (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01001284",
+    "timestamp": 1778081400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "SI",
+    "station_name": "Radda in Chianti (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01001284",
+    "timestamp": 1778081400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "SI",
+    "station_name": "Radda in Chianti (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01001284",
+    "timestamp": 1778081400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "SI",
+    "station_name": "Radda in Chianti (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01001284",
+    "timestamp": 1778081400,
+    "value": 1.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "SI",
+    "station_name": "Radda in Chianti (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01001284",
+    "timestamp": 1778081400,
+    "value": 37.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "SI",
+    "station_name": "Radda in Chianti (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01001284",
+    "timestamp": 1778081400,
+    "value": 38.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "SI",
+    "station_name": "Radda in Chianti (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01001284",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "SI",
+    "station_name": "Radda in Chianti (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01001284",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "SI",
+    "station_name": "Radda in Chianti (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01001284",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "SI",
+    "station_name": "Radda in Chianti (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01001284",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "SI",
+    "station_name": "Radda in Chianti (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01001284",
+    "timestamp": 1778082300,
+    "value": 1.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "SI",
+    "station_name": "Radda in Chianti (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01001284",
+    "timestamp": 1778082300,
+    "value": 37.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "SI",
+    "station_name": "Radda in Chianti (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01001284",
+    "timestamp": 1778082300,
+    "value": 38.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "SI",
+    "station_name": "Radda in Chianti (RADIO)"
   }
 ]

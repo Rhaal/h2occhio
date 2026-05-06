@@ -68,5 +68,145 @@
     "window_minutes": 2160,
     "province": "PT",
     "station_name": "La Ferruccia (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01001269",
+    "timestamp": 1778081400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "PT",
+    "station_name": "La Ferruccia (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01001269",
+    "timestamp": 1778081400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "PT",
+    "station_name": "La Ferruccia (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01001269",
+    "timestamp": 1778081400,
+    "value": 0.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "PT",
+    "station_name": "La Ferruccia (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01001269",
+    "timestamp": 1778081400,
+    "value": 2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "PT",
+    "station_name": "La Ferruccia (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01001269",
+    "timestamp": 1778081400,
+    "value": 5.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "PT",
+    "station_name": "La Ferruccia (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01001269",
+    "timestamp": 1778081400,
+    "value": 47.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "PT",
+    "station_name": "La Ferruccia (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01001269",
+    "timestamp": 1778081400,
+    "value": 89,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "PT",
+    "station_name": "La Ferruccia (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01001269",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "PT",
+    "station_name": "La Ferruccia (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01001269",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "PT",
+    "station_name": "La Ferruccia (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01001269",
+    "timestamp": 1778082300,
+    "value": 0.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "PT",
+    "station_name": "La Ferruccia (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01001269",
+    "timestamp": 1778082300,
+    "value": 2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "PT",
+    "station_name": "La Ferruccia (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01001269",
+    "timestamp": 1778082300,
+    "value": 5.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "PT",
+    "station_name": "La Ferruccia (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01001269",
+    "timestamp": 1778082300,
+    "value": 47.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "PT",
+    "station_name": "La Ferruccia (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01001269",
+    "timestamp": 1778082300,
+    "value": 86.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "PT",
+    "station_name": "La Ferruccia (RADIO)"
   }
 ]

@@ -2408,5 +2408,4685 @@
     "window_minutes": 2160,
     "province": "MS",
     "station_name": "Campocecina (GPRS)"
+  },
+  {
+    "sensor_id": "TOS09001246",
+    "timestamp": 1778080500,
+    "value": 0.92,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Magra",
+    "province": "MS",
+    "station_name": "Calamazza ARPAL (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000025",
+    "timestamp": 1778081400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "MS",
+    "station_name": "Vara (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000025",
+    "timestamp": 1778081400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "MS",
+    "station_name": "Vara (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000025",
+    "timestamp": 1778081400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "MS",
+    "station_name": "Vara (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000025",
+    "timestamp": 1778081400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "MS",
+    "station_name": "Vara (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000025",
+    "timestamp": 1778081400,
+    "value": 31.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "MS",
+    "station_name": "Vara (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000025",
+    "timestamp": 1778081400,
+    "value": 88.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "MS",
+    "station_name": "Vara (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000025",
+    "timestamp": 1778081400,
+    "value": 167.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "MS",
+    "station_name": "Vara (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000056",
+    "timestamp": 1778081400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "MS",
+    "station_name": "Pian della Fioba (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000056",
+    "timestamp": 1778081400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "MS",
+    "station_name": "Pian della Fioba (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000056",
+    "timestamp": 1778081400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "MS",
+    "station_name": "Pian della Fioba (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000056",
+    "timestamp": 1778081400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "MS",
+    "station_name": "Pian della Fioba (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000056",
+    "timestamp": 1778081400,
+    "value": 18.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "MS",
+    "station_name": "Pian della Fioba (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000056",
+    "timestamp": 1778081400,
+    "value": 55,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "MS",
+    "station_name": "Pian della Fioba (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000056",
+    "timestamp": 1778081400,
+    "value": 134.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "MS",
+    "station_name": "Pian della Fioba (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000047",
+    "timestamp": 1778081400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "MS",
+    "station_name": "Vergheto (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000047",
+    "timestamp": 1778081400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "MS",
+    "station_name": "Vergheto (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000047",
+    "timestamp": 1778081400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "MS",
+    "station_name": "Vergheto (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000047",
+    "timestamp": 1778081400,
+    "value": 0.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "MS",
+    "station_name": "Vergheto (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000047",
+    "timestamp": 1778081400,
+    "value": 31.1,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "MS",
+    "station_name": "Vergheto (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000047",
+    "timestamp": 1778081400,
+    "value": 92.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "MS",
+    "station_name": "Vergheto (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000047",
+    "timestamp": 1778081400,
+    "value": 175.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "MS",
+    "station_name": "Vergheto (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000088",
+    "timestamp": 1778081400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "MS",
+    "station_name": "Cerreto (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000088",
+    "timestamp": 1778081400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "MS",
+    "station_name": "Cerreto (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000088",
+    "timestamp": 1778081400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "MS",
+    "station_name": "Cerreto (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000088",
+    "timestamp": 1778081400,
+    "value": 0.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "MS",
+    "station_name": "Cerreto (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000088",
+    "timestamp": 1778081400,
+    "value": 16.9,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "MS",
+    "station_name": "Cerreto (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000088",
+    "timestamp": 1778081400,
+    "value": 46.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "MS",
+    "station_name": "Cerreto (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000088",
+    "timestamp": 1778081400,
+    "value": 103.1,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "MS",
+    "station_name": "Cerreto (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03000109",
+    "timestamp": 1778081400,
+    "value": 2.16,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Aulella",
+    "province": "MS",
+    "station_name": "Soliera (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03000109",
+    "timestamp": 1778081400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "MS",
+    "station_name": "Soliera (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03000109",
+    "timestamp": 1778081400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "MS",
+    "station_name": "Soliera (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03000109",
+    "timestamp": 1778081400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "MS",
+    "station_name": "Soliera (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03000109",
+    "timestamp": 1778081400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "MS",
+    "station_name": "Soliera (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03000109",
+    "timestamp": 1778081400,
+    "value": 17.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "MS",
+    "station_name": "Soliera (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03000109",
+    "timestamp": 1778081400,
+    "value": 60.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "MS",
+    "station_name": "Soliera (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03000109",
+    "timestamp": 1778081400,
+    "value": 74.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "MS",
+    "station_name": "Soliera (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03004001",
+    "timestamp": 1778081400,
+    "value": 0.51,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Carrione (ramo Colonnata)",
+    "province": "MS",
+    "station_name": "Pesa Miseglia (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03004002",
+    "timestamp": 1778081400,
+    "value": 0.21,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Carrione (ramo Colonnata)",
+    "province": "MS",
+    "station_name": "Colonnata Valle (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03004003",
+    "timestamp": 1778081400,
+    "value": 0.19,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Carrione (ramo di Torano)",
+    "province": "MS",
+    "station_name": "Torano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03004003",
+    "timestamp": 1778081400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "MS",
+    "station_name": "Torano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03004003",
+    "timestamp": 1778081400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "MS",
+    "station_name": "Torano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03004003",
+    "timestamp": 1778081400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "MS",
+    "station_name": "Torano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03004003",
+    "timestamp": 1778081400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "MS",
+    "station_name": "Torano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03004003",
+    "timestamp": 1778081400,
+    "value": 19.1,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "MS",
+    "station_name": "Torano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03004003",
+    "timestamp": 1778081400,
+    "value": 60.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "MS",
+    "station_name": "Torano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03004003",
+    "timestamp": 1778081400,
+    "value": 149.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "MS",
+    "station_name": "Torano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03004005",
+    "timestamp": 1778081400,
+    "value": -0.78,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Carrione",
+    "province": "MS",
+    "station_name": "Ponte della Bugia (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03004006",
+    "timestamp": 1778081400,
+    "value": 0.28,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Gragnana",
+    "province": "MS",
+    "station_name": "Santuario della Salute (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03004009",
+    "timestamp": 1778081400,
+    "value": 0.11,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Ricortola",
+    "province": "MS",
+    "station_name": "Ricortola (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09000023",
+    "timestamp": 1778081400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "MS",
+    "station_name": "Bosco di Rossano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09000023",
+    "timestamp": 1778081400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "MS",
+    "station_name": "Bosco di Rossano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09000023",
+    "timestamp": 1778081400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "MS",
+    "station_name": "Bosco di Rossano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09000023",
+    "timestamp": 1778081400,
+    "value": 0.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "MS",
+    "station_name": "Bosco di Rossano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09000023",
+    "timestamp": 1778081400,
+    "value": 1.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "MS",
+    "station_name": "Bosco di Rossano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09000023",
+    "timestamp": 1778081400,
+    "value": 14.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "MS",
+    "station_name": "Bosco di Rossano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09000023",
+    "timestamp": 1778081400,
+    "value": 33.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "MS",
+    "station_name": "Bosco di Rossano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09000024",
+    "timestamp": 1778081400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "MS",
+    "station_name": "Passo del Brattello (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09000024",
+    "timestamp": 1778081400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "MS",
+    "station_name": "Passo del Brattello (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09000024",
+    "timestamp": 1778081400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "MS",
+    "station_name": "Passo del Brattello (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09000024",
+    "timestamp": 1778081400,
+    "value": 4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "MS",
+    "station_name": "Passo del Brattello (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09000024",
+    "timestamp": 1778081400,
+    "value": 11,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "MS",
+    "station_name": "Passo del Brattello (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09000024",
+    "timestamp": 1778081400,
+    "value": 19.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "MS",
+    "station_name": "Passo del Brattello (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09000024",
+    "timestamp": 1778081400,
+    "value": 36.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "MS",
+    "station_name": "Passo del Brattello (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001080",
+    "timestamp": 1778081400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "MS",
+    "station_name": "Pontremoli depuratore (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001080",
+    "timestamp": 1778081400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "MS",
+    "station_name": "Pontremoli depuratore (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001080",
+    "timestamp": 1778081400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "MS",
+    "station_name": "Pontremoli depuratore (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001080",
+    "timestamp": 1778081400,
+    "value": 0.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "MS",
+    "station_name": "Pontremoli depuratore (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001080",
+    "timestamp": 1778081400,
+    "value": 10.3,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "MS",
+    "station_name": "Pontremoli depuratore (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001080",
+    "timestamp": 1778081400,
+    "value": 21.7,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "MS",
+    "station_name": "Pontremoli depuratore (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001080",
+    "timestamp": 1778081400,
+    "value": 38.1,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "MS",
+    "station_name": "Pontremoli depuratore (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001083",
+    "timestamp": 1778081400,
+    "value": -1.29,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Magra",
+    "province": "MS",
+    "station_name": "S. Giustina (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001088",
+    "timestamp": 1778081400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "MS",
+    "station_name": "Rocca Sigillina (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001088",
+    "timestamp": 1778081400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "MS",
+    "station_name": "Rocca Sigillina (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001088",
+    "timestamp": 1778081400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "MS",
+    "station_name": "Rocca Sigillina (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001088",
+    "timestamp": 1778081400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "MS",
+    "station_name": "Rocca Sigillina (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001088",
+    "timestamp": 1778081400,
+    "value": 13.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "MS",
+    "station_name": "Rocca Sigillina (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001088",
+    "timestamp": 1778081400,
+    "value": 33.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "MS",
+    "station_name": "Rocca Sigillina (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001088",
+    "timestamp": 1778081400,
+    "value": 50.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "MS",
+    "station_name": "Rocca Sigillina (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001110",
+    "timestamp": 1778081400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "MS",
+    "station_name": "Parana (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001110",
+    "timestamp": 1778081400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "MS",
+    "station_name": "Parana (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001110",
+    "timestamp": 1778081400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "MS",
+    "station_name": "Parana (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001110",
+    "timestamp": 1778081400,
+    "value": 0.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "MS",
+    "station_name": "Parana (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001110",
+    "timestamp": 1778081400,
+    "value": 16.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "MS",
+    "station_name": "Parana (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001110",
+    "timestamp": 1778081400,
+    "value": 43.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "MS",
+    "station_name": "Parana (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001110",
+    "timestamp": 1778081400,
+    "value": 62.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "MS",
+    "station_name": "Parana (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001120",
+    "timestamp": 1778081400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "MS",
+    "station_name": "Villafranca (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001120",
+    "timestamp": 1778081400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "MS",
+    "station_name": "Villafranca (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001120",
+    "timestamp": 1778081400,
+    "value": 0.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "MS",
+    "station_name": "Villafranca (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001120",
+    "timestamp": 1778081400,
+    "value": 0.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "MS",
+    "station_name": "Villafranca (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001120",
+    "timestamp": 1778081400,
+    "value": 9,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "MS",
+    "station_name": "Villafranca (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001120",
+    "timestamp": 1778081400,
+    "value": 29.9,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "MS",
+    "station_name": "Villafranca (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001120",
+    "timestamp": 1778081400,
+    "value": 46.5,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "MS",
+    "station_name": "Villafranca (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001130",
+    "timestamp": 1778081400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "MS",
+    "station_name": "Iera (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001130",
+    "timestamp": 1778081400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "MS",
+    "station_name": "Iera (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001130",
+    "timestamp": 1778081400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "MS",
+    "station_name": "Iera (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001130",
+    "timestamp": 1778081400,
+    "value": 2.7,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "MS",
+    "station_name": "Iera (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001130",
+    "timestamp": 1778081400,
+    "value": 6.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "MS",
+    "station_name": "Iera (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001130",
+    "timestamp": 1778081400,
+    "value": 22.9,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "MS",
+    "station_name": "Iera (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001130",
+    "timestamp": 1778081400,
+    "value": 43.7,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "MS",
+    "station_name": "Iera (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001180",
+    "timestamp": 1778081400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "MS",
+    "station_name": "Turano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001180",
+    "timestamp": 1778081400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "MS",
+    "station_name": "Turano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001180",
+    "timestamp": 1778081400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "MS",
+    "station_name": "Turano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001180",
+    "timestamp": 1778081400,
+    "value": 0.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "MS",
+    "station_name": "Turano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001180",
+    "timestamp": 1778081400,
+    "value": 13.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "MS",
+    "station_name": "Turano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001180",
+    "timestamp": 1778081400,
+    "value": 47.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "MS",
+    "station_name": "Turano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001180",
+    "timestamp": 1778081400,
+    "value": 69.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "MS",
+    "station_name": "Turano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001200",
+    "timestamp": 1778081400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "MS",
+    "station_name": "Mazzola (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001200",
+    "timestamp": 1778081400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "MS",
+    "station_name": "Mazzola (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001200",
+    "timestamp": 1778081400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "MS",
+    "station_name": "Mazzola (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001200",
+    "timestamp": 1778081400,
+    "value": 0.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "MS",
+    "station_name": "Mazzola (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001200",
+    "timestamp": 1778081400,
+    "value": 11,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "MS",
+    "station_name": "Mazzola (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001200",
+    "timestamp": 1778081400,
+    "value": 59.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "MS",
+    "station_name": "Mazzola (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001200",
+    "timestamp": 1778081400,
+    "value": 87.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "MS",
+    "station_name": "Mazzola (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001220",
+    "timestamp": 1778081400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "MS",
+    "station_name": "Equi Terme (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001220",
+    "timestamp": 1778081400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "MS",
+    "station_name": "Equi Terme (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001220",
+    "timestamp": 1778081400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "MS",
+    "station_name": "Equi Terme (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001220",
+    "timestamp": 1778081400,
+    "value": 0.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "MS",
+    "station_name": "Equi Terme (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001220",
+    "timestamp": 1778081400,
+    "value": 29.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "MS",
+    "station_name": "Equi Terme (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001220",
+    "timestamp": 1778081400,
+    "value": 66,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "MS",
+    "station_name": "Equi Terme (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001220",
+    "timestamp": 1778081400,
+    "value": 115.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "MS",
+    "station_name": "Equi Terme (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001230",
+    "timestamp": 1778081400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "MS",
+    "station_name": "Tendola (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001230",
+    "timestamp": 1778081400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "MS",
+    "station_name": "Tendola (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001230",
+    "timestamp": 1778081400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "MS",
+    "station_name": "Tendola (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001230",
+    "timestamp": 1778081400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "MS",
+    "station_name": "Tendola (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001230",
+    "timestamp": 1778081400,
+    "value": 7,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "MS",
+    "station_name": "Tendola (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001230",
+    "timestamp": 1778081400,
+    "value": 40.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "MS",
+    "station_name": "Tendola (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001230",
+    "timestamp": 1778081400,
+    "value": 55.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "MS",
+    "station_name": "Tendola (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001246",
+    "timestamp": 1778081400,
+    "value": 0.91,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Magra",
+    "province": "MS",
+    "station_name": "Calamazza ARPAL (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000027",
+    "timestamp": 1778081400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "MS",
+    "station_name": "Candia Scurtarola (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000027",
+    "timestamp": 1778081400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "MS",
+    "station_name": "Candia Scurtarola (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000027",
+    "timestamp": 1778081400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "MS",
+    "station_name": "Candia Scurtarola (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000027",
+    "timestamp": 1778081400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "MS",
+    "station_name": "Candia Scurtarola (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000027",
+    "timestamp": 1778081400,
+    "value": 20.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "MS",
+    "station_name": "Candia Scurtarola (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000027",
+    "timestamp": 1778081400,
+    "value": 73.5,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "MS",
+    "station_name": "Candia Scurtarola (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000027",
+    "timestamp": 1778081400,
+    "value": 171,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "MS",
+    "station_name": "Candia Scurtarola (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000099",
+    "timestamp": 1778081400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "MS",
+    "station_name": "Novegigola (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000099",
+    "timestamp": 1778081400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "MS",
+    "station_name": "Novegigola (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000099",
+    "timestamp": 1778081400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "MS",
+    "station_name": "Novegigola (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000099",
+    "timestamp": 1778081400,
+    "value": 0.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "MS",
+    "station_name": "Novegigola (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000099",
+    "timestamp": 1778081400,
+    "value": 4.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "MS",
+    "station_name": "Novegigola (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000099",
+    "timestamp": 1778081400,
+    "value": 47,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "MS",
+    "station_name": "Novegigola (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000099",
+    "timestamp": 1778081400,
+    "value": 65.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "MS",
+    "station_name": "Novegigola (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000100",
+    "timestamp": 1778081400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "MS",
+    "station_name": "Villafranca (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000100",
+    "timestamp": 1778081400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "MS",
+    "station_name": "Villafranca (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000100",
+    "timestamp": 1778081400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "MS",
+    "station_name": "Villafranca (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000100",
+    "timestamp": 1778081400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "MS",
+    "station_name": "Villafranca (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000100",
+    "timestamp": 1778081400,
+    "value": 3.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "MS",
+    "station_name": "Villafranca (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000100",
+    "timestamp": 1778081400,
+    "value": 40.5,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "MS",
+    "station_name": "Villafranca (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000100",
+    "timestamp": 1778081400,
+    "value": 59.9,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "MS",
+    "station_name": "Villafranca (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000101",
+    "timestamp": 1778081400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "MS",
+    "station_name": "Pontremoli (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000101",
+    "timestamp": 1778081400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "MS",
+    "station_name": "Pontremoli (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000101",
+    "timestamp": 1778081400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "MS",
+    "station_name": "Pontremoli (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000101",
+    "timestamp": 1778081400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "MS",
+    "station_name": "Pontremoli (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000101",
+    "timestamp": 1778081400,
+    "value": 8.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "MS",
+    "station_name": "Pontremoli (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000101",
+    "timestamp": 1778081400,
+    "value": 20.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "MS",
+    "station_name": "Pontremoli (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000101",
+    "timestamp": 1778081400,
+    "value": 36.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "MS",
+    "station_name": "Pontremoli (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000705",
+    "timestamp": 1778081400,
+    "value": 0.44,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Magra",
+    "province": "MS",
+    "station_name": "Ponte Magra (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000706",
+    "timestamp": 1778081400,
+    "value": 0.73,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Teglia",
+    "province": "MS",
+    "station_name": "Ponte Teglia (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000025",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "MS",
+    "station_name": "Vara (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000025",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "MS",
+    "station_name": "Vara (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000025",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "MS",
+    "station_name": "Vara (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000025",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "MS",
+    "station_name": "Vara (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000025",
+    "timestamp": 1778082300,
+    "value": 31.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "MS",
+    "station_name": "Vara (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000025",
+    "timestamp": 1778082300,
+    "value": 88.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "MS",
+    "station_name": "Vara (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000025",
+    "timestamp": 1778082300,
+    "value": 165.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "MS",
+    "station_name": "Vara (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000056",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "MS",
+    "station_name": "Pian della Fioba (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000056",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "MS",
+    "station_name": "Pian della Fioba (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000056",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "MS",
+    "station_name": "Pian della Fioba (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000056",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "MS",
+    "station_name": "Pian della Fioba (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000056",
+    "timestamp": 1778082300,
+    "value": 18,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "MS",
+    "station_name": "Pian della Fioba (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000056",
+    "timestamp": 1778082300,
+    "value": 55,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "MS",
+    "station_name": "Pian della Fioba (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000056",
+    "timestamp": 1778082300,
+    "value": 130,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "MS",
+    "station_name": "Pian della Fioba (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01004005",
+    "timestamp": 1778082300,
+    "value": 0.57,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Carrione",
+    "province": "MS",
+    "station_name": "Carrara (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01004007",
+    "timestamp": 1778082300,
+    "value": 1.55,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Carrione",
+    "province": "MS",
+    "station_name": "Avenza (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01004007",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "MS",
+    "station_name": "Avenza (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01004007",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "MS",
+    "station_name": "Avenza (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01004007",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "MS",
+    "station_name": "Avenza (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01004007",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "MS",
+    "station_name": "Avenza (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01004007",
+    "timestamp": 1778082300,
+    "value": 3.5,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "MS",
+    "station_name": "Avenza (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01004007",
+    "timestamp": 1778082300,
+    "value": 30.3,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "MS",
+    "station_name": "Avenza (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01004007",
+    "timestamp": 1778082300,
+    "value": 98.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "MS",
+    "station_name": "Avenza (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02000047",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "MS",
+    "station_name": "Vergheto (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000047",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "MS",
+    "station_name": "Vergheto (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000047",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "MS",
+    "station_name": "Vergheto (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000047",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "MS",
+    "station_name": "Vergheto (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000047",
+    "timestamp": 1778082300,
+    "value": 31.1,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "MS",
+    "station_name": "Vergheto (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000047",
+    "timestamp": 1778082300,
+    "value": 92.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "MS",
+    "station_name": "Vergheto (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000047",
+    "timestamp": 1778082300,
+    "value": 172.1,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "MS",
+    "station_name": "Vergheto (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000088",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "MS",
+    "station_name": "Cerreto (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000088",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "MS",
+    "station_name": "Cerreto (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000088",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "MS",
+    "station_name": "Cerreto (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000088",
+    "timestamp": 1778082300,
+    "value": 0.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "MS",
+    "station_name": "Cerreto (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000088",
+    "timestamp": 1778082300,
+    "value": 16.9,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "MS",
+    "station_name": "Cerreto (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000088",
+    "timestamp": 1778082300,
+    "value": 46.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "MS",
+    "station_name": "Cerreto (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000088",
+    "timestamp": 1778082300,
+    "value": 97.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "MS",
+    "station_name": "Cerreto (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02004011",
+    "timestamp": 1778082300,
+    "value": -0.01,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Frigido",
+    "province": "MS",
+    "station_name": "Canevara (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02004011",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "MS",
+    "station_name": "Canevara (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02004011",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "MS",
+    "station_name": "Canevara (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02004011",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "MS",
+    "station_name": "Canevara (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02004011",
+    "timestamp": 1778082300,
+    "value": 1,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "MS",
+    "station_name": "Canevara (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02004011",
+    "timestamp": 1778082300,
+    "value": 22.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "MS",
+    "station_name": "Canevara (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02004011",
+    "timestamp": 1778082300,
+    "value": 58.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "MS",
+    "station_name": "Canevara (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02004011",
+    "timestamp": 1778082300,
+    "value": 130.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "MS",
+    "station_name": "Canevara (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03000109",
+    "timestamp": 1778082300,
+    "value": 2.14,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Aulella",
+    "province": "MS",
+    "station_name": "Soliera (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03000109",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "MS",
+    "station_name": "Soliera (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03000109",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "MS",
+    "station_name": "Soliera (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03000109",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "MS",
+    "station_name": "Soliera (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03000109",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "MS",
+    "station_name": "Soliera (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03000109",
+    "timestamp": 1778082300,
+    "value": 17.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "MS",
+    "station_name": "Soliera (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03000109",
+    "timestamp": 1778082300,
+    "value": 60.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "MS",
+    "station_name": "Soliera (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03000109",
+    "timestamp": 1778082300,
+    "value": 74.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "MS",
+    "station_name": "Soliera (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03001246",
+    "timestamp": 1778082300,
+    "value": 0.85,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Magra",
+    "province": "MS",
+    "station_name": "Calamazza (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03004001",
+    "timestamp": 1778082300,
+    "value": 0.51,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Carrione (ramo Colonnata)",
+    "province": "MS",
+    "station_name": "Pesa Miseglia (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03004002",
+    "timestamp": 1778082300,
+    "value": 0.21,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Carrione (ramo Colonnata)",
+    "province": "MS",
+    "station_name": "Colonnata Valle (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03004003",
+    "timestamp": 1778082300,
+    "value": 0.18,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Carrione (ramo di Torano)",
+    "province": "MS",
+    "station_name": "Torano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03004003",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "MS",
+    "station_name": "Torano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03004003",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "MS",
+    "station_name": "Torano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03004003",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "MS",
+    "station_name": "Torano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03004003",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "MS",
+    "station_name": "Torano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03004003",
+    "timestamp": 1778082300,
+    "value": 19.1,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "MS",
+    "station_name": "Torano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03004003",
+    "timestamp": 1778082300,
+    "value": 60.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "MS",
+    "station_name": "Torano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03004003",
+    "timestamp": 1778082300,
+    "value": 147.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "MS",
+    "station_name": "Torano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03004005",
+    "timestamp": 1778082300,
+    "value": -0.81,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Carrione",
+    "province": "MS",
+    "station_name": "Ponte della Bugia (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03004006",
+    "timestamp": 1778082300,
+    "value": 0.28,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Gragnana",
+    "province": "MS",
+    "station_name": "Santuario della Salute (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03004009",
+    "timestamp": 1778082300,
+    "value": 0.09,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Ricortola",
+    "province": "MS",
+    "station_name": "Ricortola (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09000001",
+    "timestamp": 1778082300,
+    "value": 0.28,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Magra",
+    "province": "MS",
+    "station_name": "Piccatello (GPRS)"
+  },
+  {
+    "sensor_id": "TOS09000015",
+    "timestamp": 1778082300,
+    "value": 0.92,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Bagnone",
+    "province": "MS",
+    "station_name": "Bagnone (GPRS)"
+  },
+  {
+    "sensor_id": "TOS09000015",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "MS",
+    "station_name": "Bagnone (GPRS)"
+  },
+  {
+    "sensor_id": "TOS09000015",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "MS",
+    "station_name": "Bagnone (GPRS)"
+  },
+  {
+    "sensor_id": "TOS09000015",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "MS",
+    "station_name": "Bagnone (GPRS)"
+  },
+  {
+    "sensor_id": "TOS09000015",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "MS",
+    "station_name": "Bagnone (GPRS)"
+  },
+  {
+    "sensor_id": "TOS09000015",
+    "timestamp": 1778082300,
+    "value": 4.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "MS",
+    "station_name": "Bagnone (GPRS)"
+  },
+  {
+    "sensor_id": "TOS09000015",
+    "timestamp": 1778082300,
+    "value": 28.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "MS",
+    "station_name": "Bagnone (GPRS)"
+  },
+  {
+    "sensor_id": "TOS09000015",
+    "timestamp": 1778082300,
+    "value": 52,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "MS",
+    "station_name": "Bagnone (GPRS)"
+  },
+  {
+    "sensor_id": "TOS09000021",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "MS",
+    "station_name": "Licciana Nardi (GPRS)"
+  },
+  {
+    "sensor_id": "TOS09000021",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "MS",
+    "station_name": "Licciana Nardi (GPRS)"
+  },
+  {
+    "sensor_id": "TOS09000021",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "MS",
+    "station_name": "Licciana Nardi (GPRS)"
+  },
+  {
+    "sensor_id": "TOS09000021",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "MS",
+    "station_name": "Licciana Nardi (GPRS)"
+  },
+  {
+    "sensor_id": "TOS09000021",
+    "timestamp": 1778082300,
+    "value": 4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "MS",
+    "station_name": "Licciana Nardi (GPRS)"
+  },
+  {
+    "sensor_id": "TOS09000021",
+    "timestamp": 1778082300,
+    "value": 28.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "MS",
+    "station_name": "Licciana Nardi (GPRS)"
+  },
+  {
+    "sensor_id": "TOS09000021",
+    "timestamp": 1778082300,
+    "value": 43,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "MS",
+    "station_name": "Licciana Nardi (GPRS)"
+  },
+  {
+    "sensor_id": "TOS09000022",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "MS",
+    "station_name": "Pietra Piccata (GPRS)"
+  },
+  {
+    "sensor_id": "TOS09000022",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "MS",
+    "station_name": "Pietra Piccata (GPRS)"
+  },
+  {
+    "sensor_id": "TOS09000022",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "MS",
+    "station_name": "Pietra Piccata (GPRS)"
+  },
+  {
+    "sensor_id": "TOS09000022",
+    "timestamp": 1778082300,
+    "value": 1.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "MS",
+    "station_name": "Pietra Piccata (GPRS)"
+  },
+  {
+    "sensor_id": "TOS09000022",
+    "timestamp": 1778082300,
+    "value": 3,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "MS",
+    "station_name": "Pietra Piccata (GPRS)"
+  },
+  {
+    "sensor_id": "TOS09000022",
+    "timestamp": 1778082300,
+    "value": 12.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "MS",
+    "station_name": "Pietra Piccata (GPRS)"
+  },
+  {
+    "sensor_id": "TOS09000022",
+    "timestamp": 1778082300,
+    "value": 28.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "MS",
+    "station_name": "Pietra Piccata (GPRS)"
+  },
+  {
+    "sensor_id": "TOS09000023",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "MS",
+    "station_name": "Bosco di Rossano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09000023",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "MS",
+    "station_name": "Bosco di Rossano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09000023",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "MS",
+    "station_name": "Bosco di Rossano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09000023",
+    "timestamp": 1778082300,
+    "value": 0.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "MS",
+    "station_name": "Bosco di Rossano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09000023",
+    "timestamp": 1778082300,
+    "value": 1.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "MS",
+    "station_name": "Bosco di Rossano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09000023",
+    "timestamp": 1778082300,
+    "value": 14.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "MS",
+    "station_name": "Bosco di Rossano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09000023",
+    "timestamp": 1778082300,
+    "value": 32,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "MS",
+    "station_name": "Bosco di Rossano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09000024",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "MS",
+    "station_name": "Passo del Brattello (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09000024",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "MS",
+    "station_name": "Passo del Brattello (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09000024",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "MS",
+    "station_name": "Passo del Brattello (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09000024",
+    "timestamp": 1778082300,
+    "value": 4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "MS",
+    "station_name": "Passo del Brattello (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09000024",
+    "timestamp": 1778082300,
+    "value": 10.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "MS",
+    "station_name": "Passo del Brattello (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09000024",
+    "timestamp": 1778082300,
+    "value": 19.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "MS",
+    "station_name": "Passo del Brattello (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09000024",
+    "timestamp": 1778082300,
+    "value": 36,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "MS",
+    "station_name": "Passo del Brattello (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001053",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "MS",
+    "station_name": "Passo della Cisa (GPRS)"
+  },
+  {
+    "sensor_id": "TOS09001053",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "MS",
+    "station_name": "Passo della Cisa (GPRS)"
+  },
+  {
+    "sensor_id": "TOS09001053",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "MS",
+    "station_name": "Passo della Cisa (GPRS)"
+  },
+  {
+    "sensor_id": "TOS09001053",
+    "timestamp": 1778082300,
+    "value": 0.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "MS",
+    "station_name": "Passo della Cisa (GPRS)"
+  },
+  {
+    "sensor_id": "TOS09001053",
+    "timestamp": 1778082300,
+    "value": 1.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "MS",
+    "station_name": "Passo della Cisa (GPRS)"
+  },
+  {
+    "sensor_id": "TOS09001053",
+    "timestamp": 1778082300,
+    "value": 13,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "MS",
+    "station_name": "Passo della Cisa (GPRS)"
+  },
+  {
+    "sensor_id": "TOS09001053",
+    "timestamp": 1778082300,
+    "value": 27.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "MS",
+    "station_name": "Passo della Cisa (GPRS)"
+  },
+  {
+    "sensor_id": "TOS09001061",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "MS",
+    "station_name": "Patigno (GPRS)"
+  },
+  {
+    "sensor_id": "TOS09001061",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "MS",
+    "station_name": "Patigno (GPRS)"
+  },
+  {
+    "sensor_id": "TOS09001061",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "MS",
+    "station_name": "Patigno (GPRS)"
+  },
+  {
+    "sensor_id": "TOS09001061",
+    "timestamp": 1778082300,
+    "value": 1.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "MS",
+    "station_name": "Patigno (GPRS)"
+  },
+  {
+    "sensor_id": "TOS09001061",
+    "timestamp": 1778082300,
+    "value": 10,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "MS",
+    "station_name": "Patigno (GPRS)"
+  },
+  {
+    "sensor_id": "TOS09001061",
+    "timestamp": 1778082300,
+    "value": 27.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "MS",
+    "station_name": "Patigno (GPRS)"
+  },
+  {
+    "sensor_id": "TOS09001061",
+    "timestamp": 1778082300,
+    "value": 44.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "MS",
+    "station_name": "Patigno (GPRS)"
+  },
+  {
+    "sensor_id": "TOS09001080",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "MS",
+    "station_name": "Pontremoli depuratore (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001080",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "MS",
+    "station_name": "Pontremoli depuratore (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001080",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "MS",
+    "station_name": "Pontremoli depuratore (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001080",
+    "timestamp": 1778082300,
+    "value": 0.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "MS",
+    "station_name": "Pontremoli depuratore (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001080",
+    "timestamp": 1778082300,
+    "value": 8.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "MS",
+    "station_name": "Pontremoli depuratore (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001080",
+    "timestamp": 1778082300,
+    "value": 21.7,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "MS",
+    "station_name": "Pontremoli depuratore (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001080",
+    "timestamp": 1778082300,
+    "value": 37.1,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "MS",
+    "station_name": "Pontremoli depuratore (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001083",
+    "timestamp": 1778082300,
+    "value": -1.29,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Magra",
+    "province": "MS",
+    "station_name": "S. Giustina (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001088",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "MS",
+    "station_name": "Rocca Sigillina (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001088",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "MS",
+    "station_name": "Rocca Sigillina (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001088",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "MS",
+    "station_name": "Rocca Sigillina (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001088",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "MS",
+    "station_name": "Rocca Sigillina (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001088",
+    "timestamp": 1778082300,
+    "value": 13,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "MS",
+    "station_name": "Rocca Sigillina (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001088",
+    "timestamp": 1778082300,
+    "value": 33.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "MS",
+    "station_name": "Rocca Sigillina (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001088",
+    "timestamp": 1778082300,
+    "value": 49.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "MS",
+    "station_name": "Rocca Sigillina (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001110",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "MS",
+    "station_name": "Parana (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001110",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "MS",
+    "station_name": "Parana (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001110",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "MS",
+    "station_name": "Parana (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001110",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "MS",
+    "station_name": "Parana (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001110",
+    "timestamp": 1778082300,
+    "value": 16,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "MS",
+    "station_name": "Parana (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001110",
+    "timestamp": 1778082300,
+    "value": 43.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "MS",
+    "station_name": "Parana (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001110",
+    "timestamp": 1778082300,
+    "value": 60.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "MS",
+    "station_name": "Parana (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001120",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "MS",
+    "station_name": "Villafranca (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001120",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "MS",
+    "station_name": "Villafranca (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001120",
+    "timestamp": 1778082300,
+    "value": 0.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "MS",
+    "station_name": "Villafranca (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001120",
+    "timestamp": 1778082300,
+    "value": 0.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "MS",
+    "station_name": "Villafranca (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001120",
+    "timestamp": 1778082300,
+    "value": 9,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "MS",
+    "station_name": "Villafranca (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001120",
+    "timestamp": 1778082300,
+    "value": 29.9,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "MS",
+    "station_name": "Villafranca (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001120",
+    "timestamp": 1778082300,
+    "value": 45.1,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "MS",
+    "station_name": "Villafranca (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001130",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "MS",
+    "station_name": "Iera (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001130",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "MS",
+    "station_name": "Iera (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001130",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "MS",
+    "station_name": "Iera (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001130",
+    "timestamp": 1778082300,
+    "value": 2.5,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "MS",
+    "station_name": "Iera (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001130",
+    "timestamp": 1778082300,
+    "value": 6.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "MS",
+    "station_name": "Iera (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001130",
+    "timestamp": 1778082300,
+    "value": 22.9,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "MS",
+    "station_name": "Iera (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001130",
+    "timestamp": 1778082300,
+    "value": 42.9,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "MS",
+    "station_name": "Iera (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001143",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "MS",
+    "station_name": "Comano (GPRS)"
+  },
+  {
+    "sensor_id": "TOS09001143",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "MS",
+    "station_name": "Comano (GPRS)"
+  },
+  {
+    "sensor_id": "TOS09001143",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "MS",
+    "station_name": "Comano (GPRS)"
+  },
+  {
+    "sensor_id": "TOS09001143",
+    "timestamp": 1778082300,
+    "value": 2.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "MS",
+    "station_name": "Comano (GPRS)"
+  },
+  {
+    "sensor_id": "TOS09001143",
+    "timestamp": 1778082300,
+    "value": 16.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "MS",
+    "station_name": "Comano (GPRS)"
+  },
+  {
+    "sensor_id": "TOS09001143",
+    "timestamp": 1778082300,
+    "value": 46,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "MS",
+    "station_name": "Comano (GPRS)"
+  },
+  {
+    "sensor_id": "TOS09001143",
+    "timestamp": 1778082300,
+    "value": 62.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "MS",
+    "station_name": "Comano (GPRS)"
+  },
+  {
+    "sensor_id": "TOS09001160",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "MS",
+    "station_name": "Passo del Cerreto (GPRS)"
+  },
+  {
+    "sensor_id": "TOS09001160",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "MS",
+    "station_name": "Passo del Cerreto (GPRS)"
+  },
+  {
+    "sensor_id": "TOS09001160",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "MS",
+    "station_name": "Passo del Cerreto (GPRS)"
+  },
+  {
+    "sensor_id": "TOS09001160",
+    "timestamp": 1778082300,
+    "value": 4.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "MS",
+    "station_name": "Passo del Cerreto (GPRS)"
+  },
+  {
+    "sensor_id": "TOS09001160",
+    "timestamp": 1778082300,
+    "value": 15,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "MS",
+    "station_name": "Passo del Cerreto (GPRS)"
+  },
+  {
+    "sensor_id": "TOS09001160",
+    "timestamp": 1778082300,
+    "value": 38.1,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "MS",
+    "station_name": "Passo del Cerreto (GPRS)"
+  },
+  {
+    "sensor_id": "TOS09001160",
+    "timestamp": 1778082300,
+    "value": 57.3,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "MS",
+    "station_name": "Passo del Cerreto (GPRS)"
+  },
+  {
+    "sensor_id": "TOS09001180",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "MS",
+    "station_name": "Turano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001180",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "MS",
+    "station_name": "Turano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001180",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "MS",
+    "station_name": "Turano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001180",
+    "timestamp": 1778082300,
+    "value": 0.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "MS",
+    "station_name": "Turano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001180",
+    "timestamp": 1778082300,
+    "value": 13.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "MS",
+    "station_name": "Turano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001180",
+    "timestamp": 1778082300,
+    "value": 47.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "MS",
+    "station_name": "Turano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001180",
+    "timestamp": 1778082300,
+    "value": 69.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "MS",
+    "station_name": "Turano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001200",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "MS",
+    "station_name": "Mazzola (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001200",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "MS",
+    "station_name": "Mazzola (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001200",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "MS",
+    "station_name": "Mazzola (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001200",
+    "timestamp": 1778082300,
+    "value": 0.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "MS",
+    "station_name": "Mazzola (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001200",
+    "timestamp": 1778082300,
+    "value": 11,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "MS",
+    "station_name": "Mazzola (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001200",
+    "timestamp": 1778082300,
+    "value": 59.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "MS",
+    "station_name": "Mazzola (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001200",
+    "timestamp": 1778082300,
+    "value": 87.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "MS",
+    "station_name": "Mazzola (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001220",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "MS",
+    "station_name": "Equi Terme (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001220",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "MS",
+    "station_name": "Equi Terme (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001220",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "MS",
+    "station_name": "Equi Terme (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001220",
+    "timestamp": 1778082300,
+    "value": 0.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "MS",
+    "station_name": "Equi Terme (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001220",
+    "timestamp": 1778082300,
+    "value": 29.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "MS",
+    "station_name": "Equi Terme (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001220",
+    "timestamp": 1778082300,
+    "value": 66,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "MS",
+    "station_name": "Equi Terme (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001220",
+    "timestamp": 1778082300,
+    "value": 114.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "MS",
+    "station_name": "Equi Terme (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001230",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "MS",
+    "station_name": "Tendola (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001230",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "MS",
+    "station_name": "Tendola (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001230",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "MS",
+    "station_name": "Tendola (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001230",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "MS",
+    "station_name": "Tendola (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001230",
+    "timestamp": 1778082300,
+    "value": 7,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "MS",
+    "station_name": "Tendola (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001230",
+    "timestamp": 1778082300,
+    "value": 40.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "MS",
+    "station_name": "Tendola (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001230",
+    "timestamp": 1778082300,
+    "value": 54.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "MS",
+    "station_name": "Tendola (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000027",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "MS",
+    "station_name": "Candia Scurtarola (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000027",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "MS",
+    "station_name": "Candia Scurtarola (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000027",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "MS",
+    "station_name": "Candia Scurtarola (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000027",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "MS",
+    "station_name": "Candia Scurtarola (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000027",
+    "timestamp": 1778082300,
+    "value": 20.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "MS",
+    "station_name": "Candia Scurtarola (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000027",
+    "timestamp": 1778082300,
+    "value": 73.5,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "MS",
+    "station_name": "Candia Scurtarola (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000027",
+    "timestamp": 1778082300,
+    "value": 167.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "MS",
+    "station_name": "Candia Scurtarola (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000029",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "MS",
+    "station_name": "Campocecina (GPRS)"
+  },
+  {
+    "sensor_id": "TOS11000029",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "MS",
+    "station_name": "Campocecina (GPRS)"
+  },
+  {
+    "sensor_id": "TOS11000029",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "MS",
+    "station_name": "Campocecina (GPRS)"
+  },
+  {
+    "sensor_id": "TOS11000029",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "MS",
+    "station_name": "Campocecina (GPRS)"
+  },
+  {
+    "sensor_id": "TOS11000029",
+    "timestamp": 1778082300,
+    "value": 15.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "MS",
+    "station_name": "Campocecina (GPRS)"
+  },
+  {
+    "sensor_id": "TOS11000029",
+    "timestamp": 1778082300,
+    "value": 51.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "MS",
+    "station_name": "Campocecina (GPRS)"
+  },
+  {
+    "sensor_id": "TOS11000029",
+    "timestamp": 1778082300,
+    "value": 116.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "MS",
+    "station_name": "Campocecina (GPRS)"
+  },
+  {
+    "sensor_id": "TOS11000099",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "MS",
+    "station_name": "Novegigola (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000099",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "MS",
+    "station_name": "Novegigola (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000099",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "MS",
+    "station_name": "Novegigola (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000099",
+    "timestamp": 1778082300,
+    "value": 0.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "MS",
+    "station_name": "Novegigola (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000099",
+    "timestamp": 1778082300,
+    "value": 4.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "MS",
+    "station_name": "Novegigola (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000099",
+    "timestamp": 1778082300,
+    "value": 47,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "MS",
+    "station_name": "Novegigola (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000099",
+    "timestamp": 1778082300,
+    "value": 64,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "MS",
+    "station_name": "Novegigola (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000100",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "MS",
+    "station_name": "Villafranca (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000100",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "MS",
+    "station_name": "Villafranca (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000100",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "MS",
+    "station_name": "Villafranca (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000100",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "MS",
+    "station_name": "Villafranca (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000100",
+    "timestamp": 1778082300,
+    "value": 3.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "MS",
+    "station_name": "Villafranca (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000100",
+    "timestamp": 1778082300,
+    "value": 40.5,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "MS",
+    "station_name": "Villafranca (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000100",
+    "timestamp": 1778082300,
+    "value": 58.5,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "MS",
+    "station_name": "Villafranca (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000101",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "MS",
+    "station_name": "Pontremoli (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000101",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "MS",
+    "station_name": "Pontremoli (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000101",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "MS",
+    "station_name": "Pontremoli (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000101",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "MS",
+    "station_name": "Pontremoli (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000101",
+    "timestamp": 1778082300,
+    "value": 7.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "MS",
+    "station_name": "Pontremoli (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000101",
+    "timestamp": 1778082300,
+    "value": 20.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "MS",
+    "station_name": "Pontremoli (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000101",
+    "timestamp": 1778082300,
+    "value": 35.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "MS",
+    "station_name": "Pontremoli (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000705",
+    "timestamp": 1778082300,
+    "value": 0.48,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Magra",
+    "province": "MS",
+    "station_name": "Ponte Magra (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000706",
+    "timestamp": 1778082300,
+    "value": 0.73,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Teglia",
+    "province": "MS",
+    "station_name": "Ponte Teglia (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01004005",
+    "timestamp": 1778082600,
+    "value": 0.57,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Carrione",
+    "province": "MS",
+    "station_name": "Carrara (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01004007",
+    "timestamp": 1778082600,
+    "value": 1.55,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Carrione",
+    "province": "MS",
+    "station_name": "Avenza (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01004007",
+    "timestamp": 1778082600,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "MS",
+    "station_name": "Avenza (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01004007",
+    "timestamp": 1778082600,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "MS",
+    "station_name": "Avenza (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01004007",
+    "timestamp": 1778082600,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "MS",
+    "station_name": "Avenza (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01004007",
+    "timestamp": 1778082600,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "MS",
+    "station_name": "Avenza (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01004007",
+    "timestamp": 1778082600,
+    "value": 3.1,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "MS",
+    "station_name": "Avenza (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01004007",
+    "timestamp": 1778082600,
+    "value": 30.3,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "MS",
+    "station_name": "Avenza (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01004007",
+    "timestamp": 1778082600,
+    "value": 97.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "MS",
+    "station_name": "Avenza (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02004011",
+    "timestamp": 1778082600,
+    "value": -0.02,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Frigido",
+    "province": "MS",
+    "station_name": "Canevara (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02004011",
+    "timestamp": 1778082600,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "MS",
+    "station_name": "Canevara (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02004011",
+    "timestamp": 1778082600,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "MS",
+    "station_name": "Canevara (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02004011",
+    "timestamp": 1778082600,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "MS",
+    "station_name": "Canevara (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02004011",
+    "timestamp": 1778082600,
+    "value": 1,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "MS",
+    "station_name": "Canevara (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02004011",
+    "timestamp": 1778082600,
+    "value": 22.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "MS",
+    "station_name": "Canevara (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02004011",
+    "timestamp": 1778082600,
+    "value": 58.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "MS",
+    "station_name": "Canevara (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02004011",
+    "timestamp": 1778082600,
+    "value": 129.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "MS",
+    "station_name": "Canevara (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03001246",
+    "timestamp": 1778082600,
+    "value": 0.84,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Magra",
+    "province": "MS",
+    "station_name": "Calamazza (GPRS)"
+  },
+  {
+    "sensor_id": "TOS09000001",
+    "timestamp": 1778082600,
+    "value": 0.27,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Magra",
+    "province": "MS",
+    "station_name": "Piccatello (GPRS)"
+  },
+  {
+    "sensor_id": "TOS09000015",
+    "timestamp": 1778082600,
+    "value": 0.92,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Bagnone",
+    "province": "MS",
+    "station_name": "Bagnone (GPRS)"
+  },
+  {
+    "sensor_id": "TOS09000015",
+    "timestamp": 1778082600,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "MS",
+    "station_name": "Bagnone (GPRS)"
+  },
+  {
+    "sensor_id": "TOS09000015",
+    "timestamp": 1778082600,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "MS",
+    "station_name": "Bagnone (GPRS)"
+  },
+  {
+    "sensor_id": "TOS09000015",
+    "timestamp": 1778082600,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "MS",
+    "station_name": "Bagnone (GPRS)"
+  },
+  {
+    "sensor_id": "TOS09000015",
+    "timestamp": 1778082600,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "MS",
+    "station_name": "Bagnone (GPRS)"
+  },
+  {
+    "sensor_id": "TOS09000015",
+    "timestamp": 1778082600,
+    "value": 4.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "MS",
+    "station_name": "Bagnone (GPRS)"
+  },
+  {
+    "sensor_id": "TOS09000015",
+    "timestamp": 1778082600,
+    "value": 28.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "MS",
+    "station_name": "Bagnone (GPRS)"
+  },
+  {
+    "sensor_id": "TOS09000015",
+    "timestamp": 1778082600,
+    "value": 50.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "MS",
+    "station_name": "Bagnone (GPRS)"
+  },
+  {
+    "sensor_id": "TOS09000021",
+    "timestamp": 1778082600,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "MS",
+    "station_name": "Licciana Nardi (GPRS)"
+  },
+  {
+    "sensor_id": "TOS09000021",
+    "timestamp": 1778082600,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "MS",
+    "station_name": "Licciana Nardi (GPRS)"
+  },
+  {
+    "sensor_id": "TOS09000021",
+    "timestamp": 1778082600,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "MS",
+    "station_name": "Licciana Nardi (GPRS)"
+  },
+  {
+    "sensor_id": "TOS09000021",
+    "timestamp": 1778082600,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "MS",
+    "station_name": "Licciana Nardi (GPRS)"
+  },
+  {
+    "sensor_id": "TOS09000021",
+    "timestamp": 1778082600,
+    "value": 4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "MS",
+    "station_name": "Licciana Nardi (GPRS)"
+  },
+  {
+    "sensor_id": "TOS09000021",
+    "timestamp": 1778082600,
+    "value": 28.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "MS",
+    "station_name": "Licciana Nardi (GPRS)"
+  },
+  {
+    "sensor_id": "TOS09000021",
+    "timestamp": 1778082600,
+    "value": 42.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "MS",
+    "station_name": "Licciana Nardi (GPRS)"
+  },
+  {
+    "sensor_id": "TOS09000022",
+    "timestamp": 1778082600,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "MS",
+    "station_name": "Pietra Piccata (GPRS)"
+  },
+  {
+    "sensor_id": "TOS09000022",
+    "timestamp": 1778082600,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "MS",
+    "station_name": "Pietra Piccata (GPRS)"
+  },
+  {
+    "sensor_id": "TOS09000022",
+    "timestamp": 1778082600,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "MS",
+    "station_name": "Pietra Piccata (GPRS)"
+  },
+  {
+    "sensor_id": "TOS09000022",
+    "timestamp": 1778082600,
+    "value": 1.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "MS",
+    "station_name": "Pietra Piccata (GPRS)"
+  },
+  {
+    "sensor_id": "TOS09000022",
+    "timestamp": 1778082600,
+    "value": 3,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "MS",
+    "station_name": "Pietra Piccata (GPRS)"
+  },
+  {
+    "sensor_id": "TOS09000022",
+    "timestamp": 1778082600,
+    "value": 12.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "MS",
+    "station_name": "Pietra Piccata (GPRS)"
+  },
+  {
+    "sensor_id": "TOS09000022",
+    "timestamp": 1778082600,
+    "value": 28,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "MS",
+    "station_name": "Pietra Piccata (GPRS)"
+  },
+  {
+    "sensor_id": "TOS09001053",
+    "timestamp": 1778082600,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "MS",
+    "station_name": "Passo della Cisa (GPRS)"
+  },
+  {
+    "sensor_id": "TOS09001053",
+    "timestamp": 1778082600,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "MS",
+    "station_name": "Passo della Cisa (GPRS)"
+  },
+  {
+    "sensor_id": "TOS09001053",
+    "timestamp": 1778082600,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "MS",
+    "station_name": "Passo della Cisa (GPRS)"
+  },
+  {
+    "sensor_id": "TOS09001053",
+    "timestamp": 1778082600,
+    "value": 0.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "MS",
+    "station_name": "Passo della Cisa (GPRS)"
+  },
+  {
+    "sensor_id": "TOS09001053",
+    "timestamp": 1778082600,
+    "value": 1.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "MS",
+    "station_name": "Passo della Cisa (GPRS)"
+  },
+  {
+    "sensor_id": "TOS09001053",
+    "timestamp": 1778082600,
+    "value": 13,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "MS",
+    "station_name": "Passo della Cisa (GPRS)"
+  },
+  {
+    "sensor_id": "TOS09001053",
+    "timestamp": 1778082600,
+    "value": 27,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "MS",
+    "station_name": "Passo della Cisa (GPRS)"
+  },
+  {
+    "sensor_id": "TOS09001061",
+    "timestamp": 1778082600,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "MS",
+    "station_name": "Patigno (GPRS)"
+  },
+  {
+    "sensor_id": "TOS09001061",
+    "timestamp": 1778082600,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "MS",
+    "station_name": "Patigno (GPRS)"
+  },
+  {
+    "sensor_id": "TOS09001061",
+    "timestamp": 1778082600,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "MS",
+    "station_name": "Patigno (GPRS)"
+  },
+  {
+    "sensor_id": "TOS09001061",
+    "timestamp": 1778082600,
+    "value": 1.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "MS",
+    "station_name": "Patigno (GPRS)"
+  },
+  {
+    "sensor_id": "TOS09001061",
+    "timestamp": 1778082600,
+    "value": 8.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "MS",
+    "station_name": "Patigno (GPRS)"
+  },
+  {
+    "sensor_id": "TOS09001061",
+    "timestamp": 1778082600,
+    "value": 27.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "MS",
+    "station_name": "Patigno (GPRS)"
+  },
+  {
+    "sensor_id": "TOS09001061",
+    "timestamp": 1778082600,
+    "value": 44.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "MS",
+    "station_name": "Patigno (GPRS)"
+  },
+  {
+    "sensor_id": "TOS09001143",
+    "timestamp": 1778082600,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "MS",
+    "station_name": "Comano (GPRS)"
+  },
+  {
+    "sensor_id": "TOS09001143",
+    "timestamp": 1778082600,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "MS",
+    "station_name": "Comano (GPRS)"
+  },
+  {
+    "sensor_id": "TOS09001143",
+    "timestamp": 1778082600,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "MS",
+    "station_name": "Comano (GPRS)"
+  },
+  {
+    "sensor_id": "TOS09001143",
+    "timestamp": 1778082600,
+    "value": 2.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "MS",
+    "station_name": "Comano (GPRS)"
+  },
+  {
+    "sensor_id": "TOS09001143",
+    "timestamp": 1778082600,
+    "value": 16.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "MS",
+    "station_name": "Comano (GPRS)"
+  },
+  {
+    "sensor_id": "TOS09001143",
+    "timestamp": 1778082600,
+    "value": 46,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "MS",
+    "station_name": "Comano (GPRS)"
+  },
+  {
+    "sensor_id": "TOS09001143",
+    "timestamp": 1778082600,
+    "value": 62.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "MS",
+    "station_name": "Comano (GPRS)"
+  },
+  {
+    "sensor_id": "TOS09001160",
+    "timestamp": 1778082600,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "MS",
+    "station_name": "Passo del Cerreto (GPRS)"
+  },
+  {
+    "sensor_id": "TOS09001160",
+    "timestamp": 1778082600,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "MS",
+    "station_name": "Passo del Cerreto (GPRS)"
+  },
+  {
+    "sensor_id": "TOS09001160",
+    "timestamp": 1778082600,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "MS",
+    "station_name": "Passo del Cerreto (GPRS)"
+  },
+  {
+    "sensor_id": "TOS09001160",
+    "timestamp": 1778082600,
+    "value": 4.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "MS",
+    "station_name": "Passo del Cerreto (GPRS)"
+  },
+  {
+    "sensor_id": "TOS09001160",
+    "timestamp": 1778082600,
+    "value": 15,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "MS",
+    "station_name": "Passo del Cerreto (GPRS)"
+  },
+  {
+    "sensor_id": "TOS09001160",
+    "timestamp": 1778082600,
+    "value": 38.1,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "MS",
+    "station_name": "Passo del Cerreto (GPRS)"
+  },
+  {
+    "sensor_id": "TOS09001160",
+    "timestamp": 1778082600,
+    "value": 57.1,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "MS",
+    "station_name": "Passo del Cerreto (GPRS)"
+  },
+  {
+    "sensor_id": "TOS11000029",
+    "timestamp": 1778082600,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "MS",
+    "station_name": "Campocecina (GPRS)"
+  },
+  {
+    "sensor_id": "TOS11000029",
+    "timestamp": 1778082600,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "MS",
+    "station_name": "Campocecina (GPRS)"
+  },
+  {
+    "sensor_id": "TOS11000029",
+    "timestamp": 1778082600,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "MS",
+    "station_name": "Campocecina (GPRS)"
+  },
+  {
+    "sensor_id": "TOS11000029",
+    "timestamp": 1778082600,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "MS",
+    "station_name": "Campocecina (GPRS)"
+  },
+  {
+    "sensor_id": "TOS11000029",
+    "timestamp": 1778082600,
+    "value": 15.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "MS",
+    "station_name": "Campocecina (GPRS)"
+  },
+  {
+    "sensor_id": "TOS11000029",
+    "timestamp": 1778082600,
+    "value": 51.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "MS",
+    "station_name": "Campocecina (GPRS)"
+  },
+  {
+    "sensor_id": "TOS11000029",
+    "timestamp": 1778082600,
+    "value": 116,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "MS",
+    "station_name": "Campocecina (GPRS)"
   }
 ]

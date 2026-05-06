@@ -48,5 +48,105 @@
     "river": "Sieve",
     "province": "FI",
     "station_name": "Fornacina 2 ul (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01004611",
+    "timestamp": 1778081400,
+    "value": 1.3,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Sieve",
+    "province": "FI",
+    "station_name": "Bilancino (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01004621",
+    "timestamp": 1778081400,
+    "value": 1.39,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Sieve",
+    "province": "FI",
+    "station_name": "S. Piero a Sieve-Sieve (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01004611",
+    "timestamp": 1778082300,
+    "value": 1.31,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Sieve",
+    "province": "FI",
+    "station_name": "Bilancino (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01004621",
+    "timestamp": 1778082300,
+    "value": 1.42,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Sieve",
+    "province": "FI",
+    "station_name": "S. Piero a Sieve-Sieve (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01004625",
+    "timestamp": 1778082300,
+    "value": 1.23,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Sieve",
+    "province": "FI",
+    "station_name": "Dicomano (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01004641",
+    "timestamp": 1778082300,
+    "value": 1.39,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Sieve",
+    "province": "FI",
+    "station_name": "Fornacina (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01004642",
+    "timestamp": 1778082300,
+    "value": 1.36,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Sieve",
+    "province": "FI",
+    "station_name": "Fornacina 2 ul (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01004625",
+    "timestamp": 1778082600,
+    "value": 1.28,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Sieve",
+    "province": "FI",
+    "station_name": "Dicomano (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01004641",
+    "timestamp": 1778082600,
+    "value": 1.39,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Sieve",
+    "province": "FI",
+    "station_name": "Fornacina (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01004642",
+    "timestamp": 1778082600,
+    "value": 1.36,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Sieve",
+    "province": "FI",
+    "station_name": "Fornacina 2 ul (GPRS)"
   }
 ]

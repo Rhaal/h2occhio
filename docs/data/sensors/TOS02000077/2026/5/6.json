@@ -68,5 +68,145 @@
     "window_minutes": 2160,
     "province": "LU",
     "station_name": "Cardoso (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000077",
+    "timestamp": 1778081400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "LU",
+    "station_name": "Cardoso (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000077",
+    "timestamp": 1778081400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "LU",
+    "station_name": "Cardoso (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000077",
+    "timestamp": 1778081400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "LU",
+    "station_name": "Cardoso (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000077",
+    "timestamp": 1778081400,
+    "value": 3.3,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "LU",
+    "station_name": "Cardoso (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000077",
+    "timestamp": 1778081400,
+    "value": 30.1,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "LU",
+    "station_name": "Cardoso (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000077",
+    "timestamp": 1778081400,
+    "value": 100.1,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "LU",
+    "station_name": "Cardoso (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000077",
+    "timestamp": 1778081400,
+    "value": 155.9,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "LU",
+    "station_name": "Cardoso (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000077",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "LU",
+    "station_name": "Cardoso (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000077",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "LU",
+    "station_name": "Cardoso (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000077",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "LU",
+    "station_name": "Cardoso (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000077",
+    "timestamp": 1778082300,
+    "value": 3.3,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "LU",
+    "station_name": "Cardoso (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000077",
+    "timestamp": 1778082300,
+    "value": 28.3,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "LU",
+    "station_name": "Cardoso (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000077",
+    "timestamp": 1778082300,
+    "value": 100.1,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "LU",
+    "station_name": "Cardoso (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000077",
+    "timestamp": 1778082300,
+    "value": 149.5,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "LU",
+    "station_name": "Cardoso (RADIO)"
   }
 ]

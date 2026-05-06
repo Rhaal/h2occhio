@@ -68,5 +68,145 @@
     "window_minutes": 2160,
     "province": "PT",
     "station_name": "Boscolungo (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02000351",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "PT",
+    "station_name": "Boscolungo (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02000351",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "PT",
+    "station_name": "Boscolungo (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02000351",
+    "timestamp": 1778082300,
+    "value": 0.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "PT",
+    "station_name": "Boscolungo (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02000351",
+    "timestamp": 1778082300,
+    "value": 6.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "PT",
+    "station_name": "Boscolungo (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02000351",
+    "timestamp": 1778082300,
+    "value": 44.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "PT",
+    "station_name": "Boscolungo (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02000351",
+    "timestamp": 1778082300,
+    "value": 93.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "PT",
+    "station_name": "Boscolungo (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02000351",
+    "timestamp": 1778082300,
+    "value": 141.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "PT",
+    "station_name": "Boscolungo (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02000351",
+    "timestamp": 1778082600,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "PT",
+    "station_name": "Boscolungo (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02000351",
+    "timestamp": 1778082600,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "PT",
+    "station_name": "Boscolungo (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02000351",
+    "timestamp": 1778082600,
+    "value": 0.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "PT",
+    "station_name": "Boscolungo (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02000351",
+    "timestamp": 1778082600,
+    "value": 5.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "PT",
+    "station_name": "Boscolungo (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02000351",
+    "timestamp": 1778082600,
+    "value": 44.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "PT",
+    "station_name": "Boscolungo (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02000351",
+    "timestamp": 1778082600,
+    "value": 93.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "PT",
+    "station_name": "Boscolungo (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02000351",
+    "timestamp": 1778082600,
+    "value": 140.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "PT",
+    "station_name": "Boscolungo (GPRS)"
   }
 ]

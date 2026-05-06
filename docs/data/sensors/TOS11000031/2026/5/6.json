@@ -68,5 +68,145 @@
     "window_minutes": 2160,
     "province": "LU",
     "station_name": "Montecarlo (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000031",
+    "timestamp": 1778081400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "LU",
+    "station_name": "Montecarlo (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000031",
+    "timestamp": 1778081400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "LU",
+    "station_name": "Montecarlo (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000031",
+    "timestamp": 1778081400,
+    "value": 0.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "LU",
+    "station_name": "Montecarlo (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000031",
+    "timestamp": 1778081400,
+    "value": 1.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "LU",
+    "station_name": "Montecarlo (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000031",
+    "timestamp": 1778081400,
+    "value": 21,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "LU",
+    "station_name": "Montecarlo (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000031",
+    "timestamp": 1778081400,
+    "value": 87.9,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "LU",
+    "station_name": "Montecarlo (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000031",
+    "timestamp": 1778081400,
+    "value": 147.7,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "LU",
+    "station_name": "Montecarlo (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000031",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "LU",
+    "station_name": "Montecarlo (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000031",
+    "timestamp": 1778082300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "LU",
+    "station_name": "Montecarlo (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000031",
+    "timestamp": 1778082300,
+    "value": 0.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "LU",
+    "station_name": "Montecarlo (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000031",
+    "timestamp": 1778082300,
+    "value": 1.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "LU",
+    "station_name": "Montecarlo (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000031",
+    "timestamp": 1778082300,
+    "value": 14.7,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "LU",
+    "station_name": "Montecarlo (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000031",
+    "timestamp": 1778082300,
+    "value": 87.9,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "LU",
+    "station_name": "Montecarlo (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000031",
+    "timestamp": 1778082300,
+    "value": 145.9,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "LU",
+    "station_name": "Montecarlo (RADIO)"
   }
 ]
