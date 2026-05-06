@@ -278,5 +278,75 @@
     "window_minutes": 2160,
     "province": "FI",
     "station_name": "Bibbiana (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30248000",
+    "timestamp": 1778090400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "FI",
+    "station_name": "Bibbiana (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30248000",
+    "timestamp": 1778090400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "FI",
+    "station_name": "Bibbiana (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30248000",
+    "timestamp": 1778090400,
+    "value": 0.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "FI",
+    "station_name": "Bibbiana (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30248000",
+    "timestamp": 1778090400,
+    "value": 9.9,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "FI",
+    "station_name": "Bibbiana (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30248000",
+    "timestamp": 1778090400,
+    "value": 10.5,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "FI",
+    "station_name": "Bibbiana (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30248000",
+    "timestamp": 1778090400,
+    "value": 62.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "FI",
+    "station_name": "Bibbiana (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30248000",
+    "timestamp": 1778090400,
+    "value": 73.1,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "FI",
+    "station_name": "Bibbiana (RADIO)"
   }
 ]

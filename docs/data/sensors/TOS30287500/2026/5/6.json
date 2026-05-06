@@ -278,5 +278,75 @@
     "window_minutes": 2160,
     "province": "FI",
     "station_name": "Barco (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30287500",
+    "timestamp": 1778091300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "FI",
+    "station_name": "Barco (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30287500",
+    "timestamp": 1778091300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "FI",
+    "station_name": "Barco (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30287500",
+    "timestamp": 1778091300,
+    "value": 0.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "FI",
+    "station_name": "Barco (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30287500",
+    "timestamp": 1778091300,
+    "value": 23.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "FI",
+    "station_name": "Barco (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30287500",
+    "timestamp": 1778091300,
+    "value": 27.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "FI",
+    "station_name": "Barco (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30287500",
+    "timestamp": 1778091300,
+    "value": 87.9,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "FI",
+    "station_name": "Barco (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30287500",
+    "timestamp": 1778091300,
+    "value": 107.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "FI",
+    "station_name": "Barco (RADIO)"
   }
 ]

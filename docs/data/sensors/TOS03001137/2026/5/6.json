@@ -348,5 +348,75 @@
     "window_minutes": 2160,
     "province": "FI",
     "station_name": "S. Donato in Collina (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03001137",
+    "timestamp": 1778093100,
+    "value": 0.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "FI",
+    "station_name": "S. Donato in Collina (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03001137",
+    "timestamp": 1778093100,
+    "value": 2.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "FI",
+    "station_name": "S. Donato in Collina (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03001137",
+    "timestamp": 1778093100,
+    "value": 10.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "FI",
+    "station_name": "S. Donato in Collina (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03001137",
+    "timestamp": 1778093100,
+    "value": 11.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "FI",
+    "station_name": "S. Donato in Collina (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03001137",
+    "timestamp": 1778093100,
+    "value": 11.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "FI",
+    "station_name": "S. Donato in Collina (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03001137",
+    "timestamp": 1778093100,
+    "value": 14.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "FI",
+    "station_name": "S. Donato in Collina (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03001137",
+    "timestamp": 1778093100,
+    "value": 39.1,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "FI",
+    "station_name": "S. Donato in Collina (RADIO)"
   }
 ]
