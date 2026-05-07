@@ -698,5 +698,75 @@
     "window_minutes": 2160,
     "province": "LU",
     "station_name": "Bagni di Lucca (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000092",
+    "timestamp": 1778184900,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "LU",
+    "station_name": "Bagni di Lucca (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000092",
+    "timestamp": 1778184900,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "LU",
+    "station_name": "Bagni di Lucca (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000092",
+    "timestamp": 1778184900,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "LU",
+    "station_name": "Bagni di Lucca (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000092",
+    "timestamp": 1778184900,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "LU",
+    "station_name": "Bagni di Lucca (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000092",
+    "timestamp": 1778184900,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "LU",
+    "station_name": "Bagni di Lucca (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000092",
+    "timestamp": 1778184900,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "LU",
+    "station_name": "Bagni di Lucca (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000092",
+    "timestamp": 1778184900,
+    "value": 18,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "LU",
+    "station_name": "Bagni di Lucca (RADIO)"
   }
 ]

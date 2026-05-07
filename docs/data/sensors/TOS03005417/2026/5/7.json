@@ -98,5 +98,15 @@
     "river": "Cecina",
     "province": "PI",
     "station_name": "Steccaia (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03005417",
+    "timestamp": 1778184900,
+    "value": 1.9,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Cecina",
+    "province": "PI",
+    "station_name": "Steccaia (RADIO)"
   }
 ]

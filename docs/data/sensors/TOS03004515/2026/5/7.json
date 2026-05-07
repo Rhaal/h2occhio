@@ -98,5 +98,15 @@
     "river": "Esse",
     "province": "AR",
     "station_name": "Foiano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03004515",
+    "timestamp": 1778184000,
+    "value": -0.54,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Esse",
+    "province": "AR",
+    "station_name": "Foiano (RADIO)"
   }
 ]
