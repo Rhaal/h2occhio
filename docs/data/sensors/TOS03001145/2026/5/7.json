@@ -418,5 +418,75 @@
     "window_minutes": 2160,
     "province": "FI",
     "station_name": "Vingone (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03001145",
+    "timestamp": 1778164200,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "FI",
+    "station_name": "Vingone (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03001145",
+    "timestamp": 1778164200,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "FI",
+    "station_name": "Vingone (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03001145",
+    "timestamp": 1778164200,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "FI",
+    "station_name": "Vingone (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03001145",
+    "timestamp": 1778164200,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "FI",
+    "station_name": "Vingone (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03001145",
+    "timestamp": 1778164200,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "FI",
+    "station_name": "Vingone (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03001145",
+    "timestamp": 1778164200,
+    "value": 15.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "FI",
+    "station_name": "Vingone (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03001145",
+    "timestamp": 1778164200,
+    "value": 16.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "FI",
+    "station_name": "Vingone (RADIO)"
   }
 ]
