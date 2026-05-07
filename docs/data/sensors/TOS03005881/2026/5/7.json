@@ -28,5 +28,15 @@
     "river": "Albegna",
     "province": "GR",
     "station_name": "Ponte di Montemerano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03005881",
+    "timestamp": 1778131800,
+    "value": 0.97,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Albegna",
+    "province": "GR",
+    "station_name": "Ponte di Montemerano (RADIO)"
   }
 ]
