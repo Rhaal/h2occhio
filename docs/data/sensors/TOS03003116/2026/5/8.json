@@ -1,0 +1,12 @@
+[
+  {
+    "sensor_id": "TOS03003116",
+    "timestamp": 1778193000,
+    "value": 0.11,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Laguna",
+    "province": "GR",
+    "station_name": "Diga (GPRS)"
+  }
+]

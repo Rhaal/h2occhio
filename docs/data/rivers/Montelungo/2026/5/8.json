@@ -1,0 +1,12 @@
+[
+  {
+    "sensor_id": "TOS03004505",
+    "timestamp": 1778192100,
+    "value": 0,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Montelungo",
+    "province": "SI",
+    "station_name": "Chiusi (RADIO)"
+  }
+]
