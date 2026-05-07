@@ -1,0 +1,72 @@
+[
+  {
+    "sensor_id": "TOS01000881",
+    "timestamp": 1778107500,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "AR",
+    "station_name": "Pian di Scò (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000881",
+    "timestamp": 1778107500,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "AR",
+    "station_name": "Pian di Scò (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000881",
+    "timestamp": 1778107500,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "AR",
+    "station_name": "Pian di Scò (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000881",
+    "timestamp": 1778107500,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "AR",
+    "station_name": "Pian di Scò (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000881",
+    "timestamp": 1778107500,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "AR",
+    "station_name": "Pian di Scò (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000881",
+    "timestamp": 1778107500,
+    "value": 2.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "AR",
+    "station_name": "Pian di Scò (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000881",
+    "timestamp": 1778107500,
+    "value": 59.9,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "AR",
+    "station_name": "Pian di Scò (RADIO)"
+  }
+]

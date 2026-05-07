@@ -1,0 +1,22 @@
+[
+  {
+    "sensor_id": "TOS01005761",
+    "timestamp": 1778107500,
+    "value": 0.22,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Orcia",
+    "province": "SI",
+    "station_name": "Monte Amiata Scalo (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03005781",
+    "timestamp": 1778108100,
+    "value": -0.08,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Orcia",
+    "province": "SI",
+    "station_name": "S. Angelo Cinigiano (GPRS)"
+  }
+]
