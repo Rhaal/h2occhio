@@ -78,5 +78,15 @@
     "river": "Albegna",
     "province": "GR",
     "station_name": "Ponte di Montemerano (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03005881",
+    "timestamp": 1778170800,
+    "value": 0.89,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Albegna",
+    "province": "GR",
+    "station_name": "Ponte di Montemerano (GPRS)"
   }
 ]
