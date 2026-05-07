@@ -278,5 +278,75 @@
     "window_minutes": 2160,
     "province": "SI",
     "station_name": "Abbadia S. S. - Laghetto Verde 1 (GPRS)"
+  },
+  {
+    "sensor_id": "TOS11000114",
+    "timestamp": 1778142000,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "SI",
+    "station_name": "Abbadia S. S. - Laghetto Verde 1 (GPRS)"
+  },
+  {
+    "sensor_id": "TOS11000114",
+    "timestamp": 1778142000,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "SI",
+    "station_name": "Abbadia S. S. - Laghetto Verde 1 (GPRS)"
+  },
+  {
+    "sensor_id": "TOS11000114",
+    "timestamp": 1778142000,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "SI",
+    "station_name": "Abbadia S. S. - Laghetto Verde 1 (GPRS)"
+  },
+  {
+    "sensor_id": "TOS11000114",
+    "timestamp": 1778142000,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "SI",
+    "station_name": "Abbadia S. S. - Laghetto Verde 1 (GPRS)"
+  },
+  {
+    "sensor_id": "TOS11000114",
+    "timestamp": 1778142000,
+    "value": 3.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "SI",
+    "station_name": "Abbadia S. S. - Laghetto Verde 1 (GPRS)"
+  },
+  {
+    "sensor_id": "TOS11000114",
+    "timestamp": 1778142000,
+    "value": 4.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "SI",
+    "station_name": "Abbadia S. S. - Laghetto Verde 1 (GPRS)"
+  },
+  {
+    "sensor_id": "TOS11000114",
+    "timestamp": 1778142000,
+    "value": 14.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "SI",
+    "station_name": "Abbadia S. S. - Laghetto Verde 1 (GPRS)"
   }
 ]

@@ -28,5 +28,15 @@
     "river": "Carrione (ramo di Torano)",
     "province": "MS",
     "station_name": "Torano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03004003",
+    "timestamp": 1778141700,
+    "value": 0.05,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Carrione (ramo di Torano)",
+    "province": "MS",
+    "station_name": "Torano (RADIO)"
   }
 ]
