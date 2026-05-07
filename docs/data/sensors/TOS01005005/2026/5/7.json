@@ -798,5 +798,85 @@
     "window_minutes": 2160,
     "province": "PI",
     "station_name": "Fornacino (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01005005",
+    "timestamp": 1778182200,
+    "value": 0.2,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Egola",
+    "province": "PI",
+    "station_name": "Fornacino (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01005005",
+    "timestamp": 1778182200,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "PI",
+    "station_name": "Fornacino (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01005005",
+    "timestamp": 1778182200,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "PI",
+    "station_name": "Fornacino (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01005005",
+    "timestamp": 1778182200,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "PI",
+    "station_name": "Fornacino (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01005005",
+    "timestamp": 1778182200,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "PI",
+    "station_name": "Fornacino (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01005005",
+    "timestamp": 1778182200,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "PI",
+    "station_name": "Fornacino (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01005005",
+    "timestamp": 1778182200,
+    "value": 5,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "PI",
+    "station_name": "Fornacino (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01005005",
+    "timestamp": 1778182200,
+    "value": 8.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "PI",
+    "station_name": "Fornacino (GPRS)"
   }
 ]

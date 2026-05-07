@@ -628,5 +628,75 @@
     "window_minutes": 2160,
     "province": "FI",
     "station_name": "Consuma (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01001041",
+    "timestamp": 1778181300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "FI",
+    "station_name": "Consuma (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01001041",
+    "timestamp": 1778181300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "FI",
+    "station_name": "Consuma (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01001041",
+    "timestamp": 1778181300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "FI",
+    "station_name": "Consuma (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01001041",
+    "timestamp": 1778181300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "FI",
+    "station_name": "Consuma (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01001041",
+    "timestamp": 1778181300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "FI",
+    "station_name": "Consuma (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01001041",
+    "timestamp": 1778181300,
+    "value": 1.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "FI",
+    "station_name": "Consuma (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01001041",
+    "timestamp": 1778181300,
+    "value": 18.5,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "FI",
+    "station_name": "Consuma (RADIO)"
   }
 ]

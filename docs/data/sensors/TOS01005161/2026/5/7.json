@@ -98,5 +98,15 @@
     "river": "Era",
     "province": "PI",
     "station_name": "Belvedere (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01005161",
+    "timestamp": 1778182200,
+    "value": 4.03,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Era",
+    "province": "PI",
+    "station_name": "Belvedere (GPRS)"
   }
 ]
