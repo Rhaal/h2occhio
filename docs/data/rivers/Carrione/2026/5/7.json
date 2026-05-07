@@ -258,5 +258,35 @@
     "river": "Carrione",
     "province": "MS",
     "station_name": "Avenza (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03004005",
+    "timestamp": 1778176800,
+    "value": -1.01,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Carrione",
+    "province": "MS",
+    "station_name": "Ponte della Bugia (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01004005",
+    "timestamp": 1778177100,
+    "value": 0.46,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Carrione",
+    "province": "MS",
+    "station_name": "Carrara (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01004007",
+    "timestamp": 1778177100,
+    "value": 1.37,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Carrione",
+    "province": "MS",
+    "station_name": "Avenza (GPRS)"
   }
 ]

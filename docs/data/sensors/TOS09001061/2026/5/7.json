@@ -628,5 +628,75 @@
     "window_minutes": 2160,
     "province": "MS",
     "station_name": "Patigno (GPRS)"
+  },
+  {
+    "sensor_id": "TOS09001061",
+    "timestamp": 1778177100,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "MS",
+    "station_name": "Patigno (GPRS)"
+  },
+  {
+    "sensor_id": "TOS09001061",
+    "timestamp": 1778177100,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "MS",
+    "station_name": "Patigno (GPRS)"
+  },
+  {
+    "sensor_id": "TOS09001061",
+    "timestamp": 1778177100,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "MS",
+    "station_name": "Patigno (GPRS)"
+  },
+  {
+    "sensor_id": "TOS09001061",
+    "timestamp": 1778177100,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "MS",
+    "station_name": "Patigno (GPRS)"
+  },
+  {
+    "sensor_id": "TOS09001061",
+    "timestamp": 1778177100,
+    "value": 0.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "MS",
+    "station_name": "Patigno (GPRS)"
+  },
+  {
+    "sensor_id": "TOS09001061",
+    "timestamp": 1778177100,
+    "value": 0.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "MS",
+    "station_name": "Patigno (GPRS)"
+  },
+  {
+    "sensor_id": "TOS09001061",
+    "timestamp": 1778177100,
+    "value": 7.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "MS",
+    "station_name": "Patigno (GPRS)"
   }
 ]
