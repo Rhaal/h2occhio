@@ -148,5 +148,35 @@
     "river": "Versilia",
     "province": "LU",
     "station_name": "Ponte Tavole (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02004028",
+    "timestamp": 1778149200,
+    "value": 1.08,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Versilia",
+    "province": "LU",
+    "station_name": "Seravezza 1 (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02004029",
+    "timestamp": 1778149200,
+    "value": 2,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Versilia",
+    "province": "LU",
+    "station_name": "Seravezza 2 (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02004045",
+    "timestamp": 1778149200,
+    "value": 1.23,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Versilia",
+    "province": "LU",
+    "station_name": "Ponte Tavole (GPRS)"
   }
 ]

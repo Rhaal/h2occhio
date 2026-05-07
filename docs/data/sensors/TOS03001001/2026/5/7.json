@@ -348,5 +348,75 @@
     "window_minutes": 2160,
     "province": "FI",
     "station_name": "Monte Giovi (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03001001",
+    "timestamp": 1778149200,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "FI",
+    "station_name": "Monte Giovi (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03001001",
+    "timestamp": 1778149200,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "FI",
+    "station_name": "Monte Giovi (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03001001",
+    "timestamp": 1778149200,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "FI",
+    "station_name": "Monte Giovi (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03001001",
+    "timestamp": 1778149200,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "FI",
+    "station_name": "Monte Giovi (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03001001",
+    "timestamp": 1778149200,
+    "value": 1.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "FI",
+    "station_name": "Monte Giovi (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03001001",
+    "timestamp": 1778149200,
+    "value": 37,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "FI",
+    "station_name": "Monte Giovi (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03001001",
+    "timestamp": 1778149200,
+    "value": 49.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "FI",
+    "station_name": "Monte Giovi (GPRS)"
   }
 ]

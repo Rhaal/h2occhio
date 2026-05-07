@@ -38,5 +38,15 @@
     "river": "Stella",
     "province": "PT",
     "station_name": "Ponte alla Ceppa (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03004871",
+    "timestamp": 1778148900,
+    "value": 0.3,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Stella",
+    "province": "PT",
+    "station_name": "Ponte alla Ceppa (RADIO)"
   }
 ]
