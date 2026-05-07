@@ -768,5 +768,75 @@
     "window_minutes": 2160,
     "province": "LU",
     "station_name": "Capanne di Sillano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000161",
+    "timestamp": 1778189400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "LU",
+    "station_name": "Capanne di Sillano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000161",
+    "timestamp": 1778189400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "LU",
+    "station_name": "Capanne di Sillano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000161",
+    "timestamp": 1778189400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "LU",
+    "station_name": "Capanne di Sillano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000161",
+    "timestamp": 1778189400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "LU",
+    "station_name": "Capanne di Sillano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000161",
+    "timestamp": 1778189400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "LU",
+    "station_name": "Capanne di Sillano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000161",
+    "timestamp": 1778189400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "LU",
+    "station_name": "Capanne di Sillano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000161",
+    "timestamp": 1778189400,
+    "value": 3,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "LU",
+    "station_name": "Capanne di Sillano (RADIO)"
   }
 ]

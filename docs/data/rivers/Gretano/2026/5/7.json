@@ -108,5 +108,15 @@
     "river": "Gretano",
     "province": "GR",
     "station_name": "Roccastrada (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01005785",
+    "timestamp": 1778189400,
+    "value": 0.86,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Gretano",
+    "province": "GR",
+    "station_name": "Roccastrada (RADIO)"
   }
 ]
