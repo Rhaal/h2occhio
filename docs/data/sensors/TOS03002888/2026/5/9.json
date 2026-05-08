@@ -1,0 +1,72 @@
+[
+  {
+    "sensor_id": "TOS03002888",
+    "timestamp": 1778277900,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "SI",
+    "station_name": "Montisi (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03002888",
+    "timestamp": 1778277900,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "SI",
+    "station_name": "Montisi (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03002888",
+    "timestamp": 1778277900,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "SI",
+    "station_name": "Montisi (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03002888",
+    "timestamp": 1778277900,
+    "value": 0.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "SI",
+    "station_name": "Montisi (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03002888",
+    "timestamp": 1778277900,
+    "value": 0.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "SI",
+    "station_name": "Montisi (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03002888",
+    "timestamp": 1778277900,
+    "value": 0.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "SI",
+    "station_name": "Montisi (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03002888",
+    "timestamp": 1778277900,
+    "value": 0.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "SI",
+    "station_name": "Montisi (GPRS)"
+  }
+]

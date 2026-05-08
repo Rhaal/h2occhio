@@ -1,0 +1,12 @@
+[
+  {
+    "sensor_id": "TOS03004519",
+    "timestamp": 1778277600,
+    "value": -0.2,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Canale della Chiana",
+    "province": "AR",
+    "station_name": "Ponte di Cesa (RADIO)"
+  }
+]

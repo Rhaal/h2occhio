@@ -1,0 +1,12 @@
+[
+  {
+    "sensor_id": "TOS03005611",
+    "timestamp": 1778277900,
+    "value": 0.07,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Bruna",
+    "province": "GR",
+    "station_name": "Lepri (GPRS)"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "sensor_id": "TOS01004901",
+    "timestamp": 1778277600,
+    "value": 1.94,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Arno",
+    "province": "FI",
+    "station_name": "Montelupo (RADIO)"
+  }
+]
