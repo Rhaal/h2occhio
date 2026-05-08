@@ -88,5 +88,15 @@
     "river": "Trasubbie",
     "province": "GR",
     "station_name": "Castellina (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03005811",
+    "timestamp": 1778251800,
+    "value": 0.73,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Trasubbie",
+    "province": "GR",
+    "station_name": "Castellina (GPRS)"
   }
 ]

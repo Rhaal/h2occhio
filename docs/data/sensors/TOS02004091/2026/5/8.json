@@ -718,5 +718,85 @@
     "window_minutes": 2160,
     "province": "LU",
     "station_name": "Viareggio 1 (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02004091",
+    "timestamp": 1778251800,
+    "value": 0.16,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Canale Burlamacca",
+    "province": "LU",
+    "station_name": "Viareggio 1 (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02004091",
+    "timestamp": 1778251800,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "LU",
+    "station_name": "Viareggio 1 (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02004091",
+    "timestamp": 1778251800,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "LU",
+    "station_name": "Viareggio 1 (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02004091",
+    "timestamp": 1778251800,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "LU",
+    "station_name": "Viareggio 1 (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02004091",
+    "timestamp": 1778251800,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "LU",
+    "station_name": "Viareggio 1 (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02004091",
+    "timestamp": 1778251800,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "LU",
+    "station_name": "Viareggio 1 (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02004091",
+    "timestamp": 1778251800,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "LU",
+    "station_name": "Viareggio 1 (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02004091",
+    "timestamp": 1778251800,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "LU",
+    "station_name": "Viareggio 1 (GPRS)"
   }
 ]

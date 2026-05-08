@@ -628,5 +628,75 @@
     "window_minutes": 2160,
     "province": "SI",
     "station_name": "Abbadia S. S. - Vetta Amiata 1 (GPRS)"
+  },
+  {
+    "sensor_id": "TOS11000115",
+    "timestamp": 1778251800,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "SI",
+    "station_name": "Abbadia S. S. - Vetta Amiata 1 (GPRS)"
+  },
+  {
+    "sensor_id": "TOS11000115",
+    "timestamp": 1778251800,
+    "value": 0.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "SI",
+    "station_name": "Abbadia S. S. - Vetta Amiata 1 (GPRS)"
+  },
+  {
+    "sensor_id": "TOS11000115",
+    "timestamp": 1778251800,
+    "value": 2.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "SI",
+    "station_name": "Abbadia S. S. - Vetta Amiata 1 (GPRS)"
+  },
+  {
+    "sensor_id": "TOS11000115",
+    "timestamp": 1778251800,
+    "value": 2.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "SI",
+    "station_name": "Abbadia S. S. - Vetta Amiata 1 (GPRS)"
+  },
+  {
+    "sensor_id": "TOS11000115",
+    "timestamp": 1778251800,
+    "value": 2.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "SI",
+    "station_name": "Abbadia S. S. - Vetta Amiata 1 (GPRS)"
+  },
+  {
+    "sensor_id": "TOS11000115",
+    "timestamp": 1778251800,
+    "value": 2.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "SI",
+    "station_name": "Abbadia S. S. - Vetta Amiata 1 (GPRS)"
+  },
+  {
+    "sensor_id": "TOS11000115",
+    "timestamp": 1778251800,
+    "value": 2.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "SI",
+    "station_name": "Abbadia S. S. - Vetta Amiata 1 (GPRS)"
   }
 ]
