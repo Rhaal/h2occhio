@@ -98,5 +98,15 @@
     "river": "Ema",
     "province": "FI",
     "station_name": "Grassina (RADIO)"
+  },
+  {
+    "sensor_id": "TOS19000704",
+    "timestamp": 1778256000,
+    "value": 0.35,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Ema",
+    "province": "FI",
+    "station_name": "Grassina (RADIO)"
   }
 ]

@@ -98,5 +98,15 @@
     "river": "Brana",
     "province": "PT",
     "station_name": "Ponte dei Gelli (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03004851",
+    "timestamp": 1778256000,
+    "value": 0.57,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Brana",
+    "province": "PT",
+    "station_name": "Ponte dei Gelli (RADIO)"
   }
 ]
