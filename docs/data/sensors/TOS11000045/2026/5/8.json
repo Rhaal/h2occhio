@@ -348,5 +348,75 @@
     "window_minutes": 2160,
     "province": "PI",
     "station_name": "S. Miniato Poggio al Pino (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000045",
+    "timestamp": 1778229000,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "PI",
+    "station_name": "S. Miniato Poggio al Pino (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000045",
+    "timestamp": 1778229000,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "PI",
+    "station_name": "S. Miniato Poggio al Pino (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000045",
+    "timestamp": 1778229000,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "PI",
+    "station_name": "S. Miniato Poggio al Pino (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000045",
+    "timestamp": 1778229000,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "PI",
+    "station_name": "S. Miniato Poggio al Pino (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000045",
+    "timestamp": 1778229000,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "PI",
+    "station_name": "S. Miniato Poggio al Pino (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000045",
+    "timestamp": 1778229000,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "PI",
+    "station_name": "S. Miniato Poggio al Pino (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000045",
+    "timestamp": 1778229000,
+    "value": 2.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "PI",
+    "station_name": "S. Miniato Poggio al Pino (RADIO)"
   }
 ]
