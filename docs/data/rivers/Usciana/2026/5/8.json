@@ -58,5 +58,15 @@
     "river": "Usciana",
     "province": "PI",
     "station_name": "Cateratte monte (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01005101",
+    "timestamp": 1778233500,
+    "value": 9.74,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Usciana",
+    "province": "PI",
+    "station_name": "Cateratte monte (RADIO)"
   }
 ]
