@@ -558,5 +558,75 @@
     "window_minutes": 2160,
     "province": "LU",
     "station_name": "Aquilea (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000049",
+    "timestamp": 1778245200,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "LU",
+    "station_name": "Aquilea (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000049",
+    "timestamp": 1778245200,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "LU",
+    "station_name": "Aquilea (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000049",
+    "timestamp": 1778245200,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "LU",
+    "station_name": "Aquilea (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000049",
+    "timestamp": 1778245200,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "LU",
+    "station_name": "Aquilea (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000049",
+    "timestamp": 1778245200,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "LU",
+    "station_name": "Aquilea (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000049",
+    "timestamp": 1778245200,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "LU",
+    "station_name": "Aquilea (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000049",
+    "timestamp": 1778245200,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "LU",
+    "station_name": "Aquilea (RADIO)"
   }
 ]

@@ -78,5 +78,15 @@
     "river": "Foenna",
     "province": "SI",
     "station_name": "Sinalunga (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03004513",
+    "timestamp": 1778245200,
+    "value": 0.11,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Foenna",
+    "province": "SI",
+    "station_name": "Sinalunga (RADIO)"
   }
 ]
