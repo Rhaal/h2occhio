@@ -78,5 +78,85 @@
     "window_minutes": 2160,
     "province": "LI",
     "station_name": "Vecchia SS Aurelia (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01005489",
+    "timestamp": 1778199300,
+    "value": 1.04,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Cornia",
+    "province": "LI",
+    "station_name": "Vecchia SS Aurelia (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01005489",
+    "timestamp": 1778199300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "LI",
+    "station_name": "Vecchia SS Aurelia (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01005489",
+    "timestamp": 1778199300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "LI",
+    "station_name": "Vecchia SS Aurelia (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01005489",
+    "timestamp": 1778199300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "LI",
+    "station_name": "Vecchia SS Aurelia (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01005489",
+    "timestamp": 1778199300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "LI",
+    "station_name": "Vecchia SS Aurelia (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01005489",
+    "timestamp": 1778199300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "LI",
+    "station_name": "Vecchia SS Aurelia (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01005489",
+    "timestamp": 1778199300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "LI",
+    "station_name": "Vecchia SS Aurelia (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01005489",
+    "timestamp": 1778199300,
+    "value": 1.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "LI",
+    "station_name": "Vecchia SS Aurelia (RADIO)"
   }
 ]

@@ -8,5 +8,15 @@
     "river": "Orcia",
     "province": "SI",
     "station_name": "S. Angelo Cinigiano (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03005781",
+    "timestamp": 1778199600,
+    "value": -0.08,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Orcia",
+    "province": "SI",
+    "station_name": "S. Angelo Cinigiano (GPRS)"
   }
 ]
