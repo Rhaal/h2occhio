@@ -28,5 +28,15 @@
     "river": "Mucchia",
     "province": "AR",
     "station_name": "Ponte SP Lauretana (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03004509",
+    "timestamp": 1778216400,
+    "value": 0.01,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Mucchia",
+    "province": "AR",
+    "station_name": "Ponte SP Lauretana (RADIO)"
   }
 ]
