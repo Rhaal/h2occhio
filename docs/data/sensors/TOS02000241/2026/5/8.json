@@ -278,5 +278,75 @@
     "window_minutes": 2160,
     "province": "LU",
     "station_name": "Campagrina (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02000241",
+    "timestamp": 1778223600,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "LU",
+    "station_name": "Campagrina (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02000241",
+    "timestamp": 1778223600,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "LU",
+    "station_name": "Campagrina (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02000241",
+    "timestamp": 1778223600,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "LU",
+    "station_name": "Campagrina (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02000241",
+    "timestamp": 1778223600,
+    "value": 0.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "LU",
+    "station_name": "Campagrina (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02000241",
+    "timestamp": 1778223600,
+    "value": 0.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "LU",
+    "station_name": "Campagrina (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02000241",
+    "timestamp": 1778223600,
+    "value": 0.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "LU",
+    "station_name": "Campagrina (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02000241",
+    "timestamp": 1778223600,
+    "value": 0.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "LU",
+    "station_name": "Campagrina (GPRS)"
   }
 ]

@@ -238,5 +238,65 @@
     "window_minutes": 1440,
     "province": "PI",
     "station_name": "Pisa (Fac. Agraria) (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01000544",
+    "timestamp": 1778223600,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "PI",
+    "station_name": "Pisa (Fac. Agraria) (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01000544",
+    "timestamp": 1778223600,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "PI",
+    "station_name": "Pisa (Fac. Agraria) (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01000544",
+    "timestamp": 1778223600,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "PI",
+    "station_name": "Pisa (Fac. Agraria) (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01000544",
+    "timestamp": 1778223600,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "PI",
+    "station_name": "Pisa (Fac. Agraria) (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01000544",
+    "timestamp": 1778223600,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "PI",
+    "station_name": "Pisa (Fac. Agraria) (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01000544",
+    "timestamp": 1778223600,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "PI",
+    "station_name": "Pisa (Fac. Agraria) (GPRS)"
   }
 ]
