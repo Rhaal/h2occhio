@@ -68,5 +68,75 @@
     "window_minutes": 2160,
     "province": "AR",
     "station_name": "Cortona (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01000751",
+    "timestamp": 1778281200,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "AR",
+    "station_name": "Cortona (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01000751",
+    "timestamp": 1778281200,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "AR",
+    "station_name": "Cortona (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01000751",
+    "timestamp": 1778281200,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "AR",
+    "station_name": "Cortona (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01000751",
+    "timestamp": 1778281200,
+    "value": 0.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "AR",
+    "station_name": "Cortona (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01000751",
+    "timestamp": 1778281200,
+    "value": 0.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "AR",
+    "station_name": "Cortona (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01000751",
+    "timestamp": 1778281200,
+    "value": 0.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "AR",
+    "station_name": "Cortona (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01000751",
+    "timestamp": 1778281200,
+    "value": 0.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "AR",
+    "station_name": "Cortona (GPRS)"
   }
 ]
