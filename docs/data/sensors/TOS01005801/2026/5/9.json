@@ -98,5 +98,15 @@
     "river": "Merse",
     "province": "GR",
     "station_name": "Montieri (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01005801",
+    "timestamp": 1778335500,
+    "value": 0.27,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Merse",
+    "province": "GR",
+    "station_name": "Montieri (GPRS)"
   }
 ]
