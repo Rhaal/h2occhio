@@ -38,5 +38,15 @@
     "river": "Pavone",
     "province": "PI",
     "station_name": "S. Dalmazio (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01005377",
+    "timestamp": 1778310000,
+    "value": 2.41,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Pavone",
+    "province": "PI",
+    "station_name": "S. Dalmazio (RADIO)"
   }
 ]

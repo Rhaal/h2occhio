@@ -238,5 +238,85 @@
     "river": "Lamone",
     "province": "FI",
     "station_name": "Marradi (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30250000",
+    "timestamp": 1778308200,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "FI",
+    "station_name": "Marradi (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30250000",
+    "timestamp": 1778308200,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "FI",
+    "station_name": "Marradi (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30250000",
+    "timestamp": 1778308200,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "FI",
+    "station_name": "Marradi (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30250000",
+    "timestamp": 1778308200,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "FI",
+    "station_name": "Marradi (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30250000",
+    "timestamp": 1778308200,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "FI",
+    "station_name": "Marradi (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30250000",
+    "timestamp": 1778308200,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "FI",
+    "station_name": "Marradi (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30250000",
+    "timestamp": 1778308200,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "FI",
+    "station_name": "Marradi (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30250000",
+    "timestamp": 1778309100,
+    "value": 0.26,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Lamone",
+    "province": "FI",
+    "station_name": "Marradi (RADIO)"
   }
 ]

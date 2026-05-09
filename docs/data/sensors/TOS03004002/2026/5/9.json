@@ -38,5 +38,15 @@
     "river": "Carrione (ramo Colonnata)",
     "province": "MS",
     "station_name": "Colonnata Valle (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03004002",
+    "timestamp": 1778310000,
+    "value": 0.01,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Carrione (ramo Colonnata)",
+    "province": "MS",
+    "station_name": "Colonnata Valle (RADIO)"
   }
 ]
