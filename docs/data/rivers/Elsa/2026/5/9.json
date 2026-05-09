@@ -98,5 +98,55 @@
     "river": "Elsa",
     "province": "FI",
     "station_name": "Castelfiorentino (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01004981",
+    "timestamp": 1778294700,
+    "value": 0.8,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Elsa",
+    "province": "PI",
+    "station_name": "Ponte a Elsa (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03005889",
+    "timestamp": 1778294700,
+    "value": -0.34,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Elsa",
+    "province": "GR",
+    "station_name": "SR74 Maremmana (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01004965",
+    "timestamp": 1778295000,
+    "value": 0.75,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Elsa",
+    "province": "SI",
+    "station_name": "Poggibonsi (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01004967",
+    "timestamp": 1778295000,
+    "value": 0.41,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Elsa",
+    "province": "FI",
+    "station_name": "Certaldo (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01004971",
+    "timestamp": 1778295000,
+    "value": -0.11,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Elsa",
+    "province": "FI",
+    "station_name": "Castelfiorentino (GPRS)"
   }
 ]
