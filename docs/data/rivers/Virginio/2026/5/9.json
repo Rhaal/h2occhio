@@ -108,5 +108,15 @@
     "river": "Virginio",
     "province": "FI",
     "station_name": "Montespertoli (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01004915",
+    "timestamp": 1778338800,
+    "value": 0.06,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Virginio",
+    "province": "FI",
+    "station_name": "Montespertoli (GPRS)"
   }
 ]

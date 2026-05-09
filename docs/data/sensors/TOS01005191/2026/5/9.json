@@ -878,5 +878,85 @@
     "window_minutes": 2160,
     "province": "PI",
     "station_name": "S. Giovanni alla Vena valle (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01005191",
+    "timestamp": 1778337900,
+    "value": 0.97,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Arno",
+    "province": "PI",
+    "station_name": "S. Giovanni alla Vena valle (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01005191",
+    "timestamp": 1778338800,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "PI",
+    "station_name": "S. Giovanni alla Vena valle (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01005191",
+    "timestamp": 1778338800,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "PI",
+    "station_name": "S. Giovanni alla Vena valle (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01005191",
+    "timestamp": 1778338800,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "PI",
+    "station_name": "S. Giovanni alla Vena valle (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01005191",
+    "timestamp": 1778338800,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "PI",
+    "station_name": "S. Giovanni alla Vena valle (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01005191",
+    "timestamp": 1778338800,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "PI",
+    "station_name": "S. Giovanni alla Vena valle (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01005191",
+    "timestamp": 1778338800,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "PI",
+    "station_name": "S. Giovanni alla Vena valle (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01005191",
+    "timestamp": 1778338800,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "PI",
+    "station_name": "S. Giovanni alla Vena valle (GPRS)"
   }
 ]
