@@ -238,5 +238,35 @@
     "river": "Scolmatore",
     "province": "LI",
     "station_name": "Stagno (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03005282",
+    "timestamp": 1778325300,
+    "value": 1.01,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Scolmatore",
+    "province": "LI",
+    "station_name": "SR206 Emilia (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01005262",
+    "timestamp": 1778326500,
+    "value": 2.2,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Scolmatore",
+    "province": "PI",
+    "station_name": "Gello (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01005342",
+    "timestamp": 1778326500,
+    "value": 0.26,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Scolmatore",
+    "province": "LI",
+    "station_name": "Stagno (GPRS)"
   }
 ]

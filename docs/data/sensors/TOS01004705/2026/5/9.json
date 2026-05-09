@@ -78,5 +78,15 @@
     "river": "Greve",
     "province": "FI",
     "station_name": "Greve (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01004705",
+    "timestamp": 1778325300,
+    "value": 0.41,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Greve",
+    "province": "FI",
+    "station_name": "Greve (RADIO)"
   }
 ]
