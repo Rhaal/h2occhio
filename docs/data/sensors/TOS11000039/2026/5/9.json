@@ -488,5 +488,75 @@
     "window_minutes": 2160,
     "province": "AR",
     "station_name": "Anghiari (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000039",
+    "timestamp": 1778321700,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "AR",
+    "station_name": "Anghiari (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000039",
+    "timestamp": 1778321700,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "AR",
+    "station_name": "Anghiari (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000039",
+    "timestamp": 1778321700,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "AR",
+    "station_name": "Anghiari (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000039",
+    "timestamp": 1778321700,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "AR",
+    "station_name": "Anghiari (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000039",
+    "timestamp": 1778321700,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "AR",
+    "station_name": "Anghiari (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000039",
+    "timestamp": 1778321700,
+    "value": 0.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "AR",
+    "station_name": "Anghiari (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000039",
+    "timestamp": 1778321700,
+    "value": 0.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "AR",
+    "station_name": "Anghiari (RADIO)"
   }
 ]

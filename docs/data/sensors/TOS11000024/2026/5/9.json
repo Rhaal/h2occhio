@@ -488,5 +488,75 @@
     "window_minutes": 2160,
     "province": "FI",
     "station_name": "Remole (GPRS)"
+  },
+  {
+    "sensor_id": "TOS11000024",
+    "timestamp": 1778322300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "FI",
+    "station_name": "Remole (GPRS)"
+  },
+  {
+    "sensor_id": "TOS11000024",
+    "timestamp": 1778322300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "FI",
+    "station_name": "Remole (GPRS)"
+  },
+  {
+    "sensor_id": "TOS11000024",
+    "timestamp": 1778322300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "FI",
+    "station_name": "Remole (GPRS)"
+  },
+  {
+    "sensor_id": "TOS11000024",
+    "timestamp": 1778322300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "FI",
+    "station_name": "Remole (GPRS)"
+  },
+  {
+    "sensor_id": "TOS11000024",
+    "timestamp": 1778322300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "FI",
+    "station_name": "Remole (GPRS)"
+  },
+  {
+    "sensor_id": "TOS11000024",
+    "timestamp": 1778322300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "FI",
+    "station_name": "Remole (GPRS)"
+  },
+  {
+    "sensor_id": "TOS11000024",
+    "timestamp": 1778322300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "FI",
+    "station_name": "Remole (GPRS)"
   }
 ]

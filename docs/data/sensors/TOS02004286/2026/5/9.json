@@ -558,5 +558,85 @@
     "window_minutes": 2160,
     "province": "LU",
     "station_name": "Mutigliano (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02004286",
+    "timestamp": 1778322300,
+    "value": 0.51,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Freddana",
+    "province": "LU",
+    "station_name": "Mutigliano (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02004286",
+    "timestamp": 1778322300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "LU",
+    "station_name": "Mutigliano (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02004286",
+    "timestamp": 1778322300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "LU",
+    "station_name": "Mutigliano (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02004286",
+    "timestamp": 1778322300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "LU",
+    "station_name": "Mutigliano (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02004286",
+    "timestamp": 1778322300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "LU",
+    "station_name": "Mutigliano (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02004286",
+    "timestamp": 1778322300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "LU",
+    "station_name": "Mutigliano (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02004286",
+    "timestamp": 1778322300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "LU",
+    "station_name": "Mutigliano (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02004286",
+    "timestamp": 1778322300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "LU",
+    "station_name": "Mutigliano (GPRS)"
   }
 ]
