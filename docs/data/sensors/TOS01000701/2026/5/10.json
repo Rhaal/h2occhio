@@ -348,5 +348,75 @@
     "window_minutes": 2160,
     "province": "AR",
     "station_name": "Capezzine (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000701",
+    "timestamp": 1778407200,
+    "value": 0.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "AR",
+    "station_name": "Capezzine (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000701",
+    "timestamp": 1778407200,
+    "value": 3.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "AR",
+    "station_name": "Capezzine (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000701",
+    "timestamp": 1778407200,
+    "value": 5.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "AR",
+    "station_name": "Capezzine (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000701",
+    "timestamp": 1778407200,
+    "value": 7.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "AR",
+    "station_name": "Capezzine (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000701",
+    "timestamp": 1778407200,
+    "value": 8.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "AR",
+    "station_name": "Capezzine (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000701",
+    "timestamp": 1778407200,
+    "value": 8.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "AR",
+    "station_name": "Capezzine (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000701",
+    "timestamp": 1778407200,
+    "value": 8.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "AR",
+    "station_name": "Capezzine (RADIO)"
   }
 ]

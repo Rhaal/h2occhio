@@ -348,5 +348,75 @@
     "window_minutes": 2160,
     "province": "AR",
     "station_name": "Ortignano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000601",
+    "timestamp": 1778407200,
+    "value": 0.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "AR",
+    "station_name": "Ortignano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000601",
+    "timestamp": 1778407200,
+    "value": 0.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "AR",
+    "station_name": "Ortignano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000601",
+    "timestamp": 1778407200,
+    "value": 5.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "AR",
+    "station_name": "Ortignano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000601",
+    "timestamp": 1778407200,
+    "value": 6.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "AR",
+    "station_name": "Ortignano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000601",
+    "timestamp": 1778407200,
+    "value": 7.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "AR",
+    "station_name": "Ortignano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000601",
+    "timestamp": 1778407200,
+    "value": 7.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "AR",
+    "station_name": "Ortignano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000601",
+    "timestamp": 1778407200,
+    "value": 7.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "AR",
+    "station_name": "Ortignano (RADIO)"
   }
 ]

@@ -348,5 +348,75 @@
     "window_minutes": 2160,
     "province": "AR",
     "station_name": "Stia Monte (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000105",
+    "timestamp": 1778407200,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "AR",
+    "station_name": "Stia Monte (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000105",
+    "timestamp": 1778407200,
+    "value": 0.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "AR",
+    "station_name": "Stia Monte (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000105",
+    "timestamp": 1778407200,
+    "value": 2.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "AR",
+    "station_name": "Stia Monte (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000105",
+    "timestamp": 1778407200,
+    "value": 2.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "AR",
+    "station_name": "Stia Monte (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000105",
+    "timestamp": 1778407200,
+    "value": 2.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "AR",
+    "station_name": "Stia Monte (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000105",
+    "timestamp": 1778407200,
+    "value": 3.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "AR",
+    "station_name": "Stia Monte (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000105",
+    "timestamp": 1778407200,
+    "value": 3.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "AR",
+    "station_name": "Stia Monte (RADIO)"
   }
 ]
