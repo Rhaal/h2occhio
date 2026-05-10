@@ -418,5 +418,75 @@
     "window_minutes": 2160,
     "province": "GR",
     "station_name": "Caldana (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03002551",
+    "timestamp": 1778410500,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "GR",
+    "station_name": "Caldana (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03002551",
+    "timestamp": 1778410500,
+    "value": 0.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "GR",
+    "station_name": "Caldana (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03002551",
+    "timestamp": 1778410500,
+    "value": 6.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "GR",
+    "station_name": "Caldana (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03002551",
+    "timestamp": 1778410500,
+    "value": 10.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "GR",
+    "station_name": "Caldana (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03002551",
+    "timestamp": 1778410500,
+    "value": 14.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "GR",
+    "station_name": "Caldana (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03002551",
+    "timestamp": 1778410500,
+    "value": 14.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "GR",
+    "station_name": "Caldana (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03002551",
+    "timestamp": 1778410500,
+    "value": 14.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "GR",
+    "station_name": "Caldana (GPRS)"
   }
 ]

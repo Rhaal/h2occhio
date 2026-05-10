@@ -418,5 +418,75 @@
     "window_minutes": 2160,
     "province": "GR",
     "station_name": "Massa Marittima Valpiana (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000041",
+    "timestamp": 1778409900,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "GR",
+    "station_name": "Massa Marittima Valpiana (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000041",
+    "timestamp": 1778409900,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "GR",
+    "station_name": "Massa Marittima Valpiana (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000041",
+    "timestamp": 1778409900,
+    "value": 5.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "GR",
+    "station_name": "Massa Marittima Valpiana (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000041",
+    "timestamp": 1778409900,
+    "value": 8.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "GR",
+    "station_name": "Massa Marittima Valpiana (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000041",
+    "timestamp": 1778409900,
+    "value": 12.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "GR",
+    "station_name": "Massa Marittima Valpiana (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000041",
+    "timestamp": 1778409900,
+    "value": 12.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "GR",
+    "station_name": "Massa Marittima Valpiana (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000041",
+    "timestamp": 1778409900,
+    "value": 12.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "GR",
+    "station_name": "Massa Marittima Valpiana (RADIO)"
   }
 ]

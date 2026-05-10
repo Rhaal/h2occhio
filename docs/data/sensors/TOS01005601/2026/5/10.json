@@ -58,5 +58,15 @@
     "river": "Bruna",
     "province": "GR",
     "station_name": "Macchiascandona (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01005601",
+    "timestamp": 1778410500,
+    "value": 0.49,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Bruna",
+    "province": "GR",
+    "station_name": "Macchiascandona (GPRS)"
   }
 ]
