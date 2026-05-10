@@ -208,5 +208,75 @@
     "window_minutes": 2160,
     "province": "SI",
     "station_name": "Rigomagno (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03000715",
+    "timestamp": 1778397900,
+    "value": 0.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "SI",
+    "station_name": "Rigomagno (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03000715",
+    "timestamp": 1778397900,
+    "value": 3.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "SI",
+    "station_name": "Rigomagno (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03000715",
+    "timestamp": 1778397900,
+    "value": 6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "SI",
+    "station_name": "Rigomagno (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03000715",
+    "timestamp": 1778397900,
+    "value": 9.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "SI",
+    "station_name": "Rigomagno (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03000715",
+    "timestamp": 1778397900,
+    "value": 9.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "SI",
+    "station_name": "Rigomagno (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03000715",
+    "timestamp": 1778397900,
+    "value": 9.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "SI",
+    "station_name": "Rigomagno (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03000715",
+    "timestamp": 1778397900,
+    "value": 9.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "SI",
+    "station_name": "Rigomagno (GPRS)"
   }
 ]
