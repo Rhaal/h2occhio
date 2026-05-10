@@ -498,5 +498,45 @@
     "river": "Cornia",
     "province": "LI",
     "station_name": "Vecchia SS Aurelia (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01005461",
+    "timestamp": 1778424000,
+    "value": 0.42,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Cornia",
+    "province": "PI",
+    "station_name": "SP Lodano (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01005471",
+    "timestamp": 1778424000,
+    "value": 0.57,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Cornia",
+    "province": "LI",
+    "station_name": "Ponte per Montioni (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01005472",
+    "timestamp": 1778424000,
+    "value": 0.48,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Cornia",
+    "province": "LI",
+    "station_name": "Ponte per Montioni 2 (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01005489",
+    "timestamp": 1778424000,
+    "value": 0.93,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Cornia",
+    "province": "LI",
+    "station_name": "Vecchia SS Aurelia (GPRS)"
   }
 ]

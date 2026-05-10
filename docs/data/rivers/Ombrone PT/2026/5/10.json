@@ -398,5 +398,15 @@
     "river": "Ombrone PT",
     "province": "PT",
     "station_name": "Pontelungo valle (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01004839",
+    "timestamp": 1778424000,
+    "value": 0.62,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Ombrone PT",
+    "province": "PT",
+    "station_name": "Pontelungo valle (GPRS)"
   }
 ]

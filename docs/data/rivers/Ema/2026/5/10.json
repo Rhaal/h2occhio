@@ -298,5 +298,15 @@
     "river": "Ema",
     "province": "FI",
     "station_name": "Strada in Chianti (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01004725",
+    "timestamp": 1778424000,
+    "value": 0.35,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Ema",
+    "province": "FI",
+    "station_name": "Strada in Chianti (GPRS)"
   }
 ]
