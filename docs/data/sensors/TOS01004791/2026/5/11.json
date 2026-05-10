@@ -1,0 +1,12 @@
+[
+  {
+    "sensor_id": "TOS01004791",
+    "timestamp": 1778451600,
+    "value": 1.52,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Bisenzio",
+    "province": "FI",
+    "station_name": "S. Piero a Ponti (GPRS)"
+  }
+]
