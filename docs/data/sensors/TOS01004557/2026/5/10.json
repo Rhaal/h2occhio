@@ -108,5 +108,15 @@
     "river": "Oreno",
     "province": "AR",
     "station_name": "Laterina (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01004557",
+    "timestamp": 1778430600,
+    "value": 0.03,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Oreno",
+    "province": "AR",
+    "station_name": "Laterina (RADIO)"
   }
 ]

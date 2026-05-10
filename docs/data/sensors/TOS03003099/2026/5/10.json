@@ -768,5 +768,75 @@
     "window_minutes": 2160,
     "province": "GR",
     "station_name": "S. Donato (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03003099",
+    "timestamp": 1778429700,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "GR",
+    "station_name": "S. Donato (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03003099",
+    "timestamp": 1778429700,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "GR",
+    "station_name": "S. Donato (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03003099",
+    "timestamp": 1778429700,
+    "value": 4.9,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "GR",
+    "station_name": "S. Donato (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03003099",
+    "timestamp": 1778429700,
+    "value": 6.1,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "GR",
+    "station_name": "S. Donato (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03003099",
+    "timestamp": 1778429700,
+    "value": 7.7,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "GR",
+    "station_name": "S. Donato (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03003099",
+    "timestamp": 1778429700,
+    "value": 12.9,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "GR",
+    "station_name": "S. Donato (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03003099",
+    "timestamp": 1778429700,
+    "value": 12.9,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "GR",
+    "station_name": "S. Donato (RADIO)"
   }
 ]

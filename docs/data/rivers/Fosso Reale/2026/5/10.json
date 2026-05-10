@@ -108,5 +108,15 @@
     "river": "Fosso Reale",
     "province": "FI",
     "station_name": "Sesto Fiorentino (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01004795",
+    "timestamp": 1778430600,
+    "value": 0.2,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Fosso Reale",
+    "province": "FI",
+    "station_name": "Sesto Fiorentino (RADIO)"
   }
 ]
