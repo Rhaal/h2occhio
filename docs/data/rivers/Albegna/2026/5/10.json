@@ -318,5 +318,35 @@
     "river": "Albegna",
     "province": "GR",
     "station_name": "Marsiliana (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03005897",
+    "timestamp": 1778427000,
+    "value": 0.61,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Albegna",
+    "province": "GR",
+    "station_name": "SP323 Amiatina (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03005881",
+    "timestamp": 1778427600,
+    "value": 0.96,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Albegna",
+    "province": "GR",
+    "station_name": "Ponte di Montemerano (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03005895",
+    "timestamp": 1778427600,
+    "value": 0.55,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Albegna",
+    "province": "GR",
+    "station_name": "Marsiliana (GPRS)"
   }
 ]

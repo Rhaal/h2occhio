@@ -768,5 +768,75 @@
     "window_minutes": 2160,
     "province": "FI",
     "station_name": "Le Croci di Calenzano (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01001189",
+    "timestamp": 1778427600,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "FI",
+    "station_name": "Le Croci di Calenzano (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01001189",
+    "timestamp": 1778427600,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "FI",
+    "station_name": "Le Croci di Calenzano (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01001189",
+    "timestamp": 1778427600,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "FI",
+    "station_name": "Le Croci di Calenzano (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01001189",
+    "timestamp": 1778427600,
+    "value": 2.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "FI",
+    "station_name": "Le Croci di Calenzano (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01001189",
+    "timestamp": 1778427600,
+    "value": 6.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "FI",
+    "station_name": "Le Croci di Calenzano (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01001189",
+    "timestamp": 1778427600,
+    "value": 7.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "FI",
+    "station_name": "Le Croci di Calenzano (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01001189",
+    "timestamp": 1778427600,
+    "value": 7.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "FI",
+    "station_name": "Le Croci di Calenzano (GPRS)"
   }
 ]

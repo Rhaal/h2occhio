@@ -698,5 +698,75 @@
     "window_minutes": 2160,
     "province": "SI",
     "station_name": "Castiglione d'Orcia (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000058",
+    "timestamp": 1778427000,
+    "value": 0.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "SI",
+    "station_name": "Castiglione d'Orcia (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000058",
+    "timestamp": 1778427000,
+    "value": 1,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "SI",
+    "station_name": "Castiglione d'Orcia (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000058",
+    "timestamp": 1778427000,
+    "value": 1.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "SI",
+    "station_name": "Castiglione d'Orcia (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000058",
+    "timestamp": 1778427000,
+    "value": 2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "SI",
+    "station_name": "Castiglione d'Orcia (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000058",
+    "timestamp": 1778427000,
+    "value": 10.5,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "SI",
+    "station_name": "Castiglione d'Orcia (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000058",
+    "timestamp": 1778427000,
+    "value": 13.7,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "SI",
+    "station_name": "Castiglione d'Orcia (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000058",
+    "timestamp": 1778427000,
+    "value": 13.7,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "SI",
+    "station_name": "Castiglione d'Orcia (RADIO)"
   }
 ]
