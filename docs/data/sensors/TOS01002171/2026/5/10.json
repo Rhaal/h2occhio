@@ -278,5 +278,75 @@
     "window_minutes": 2160,
     "province": "PI",
     "station_name": "Canneto 9 (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01002171",
+    "timestamp": 1778403300,
+    "value": 0.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "PI",
+    "station_name": "Canneto 9 (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01002171",
+    "timestamp": 1778403300,
+    "value": 1.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "PI",
+    "station_name": "Canneto 9 (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01002171",
+    "timestamp": 1778403300,
+    "value": 9.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "PI",
+    "station_name": "Canneto 9 (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01002171",
+    "timestamp": 1778403300,
+    "value": 12,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "PI",
+    "station_name": "Canneto 9 (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01002171",
+    "timestamp": 1778403300,
+    "value": 15.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "PI",
+    "station_name": "Canneto 9 (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01002171",
+    "timestamp": 1778403300,
+    "value": 15.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "PI",
+    "station_name": "Canneto 9 (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01002171",
+    "timestamp": 1778403300,
+    "value": 15.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "PI",
+    "station_name": "Canneto 9 (GPRS)"
   }
 ]

@@ -278,5 +278,75 @@
     "window_minutes": 2160,
     "province": "FI",
     "station_name": "Monteboro (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000504",
+    "timestamp": 1778402700,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "FI",
+    "station_name": "Monteboro (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000504",
+    "timestamp": 1778402700,
+    "value": 0.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "FI",
+    "station_name": "Monteboro (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000504",
+    "timestamp": 1778402700,
+    "value": 4.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "FI",
+    "station_name": "Monteboro (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000504",
+    "timestamp": 1778402700,
+    "value": 5.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "FI",
+    "station_name": "Monteboro (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000504",
+    "timestamp": 1778402700,
+    "value": 5.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "FI",
+    "station_name": "Monteboro (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000504",
+    "timestamp": 1778402700,
+    "value": 5.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "FI",
+    "station_name": "Monteboro (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000504",
+    "timestamp": 1778402700,
+    "value": 5.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "FI",
+    "station_name": "Monteboro (RADIO)"
   }
 ]
