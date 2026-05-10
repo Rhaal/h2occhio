@@ -318,5 +318,45 @@
     "river": "Laguna",
     "province": "GR",
     "station_name": "Ansedonia (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03003111",
+    "timestamp": 1778419800,
+    "value": 0.03,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Laguna",
+    "province": "GR",
+    "station_name": "Fibia (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03003116",
+    "timestamp": 1778419800,
+    "value": 0.12,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Laguna",
+    "province": "GR",
+    "station_name": "Diga (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03003117",
+    "timestamp": 1778419800,
+    "value": 0.03,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Laguna",
+    "province": "GR",
+    "station_name": "Nassa (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03003118",
+    "timestamp": 1778419800,
+    "value": 0.13,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Laguna",
+    "province": "GR",
+    "station_name": "Ansedonia (GPRS)"
   }
 ]

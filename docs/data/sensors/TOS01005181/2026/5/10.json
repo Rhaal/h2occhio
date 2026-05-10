@@ -638,5 +638,85 @@
     "river": "Arno",
     "province": "PI",
     "station_name": "Pontedera (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01005181",
+    "timestamp": 1778420400,
+    "value": -0.03,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Arno",
+    "province": "PI",
+    "station_name": "Pontedera (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01005181",
+    "timestamp": 1778420400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "PI",
+    "station_name": "Pontedera (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01005181",
+    "timestamp": 1778420400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "PI",
+    "station_name": "Pontedera (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01005181",
+    "timestamp": 1778420400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "PI",
+    "station_name": "Pontedera (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01005181",
+    "timestamp": 1778420400,
+    "value": 2.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "PI",
+    "station_name": "Pontedera (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01005181",
+    "timestamp": 1778420400,
+    "value": 9.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "PI",
+    "station_name": "Pontedera (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01005181",
+    "timestamp": 1778420400,
+    "value": 10,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "PI",
+    "station_name": "Pontedera (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01005181",
+    "timestamp": 1778420400,
+    "value": 10,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "PI",
+    "station_name": "Pontedera (GPRS)"
   }
 ]
