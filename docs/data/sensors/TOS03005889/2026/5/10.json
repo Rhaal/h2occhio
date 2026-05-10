@@ -1,0 +1,12 @@
+[
+  {
+    "sensor_id": "TOS03005889",
+    "timestamp": 1778366700,
+    "value": -0.34,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Elsa",
+    "province": "GR",
+    "station_name": "SR74 Maremmana (RADIO)"
+  }
+]

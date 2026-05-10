@@ -1,0 +1,72 @@
+[
+  {
+    "sensor_id": "TOS03001099",
+    "timestamp": 1778366700,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "FI",
+    "station_name": "Firenze Giardino di Boboli (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03001099",
+    "timestamp": 1778366700,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "FI",
+    "station_name": "Firenze Giardino di Boboli (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03001099",
+    "timestamp": 1778366700,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "FI",
+    "station_name": "Firenze Giardino di Boboli (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03001099",
+    "timestamp": 1778366700,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "FI",
+    "station_name": "Firenze Giardino di Boboli (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03001099",
+    "timestamp": 1778366700,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "FI",
+    "station_name": "Firenze Giardino di Boboli (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03001099",
+    "timestamp": 1778366700,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "FI",
+    "station_name": "Firenze Giardino di Boboli (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03001099",
+    "timestamp": 1778366700,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "FI",
+    "station_name": "Firenze Giardino di Boboli (RADIO)"
+  }
+]

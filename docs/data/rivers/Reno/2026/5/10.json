@@ -1,0 +1,12 @@
+[
+  {
+    "sensor_id": "TOS30150800",
+    "timestamp": 1778364900,
+    "value": 0.14,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Reno",
+    "province": "PT",
+    "station_name": "Pracchia (RADIO)"
+  }
+]

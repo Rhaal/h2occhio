@@ -1,0 +1,12 @@
+[
+  {
+    "sensor_id": "TOS03005831",
+    "timestamp": 1778366700,
+    "value": 0.7,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "OmbroneGR",
+    "province": "GR",
+    "station_name": "Ponte Tura Aurelia (RADIO)"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "sensor_id": "TOS03005641",
+    "timestamp": 1778366700,
+    "value": 0.61,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "OmbroneGR",
+    "province": "SI",
+    "station_name": "Ponte del Garbo (RADIO)"
+  }
+]
