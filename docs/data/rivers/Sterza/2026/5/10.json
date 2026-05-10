@@ -18,5 +18,15 @@
     "river": "Sterza",
     "province": "PI",
     "station_name": "Case Grisella (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01005403",
+    "timestamp": 1778391000,
+    "value": 0.51,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Sterza",
+    "province": "PI",
+    "station_name": "Case Grisella (RADIO)"
   }
 ]
