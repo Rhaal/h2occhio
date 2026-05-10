@@ -1048,5 +1048,75 @@
     "window_minutes": 2160,
     "province": "AR",
     "station_name": "Montemignaio (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000591",
+    "timestamp": 1778444100,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "AR",
+    "station_name": "Montemignaio (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000591",
+    "timestamp": 1778444100,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "AR",
+    "station_name": "Montemignaio (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000591",
+    "timestamp": 1778444100,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "AR",
+    "station_name": "Montemignaio (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000591",
+    "timestamp": 1778444100,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "AR",
+    "station_name": "Montemignaio (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000591",
+    "timestamp": 1778444100,
+    "value": 9.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "AR",
+    "station_name": "Montemignaio (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000591",
+    "timestamp": 1778444100,
+    "value": 10.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "AR",
+    "station_name": "Montemignaio (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000591",
+    "timestamp": 1778444100,
+    "value": 10.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "AR",
+    "station_name": "Montemignaio (RADIO)"
   }
 ]

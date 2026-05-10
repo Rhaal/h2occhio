@@ -158,5 +158,15 @@
     "river": "Santerno",
     "province": "FI",
     "station_name": "Firenzuola Coniale (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03004373",
+    "timestamp": 1778444700,
+    "value": 0.59,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Santerno",
+    "province": "FI",
+    "station_name": "Firenzuola Coniale (GPRS)"
   }
 ]

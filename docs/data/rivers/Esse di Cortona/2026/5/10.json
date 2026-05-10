@@ -148,5 +148,15 @@
     "river": "Esse di Cortona",
     "province": "AR",
     "station_name": "Camucia (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03004511",
+    "timestamp": 1778444100,
+    "value": 0.54,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Esse di Cortona",
+    "province": "AR",
+    "station_name": "Camucia (RADIO)"
   }
 ]
