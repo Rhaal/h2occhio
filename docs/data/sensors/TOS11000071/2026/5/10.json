@@ -1188,5 +1188,75 @@
     "window_minutes": 2160,
     "province": "FI",
     "station_name": "Cerreto Guidi (GPRS)"
+  },
+  {
+    "sensor_id": "TOS11000071",
+    "timestamp": 1778448000,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "FI",
+    "station_name": "Cerreto Guidi (GPRS)"
+  },
+  {
+    "sensor_id": "TOS11000071",
+    "timestamp": 1778448000,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "FI",
+    "station_name": "Cerreto Guidi (GPRS)"
+  },
+  {
+    "sensor_id": "TOS11000071",
+    "timestamp": 1778448000,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "FI",
+    "station_name": "Cerreto Guidi (GPRS)"
+  },
+  {
+    "sensor_id": "TOS11000071",
+    "timestamp": 1778448000,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "FI",
+    "station_name": "Cerreto Guidi (GPRS)"
+  },
+  {
+    "sensor_id": "TOS11000071",
+    "timestamp": 1778448000,
+    "value": 2.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "FI",
+    "station_name": "Cerreto Guidi (GPRS)"
+  },
+  {
+    "sensor_id": "TOS11000071",
+    "timestamp": 1778448000,
+    "value": 10.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "FI",
+    "station_name": "Cerreto Guidi (GPRS)"
+  },
+  {
+    "sensor_id": "TOS11000071",
+    "timestamp": 1778448000,
+    "value": 10.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "FI",
+    "station_name": "Cerreto Guidi (GPRS)"
   }
 ]
