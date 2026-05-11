@@ -1,0 +1,12 @@
+[
+  {
+    "sensor_id": "TOS02004291",
+    "timestamp": 1778537100,
+    "value": 0.49,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Serchio",
+    "province": "LU",
+    "station_name": "Monte S. Quirico (GPRS)"
+  }
+]
