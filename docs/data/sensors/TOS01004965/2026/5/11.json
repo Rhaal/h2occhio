@@ -158,5 +158,85 @@
     "window_minutes": 2160,
     "province": "SI",
     "station_name": "Poggibonsi (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01004965",
+    "timestamp": 1778472300,
+    "value": 0.8,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Elsa",
+    "province": "SI",
+    "station_name": "Poggibonsi (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01004965",
+    "timestamp": 1778472300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "SI",
+    "station_name": "Poggibonsi (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01004965",
+    "timestamp": 1778472300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "SI",
+    "station_name": "Poggibonsi (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01004965",
+    "timestamp": 1778472300,
+    "value": 0.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "SI",
+    "station_name": "Poggibonsi (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01004965",
+    "timestamp": 1778472300,
+    "value": 0.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "SI",
+    "station_name": "Poggibonsi (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01004965",
+    "timestamp": 1778472300,
+    "value": 0.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "SI",
+    "station_name": "Poggibonsi (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01004965",
+    "timestamp": 1778472300,
+    "value": 20.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "SI",
+    "station_name": "Poggibonsi (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01004965",
+    "timestamp": 1778472300,
+    "value": 22.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "SI",
+    "station_name": "Poggibonsi (GPRS)"
   }
 ]

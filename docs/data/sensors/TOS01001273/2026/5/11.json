@@ -138,5 +138,75 @@
     "window_minutes": 2160,
     "province": "PO",
     "station_name": "Fattoria Iavello (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01001273",
+    "timestamp": 1778472000,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "PO",
+    "station_name": "Fattoria Iavello (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01001273",
+    "timestamp": 1778472000,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "PO",
+    "station_name": "Fattoria Iavello (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01001273",
+    "timestamp": 1778472000,
+    "value": 3.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "PO",
+    "station_name": "Fattoria Iavello (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01001273",
+    "timestamp": 1778472000,
+    "value": 5.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "PO",
+    "station_name": "Fattoria Iavello (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01001273",
+    "timestamp": 1778472000,
+    "value": 5.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "PO",
+    "station_name": "Fattoria Iavello (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01001273",
+    "timestamp": 1778472000,
+    "value": 11.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "PO",
+    "station_name": "Fattoria Iavello (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01001273",
+    "timestamp": 1778472000,
+    "value": 11.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "PO",
+    "station_name": "Fattoria Iavello (RADIO)"
   }
 ]
