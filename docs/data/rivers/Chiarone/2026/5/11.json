@@ -1,0 +1,12 @@
+[
+  {
+    "sensor_id": "TOS03005995",
+    "timestamp": 1778505300,
+    "value": 0.39,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Chiarone",
+    "province": "GR",
+    "station_name": "S. S. 1 Aurelia (RADIO)"
+  }
+]
