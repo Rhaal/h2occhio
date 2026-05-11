@@ -208,5 +208,75 @@
     "window_minutes": 2160,
     "province": "PI",
     "station_name": "Monte Serra (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000020",
+    "timestamp": 1778483700,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "PI",
+    "station_name": "Monte Serra (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000020",
+    "timestamp": 1778483700,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "PI",
+    "station_name": "Monte Serra (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000020",
+    "timestamp": 1778483700,
+    "value": 0.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "PI",
+    "station_name": "Monte Serra (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000020",
+    "timestamp": 1778483700,
+    "value": 0.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "PI",
+    "station_name": "Monte Serra (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000020",
+    "timestamp": 1778483700,
+    "value": 10.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "PI",
+    "station_name": "Monte Serra (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000020",
+    "timestamp": 1778483700,
+    "value": 13.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "PI",
+    "station_name": "Monte Serra (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000020",
+    "timestamp": 1778483700,
+    "value": 22.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "PI",
+    "station_name": "Monte Serra (RADIO)"
   }
 ]
