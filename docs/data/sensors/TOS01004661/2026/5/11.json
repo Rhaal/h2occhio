@@ -8,5 +8,15 @@
     "river": "Arno",
     "province": "FI",
     "station_name": "Nave di Rosano valle (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01004661",
+    "timestamp": 1778457600,
+    "value": 1.8,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Arno",
+    "province": "FI",
+    "station_name": "Nave di Rosano valle (RADIO)"
   }
 ]
