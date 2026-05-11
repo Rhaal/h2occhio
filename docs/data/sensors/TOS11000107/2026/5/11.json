@@ -418,5 +418,75 @@
     "window_minutes": 2160,
     "province": "LI",
     "station_name": "Gorgona (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000107",
+    "timestamp": 1778514300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "LI",
+    "station_name": "Gorgona (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000107",
+    "timestamp": 1778514300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "LI",
+    "station_name": "Gorgona (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000107",
+    "timestamp": 1778514300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "LI",
+    "station_name": "Gorgona (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000107",
+    "timestamp": 1778514300,
+    "value": 0.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "LI",
+    "station_name": "Gorgona (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000107",
+    "timestamp": 1778514300,
+    "value": 0.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "LI",
+    "station_name": "Gorgona (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000107",
+    "timestamp": 1778514300,
+    "value": 1.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "LI",
+    "station_name": "Gorgona (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000107",
+    "timestamp": 1778514300,
+    "value": 6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "LI",
+    "station_name": "Gorgona (RADIO)"
   }
 ]

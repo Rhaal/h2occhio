@@ -418,5 +418,75 @@
     "window_minutes": 2160,
     "province": "LU",
     "station_name": "Villacollemandina (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000203",
+    "timestamp": 1778515200,
+    "value": 0.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "LU",
+    "station_name": "Villacollemandina (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000203",
+    "timestamp": 1778515200,
+    "value": 1,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "LU",
+    "station_name": "Villacollemandina (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000203",
+    "timestamp": 1778515200,
+    "value": 4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "LU",
+    "station_name": "Villacollemandina (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000203",
+    "timestamp": 1778515200,
+    "value": 9.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "LU",
+    "station_name": "Villacollemandina (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000203",
+    "timestamp": 1778515200,
+    "value": 25.9,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "LU",
+    "station_name": "Villacollemandina (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000203",
+    "timestamp": 1778515200,
+    "value": 27.9,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "LU",
+    "station_name": "Villacollemandina (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000203",
+    "timestamp": 1778515200,
+    "value": 28.1,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "LU",
+    "station_name": "Villacollemandina (RADIO)"
   }
 ]
