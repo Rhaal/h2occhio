@@ -78,5 +78,15 @@
     "river": "Cecina",
     "province": "PI",
     "station_name": "Masso degli Specchi (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01005372",
+    "timestamp": 1778604300,
+    "value": 0.22,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Cecina",
+    "province": "PI",
+    "station_name": "Masso degli Specchi (RADIO)"
   }
 ]

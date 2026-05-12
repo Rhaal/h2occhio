@@ -78,5 +78,15 @@
     "river": "Magra",
     "province": "MS",
     "station_name": "S. Giustina (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001083",
+    "timestamp": 1778604300,
+    "value": -1.33,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Magra",
+    "province": "MS",
+    "station_name": "S. Giustina (RADIO)"
   }
 ]

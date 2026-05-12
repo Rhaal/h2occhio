@@ -78,5 +78,15 @@
     "river": "Arno",
     "province": "AR",
     "station_name": "Subbiano (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01004411",
+    "timestamp": 1778604900,
+    "value": 1.03,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Arno",
+    "province": "AR",
+    "station_name": "Subbiano (GPRS)"
   }
 ]
