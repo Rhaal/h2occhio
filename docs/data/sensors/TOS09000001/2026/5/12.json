@@ -8,5 +8,15 @@
     "river": "Magra",
     "province": "MS",
     "station_name": "Piccatello (GPRS)"
+  },
+  {
+    "sensor_id": "TOS09000001",
+    "timestamp": 1778540700,
+    "value": 0.3,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Magra",
+    "province": "MS",
+    "station_name": "Piccatello (GPRS)"
   }
 ]

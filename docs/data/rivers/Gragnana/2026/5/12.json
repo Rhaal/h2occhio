@@ -8,5 +8,15 @@
     "river": "Gragnana",
     "province": "MS",
     "station_name": "Santuario della Salute (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03004006",
+    "timestamp": 1778540400,
+    "value": 0.15,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Gragnana",
+    "province": "MS",
+    "station_name": "Santuario della Salute (RADIO)"
   }
 ]
