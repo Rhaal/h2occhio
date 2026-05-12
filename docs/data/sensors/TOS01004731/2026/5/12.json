@@ -68,5 +68,15 @@
     "river": "Greve",
     "province": "FI",
     "station_name": "Ponte di Scandicci (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01004731",
+    "timestamp": 1778597100,
+    "value": 0,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Greve",
+    "province": "FI",
+    "station_name": "Ponte di Scandicci (RADIO)"
   }
 ]
