@@ -238,5 +238,85 @@
     "window_minutes": 2160,
     "province": "FI",
     "station_name": "Certaldo (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01004967",
+    "timestamp": 1778564400,
+    "value": 0.3,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Elsa",
+    "province": "FI",
+    "station_name": "Certaldo (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01004967",
+    "timestamp": 1778564400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "FI",
+    "station_name": "Certaldo (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01004967",
+    "timestamp": 1778564400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "FI",
+    "station_name": "Certaldo (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01004967",
+    "timestamp": 1778564400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "FI",
+    "station_name": "Certaldo (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01004967",
+    "timestamp": 1778564400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "FI",
+    "station_name": "Certaldo (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01004967",
+    "timestamp": 1778564400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "FI",
+    "station_name": "Certaldo (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01004967",
+    "timestamp": 1778564400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "FI",
+    "station_name": "Certaldo (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01004967",
+    "timestamp": 1778564400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "FI",
+    "station_name": "Certaldo (GPRS)"
   }
 ]

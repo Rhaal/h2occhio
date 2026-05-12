@@ -208,5 +208,75 @@
     "window_minutes": 2160,
     "province": "LU",
     "station_name": "Casone di Profecchia (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000221",
+    "timestamp": 1778563800,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "LU",
+    "station_name": "Casone di Profecchia (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000221",
+    "timestamp": 1778563800,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "LU",
+    "station_name": "Casone di Profecchia (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000221",
+    "timestamp": 1778563800,
+    "value": 0.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "LU",
+    "station_name": "Casone di Profecchia (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000221",
+    "timestamp": 1778563800,
+    "value": 0.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "LU",
+    "station_name": "Casone di Profecchia (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000221",
+    "timestamp": 1778563800,
+    "value": 3,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "LU",
+    "station_name": "Casone di Profecchia (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000221",
+    "timestamp": 1778563800,
+    "value": 73.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "LU",
+    "station_name": "Casone di Profecchia (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000221",
+    "timestamp": 1778563800,
+    "value": 77.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "LU",
+    "station_name": "Casone di Profecchia (RADIO)"
   }
 ]
