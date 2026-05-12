@@ -1,0 +1,72 @@
+[
+  {
+    "sensor_id": "TOS02000372",
+    "timestamp": 1778625000,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "PT",
+    "station_name": "Croce Arcana (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000372",
+    "timestamp": 1778625000,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "PT",
+    "station_name": "Croce Arcana (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000372",
+    "timestamp": 1778625000,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "PT",
+    "station_name": "Croce Arcana (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000372",
+    "timestamp": 1778625000,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "PT",
+    "station_name": "Croce Arcana (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000372",
+    "timestamp": 1778625000,
+    "value": 0.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "PT",
+    "station_name": "Croce Arcana (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000372",
+    "timestamp": 1778625000,
+    "value": 1,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "PT",
+    "station_name": "Croce Arcana (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000372",
+    "timestamp": 1778625000,
+    "value": 4.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "PT",
+    "station_name": "Croce Arcana (RADIO)"
+  }
+]

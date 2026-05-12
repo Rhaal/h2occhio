@@ -1,0 +1,12 @@
+[
+  {
+    "sensor_id": "TOS03005897",
+    "timestamp": 1778625000,
+    "value": 0.5,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Albegna",
+    "province": "GR",
+    "station_name": "SP323 Amiatina (RADIO)"
+  }
+]

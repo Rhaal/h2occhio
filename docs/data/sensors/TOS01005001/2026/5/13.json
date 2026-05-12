@@ -1,0 +1,12 @@
+[
+  {
+    "sensor_id": "TOS01005001",
+    "timestamp": 1778625000,
+    "value": -6.32,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Arno",
+    "province": "FI",
+    "station_name": "Fucecchio valle (RADIO)"
+  }
+]

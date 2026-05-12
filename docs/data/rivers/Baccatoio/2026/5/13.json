@@ -1,0 +1,12 @@
+[
+  {
+    "sensor_id": "TOS09001000",
+    "timestamp": 1778625000,
+    "value": 0.91,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Baccatoio",
+    "province": "LU",
+    "station_name": "Baccatoio (RADIO)"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "sensor_id": "TOS01005822",
+    "timestamp": 1778625300,
+    "value": 0.02,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "OmbroneGR",
+    "province": "GR",
+    "station_name": "Istia (GPRS)"
+  }
+]

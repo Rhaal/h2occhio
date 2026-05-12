@@ -1,0 +1,12 @@
+[
+  {
+    "sensor_id": "TOS01004875",
+    "timestamp": 1778625000,
+    "value": 0.51,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Ombrone PT",
+    "province": "PO",
+    "station_name": "Poggio a Caiano (RADIO)"
+  }
+]

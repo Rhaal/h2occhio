@@ -1,0 +1,12 @@
+[
+  {
+    "sensor_id": "TOS01004784",
+    "timestamp": 1778625300,
+    "value": 0.17,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Marina",
+    "province": "FI",
+    "station_name": "Calenzano (GPRS)"
+  }
+]

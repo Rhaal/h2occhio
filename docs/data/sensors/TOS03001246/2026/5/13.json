@@ -1,0 +1,12 @@
+[
+  {
+    "sensor_id": "TOS03001246",
+    "timestamp": 1778625300,
+    "value": 0.5,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Magra",
+    "province": "MS",
+    "station_name": "Calamazza (GPRS)"
+  }
+]
