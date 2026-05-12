@@ -108,5 +108,15 @@
     "river": "OmbroneGR",
     "province": "GR",
     "station_name": "Berrettino (RADIO)"
+  },
+  {
+    "sensor_id": "TOS16005841",
+    "timestamp": 1778621400,
+    "value": 1.33,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "OmbroneGR",
+    "province": "GR",
+    "station_name": "Berrettino (RADIO)"
   }
 ]

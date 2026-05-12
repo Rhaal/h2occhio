@@ -768,5 +768,75 @@
     "river": "Cecina",
     "province": "PI",
     "station_name": "Ponte di Monterufoli (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03005435",
+    "timestamp": 1778620500,
+    "value": 0.25,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Cecina",
+    "province": "LI",
+    "station_name": "Cecina SP39 (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01005372",
+    "timestamp": 1778621400,
+    "value": 0.21,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Cecina",
+    "province": "PI",
+    "station_name": "Masso degli Specchi (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03005415",
+    "timestamp": 1778621400,
+    "value": 1.87,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Cecina",
+    "province": "PI",
+    "station_name": "Steccaia Q (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03005417",
+    "timestamp": 1778621400,
+    "value": 1.87,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Cecina",
+    "province": "PI",
+    "station_name": "Steccaia (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01005386",
+    "timestamp": 1778622000,
+    "value": 2.31,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Cecina",
+    "province": "PI",
+    "station_name": "Ponte SR439 (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01005395",
+    "timestamp": 1778622000,
+    "value": 0.98,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Cecina",
+    "province": "PI",
+    "station_name": "Montegemoli (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01005401",
+    "timestamp": 1778622000,
+    "value": -0.09,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Cecina",
+    "province": "PI",
+    "station_name": "Ponte di Monterufoli (GPRS)"
   }
 ]
