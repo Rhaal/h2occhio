@@ -88,5 +88,15 @@
     "river": "Ombrone PT",
     "province": "PO",
     "station_name": "Ponte alle Vanne  (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03004863",
+    "timestamp": 1778702400,
+    "value": 0.87,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Ombrone PT",
+    "province": "PO",
+    "station_name": "Ponte alle Vanne  (RADIO)"
   }
 ]
