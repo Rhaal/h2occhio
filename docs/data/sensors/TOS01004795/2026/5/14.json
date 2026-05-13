@@ -1,0 +1,12 @@
+[
+  {
+    "sensor_id": "TOS01004795",
+    "timestamp": 1778711400,
+    "value": 0.19,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Fosso Reale",
+    "province": "FI",
+    "station_name": "Sesto Fiorentino (RADIO)"
+  }
+]
