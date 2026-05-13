@@ -18,5 +18,15 @@
     "river": "OmbroneGR",
     "province": "GR",
     "station_name": "Sasso d'Ombrone (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01005791",
+    "timestamp": 1778645100,
+    "value": -0.34,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "OmbroneGR",
+    "province": "GR",
+    "station_name": "Sasso d'Ombrone (GPRS)"
   }
 ]
