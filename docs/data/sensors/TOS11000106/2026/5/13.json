@@ -278,5 +278,75 @@
     "window_minutes": 2160,
     "province": "LU",
     "station_name": "Passo Radici (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000106",
+    "timestamp": 1778664600,
+    "value": 0.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "LU",
+    "station_name": "Passo Radici (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000106",
+    "timestamp": 1778664600,
+    "value": 0.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "LU",
+    "station_name": "Passo Radici (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000106",
+    "timestamp": 1778664600,
+    "value": 3.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "LU",
+    "station_name": "Passo Radici (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000106",
+    "timestamp": 1778664600,
+    "value": 3.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "LU",
+    "station_name": "Passo Radici (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000106",
+    "timestamp": 1778664600,
+    "value": 4.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "LU",
+    "station_name": "Passo Radici (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000106",
+    "timestamp": 1778664600,
+    "value": 4.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "LU",
+    "station_name": "Passo Radici (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000106",
+    "timestamp": 1778664600,
+    "value": 5.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "LU",
+    "station_name": "Passo Radici (RADIO)"
   }
 ]
