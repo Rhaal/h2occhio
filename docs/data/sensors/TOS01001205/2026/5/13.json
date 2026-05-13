@@ -698,5 +698,75 @@
     "window_minutes": 2160,
     "province": "PO",
     "station_name": "Prato Università (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01001205",
+    "timestamp": 1778708100,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "PO",
+    "station_name": "Prato Università (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01001205",
+    "timestamp": 1778708100,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "PO",
+    "station_name": "Prato Università (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01001205",
+    "timestamp": 1778708100,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "PO",
+    "station_name": "Prato Università (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01001205",
+    "timestamp": 1778708100,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "PO",
+    "station_name": "Prato Università (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01001205",
+    "timestamp": 1778708100,
+    "value": 19.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "PO",
+    "station_name": "Prato Università (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01001205",
+    "timestamp": 1778708100,
+    "value": 20.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "PO",
+    "station_name": "Prato Università (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01001205",
+    "timestamp": 1778708100,
+    "value": 20.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "PO",
+    "station_name": "Prato Università (GPRS)"
   }
 ]
