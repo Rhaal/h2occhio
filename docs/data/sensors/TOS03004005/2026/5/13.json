@@ -8,5 +8,15 @@
     "river": "Carrione",
     "province": "MS",
     "station_name": "Ponte della Bugia (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03004005",
+    "timestamp": 1778631300,
+    "value": -1.04,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Carrione",
+    "province": "MS",
+    "station_name": "Ponte della Bugia (RADIO)"
   }
 ]
