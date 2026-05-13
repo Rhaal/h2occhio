@@ -488,5 +488,75 @@
     "window_minutes": 2160,
     "province": "FI",
     "station_name": "Case Passerini (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01001225",
+    "timestamp": 1778689800,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "FI",
+    "station_name": "Case Passerini (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01001225",
+    "timestamp": 1778689800,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "FI",
+    "station_name": "Case Passerini (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01001225",
+    "timestamp": 1778689800,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "FI",
+    "station_name": "Case Passerini (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01001225",
+    "timestamp": 1778689800,
+    "value": 1,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "FI",
+    "station_name": "Case Passerini (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01001225",
+    "timestamp": 1778689800,
+    "value": 1.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "FI",
+    "station_name": "Case Passerini (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01001225",
+    "timestamp": 1778689800,
+    "value": 1.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "FI",
+    "station_name": "Case Passerini (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01001225",
+    "timestamp": 1778689800,
+    "value": 1.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "FI",
+    "station_name": "Case Passerini (RADIO)"
   }
 ]
