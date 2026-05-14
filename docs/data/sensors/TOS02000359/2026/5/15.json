@@ -1,0 +1,72 @@
+[
+  {
+    "sensor_id": "TOS02000359",
+    "timestamp": 1778797800,
+    "value": 0.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "PT",
+    "station_name": "Melo (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000359",
+    "timestamp": 1778797800,
+    "value": 3.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "PT",
+    "station_name": "Melo (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000359",
+    "timestamp": 1778797800,
+    "value": 18.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "PT",
+    "station_name": "Melo (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000359",
+    "timestamp": 1778797800,
+    "value": 41.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "PT",
+    "station_name": "Melo (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000359",
+    "timestamp": 1778797800,
+    "value": 42.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "PT",
+    "station_name": "Melo (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000359",
+    "timestamp": 1778797800,
+    "value": 46.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "PT",
+    "station_name": "Melo (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000359",
+    "timestamp": 1778797800,
+    "value": 49.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "PT",
+    "station_name": "Melo (RADIO)"
+  }
+]

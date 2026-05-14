@@ -1,0 +1,12 @@
+[
+  {
+    "sensor_id": "TOS03005077",
+    "timestamp": 1778797800,
+    "value": 1.23,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Pescia di Collodi",
+    "province": "LU",
+    "station_name": "San Salvatore (RADIO)"
+  }
+]

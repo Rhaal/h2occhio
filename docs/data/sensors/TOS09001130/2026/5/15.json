@@ -1,0 +1,72 @@
+[
+  {
+    "sensor_id": "TOS09001130",
+    "timestamp": 1778797800,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "MS",
+    "station_name": "Iera (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001130",
+    "timestamp": 1778797800,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "MS",
+    "station_name": "Iera (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001130",
+    "timestamp": 1778797800,
+    "value": 0.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "MS",
+    "station_name": "Iera (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001130",
+    "timestamp": 1778797800,
+    "value": 2.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "MS",
+    "station_name": "Iera (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001130",
+    "timestamp": 1778797800,
+    "value": 3,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "MS",
+    "station_name": "Iera (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001130",
+    "timestamp": 1778797800,
+    "value": 5,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "MS",
+    "station_name": "Iera (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001130",
+    "timestamp": 1778797800,
+    "value": 5.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "MS",
+    "station_name": "Iera (RADIO)"
+  }
+]
