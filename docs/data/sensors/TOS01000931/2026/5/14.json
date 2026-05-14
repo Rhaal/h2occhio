@@ -488,5 +488,75 @@
     "window_minutes": 2160,
     "province": "FI",
     "station_name": "Ponte a Olmo (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000931",
+    "timestamp": 1778773500,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "FI",
+    "station_name": "Ponte a Olmo (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000931",
+    "timestamp": 1778773500,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "FI",
+    "station_name": "Ponte a Olmo (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000931",
+    "timestamp": 1778773500,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "FI",
+    "station_name": "Ponte a Olmo (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000931",
+    "timestamp": 1778773500,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "FI",
+    "station_name": "Ponte a Olmo (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000931",
+    "timestamp": 1778773500,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "FI",
+    "station_name": "Ponte a Olmo (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000931",
+    "timestamp": 1778773500,
+    "value": 0.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "FI",
+    "station_name": "Ponte a Olmo (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000931",
+    "timestamp": 1778773500,
+    "value": 7.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "FI",
+    "station_name": "Ponte a Olmo (RADIO)"
   }
 ]

@@ -558,5 +558,85 @@
     "river": "Elsa",
     "province": "FI",
     "station_name": "Castelfiorentino (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01004971",
+    "timestamp": 1778773500,
+    "value": -0.08,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Elsa",
+    "province": "FI",
+    "station_name": "Castelfiorentino (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01004971",
+    "timestamp": 1778773500,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "FI",
+    "station_name": "Castelfiorentino (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01004971",
+    "timestamp": 1778773500,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "FI",
+    "station_name": "Castelfiorentino (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01004971",
+    "timestamp": 1778773500,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "FI",
+    "station_name": "Castelfiorentino (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01004971",
+    "timestamp": 1778773500,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "FI",
+    "station_name": "Castelfiorentino (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01004971",
+    "timestamp": 1778773500,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "FI",
+    "station_name": "Castelfiorentino (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01004971",
+    "timestamp": 1778773500,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "FI",
+    "station_name": "Castelfiorentino (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01004971",
+    "timestamp": 1778773500,
+    "value": 0.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "FI",
+    "station_name": "Castelfiorentino (RADIO)"
   }
 ]

@@ -4,7 +4,7 @@
     "station_name": "Alpe di Poti (RADIO)",
     "province": "AR",
     "alert_zone": "C",
-    "latest_timestamp": 1778763600,
+    "latest_timestamp": 1778772600,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS03000775&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -22,7 +22,7 @@
     "station_name": "Anghiari (RADIO)",
     "province": "AR",
     "alert_zone": "T",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS11000039&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -40,7 +40,7 @@
     "station_name": "Arezzo - Fattoria S. Fabiano (GPRS)",
     "province": "AR",
     "alert_zone": "C",
-    "latest_timestamp": 1778766900,
+    "latest_timestamp": 1778774400,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01000772&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -58,7 +58,7 @@
     "station_name": "Badia Agnano (GPRS)",
     "province": "AR",
     "alert_zone": "A2",
-    "latest_timestamp": 1778766900,
+    "latest_timestamp": 1778774400,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01000811&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -76,7 +76,7 @@
     "station_name": "Badia Prataglia (RADIO)",
     "province": "AR",
     "alert_zone": "A1",
-    "latest_timestamp": 1778765400,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01000621&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -94,7 +94,7 @@
     "station_name": "Badia Tedalda (RADIO)",
     "province": "AR",
     "alert_zone": "T",
-    "latest_timestamp": 1778763600,
+    "latest_timestamp": 1778770800,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS30233300&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -102,7 +102,7 @@
       "180": 0,
       "360": 0,
       "720": 0,
-      "1440": 1.4,
+      "1440": 0.2,
       "2160": 2.8
     },
     "altitude_m": 843
@@ -112,7 +112,7 @@
     "station_name": "Bibbiena (GPRS)",
     "province": "AR",
     "alert_zone": "A1",
-    "latest_timestamp": 1778766900,
+    "latest_timestamp": 1778774400,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01000626&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -130,7 +130,7 @@
     "station_name": "Camaldoli (RADIO)",
     "province": "AR",
     "alert_zone": "A1",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01000611&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -148,7 +148,7 @@
     "station_name": "Capezzine (RADIO)",
     "province": "AR",
     "alert_zone": "C",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01000701&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -166,7 +166,7 @@
     "station_name": "Casa Rota (RADIO)",
     "province": "AR",
     "alert_zone": "A2",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS11000516&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -184,7 +184,7 @@
     "station_name": "Castiglion Fibocchi (RADIO)",
     "province": "AR",
     "alert_zone": "A2",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS11000083&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -202,7 +202,7 @@
     "station_name": "Castiglion Fiorentino (RADIO)",
     "province": "AR",
     "alert_zone": "C",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01000761&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -220,7 +220,7 @@
     "station_name": "Cesa (RADIO)",
     "province": "AR",
     "alert_zone": "C",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS11000037&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -238,7 +238,7 @@
     "station_name": "Cortona (GPRS)",
     "province": "AR",
     "alert_zone": "C",
-    "latest_timestamp": 1778766900,
+    "latest_timestamp": 1778774400,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01000751&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -256,7 +256,7 @@
     "station_name": "Croce di Lignano (RADIO)",
     "province": "AR",
     "alert_zone": "C",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS03000755&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -274,7 +274,7 @@
     "station_name": "La Verna (GPRS)",
     "province": "AR",
     "alert_zone": "A1",
-    "latest_timestamp": 1778766900,
+    "latest_timestamp": 1778774400,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01000639&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -283,7 +283,7 @@
       "360": 0,
       "720": 0,
       "1440": 0,
-      "2160": 0.2
+      "2160": 0
     },
     "altitude_m": 1125
   },
@@ -292,7 +292,7 @@
     "station_name": "Monte Ginezzo (RADIO)",
     "province": "AR",
     "alert_zone": "C",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS03000757&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -310,7 +310,7 @@
     "station_name": "Monte S. Savino (RADIO)",
     "province": "AR",
     "alert_zone": "C",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01000741&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -328,7 +328,7 @@
     "station_name": "Montecchio (GPRS)",
     "province": "AR",
     "alert_zone": "A1",
-    "latest_timestamp": 1778766900,
+    "latest_timestamp": 1778774400,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS03000653&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -346,7 +346,7 @@
     "station_name": "Montedoglio (RADIO)",
     "province": "AR",
     "alert_zone": "T",
-    "latest_timestamp": 1778765400,
+    "latest_timestamp": 1778772600,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS06006078&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -354,7 +354,7 @@
       "180": 0,
       "360": 0,
       "720": 0,
-      "1440": 0.6,
+      "1440": 0,
       "2160": 3.2
     },
     "altitude_m": 412
@@ -364,7 +364,7 @@
     "station_name": "Montemignaio (RADIO)",
     "province": "AR",
     "alert_zone": "A1",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01000591&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -382,7 +382,7 @@
     "station_name": "Monterchi (RADIO)",
     "province": "AR",
     "alert_zone": "T",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS19000701&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -400,7 +400,7 @@
     "station_name": "Montevarchi (GPRS)",
     "province": "AR",
     "alert_zone": "A2",
-    "latest_timestamp": 1778766900,
+    "latest_timestamp": 1778774400,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01004571&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -418,7 +418,7 @@
     "station_name": "Ortignano (RADIO)",
     "province": "AR",
     "alert_zone": "A1",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01000601&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -436,7 +436,7 @@
     "station_name": "Ottavo (RADIO)",
     "province": "AR",
     "alert_zone": "C",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS11000038&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -451,10 +451,10 @@
   },
   {
     "sensor_id": "TOS19000703",
-    "station_name": "Palazzo del Pero 1 (GPRS)",
+    "station_name": "Palazzo del Pero (RADIO)",
     "province": "AR",
     "alert_zone": "C",
-    "latest_timestamp": 1778766900,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS19000703&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -472,7 +472,7 @@
     "station_name": "Pian di Scò (RADIO)",
     "province": "AR",
     "alert_zone": "A2",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01000881&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -490,7 +490,7 @@
     "station_name": "Pieve S. Stefano (GPRS)",
     "province": "AR",
     "alert_zone": "T",
-    "latest_timestamp": 1778766900,
+    "latest_timestamp": 1778774400,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS19000702&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -498,7 +498,7 @@
       "180": 0,
       "360": 0,
       "720": 0,
-      "1440": 0.2,
+      "1440": 0,
       "2160": 2.8
     },
     "altitude_m": 434
@@ -508,7 +508,7 @@
     "station_name": "Pieve S. Stefano (RADIO)",
     "province": "AR",
     "alert_zone": "T",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS11000040&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -516,7 +516,7 @@
       "180": 0,
       "360": 0,
       "720": 0,
-      "1440": 0.8,
+      "1440": 0,
       "2160": 3.6
     },
     "altitude_m": 750
@@ -526,7 +526,7 @@
     "station_name": "Pratomagno (RADIO)",
     "province": "AR",
     "alert_zone": "A2",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS11000078&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -544,7 +544,7 @@
     "station_name": "Salutio (RADIO)",
     "province": "AR",
     "alert_zone": "A1",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01000651&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -562,15 +562,15 @@
     "station_name": "Sestino (RADIO)",
     "province": "AR",
     "alert_zone": "T",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS11000026&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
       "60": 0,
       "180": 0,
       "360": 0,
-      "720": 0.2,
-      "1440": 4.5,
+      "720": 0,
+      "1440": 0.2,
       "2160": 6.1
     },
     "altitude_m": 1000
@@ -580,7 +580,7 @@
     "station_name": "Stia (GPRS)",
     "province": "AR",
     "alert_zone": "A1",
-    "latest_timestamp": 1778766900,
+    "latest_timestamp": 1778774400,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01000581&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -598,7 +598,7 @@
     "station_name": "Stia Monte (RADIO)",
     "province": "AR",
     "alert_zone": "A1",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS11000105&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -616,7 +616,7 @@
     "station_name": "Trappola (GPRS)",
     "province": "AR",
     "alert_zone": "A2",
-    "latest_timestamp": 1778766900,
+    "latest_timestamp": 1778774400,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS03000855&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -634,7 +634,7 @@
     "station_name": "Vallucciole (RADIO)",
     "province": "AR",
     "alert_zone": "A1",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01000571&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -652,7 +652,7 @@
     "station_name": "Villa dell'Olio (RADIO)",
     "province": "AR",
     "alert_zone": "A2",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01000861&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -670,7 +670,7 @@
     "station_name": "Zoo di Poppi (RADIO)",
     "province": "AR",
     "alert_zone": "A1",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS11000502&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -688,7 +688,7 @@
     "station_name": "Barberino (RADIO)",
     "province": "FI",
     "alert_zone": "A5",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS11000022&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -706,15 +706,15 @@
     "station_name": "Barco (RADIO)",
     "province": "FI",
     "alert_zone": "R2",
-    "latest_timestamp": 1778764500,
+    "latest_timestamp": 1778771700,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS30287500&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
       "60": 0,
       "180": 0,
       "360": 0,
-      "720": 0.2,
-      "1440": 1,
+      "720": 0,
+      "1440": 0.2,
       "2160": 22.7
     },
     "altitude_m": 780
@@ -724,7 +724,7 @@
     "station_name": "Bibbiana (RADIO)",
     "province": "FI",
     "alert_zone": "R2",
-    "latest_timestamp": 1778763600,
+    "latest_timestamp": 1778770800,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS30248000&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -742,7 +742,7 @@
     "station_name": "Borgo S. Lorenzo (GPRS)",
     "province": "FI",
     "alert_zone": "M",
-    "latest_timestamp": 1778766900,
+    "latest_timestamp": 1778774400,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01000999&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -760,15 +760,15 @@
     "station_name": "Borgo S. Lorenzo 2 (RADIO)",
     "province": "FI",
     "alert_zone": "M",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS11000017&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
       "60": 0,
-      "180": 0.2,
+      "180": 0,
       "360": 0.2,
       "720": 0.2,
-      "1440": 0.4,
+      "1440": 0.2,
       "2160": 7
     },
     "altitude_m": 280
@@ -778,7 +778,7 @@
     "station_name": "Caldine (GPRS)",
     "province": "FI",
     "alert_zone": "A3",
-    "latest_timestamp": 1778766900,
+    "latest_timestamp": 1778774400,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01001103&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -796,7 +796,7 @@
     "station_name": "Calenzano (GPRS)",
     "province": "FI",
     "alert_zone": "B",
-    "latest_timestamp": 1778766900,
+    "latest_timestamp": 1778774400,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01004784&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -804,7 +804,7 @@
       "180": 0,
       "360": 0,
       "720": 0,
-      "1440": 0.2,
+      "1440": 0,
       "2160": 26.8
     },
     "altitude_m": 60
@@ -814,7 +814,7 @@
     "station_name": "Casa Sartori (RADIO)",
     "province": "FI",
     "alert_zone": "A5",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS11000505&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -822,7 +822,7 @@
       "180": 0,
       "360": 0,
       "720": 0,
-      "1440": 0.4,
+      "1440": 0,
       "2160": 2.4
     },
     "altitude_m": 198
@@ -832,15 +832,15 @@
     "station_name": "Casaglia (RADIO)",
     "province": "FI",
     "alert_zone": "M",
-    "latest_timestamp": 1778765400,
+    "latest_timestamp": 1778772600,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS30248400&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
       "60": 0,
       "180": 0,
-      "360": 0.2,
+      "360": 0,
       "720": 0.2,
-      "1440": 1,
+      "1440": 0.2,
       "2160": 16.4
     },
     "altitude_m": 749
@@ -850,7 +850,7 @@
     "station_name": "Case Passerini (RADIO)",
     "province": "FI",
     "alert_zone": "B",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01001225&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -865,10 +865,10 @@
   },
   {
     "sensor_id": "TOS01004971",
-    "station_name": "Castelfiorentino (GPRS)",
+    "station_name": "Castelfiorentino (RADIO)",
     "province": "FI",
     "alert_zone": "A5",
-    "latest_timestamp": 1778766900,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01004971&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -886,7 +886,7 @@
     "station_name": "Cavallina (RADIO)",
     "province": "FI",
     "alert_zone": "M",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01000911&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -904,7 +904,7 @@
     "station_name": "Cercina (RADIO)",
     "province": "FI",
     "alert_zone": "B",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01001102&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -922,7 +922,7 @@
     "station_name": "Cerreto Guidi (GPRS)",
     "province": "FI",
     "alert_zone": "A4",
-    "latest_timestamp": 1778766900,
+    "latest_timestamp": 1778774400,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS11000071&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -940,7 +940,7 @@
     "station_name": "Certaldo (GPRS)",
     "province": "FI",
     "alert_zone": "A5",
-    "latest_timestamp": 1778766900,
+    "latest_timestamp": 1778774400,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01004967&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -958,7 +958,7 @@
     "station_name": "Consuma (RADIO)",
     "province": "FI",
     "alert_zone": "M",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01001041&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -976,7 +976,7 @@
     "station_name": "Dicomano (RADIO)",
     "province": "FI",
     "alert_zone": "M",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778771700,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01001029&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -994,7 +994,7 @@
     "station_name": "Empoli (GPRS)",
     "province": "FI",
     "alert_zone": "A4",
-    "latest_timestamp": 1778766900,
+    "latest_timestamp": 1778774400,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01004941&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -1002,7 +1002,7 @@
       "180": 0,
       "360": 0,
       "720": 0,
-      "1440": 0.6,
+      "1440": 0.4,
       "2160": 0.6
     },
     "altitude_m": 25
@@ -1012,7 +1012,7 @@
     "station_name": "Ferrone (RADIO)",
     "province": "FI",
     "alert_zone": "A3",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01001129&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -1030,7 +1030,7 @@
     "station_name": "Firenze Giardino di Boboli (RADIO)",
     "province": "FI",
     "alert_zone": "A3",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS03001099&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -1048,7 +1048,7 @@
     "station_name": "Firenze Orto Botanico (RADIO)",
     "province": "FI",
     "alert_zone": "A3",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS03001097&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -1066,7 +1066,7 @@
     "station_name": "Firenze Università (GPRS)",
     "province": "FI",
     "alert_zone": "A3",
-    "latest_timestamp": 1778766900,
+    "latest_timestamp": 1778774400,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01001096&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -1084,7 +1084,7 @@
     "station_name": "Firenzuola (RADIO)",
     "province": "FI",
     "alert_zone": "R2",
-    "latest_timestamp": 1778764500,
+    "latest_timestamp": 1778771700,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS30290300&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -1092,7 +1092,7 @@
       "180": 0,
       "360": 0,
       "720": 0,
-      "1440": 0.4,
+      "1440": 0,
       "2160": 1.6
     },
     "altitude_m": 431
@@ -1102,16 +1102,16 @@
     "station_name": "Giogo (RADIO)",
     "province": "FI",
     "alert_zone": "R2",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS11000108&title=&type=pluvio",
     "accumulations_mm": {
-      "15": 0,
-      "60": 0,
-      "180": 0,
-      "360": 0,
-      "720": 0.4,
+      "15": 0.2,
+      "60": 0.6,
+      "180": 0.6,
+      "360": 0.6,
+      "720": 1,
       "1440": 1,
-      "2160": 20.1
+      "2160": 20.7
     },
     "altitude_m": 880
   },
@@ -1120,7 +1120,7 @@
     "station_name": "Greve in Chianti (RADIO)",
     "province": "FI",
     "alert_zone": "A3",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS11000073&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -1138,7 +1138,7 @@
     "station_name": "Il Palagio (RADIO)",
     "province": "FI",
     "alert_zone": "A2",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01000891&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -1156,7 +1156,7 @@
     "station_name": "Incisa Valle (GPRS)",
     "province": "FI",
     "alert_zone": "A2",
-    "latest_timestamp": 1778766900,
+    "latest_timestamp": 1778774400,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01004591&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -1174,7 +1174,7 @@
     "station_name": "Lamole (RADIO)",
     "province": "FI",
     "alert_zone": "A3",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS11000023&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -1192,7 +1192,7 @@
     "station_name": "Le Croci (Barberino) (RADIO)",
     "province": "FI",
     "alert_zone": "M",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01000926&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -1210,7 +1210,7 @@
     "station_name": "Le Croci di Calenzano (GPRS)",
     "province": "FI",
     "alert_zone": "B",
-    "latest_timestamp": 1778766900,
+    "latest_timestamp": 1778774400,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01001189&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -1219,7 +1219,7 @@
       "360": 0,
       "720": 0,
       "1440": 0,
-      "2160": 25
+      "2160": 24.8
     },
     "altitude_m": 421
   },
@@ -1228,15 +1228,15 @@
     "station_name": "Mangona (GPRS)",
     "province": "FI",
     "alert_zone": "M",
-    "latest_timestamp": 1778766900,
+    "latest_timestamp": 1778774400,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01000921&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
       "60": 0,
       "180": 0,
       "360": 0,
-      "720": 0.2,
-      "1440": 0.6,
+      "720": 0,
+      "1440": 0.4,
       "2160": 1.4
     },
     "altitude_m": 540
@@ -1246,7 +1246,7 @@
     "station_name": "Marradi (RADIO)",
     "province": "FI",
     "alert_zone": "R2",
-    "latest_timestamp": 1778764500,
+    "latest_timestamp": 1778771700,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS30250000&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -1254,7 +1254,7 @@
       "180": 0,
       "360": 0,
       "720": 0,
-      "1440": 0.4,
+      "1440": 0,
       "2160": 6
     },
     "altitude_m": 323
@@ -1264,7 +1264,7 @@
     "station_name": "Monte di Fò (GPRS)",
     "province": "FI",
     "alert_zone": "M",
-    "latest_timestamp": 1778766900,
+    "latest_timestamp": 1778774400,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01000916&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -1282,7 +1282,7 @@
     "station_name": "Monte Faggiola (RADIO)",
     "province": "FI",
     "alert_zone": "R2",
-    "latest_timestamp": 1778763600,
+    "latest_timestamp": 1778770800,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS30287700&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -1300,7 +1300,7 @@
     "station_name": "Monte Giovi (GPRS)",
     "province": "FI",
     "alert_zone": "M",
-    "latest_timestamp": 1778766900,
+    "latest_timestamp": 1778774400,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS03001001&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -1318,7 +1318,7 @@
     "station_name": "Monteboro (RADIO)",
     "province": "FI",
     "alert_zone": "A4",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS11000504&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -1326,7 +1326,7 @@
       "180": 0,
       "360": 0,
       "720": 0,
-      "1440": 0.2,
+      "1440": 0,
       "2160": 1
     },
     "altitude_m": 90
@@ -1336,7 +1336,7 @@
     "station_name": "Montespertoli (RADIO)",
     "province": "FI",
     "alert_zone": "A5",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01004915&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -1354,7 +1354,7 @@
     "station_name": "Nave di Rosano (GPRS)",
     "province": "FI",
     "alert_zone": "A3",
-    "latest_timestamp": 1778766900,
+    "latest_timestamp": 1778774400,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01004659&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -1372,7 +1372,7 @@
     "station_name": "Palazzuolo sul Senio (RADIO)",
     "province": "FI",
     "alert_zone": "R2",
-    "latest_timestamp": 1778764500,
+    "latest_timestamp": 1778771700,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS30290400&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -1380,7 +1380,7 @@
       "180": 0,
       "360": 0,
       "720": 0,
-      "1440": 0.2,
+      "1440": 0,
       "2160": 0.8
     },
     "altitude_m": 496
@@ -1390,7 +1390,7 @@
     "station_name": "Pelago (RADIO)",
     "province": "FI",
     "alert_zone": "M",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS11000089&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -1408,7 +1408,7 @@
     "station_name": "Piancaldoli (RADIO)",
     "province": "FI",
     "alert_zone": "R2",
-    "latest_timestamp": 1778764500,
+    "latest_timestamp": 1778771700,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS30290200&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -1416,7 +1416,7 @@
       "180": 0,
       "360": 0,
       "720": 0,
-      "1440": 0.2,
+      "1440": 0,
       "2160": 0.2
     },
     "altitude_m": 496
@@ -1426,7 +1426,7 @@
     "station_name": "Poggio alla Croce (RADIO)",
     "province": "FI",
     "alert_zone": "A3",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS03001135&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -1444,7 +1444,7 @@
     "station_name": "Ponte a Olmo (RADIO)",
     "province": "FI",
     "alert_zone": "M",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01000931&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -1452,7 +1452,7 @@
       "180": 0,
       "360": 0,
       "720": 0,
-      "1440": 0.8,
+      "1440": 0.6,
       "2160": 7.2
     },
     "altitude_m": 459
@@ -1462,7 +1462,7 @@
     "station_name": "Ponte a Signa (RADIO)",
     "province": "FI",
     "alert_zone": "B",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01004811&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -1480,7 +1480,7 @@
     "station_name": "Razzuolo (RADIO)",
     "province": "FI",
     "alert_zone": "M",
-    "latest_timestamp": 1778765400,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01000979&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -1488,7 +1488,7 @@
       "180": 0,
       "360": 0,
       "720": 0,
-      "1440": 1,
+      "1440": 0,
       "2160": 26.9
     },
     "altitude_m": 637
@@ -1498,7 +1498,7 @@
     "station_name": "Remole (GPRS)",
     "province": "FI",
     "alert_zone": "A3",
-    "latest_timestamp": 1778766900,
+    "latest_timestamp": 1778774400,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS11000024&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -1516,7 +1516,7 @@
     "station_name": "Ronta (RADIO)",
     "province": "FI",
     "alert_zone": "M",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01000991&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -1524,8 +1524,8 @@
       "180": 0,
       "360": 0,
       "720": 0,
-      "1440": 0.2,
-      "2160": 26.8
+      "1440": 0,
+      "2160": 24.2
     },
     "altitude_m": 380
   },
@@ -1534,7 +1534,7 @@
     "station_name": "S. Agata di Mugello (RADIO)",
     "province": "FI",
     "alert_zone": "M",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01000961&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -1552,7 +1552,7 @@
     "station_name": "S. Brigida all'Opaco (RADIO)",
     "province": "FI",
     "alert_zone": "A3",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01001059&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -1570,7 +1570,7 @@
     "station_name": "S. Donato in Collina (RADIO)",
     "province": "FI",
     "alert_zone": "A3",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS03001137&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -1588,7 +1588,7 @@
     "station_name": "S. Giusto (GPRS)",
     "province": "FI",
     "alert_zone": "A3",
-    "latest_timestamp": 1778766900,
+    "latest_timestamp": 1778774400,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01001215&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -1606,7 +1606,7 @@
     "station_name": "S. Piero a Sieve-Sieve (RADIO)",
     "province": "FI",
     "alert_zone": "M",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01004621&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -1624,7 +1624,7 @@
     "station_name": "Sambuca (RADIO)",
     "province": "FI",
     "alert_zone": "A3",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS11000057&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -1642,7 +1642,7 @@
     "station_name": "Strada in Chianti (GPRS)",
     "province": "FI",
     "alert_zone": "A3",
-    "latest_timestamp": 1778766900,
+    "latest_timestamp": 1778774400,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01004725&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -1660,7 +1660,7 @@
     "station_name": "Tavarnelle (RADIO)",
     "province": "FI",
     "alert_zone": "A3",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS11000021&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -1678,14 +1678,14 @@
     "station_name": "Turbone (GPRS)",
     "province": "FI",
     "alert_zone": "A4",
-    "latest_timestamp": 1778766900,
+    "latest_timestamp": 1778774400,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01004921&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
       "60": 0,
       "180": 0,
       "360": 0,
-      "720": 0.2,
+      "720": 0,
       "1440": 0.8,
       "2160": 1
     },
@@ -1696,7 +1696,7 @@
     "station_name": "Vaglia (GPRS)",
     "province": "FI",
     "alert_zone": "M",
-    "latest_timestamp": 1778766900,
+    "latest_timestamp": 1778774400,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01000941&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -1705,7 +1705,7 @@
       "360": 0,
       "720": 0,
       "1440": 0.2,
-      "2160": 9.8
+      "2160": 9.6
     },
     "altitude_m": 340
   },
@@ -1714,7 +1714,7 @@
     "station_name": "Vallombrosa (GPRS)",
     "province": "FI",
     "alert_zone": "A2",
-    "latest_timestamp": 1778766900,
+    "latest_timestamp": 1778774400,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01000901&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -1732,7 +1732,7 @@
     "station_name": "Villore (RADIO)",
     "province": "FI",
     "alert_zone": "M",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01001011&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -1741,7 +1741,7 @@
       "360": 0,
       "720": 0,
       "1440": 0,
-      "2160": 13.2
+      "2160": 13
     },
     "altitude_m": 365
   },
@@ -1750,13 +1750,13 @@
     "station_name": "Vinci (RADIO)",
     "province": "FI",
     "alert_zone": "A4",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01001371&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
       "60": 0,
       "180": 0,
-      "360": 0.2,
+      "360": 0,
       "720": 0.2,
       "1440": 0.2,
       "2160": 6.5
@@ -1768,7 +1768,7 @@
     "station_name": "Vingone (RADIO)",
     "province": "FI",
     "alert_zone": "A3",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS03001145&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -1786,7 +1786,7 @@
     "station_name": "Alberese (RADIO)",
     "province": "GR",
     "alert_zone": "O3",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS11000103&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -1804,7 +1804,7 @@
     "station_name": "Argentario (RADIO)",
     "province": "GR",
     "alert_zone": "F2",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS11000079&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -1822,7 +1822,7 @@
     "station_name": "Baccinello (RADIO)",
     "province": "GR",
     "alert_zone": "F1",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS11000054&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -1840,7 +1840,7 @@
     "station_name": "Batignano (GPRS)",
     "province": "GR",
     "alert_zone": "O3",
-    "latest_timestamp": 1778766900,
+    "latest_timestamp": 1778774400,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS03002571&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -1848,7 +1848,7 @@
       "180": 0,
       "360": 0,
       "720": 0,
-      "1440": 0.4,
+      "1440": 0,
       "2160": 2
     },
     "altitude_m": 140
@@ -1858,7 +1858,7 @@
     "station_name": "Braccagni (RADIO)",
     "province": "GR",
     "alert_zone": "E1",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS11000008&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -1876,14 +1876,14 @@
     "station_name": "Caldana (GPRS)",
     "province": "GR",
     "alert_zone": "E1",
-    "latest_timestamp": 1778766900,
+    "latest_timestamp": 1778774400,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS03002551&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
       "60": 0,
       "180": 0,
       "360": 0,
-      "720": 0.2,
+      "720": 0,
       "1440": 0.2,
       "2160": 7.6
     },
@@ -1891,16 +1891,16 @@
   },
   {
     "sensor_id": "TOS01002779",
-    "station_name": "Campiano (GPRS)",
+    "station_name": "Campiano (RADIO)",
     "province": "GR",
     "alert_zone": "E1",
-    "latest_timestamp": 1778766900,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01002779&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
       "60": 0,
       "180": 0,
-      "360": 0.2,
+      "360": 0,
       "720": 0.2,
       "1440": 0.2,
       "2160": 10.1
@@ -1912,7 +1912,7 @@
     "station_name": "Capalbio (RADIO)",
     "province": "GR",
     "alert_zone": "F2",
-    "latest_timestamp": 1778763600,
+    "latest_timestamp": 1778770800,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS11000006&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -1930,7 +1930,7 @@
     "station_name": "Capanne (GPRS)",
     "province": "GR",
     "alert_zone": "F1",
-    "latest_timestamp": 1778766900,
+    "latest_timestamp": 1778774400,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS03003041&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -1948,7 +1948,7 @@
     "station_name": "Casotto dei Pescatori (RADIO)",
     "province": "GR",
     "alert_zone": "O3",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS11000013&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -1966,7 +1966,7 @@
     "station_name": "Casteani (RADIO)",
     "province": "GR",
     "alert_zone": "E1",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS03002515&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -1974,7 +1974,7 @@
       "180": 0,
       "360": 0,
       "720": 0,
-      "1440": 0.6,
+      "1440": 0,
       "2160": 44.4
     },
     "altitude_m": 59
@@ -1984,7 +1984,7 @@
     "station_name": "Castel del Piano (GPRS)",
     "province": "GR",
     "alert_zone": "O2",
-    "latest_timestamp": 1778766900,
+    "latest_timestamp": 1778774400,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS03002901&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -2002,15 +2002,15 @@
     "station_name": "Follonica (RADIO)",
     "province": "GR",
     "alert_zone": "E3",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS03002459&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
       "60": 0,
       "180": 0,
       "360": 0,
-      "720": 0.2,
-      "1440": 3,
+      "720": 0,
+      "1440": 0.2,
       "2160": 3
     },
     "altitude_m": 15
@@ -2020,13 +2020,13 @@
     "station_name": "Gerfalco (RADIO)",
     "province": "GR",
     "alert_zone": "E1",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01002071&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
       "60": 0,
       "180": 0,
-      "360": 0.2,
+      "360": 0,
       "720": 0.2,
       "1440": 0.2,
       "2160": 8.2
@@ -2038,7 +2038,7 @@
     "station_name": "Giglio Castello (GPRS)",
     "province": "GR",
     "alert_zone": "F2",
-    "latest_timestamp": 1778766900,
+    "latest_timestamp": 1778773800,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS03003269&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -2056,7 +2056,7 @@
     "station_name": "Granaione (RADIO)",
     "province": "GR",
     "alert_zone": "O2",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS03002941&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -2064,7 +2064,7 @@
       "180": 0,
       "360": 0,
       "720": 0,
-      "1440": 0.4,
+      "1440": 0,
       "2160": 0.4
     },
     "altitude_m": 148
@@ -2074,7 +2074,7 @@
     "station_name": "Lago (RADIO)",
     "province": "GR",
     "alert_zone": "E1",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01002351&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -2092,7 +2092,7 @@
     "station_name": "Manciano (GPRS)",
     "province": "GR",
     "alert_zone": "F1",
-    "latest_timestamp": 1778766900,
+    "latest_timestamp": 1778774400,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS03003079&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -2110,7 +2110,7 @@
     "station_name": "Marsiliana (GPRS)",
     "province": "GR",
     "alert_zone": "F1",
-    "latest_timestamp": 1778766900,
+    "latest_timestamp": 1778774400,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS03005895&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -2128,15 +2128,15 @@
     "station_name": "Massa Marittima Filetto (RADIO)",
     "province": "GR",
     "alert_zone": "E1",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS11000050&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
       "60": 0,
       "180": 0,
       "360": 0,
-      "720": 0.2,
-      "1440": 11.2,
+      "720": 0,
+      "1440": 8.4,
       "2160": 21.8
     },
     "altitude_m": 670
@@ -2146,7 +2146,7 @@
     "station_name": "Massa Marittima Valpiana (RADIO)",
     "province": "GR",
     "alert_zone": "E1",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS11000041&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -2154,7 +2154,7 @@
       "180": 0,
       "360": 0,
       "720": 0,
-      "1440": 0.4,
+      "1440": 0.2,
       "2160": 7.1
     },
     "altitude_m": 188
@@ -2164,7 +2164,7 @@
     "station_name": "Monte Antico (RADIO)",
     "province": "GR",
     "alert_zone": "O2",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS03002801&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -2172,7 +2172,7 @@
       "180": 0,
       "360": 0,
       "720": 0,
-      "1440": 1.4,
+      "1440": 0.2,
       "2160": 3.8
     },
     "altitude_m": 82
@@ -2182,7 +2182,7 @@
     "station_name": "Montenero (RADIO)",
     "province": "GR",
     "alert_zone": "O2",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS11000051&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -2190,7 +2190,7 @@
       "180": 0,
       "360": 0,
       "720": 0,
-      "1440": 0.2,
+      "1440": 0,
       "2160": 0.2
     },
     "altitude_m": 193
@@ -2200,7 +2200,7 @@
     "station_name": "Monterotondo (GPRS)",
     "province": "GR",
     "alert_zone": "E1",
-    "latest_timestamp": 1778766900,
+    "latest_timestamp": 1778774400,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01002371&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -2208,7 +2208,7 @@
       "180": 0,
       "360": 0,
       "720": 0,
-      "1440": 1.2,
+      "1440": 0.2,
       "2160": 12.1
     },
     "altitude_m": 595
@@ -2218,7 +2218,7 @@
     "station_name": "Orbetello (RADIO)",
     "province": "GR",
     "alert_zone": "F2",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS11000508&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -2236,7 +2236,7 @@
     "station_name": "Paganico (GPRS)",
     "province": "GR",
     "alert_zone": "O2",
-    "latest_timestamp": 1778766900,
+    "latest_timestamp": 1778774400,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS03002921&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -2244,7 +2244,7 @@
       "180": 0,
       "360": 0,
       "720": 0,
-      "1440": 1.2,
+      "1440": 0.2,
       "2160": 3.6
     },
     "altitude_m": 70
@@ -2254,7 +2254,7 @@
     "station_name": "Pari (RADIO)",
     "province": "GR",
     "alert_zone": "O2",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS03002789&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -2272,7 +2272,7 @@
     "station_name": "Pitigliano (RADIO)",
     "province": "GR",
     "alert_zone": "F1",
-    "latest_timestamp": 1778765400,
+    "latest_timestamp": 1778772600,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS07000046&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -2290,7 +2290,7 @@
     "station_name": "Pitigliano (RADIO)",
     "province": "GR",
     "alert_zone": "F1",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS11000014&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -2308,15 +2308,15 @@
     "station_name": "Poggio Perotto (RADIO)",
     "province": "GR",
     "alert_zone": "F2",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS03003011&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
       "60": 0,
       "180": 0,
       "360": 0,
-      "720": 0.2,
-      "1440": 0.4,
+      "720": 0,
+      "1440": 0.2,
       "2160": 3.6
     },
     "altitude_m": 82
@@ -2326,14 +2326,14 @@
     "station_name": "Ponte Tura (RADIO)",
     "province": "GR",
     "alert_zone": "O3",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS03002961&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
       "60": 0,
       "180": 0,
       "360": 0,
-      "720": 0.2,
+      "720": 0,
       "1440": 0.2,
       "2160": 0.2
     },
@@ -2344,7 +2344,7 @@
     "station_name": "Prata (RADIO)",
     "province": "GR",
     "alert_zone": "E1",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS03002073&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -2352,7 +2352,7 @@
       "180": 0,
       "360": 0,
       "720": 0,
-      "1440": 0.2,
+      "1440": 0,
       "2160": 2.2
     },
     "altitude_m": 528
@@ -2362,7 +2362,7 @@
     "station_name": "Rispescia (RADIO)",
     "province": "GR",
     "alert_zone": "O3",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS11000005&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -2380,7 +2380,7 @@
     "station_name": "Roccalbegna (GPRS)",
     "province": "GR",
     "alert_zone": "F1",
-    "latest_timestamp": 1778766900,
+    "latest_timestamp": 1778774400,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS03003019&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -2398,7 +2398,7 @@
     "station_name": "Roccastrada (GPRS)",
     "province": "GR",
     "alert_zone": "E1",
-    "latest_timestamp": 1778766900,
+    "latest_timestamp": 1778774400,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS03002531&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -2416,7 +2416,7 @@
     "station_name": "Roccatederighi (RADIO)",
     "province": "GR",
     "alert_zone": "E1",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS11000015&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -2434,7 +2434,7 @@
     "station_name": "S. Donato (RADIO)",
     "province": "GR",
     "alert_zone": "F2",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS03003099&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -2452,7 +2452,7 @@
     "station_name": "S. Ferdinando (RADIO)",
     "province": "GR",
     "alert_zone": "E1",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS03002476&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -2470,14 +2470,14 @@
     "station_name": "S. Fiora 1 (GPRS)",
     "province": "GR",
     "alert_zone": "O2",
-    "latest_timestamp": 1778766900,
+    "latest_timestamp": 1778774400,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS11000052&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
       "60": 0,
       "180": 0,
       "360": 0,
-      "720": 0.2,
+      "720": 0,
       "1440": 0.2,
       "2160": 0.8
     },
@@ -2488,7 +2488,7 @@
     "station_name": "Scansano (GPRS)",
     "province": "GR",
     "alert_zone": "O2",
-    "latest_timestamp": 1778766900,
+    "latest_timestamp": 1778774400,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS03003071&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -2506,7 +2506,7 @@
     "station_name": "Semproniano (RADIO)",
     "province": "GR",
     "alert_zone": "F1",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS11000055&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -2524,7 +2524,7 @@
     "station_name": "Sorano Meteo (RADIO)",
     "province": "GR",
     "alert_zone": "F1",
-    "latest_timestamp": 1778765400,
+    "latest_timestamp": 1778772600,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS07000072&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -2542,7 +2542,7 @@
     "station_name": "Stiacciole (RADIO)",
     "province": "GR",
     "alert_zone": "O3",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS11000042&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -2550,7 +2550,7 @@
       "180": 0,
       "360": 0,
       "720": 0,
-      "1440": 0.4,
+      "1440": 0,
       "2160": 0.4
     },
     "altitude_m": 53
@@ -2560,7 +2560,7 @@
     "station_name": "Torricelle (GPRS)",
     "province": "GR",
     "alert_zone": "O2",
-    "latest_timestamp": 1778766900,
+    "latest_timestamp": 1778774400,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS03003063&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -2578,7 +2578,7 @@
     "station_name": "Usi (RADIO)",
     "province": "GR",
     "alert_zone": "F1",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS03003053&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -2596,7 +2596,7 @@
     "station_name": "Bibbona (RADIO)",
     "province": "LI",
     "alert_zone": "E2",
-    "latest_timestamp": 1778765400,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS11000009&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -2614,7 +2614,7 @@
     "station_name": "Calzalunga (RADIO)",
     "province": "LI",
     "alert_zone": "E1",
-    "latest_timestamp": 1778756400,
+    "latest_timestamp": 1778770800,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01005485&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -2632,7 +2632,7 @@
     "station_name": "Campiglia Marittima (RADIO)",
     "province": "LI",
     "alert_zone": "E1",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS03002420&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -2650,7 +2650,7 @@
     "station_name": "Capraia Isola (RADIO)",
     "province": "LI",
     "alert_zone": "I",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS03003145&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -2668,7 +2668,7 @@
     "station_name": "Castagneto Carducci (RADIO)",
     "province": "LI",
     "alert_zone": "E2",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS11000069&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -2686,7 +2686,7 @@
     "station_name": "Cecina (RADIO)",
     "province": "LI",
     "alert_zone": "E2",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS11000002&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -2704,7 +2704,7 @@
     "station_name": "Collesalvetti (RADIO)",
     "province": "LI",
     "alert_zone": "A4",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS11000036&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -2722,7 +2722,7 @@
     "station_name": "Corbolone (GPRS)",
     "province": "LI",
     "alert_zone": "A6",
-    "latest_timestamp": 1778766900,
+    "latest_timestamp": 1778774400,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS03001963&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -2740,7 +2740,7 @@
     "station_name": "Donoratico (RADIO)",
     "province": "LI",
     "alert_zone": "E2",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS11000003&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -2758,7 +2758,7 @@
     "station_name": "Gabbro (GPRS)",
     "province": "LI",
     "alert_zone": "A6",
-    "latest_timestamp": 1778766900,
+    "latest_timestamp": 1778774400,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS03001965&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -2776,16 +2776,16 @@
     "station_name": "Gorgona (RADIO)",
     "province": "LI",
     "alert_zone": "A6",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778772600,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS11000107&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
       "60": 0,
-      "180": 0,
-      "360": 0,
-      "720": 0,
-      "1440": 0,
-      "2160": 9.2
+      "180": 0.2,
+      "360": 0.2,
+      "720": 0.2,
+      "1440": 0.2,
+      "2160": 9.4
     },
     "altitude_m": 230
   },
@@ -2794,7 +2794,7 @@
     "station_name": "Livorno Mareografo (GPRS)",
     "province": "LI",
     "alert_zone": "A6",
-    "latest_timestamp": 1778766900,
+    "latest_timestamp": 1778774400,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01005981&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -2812,7 +2812,7 @@
     "station_name": "Monte Perone (RADIO)",
     "province": "LI",
     "alert_zone": "I",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778772600,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS11000511&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -2830,7 +2830,7 @@
     "station_name": "Parrana S. Martino (GPRS)",
     "province": "LI",
     "alert_zone": "A4",
-    "latest_timestamp": 1778766900,
+    "latest_timestamp": 1778774400,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS03001930&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -2848,7 +2848,7 @@
     "station_name": "Patresi Mortigliano (GPRS)",
     "province": "LI",
     "alert_zone": "I",
-    "latest_timestamp": 1778766900,
+    "latest_timestamp": 1778774400,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS03003200&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -2866,7 +2866,7 @@
     "station_name": "Populonia (RADIO)",
     "province": "LI",
     "alert_zone": "E2",
-    "latest_timestamp": 1778765400,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS03002300&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -2884,7 +2884,7 @@
     "station_name": "Portoferraio (RADIO)",
     "province": "LI",
     "alert_zone": "I",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS11000012&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -2902,7 +2902,7 @@
     "station_name": "Quercianella (RADIO)",
     "province": "LI",
     "alert_zone": "A6",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS11000513&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -2920,7 +2920,7 @@
     "station_name": "Rosignano Solvay Pluvio (RADIO)",
     "province": "LI",
     "alert_zone": "A6",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS03005355&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -2938,7 +2938,7 @@
     "station_name": "S. Martino (GPRS)",
     "province": "LI",
     "alert_zone": "I",
-    "latest_timestamp": 1778766900,
+    "latest_timestamp": 1778774400,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS03003179&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -2956,7 +2956,7 @@
     "station_name": "S. Vincenzo (RADIO)",
     "province": "LI",
     "alert_zone": "E2",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS11000035&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -2974,7 +2974,7 @@
     "station_name": "S. Vincenzo porto (RADIO)",
     "province": "LI",
     "alert_zone": "E2",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS03002283&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -2992,7 +2992,7 @@
     "station_name": "Sassetta (RADIO)",
     "province": "LI",
     "alert_zone": "E1",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01002381&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -3010,7 +3010,7 @@
     "station_name": "Stagno (GPRS)",
     "province": "LI",
     "alert_zone": "A6",
-    "latest_timestamp": 1778766900,
+    "latest_timestamp": 1778774400,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01005342&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -3028,7 +3028,7 @@
     "station_name": "Suvereto (RADIO)",
     "province": "LI",
     "alert_zone": "E1",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS11000070&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -3046,7 +3046,7 @@
     "station_name": "Valle Benedetta (RADIO)",
     "province": "LI",
     "alert_zone": "A6",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778772600,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01001961&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -3064,7 +3064,7 @@
     "station_name": "Vecchia SS Aurelia (GPRS)",
     "province": "LI",
     "alert_zone": "E1",
-    "latest_timestamp": 1778766900,
+    "latest_timestamp": 1778774400,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01005489&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -3082,7 +3082,7 @@
     "station_name": "Venturina (RADIO)",
     "province": "LI",
     "alert_zone": "E3",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS11000004&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -3100,7 +3100,7 @@
     "station_name": "Aquilea (RADIO)",
     "province": "LU",
     "alert_zone": "S2",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS11000049&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -3109,7 +3109,7 @@
       "360": 0,
       "720": 0,
       "1440": 1.4,
-      "2160": 7.5
+      "2160": 1.8
     },
     "altitude_m": 134
   },
@@ -3118,7 +3118,7 @@
     "station_name": "Azzano (RADIO)",
     "province": "LU",
     "alert_zone": "S1",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS02000083&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -3127,7 +3127,7 @@
       "360": 0,
       "720": 0,
       "1440": 1.2,
-      "2160": 1.6
+      "2160": 1.2
     },
     "altitude_m": 430
   },
@@ -3136,16 +3136,16 @@
     "station_name": "Bagni di Lucca (RADIO)",
     "province": "LU",
     "alert_zone": "S1",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS11000092&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
-      "60": 0,
-      "180": 0,
-      "360": 0,
-      "720": 0,
-      "1440": 2.2,
-      "2160": 2.8
+      "60": 0.4,
+      "180": 0.4,
+      "360": 0.4,
+      "720": 0.4,
+      "1440": 2.6,
+      "2160": 3.2
     },
     "altitude_m": 565
   },
@@ -3154,16 +3154,16 @@
     "station_name": "Barga (RADIO)",
     "province": "LU",
     "alert_zone": "S1",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS11000048&title=&type=pluvio",
     "accumulations_mm": {
-      "15": 0,
-      "60": 0,
-      "180": 0,
-      "360": 0,
-      "720": 0.2,
-      "1440": 1,
-      "2160": 1.2
+      "15": 0.2,
+      "60": 1.6,
+      "180": 3.4,
+      "360": 3.4,
+      "720": 3.4,
+      "1440": 4.4,
+      "2160": 4.6
     },
     "altitude_m": 270
   },
@@ -3172,7 +3172,7 @@
     "station_name": "Borgo a Mozzano (GPRS)",
     "province": "LU",
     "alert_zone": "S2",
-    "latest_timestamp": 1778766900,
+    "latest_timestamp": 1778774400,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS02004271&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -3190,16 +3190,16 @@
     "station_name": "Calavorno (GPRS)",
     "province": "LU",
     "alert_zone": "S2",
-    "latest_timestamp": 1778766900,
+    "latest_timestamp": 1778774400,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS02004195&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
-      "60": 0,
-      "180": 0,
-      "360": 0,
-      "720": 0,
-      "1440": 1.6,
-      "2160": 1.6
+      "60": 0.4,
+      "180": 0.4,
+      "360": 0.4,
+      "720": 0.4,
+      "1440": 2,
+      "2160": 2
     },
     "altitude_m": 137
   },
@@ -3208,7 +3208,7 @@
     "station_name": "Camaiore (GPRS)",
     "province": "LU",
     "alert_zone": "V",
-    "latest_timestamp": 1778766900,
+    "latest_timestamp": 1778774400,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS02004059&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -3226,7 +3226,7 @@
     "station_name": "Campagrina (GPRS)",
     "province": "LU",
     "alert_zone": "S1",
-    "latest_timestamp": 1778766900,
+    "latest_timestamp": 1778774400,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS02000241&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -3235,7 +3235,7 @@
       "360": 0,
       "720": 0,
       "1440": 2,
-      "2160": 2.6
+      "2160": 2.4
     },
     "altitude_m": 807
   },
@@ -3244,16 +3244,16 @@
     "station_name": "Camporgiano (GPRS)",
     "province": "LU",
     "alert_zone": "S1",
-    "latest_timestamp": 1778766900,
+    "latest_timestamp": 1778774400,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS02004115&title=&type=pluvio",
     "accumulations_mm": {
-      "15": 0,
-      "60": 0.6,
-      "180": 0.6,
-      "360": 0.6,
-      "720": 0.8,
-      "1440": 1,
-      "2160": 3
+      "15": 0.4,
+      "60": 3.6,
+      "180": 9.8,
+      "360": 9.8,
+      "720": 9.8,
+      "1440": 10.2,
+      "2160": 12.2
     },
     "altitude_m": 390
   },
@@ -3262,16 +3262,16 @@
     "station_name": "Capanne di Sillano (RADIO)",
     "province": "LU",
     "alert_zone": "S1",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS02000161&title=&type=pluvio",
     "accumulations_mm": {
-      "15": 0,
-      "60": 0.6,
-      "180": 0.6,
-      "360": 0.6,
-      "720": 0.6,
-      "1440": 0.8,
-      "2160": 8.2
+      "15": 0.6,
+      "60": 2.8,
+      "180": 6.8,
+      "360": 6.8,
+      "720": 6.8,
+      "1440": 7,
+      "2160": 14.4
     },
     "altitude_m": 1035
   },
@@ -3280,7 +3280,7 @@
     "station_name": "Capannori (RADIO)",
     "province": "LU",
     "alert_zone": "A4",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS03000513&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -3289,7 +3289,7 @@
       "360": 0,
       "720": 0,
       "1440": 0,
-      "2160": 12.4
+      "2160": 4.6
     },
     "altitude_m": 14
   },
@@ -3298,7 +3298,7 @@
     "station_name": "Cardoso (RADIO)",
     "province": "LU",
     "alert_zone": "S1",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS02000077&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -3316,16 +3316,16 @@
     "station_name": "Careggine (RADIO)",
     "province": "LU",
     "alert_zone": "S1",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778772600,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS11000096&title=&type=pluvio",
     "accumulations_mm": {
-      "15": 0,
-      "60": 0,
-      "180": 0,
-      "360": 0,
-      "720": 0,
-      "1440": 3.6,
-      "2160": 6
+      "15": 0.2,
+      "60": 2.4,
+      "180": 3.8,
+      "360": 3.8,
+      "720": 3.8,
+      "1440": 7.4,
+      "2160": 9.6
     },
     "altitude_m": 1100
   },
@@ -3334,16 +3334,16 @@
     "station_name": "Casone di Profecchia (RADIO)",
     "province": "LU",
     "alert_zone": "S1",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS02000221&title=&type=pluvio",
     "accumulations_mm": {
-      "15": 0,
-      "60": 0,
-      "180": 0,
-      "360": 0,
-      "720": 0.4,
-      "1440": 0.6,
-      "2160": 7.6
+      "15": 0.6,
+      "60": 2,
+      "180": 3.2,
+      "360": 3.2,
+      "720": 3.2,
+      "1440": 3.8,
+      "2160": 10.8
     },
     "altitude_m": 1297
   },
@@ -3352,16 +3352,16 @@
     "station_name": "Cervaiole (RADIO)",
     "province": "LU",
     "alert_zone": "S1",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS02000081&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
-      "60": 0,
-      "180": 0,
-      "360": 0,
-      "720": 0,
-      "1440": 1.8,
-      "2160": 1.8
+      "60": 0.2,
+      "180": 0.2,
+      "360": 0.2,
+      "720": 0.2,
+      "1440": 2,
+      "2160": 2
     },
     "altitude_m": 1140
   },
@@ -3370,7 +3370,7 @@
     "station_name": "Chiatri (RADIO)",
     "province": "LU",
     "alert_zone": "S2",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS02000515&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -3388,14 +3388,14 @@
     "station_name": "Chifenti (GPRS)",
     "province": "LU",
     "alert_zone": "S1",
-    "latest_timestamp": 1778766900,
+    "latest_timestamp": 1778774400,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS02004255&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
       "60": 0,
       "180": 0,
       "360": 0,
-      "720": 0.2,
+      "720": 0,
       "1440": 3.8,
       "2160": 3.8
     },
@@ -3406,7 +3406,7 @@
     "station_name": "Convalle (RADIO)",
     "province": "LU",
     "alert_zone": "S2",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS02000483&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -3424,7 +3424,7 @@
     "station_name": "Fabbriche di Vallico (GPRS)",
     "province": "LU",
     "alert_zone": "S1",
-    "latest_timestamp": 1778766900,
+    "latest_timestamp": 1778774400,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS02000332&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -3442,14 +3442,14 @@
     "station_name": "Foce a Giovo (RADIO)",
     "province": "LU",
     "alert_zone": "S1",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS03000335&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
       "60": 0,
       "180": 0.2,
       "360": 0.4,
-      "720": 0.8,
+      "720": 1,
       "1440": 2.2,
       "2160": 3.6
     },
@@ -3460,7 +3460,7 @@
     "station_name": "Fornovolasco (RADIO)",
     "province": "LU",
     "alert_zone": "S1",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS02000281&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -3478,7 +3478,7 @@
     "station_name": "Gallena (RADIO)",
     "province": "LU",
     "alert_zone": "S1",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS02000078&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -3487,7 +3487,7 @@
       "360": 0,
       "720": 0,
       "1440": 0,
-      "2160": 2.8
+      "2160": 0
     },
     "altitude_m": 345
   },
@@ -3496,16 +3496,16 @@
     "station_name": "Gallicano (RADIO)",
     "province": "LU",
     "alert_zone": "S1",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS02000299&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
-      "60": 0,
-      "180": 0,
-      "360": 0,
-      "720": 0,
-      "1440": 1.2,
-      "2160": 1.6
+      "60": 0.6,
+      "180": 1.8,
+      "360": 1.8,
+      "720": 1.8,
+      "1440": 3,
+      "2160": 3.4
     },
     "altitude_m": 179
   },
@@ -3514,7 +3514,7 @@
     "station_name": "Gombitelli (RADIO)",
     "province": "LU",
     "alert_zone": "V",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS02000494&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -3523,7 +3523,7 @@
       "360": 0,
       "720": 0,
       "1440": 0,
-      "2160": 5.4
+      "2160": 3.2
     },
     "altitude_m": 475
   },
@@ -3532,7 +3532,7 @@
     "station_name": "Lido di Camaiore (GPRS)",
     "province": "LU",
     "alert_zone": "V",
-    "latest_timestamp": 1778766900,
+    "latest_timestamp": 1778774400,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS11000011&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -3550,7 +3550,7 @@
     "station_name": "Lucca (Orto Botanico) (GPRS)",
     "province": "LU",
     "alert_zone": "S2",
-    "latest_timestamp": 1778766900,
+    "latest_timestamp": 1778774400,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS02000512&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -3559,7 +3559,7 @@
       "360": 0,
       "720": 0,
       "1440": 0,
-      "2160": 8.6
+      "2160": 5.4
     },
     "altitude_m": 16
   },
@@ -3568,16 +3568,16 @@
     "station_name": "Minucciano (RADIO)",
     "province": "LU",
     "alert_zone": "S1",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS09001210&title=&type=pluvio",
     "accumulations_mm": {
-      "15": 0,
-      "60": 0,
-      "180": 0,
-      "360": 0,
-      "720": 0.2,
-      "1440": 0.6,
-      "2160": 4.8
+      "15": 0.2,
+      "60": 0.2,
+      "180": 0.4,
+      "360": 0.4,
+      "720": 0.4,
+      "1440": 1,
+      "2160": 5.2
     },
     "altitude_m": 666
   },
@@ -3586,16 +3586,16 @@
     "station_name": "Monte Castellino (RADIO)",
     "province": "LU",
     "alert_zone": "S1",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS02000171&title=&type=pluvio",
     "accumulations_mm": {
-      "15": 0.2,
-      "60": 0.2,
-      "180": 0.2,
-      "360": 0.4,
-      "720": 0.4,
-      "1440": 0.4,
-      "2160": 13
+      "15": 1.8,
+      "60": 2.8,
+      "180": 4.4,
+      "360": 4.4,
+      "720": 4.6,
+      "1440": 4.6,
+      "2160": 17.2
     },
     "altitude_m": 858
   },
@@ -3604,7 +3604,7 @@
     "station_name": "Monte Pisano Nord (RADIO)",
     "province": "LU",
     "alert_zone": "A4",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS11000512&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -3613,7 +3613,7 @@
       "360": 0,
       "720": 0,
       "1440": 0,
-      "2160": 0.8
+      "2160": 0.4
     },
     "altitude_m": 216
   },
@@ -3622,16 +3622,16 @@
     "station_name": "Monte Romecchio (RADIO)",
     "province": "LU",
     "alert_zone": "S1",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS02000275&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0.2,
-      "60": 0.2,
-      "180": 0.2,
-      "360": 0.2,
-      "720": 0.4,
-      "1440": 2,
-      "2160": 5.2
+      "60": 3,
+      "180": 3.8,
+      "360": 3.8,
+      "720": 3.8,
+      "1440": 5.6,
+      "2160": 8.8
     },
     "altitude_m": 1591
   },
@@ -3640,7 +3640,7 @@
     "station_name": "Montecarlo (RADIO)",
     "province": "LU",
     "alert_zone": "A4",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS11000031&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -3649,7 +3649,7 @@
       "360": 0,
       "720": 0,
       "1440": 0,
-      "2160": 10.9
+      "2160": 2
     },
     "altitude_m": 73
   },
@@ -3658,7 +3658,7 @@
     "station_name": "Mutigliano (GPRS)",
     "province": "LU",
     "alert_zone": "S2",
-    "latest_timestamp": 1778766900,
+    "latest_timestamp": 1778774400,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS02004286&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -3667,7 +3667,7 @@
       "360": 0,
       "720": 0,
       "1440": 0.4,
-      "2160": 22.9
+      "2160": 7.2
     },
     "altitude_m": 34
   },
@@ -3676,16 +3676,16 @@
     "station_name": "Orecchiella (RADIO)",
     "province": "LU",
     "alert_zone": "S1",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS11000097&title=&type=pluvio",
     "accumulations_mm": {
-      "15": 0,
-      "60": 1,
-      "180": 1,
-      "360": 1.2,
-      "720": 1.2,
-      "1440": 1.4,
-      "2160": 13.2
+      "15": 0.8,
+      "60": 5,
+      "180": 9.4,
+      "360": 9.6,
+      "720": 9.6,
+      "1440": 9.8,
+      "2160": 21.6
     },
     "altitude_m": 1169
   },
@@ -3694,16 +3694,16 @@
     "station_name": "Orto di Donna (GPRS)",
     "province": "LU",
     "alert_zone": "S1",
-    "latest_timestamp": 1778766900,
+    "latest_timestamp": 1778774400,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS02000177&title=&type=pluvio",
     "accumulations_mm": {
-      "15": 0,
-      "60": 0,
-      "180": 0,
-      "360": 0,
-      "720": 0,
-      "1440": 1.2,
-      "2160": 1.2
+      "15": 0.2,
+      "60": 0.2,
+      "180": 0.2,
+      "360": 0.2,
+      "720": 0.2,
+      "1440": 1.4,
+      "2160": 1.4
     },
     "altitude_m": 1070
   },
@@ -3712,7 +3712,7 @@
     "station_name": "Palagnana (RADIO)",
     "province": "LU",
     "alert_zone": "S1",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS02000329&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -3730,16 +3730,16 @@
     "station_name": "Passo Pradarena (RADIO)",
     "province": "LU",
     "alert_zone": "S1",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS02000155&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
-      "60": 0,
-      "180": 0,
-      "360": 0,
-      "720": 0,
-      "1440": 0,
-      "2160": 3.8
+      "60": 1,
+      "180": 3.4,
+      "360": 3.4,
+      "720": 3.4,
+      "1440": 3.4,
+      "2160": 7.2
     },
     "altitude_m": 1580
   },
@@ -3748,16 +3748,16 @@
     "station_name": "Passo Radici (RADIO)",
     "province": "LU",
     "alert_zone": "S1",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS11000106&title=&type=pluvio",
     "accumulations_mm": {
-      "15": 0,
-      "60": 0,
-      "180": 0,
-      "360": 0,
-      "720": 0.4,
-      "1440": 0.8,
-      "2160": 5.8
+      "15": 0.2,
+      "60": 1,
+      "180": 2,
+      "360": 2,
+      "720": 2.2,
+      "1440": 2.8,
+      "2160": 7.6
     },
     "altitude_m": 1637
   },
@@ -3766,16 +3766,16 @@
     "station_name": "Passo Radici (RADIO)",
     "province": "LU",
     "alert_zone": "S1",
-    "latest_timestamp": 1778764500,
+    "latest_timestamp": 1778772600,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS30355400&title=&type=pluvio",
     "accumulations_mm": {
-      "15": 0,
-      "60": 0,
-      "180": 0,
-      "360": 0,
-      "720": 0.4,
-      "1440": 0.8,
-      "2160": 6.2
+      "15": 0.4,
+      "60": 1.4,
+      "180": 1.8,
+      "360": 1.8,
+      "720": 1.8,
+      "1440": 2.4,
+      "2160": 8
     },
     "altitude_m": 1530
   },
@@ -3784,7 +3784,7 @@
     "station_name": "Piaggione (GPRS)",
     "province": "LU",
     "alert_zone": "S2",
-    "latest_timestamp": 1778766900,
+    "latest_timestamp": 1778774400,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS02004284&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -3793,7 +3793,7 @@
       "360": 0,
       "720": 0,
       "1440": 2.4,
-      "2160": 3
+      "2160": 2.4
     },
     "altitude_m": 72
   },
@@ -3802,16 +3802,16 @@
     "station_name": "Piazza al Serchio (RADIO)",
     "province": "LU",
     "alert_zone": "S1",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS11000034&title=&type=pluvio",
     "accumulations_mm": {
-      "15": 0,
-      "60": 0.2,
-      "180": 0.2,
-      "360": 0.2,
-      "720": 0.2,
-      "1440": 1,
-      "2160": 7.4
+      "15": 0.2,
+      "60": 1.8,
+      "180": 4.2,
+      "360": 4.2,
+      "720": 4.2,
+      "1440": 5,
+      "2160": 11.4
     },
     "altitude_m": 660
   },
@@ -3820,7 +3820,7 @@
     "station_name": "Pietrasanta (GPRS)",
     "province": "LU",
     "alert_zone": "V",
-    "latest_timestamp": 1778766900,
+    "latest_timestamp": 1778774400,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS03000091&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -3829,7 +3829,7 @@
       "360": 0,
       "720": 0,
       "1440": 0,
-      "2160": 0.8
+      "2160": 0.2
     },
     "altitude_m": 1
   },
@@ -3838,7 +3838,7 @@
     "station_name": "Pieve di Compito (RADIO)",
     "province": "LU",
     "alert_zone": "A4",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS11000033&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -3847,7 +3847,7 @@
       "360": 0,
       "720": 0,
       "1440": 0.2,
-      "2160": 5.8
+      "2160": 3.4
     },
     "altitude_m": 38
   },
@@ -3856,7 +3856,7 @@
     "station_name": "Pizzorne (GPRS)",
     "province": "LU",
     "alert_zone": "A4",
-    "latest_timestamp": 1778766900,
+    "latest_timestamp": 1778774400,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS03001841&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -3865,7 +3865,7 @@
       "360": 0,
       "720": 0.2,
       "1440": 1.6,
-      "2160": 3.4
+      "2160": 2.4
     },
     "altitude_m": 938
   },
@@ -3874,7 +3874,7 @@
     "station_name": "Pomezzana (RADIO)",
     "province": "LU",
     "alert_zone": "S1",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS02000075&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -3892,16 +3892,16 @@
     "station_name": "Ponte di Campia (GPRS)",
     "province": "LU",
     "alert_zone": "S1",
-    "latest_timestamp": 1778766900,
+    "latest_timestamp": 1778774400,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS02004165&title=&type=pluvio",
     "accumulations_mm": {
-      "15": 0,
-      "60": 0,
-      "180": 0,
-      "360": 0,
-      "720": 0.4,
-      "1440": 1.2,
-      "2160": 1.2
+      "15": 0.2,
+      "60": 1,
+      "180": 1.6,
+      "360": 1.6,
+      "720": 1.6,
+      "1440": 2.8,
+      "2160": 2.8
     },
     "altitude_m": 197
   },
@@ -3910,7 +3910,7 @@
     "station_name": "Ponte di Lucchio (RADIO)",
     "province": "LU",
     "alert_zone": "S1",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS02004231&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -3919,7 +3919,7 @@
       "360": 0,
       "720": 0,
       "1440": 3.6,
-      "2160": 4.2
+      "2160": 4
     },
     "altitude_m": 350
   },
@@ -3928,7 +3928,7 @@
     "station_name": "Ponte Guido (GPRS)",
     "province": "LU",
     "alert_zone": "S2",
-    "latest_timestamp": 1778766900,
+    "latest_timestamp": 1778774400,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS02004305&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -3937,7 +3937,7 @@
       "360": 0,
       "720": 0,
       "1440": 0,
-      "2160": 8.2
+      "2160": 0.4
     },
     "altitude_m": 23
   },
@@ -3946,7 +3946,7 @@
     "station_name": "Ponte Tavole (GPRS)",
     "province": "LU",
     "alert_zone": "S1",
-    "latest_timestamp": 1778766900,
+    "latest_timestamp": 1778774400,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS02004045&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -3964,7 +3964,7 @@
     "station_name": "Pontetetto (GPRS)",
     "province": "LU",
     "alert_zone": "S2",
-    "latest_timestamp": 1778766900,
+    "latest_timestamp": 1778774400,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS02004315&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -3973,7 +3973,7 @@
       "360": 0,
       "720": 0,
       "1440": 0,
-      "2160": 1.2
+      "2160": 0.8
     },
     "altitude_m": 13
   },
@@ -3982,16 +3982,16 @@
     "station_name": "Renaio (GPRS)",
     "province": "LU",
     "alert_zone": "S1",
-    "latest_timestamp": 1778766900,
+    "latest_timestamp": 1778774400,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS03000278&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
-      "60": 0,
-      "180": 0,
-      "360": 0,
-      "720": 0.2,
-      "1440": 1.2,
-      "2160": 1.4
+      "60": 1.2,
+      "180": 2,
+      "360": 2,
+      "720": 2,
+      "1440": 3.2,
+      "2160": 3.4
     },
     "altitude_m": 1013
   },
@@ -4000,7 +4000,7 @@
     "station_name": "Retignano (GPRS)",
     "province": "LU",
     "alert_zone": "S1",
-    "latest_timestamp": 1778766900,
+    "latest_timestamp": 1778774400,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS02000079&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -4009,7 +4009,7 @@
       "360": 0,
       "720": 0,
       "1440": 0,
-      "2160": 0.2
+      "2160": 0
     },
     "altitude_m": 420
   },
@@ -4018,7 +4018,7 @@
     "station_name": "S. Pietro a Marcigliano (RADIO)",
     "province": "LU",
     "alert_zone": "A4",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS11000032&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -4027,7 +4027,7 @@
       "360": 0,
       "720": 0,
       "1440": 2.2,
-      "2160": 7.6
+      "2160": 2.4
     },
     "altitude_m": 238
   },
@@ -4036,7 +4036,7 @@
     "station_name": "Strettoia 1 (GPRS)",
     "province": "LU",
     "alert_zone": "V",
-    "latest_timestamp": 1778766900,
+    "latest_timestamp": 1778774400,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS11000102&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -4054,16 +4054,16 @@
     "station_name": "Tereglio (RADIO)",
     "province": "LU",
     "alert_zone": "S1",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS02000339&title=&type=pluvio",
     "accumulations_mm": {
-      "15": 0,
-      "60": 0,
-      "180": 0,
-      "360": 0,
-      "720": 0.6,
-      "1440": 2,
-      "2160": 3
+      "15": 0.4,
+      "60": 1,
+      "180": 1,
+      "360": 1,
+      "720": 1,
+      "1440": 3,
+      "2160": 4
     },
     "altitude_m": 590
   },
@@ -4072,7 +4072,7 @@
     "station_name": "Terrinca (RADIO)",
     "province": "LU",
     "alert_zone": "S1",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS02000064&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -4090,7 +4090,7 @@
     "station_name": "Torre del Lago (GPRS)",
     "province": "LU",
     "alert_zone": "S3",
-    "latest_timestamp": 1778766900,
+    "latest_timestamp": 1778774400,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS02004081&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -4108,16 +4108,16 @@
     "station_name": "Vagli di Sotto (RADIO)",
     "province": "LU",
     "alert_zone": "S1",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS02000191&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
-      "60": 0,
-      "180": 0,
-      "360": 0,
-      "720": 0,
-      "1440": 1.8,
-      "2160": 1.8
+      "60": 0.2,
+      "180": 0.2,
+      "360": 0.2,
+      "720": 0.2,
+      "1440": 2,
+      "2160": 2
     },
     "altitude_m": 581
   },
@@ -4126,7 +4126,7 @@
     "station_name": "Vallelunga (GPRS)",
     "province": "LU",
     "alert_zone": "V",
-    "latest_timestamp": 1778766900,
+    "latest_timestamp": 1778774400,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS02000108&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -4144,7 +4144,7 @@
     "station_name": "Viareggio 1 (GPRS)",
     "province": "LU",
     "alert_zone": "S3",
-    "latest_timestamp": 1778766900,
+    "latest_timestamp": 1778774400,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS02004091&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -4162,7 +4162,7 @@
     "station_name": "Viareggio Lungomare (RADIO)",
     "province": "LU",
     "alert_zone": "S3",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS03000481&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -4180,16 +4180,16 @@
     "station_name": "Villacollemandina (RADIO)",
     "province": "LU",
     "alert_zone": "S1",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS02000203&title=&type=pluvio",
     "accumulations_mm": {
-      "15": 0,
-      "60": 0,
-      "180": 0,
-      "360": 0,
-      "720": 0.2,
-      "1440": 1,
-      "2160": 3
+      "15": 0.8,
+      "60": 1.8,
+      "180": 2.8,
+      "360": 2.8,
+      "720": 2.8,
+      "1440": 3.8,
+      "2160": 5.8
     },
     "altitude_m": 502
   },
@@ -4198,7 +4198,7 @@
     "station_name": "Avenza (GPRS)",
     "province": "MS",
     "alert_zone": "V",
-    "latest_timestamp": 1778766900,
+    "latest_timestamp": 1778774400,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01004007&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -4216,12 +4216,12 @@
     "station_name": "Bagnone (GPRS)",
     "province": "MS",
     "alert_zone": "L",
-    "latest_timestamp": 1778766900,
+    "latest_timestamp": 1778774400,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS09000015&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
-      "60": 0.4,
-      "180": 1.2,
+      "60": 0,
+      "180": 0.4,
       "360": 1.2,
       "720": 1.8,
       "1440": 4.4,
@@ -4234,12 +4234,12 @@
     "station_name": "Bosco di Rossano (RADIO)",
     "province": "MS",
     "alert_zone": "L",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS09000023&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
       "60": 0,
-      "180": 0.8,
+      "180": 0,
       "360": 0.8,
       "720": 2.8,
       "1440": 2.8,
@@ -4252,7 +4252,7 @@
     "station_name": "Campocecina (GPRS)",
     "province": "MS",
     "alert_zone": "V",
-    "latest_timestamp": 1778766900,
+    "latest_timestamp": 1778774400,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS11000029&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -4270,7 +4270,7 @@
     "station_name": "Candia Scurtarola (RADIO)",
     "province": "MS",
     "alert_zone": "V",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS11000027&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -4279,7 +4279,7 @@
       "360": 0,
       "720": 0,
       "1440": 0,
-      "2160": 2.4
+      "2160": 0
     },
     "altitude_m": 150
   },
@@ -4288,7 +4288,7 @@
     "station_name": "Canevara (GPRS)",
     "province": "MS",
     "alert_zone": "V",
-    "latest_timestamp": 1778766900,
+    "latest_timestamp": 1778774400,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS02004011&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -4306,7 +4306,7 @@
     "station_name": "Cerreto (RADIO)",
     "province": "MS",
     "alert_zone": "V",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS02000088&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -4315,7 +4315,7 @@
       "360": 0,
       "720": 0,
       "1440": 0.4,
-      "2160": 2.6
+      "2160": 0.4
     },
     "altitude_m": 477
   },
@@ -4324,16 +4324,16 @@
     "station_name": "Comano (GPRS)",
     "province": "MS",
     "alert_zone": "L",
-    "latest_timestamp": 1778766900,
+    "latest_timestamp": 1778774400,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS09001143&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
-      "60": 1,
-      "180": 1,
-      "360": 1,
-      "720": 1,
-      "1440": 1.4,
-      "2160": 7.2
+      "60": 1.2,
+      "180": 2.4,
+      "360": 2.8,
+      "720": 2.8,
+      "1440": 3.2,
+      "2160": 9
     },
     "altitude_m": 734
   },
@@ -4342,12 +4342,12 @@
     "station_name": "Equi Terme (RADIO)",
     "province": "MS",
     "alert_zone": "L",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS09001220&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
       "60": 0,
-      "180": 0.2,
+      "180": 0,
       "360": 0.2,
       "720": 0.2,
       "1440": 1.2,
@@ -4360,16 +4360,16 @@
     "station_name": "Iera (RADIO)",
     "province": "MS",
     "alert_zone": "L",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS09001130&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
-      "60": 0.4,
-      "180": 0.4,
-      "360": 0.4,
-      "720": 1.2,
-      "1440": 2.4,
-      "2160": 6.4
+      "60": 0,
+      "180": 0.6,
+      "360": 0.6,
+      "720": 1.4,
+      "1440": 2.6,
+      "2160": 6.6
     },
     "altitude_m": 538
   },
@@ -4378,16 +4378,16 @@
     "station_name": "Lago Paduli (RADIO)",
     "province": "MS",
     "alert_zone": "L",
-    "latest_timestamp": 1778762700,
+    "latest_timestamp": 1778769900,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS30209600&title=&type=pluvio",
     "accumulations_mm": {
-      "15": 0.8,
-      "60": 1,
-      "180": 1,
-      "360": 1,
-      "720": 2.4,
-      "1440": 2.4,
-      "2160": 7.4
+      "15": 1.6,
+      "60": 3,
+      "180": 6.7,
+      "360": 6.7,
+      "720": 6.7,
+      "1440": 8.1,
+      "2160": 13.1
     },
     "altitude_m": 1168
   },
@@ -4396,7 +4396,7 @@
     "station_name": "Licciana Nardi (GPRS)",
     "province": "MS",
     "alert_zone": "L",
-    "latest_timestamp": 1778766900,
+    "latest_timestamp": 1778774400,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS09000021&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -4414,14 +4414,14 @@
     "station_name": "Mazzola (RADIO)",
     "province": "MS",
     "alert_zone": "L",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS09001200&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
       "60": 0,
       "180": 0,
       "360": 0,
-      "720": 0.2,
+      "720": 0,
       "1440": 0.4,
       "2160": 2.6
     },
@@ -4432,12 +4432,12 @@
     "station_name": "Novegigola (RADIO)",
     "province": "MS",
     "alert_zone": "L",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS11000099&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
       "60": 0,
-      "180": 0.2,
+      "180": 0,
       "360": 0.2,
       "720": 2.4,
       "1440": 3.8,
@@ -4450,12 +4450,12 @@
     "station_name": "Parana (RADIO)",
     "province": "MS",
     "alert_zone": "L",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS09001110&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
-      "60": 0.2,
-      "180": 3.4,
+      "60": 0,
+      "180": 0.2,
       "360": 3.4,
       "720": 4.8,
       "1440": 5,
@@ -4468,16 +4468,16 @@
     "station_name": "Passo del Brattello (RADIO)",
     "province": "MS",
     "alert_zone": "L",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS09000024&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
       "60": 0.2,
-      "180": 0.4,
-      "360": 4.4,
-      "720": 6.2,
-      "1440": 6.2,
-      "2160": 6.6
+      "180": 2.4,
+      "360": 2.6,
+      "720": 8.4,
+      "1440": 8.4,
+      "2160": 8.8
     },
     "altitude_m": 955
   },
@@ -4486,16 +4486,16 @@
     "station_name": "Passo del Cerreto (GPRS)",
     "province": "MS",
     "alert_zone": "L",
-    "latest_timestamp": 1778766900,
+    "latest_timestamp": 1778774400,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS09001160&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
-      "60": 0.2,
-      "180": 0.2,
-      "360": 0.2,
-      "720": 0.2,
-      "1440": 0.2,
-      "2160": 11.4
+      "60": 1.4,
+      "180": 2.6,
+      "360": 2.8,
+      "720": 2.8,
+      "1440": 2.8,
+      "2160": 14
     },
     "altitude_m": 1250
   },
@@ -4504,16 +4504,16 @@
     "station_name": "Passo della Cisa (GPRS)",
     "province": "MS",
     "alert_zone": "L",
-    "latest_timestamp": 1778766900,
+    "latest_timestamp": 1778774400,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS09001053&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
-      "60": 0.2,
-      "180": 1.8,
-      "360": 2.6,
-      "720": 13,
-      "1440": 13,
-      "2160": 15
+      "60": 0.6,
+      "180": 3,
+      "360": 4.6,
+      "720": 15.8,
+      "1440": 15.8,
+      "2160": 17.8
     },
     "altitude_m": 1014
   },
@@ -4522,13 +4522,13 @@
     "station_name": "Patigno (GPRS)",
     "province": "MS",
     "alert_zone": "L",
-    "latest_timestamp": 1778766900,
+    "latest_timestamp": 1778774400,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS09001061&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
-      "60": 0.6,
-      "180": 1.6,
-      "360": 1.8,
+      "60": 0,
+      "180": 0.6,
+      "360": 1.6,
       "720": 5.8,
       "1440": 5.8,
       "2160": 8.6
@@ -4540,7 +4540,7 @@
     "station_name": "Pian della Fioba (RADIO)",
     "province": "MS",
     "alert_zone": "V",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01000056&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -4558,16 +4558,16 @@
     "station_name": "Pietra Piccata (GPRS)",
     "province": "MS",
     "alert_zone": "L",
-    "latest_timestamp": 1778766900,
+    "latest_timestamp": 1778774400,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS09000022&title=&type=pluvio",
     "accumulations_mm": {
-      "15": 0.2,
-      "60": 0.2,
-      "180": 1.4,
-      "360": 1.4,
-      "720": 4.2,
-      "1440": 4.2,
-      "2160": 6.2
+      "15": 0,
+      "60": 0,
+      "180": 0.4,
+      "360": 1.6,
+      "720": 4.4,
+      "1440": 4.4,
+      "2160": 6.4
     },
     "altitude_m": 955
   },
@@ -4576,16 +4576,16 @@
     "station_name": "Pontremoli (RADIO)",
     "province": "MS",
     "alert_zone": "L",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS11000101&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
-      "60": 0.2,
-      "180": 1,
-      "360": 1,
-      "720": 2.2,
-      "1440": 2.6,
-      "2160": 4.6
+      "60": 0,
+      "180": 0.4,
+      "360": 1.2,
+      "720": 2.4,
+      "1440": 2.8,
+      "2160": 4.8
     },
     "altitude_m": 340
   },
@@ -4594,16 +4594,16 @@
     "station_name": "Pontremoli depuratore (RADIO)",
     "province": "MS",
     "alert_zone": "L",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS09001080&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
-      "60": 0.2,
-      "180": 2.1,
-      "360": 2.1,
-      "720": 3.5,
-      "1440": 3.9,
-      "2160": 6.3
+      "60": 0,
+      "180": 0.4,
+      "360": 2.3,
+      "720": 3.7,
+      "1440": 4.1,
+      "2160": 6.5
     },
     "altitude_m": 226
   },
@@ -4612,16 +4612,16 @@
     "station_name": "Rocca Sigillina (RADIO)",
     "province": "MS",
     "alert_zone": "L",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS09001088&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
       "60": 0.2,
-      "180": 2.4,
-      "360": 2.4,
-      "720": 5.8,
-      "1440": 6,
-      "2160": 7.8
+      "180": 1.2,
+      "360": 3.4,
+      "720": 6.8,
+      "1440": 7,
+      "2160": 8.8
     },
     "altitude_m": 484
   },
@@ -4630,7 +4630,7 @@
     "station_name": "Soliera (RADIO)",
     "province": "MS",
     "alert_zone": "L",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS03000109&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -4648,7 +4648,7 @@
     "station_name": "Tendola (RADIO)",
     "province": "MS",
     "alert_zone": "L",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS09001230&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -4666,7 +4666,7 @@
     "station_name": "Torano (RADIO)",
     "province": "MS",
     "alert_zone": "V",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS03004003&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -4684,16 +4684,16 @@
     "station_name": "Turano (RADIO)",
     "province": "MS",
     "alert_zone": "L",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS09001180&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
-      "60": 0,
-      "180": 0,
-      "360": 0,
-      "720": 0,
-      "1440": 0.2,
-      "2160": 19.2
+      "60": 0.2,
+      "180": 0.4,
+      "360": 0.4,
+      "720": 0.4,
+      "1440": 0.4,
+      "2160": 19.6
     },
     "altitude_m": 500
   },
@@ -4702,7 +4702,7 @@
     "station_name": "Vara (RADIO)",
     "province": "MS",
     "alert_zone": "V",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01000025&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -4720,7 +4720,7 @@
     "station_name": "Vergheto (RADIO)",
     "province": "MS",
     "alert_zone": "V",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS02000047&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -4738,12 +4738,12 @@
     "station_name": "Villafranca (RADIO)",
     "province": "MS",
     "alert_zone": "L",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS09001120&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
-      "60": 0.2,
-      "180": 0.6,
+      "60": 0,
+      "180": 0.2,
       "360": 0.6,
       "720": 0.8,
       "1440": 3.9,
@@ -4756,11 +4756,11 @@
     "station_name": "Villafranca (RADIO)",
     "province": "MS",
     "alert_zone": "L",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS11000100&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
-      "60": 0.8,
+      "60": 0,
       "180": 0.8,
       "360": 0.8,
       "720": 1.2,
@@ -4774,7 +4774,7 @@
     "station_name": "Bocca d'Arno 1 (GPRS)",
     "province": "PI",
     "alert_zone": "A6",
-    "latest_timestamp": 1778766900,
+    "latest_timestamp": 1778774400,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01005251&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -4792,7 +4792,7 @@
     "station_name": "Bocca di Serchio (RADIO)",
     "province": "PI",
     "alert_zone": "S3",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS02004369&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -4810,7 +4810,7 @@
     "station_name": "Bulera (GPRS)",
     "province": "PI",
     "alert_zone": "E1",
-    "latest_timestamp": 1778766900,
+    "latest_timestamp": 1778774400,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS03005379&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -4828,7 +4828,7 @@
     "station_name": "Canneto 9 (GPRS)",
     "province": "PI",
     "alert_zone": "E1",
-    "latest_timestamp": 1778766900,
+    "latest_timestamp": 1778774400,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01002171&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -4846,7 +4846,7 @@
     "station_name": "Capannoli (GPRS)",
     "province": "PI",
     "alert_zone": "A4",
-    "latest_timestamp": 1778766900,
+    "latest_timestamp": 1778774400,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01005131&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -4864,7 +4864,7 @@
     "station_name": "Casciana Terme (GPRS)",
     "province": "PI",
     "alert_zone": "A4",
-    "latest_timestamp": 1778766900,
+    "latest_timestamp": 1778774400,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01001781&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -4882,7 +4882,7 @@
     "station_name": "Castellina Marittima  (RADIO)",
     "province": "PI",
     "alert_zone": "E1",
-    "latest_timestamp": 1778760000,
+    "latest_timestamp": 1778762700,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS03002016&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -4900,14 +4900,14 @@
     "station_name": "Castelnuovo Val di Cecina (RADIO)",
     "province": "PI",
     "alert_zone": "E1",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS11000056&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
       "60": 0,
       "180": 0,
       "360": 0,
-      "720": 0.2,
+      "720": 0,
       "1440": 0.2,
       "2160": 7
     },
@@ -4918,7 +4918,7 @@
     "station_name": "Cimone - Monte Serra (RADIO)",
     "province": "PI",
     "alert_zone": "A4",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS03001802&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -4936,7 +4936,7 @@
     "station_name": "Coltano (RADIO)",
     "province": "PI",
     "alert_zone": "A6",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01001831&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -4954,7 +4954,7 @@
     "station_name": "Fornacino (GPRS)",
     "province": "PI",
     "alert_zone": "A4",
-    "latest_timestamp": 1778766900,
+    "latest_timestamp": 1778774400,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01005005&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -4972,7 +4972,7 @@
     "station_name": "Gello (GPRS)",
     "province": "PI",
     "alert_zone": "A4",
-    "latest_timestamp": 1778766900,
+    "latest_timestamp": 1778774400,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01005262&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -4990,7 +4990,7 @@
     "station_name": "La Madonnina (RADIO)",
     "province": "PI",
     "alert_zone": "A5",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01001679&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -5008,7 +5008,7 @@
     "station_name": "Legoli (RADIO)",
     "province": "PI",
     "alert_zone": "A5",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS11000507&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -5026,7 +5026,7 @@
     "station_name": "Libbiano (RADIO)",
     "province": "PI",
     "alert_zone": "E1",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01002161&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -5044,7 +5044,7 @@
     "station_name": "Metato (RADIO)",
     "province": "PI",
     "alert_zone": "S3",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS11000001&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -5062,7 +5062,7 @@
     "station_name": "Miemo (RADIO)",
     "province": "PI",
     "alert_zone": "E1",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01002011&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -5080,7 +5080,7 @@
     "station_name": "Molino d'Era (GPRS)",
     "province": "PI",
     "alert_zone": "A5",
-    "latest_timestamp": 1778766900,
+    "latest_timestamp": 1778774400,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01005115&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -5098,7 +5098,7 @@
     "station_name": "Monte Serra (RADIO)",
     "province": "PI",
     "alert_zone": "A4",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS11000020&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -5116,7 +5116,7 @@
     "station_name": "Montecatini V. Cecina (RADIO)",
     "province": "PI",
     "alert_zone": "E1",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01002131&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -5134,7 +5134,7 @@
     "station_name": "Montopoli (RADIO)",
     "province": "PI",
     "alert_zone": "A4",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS11000046&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -5143,7 +5143,7 @@
       "360": 0,
       "720": 0,
       "1440": 0,
-      "2160": 0.4
+      "2160": 0.2
     },
     "altitude_m": 29
   },
@@ -5152,7 +5152,7 @@
     "station_name": "Orciatico (RADIO)",
     "province": "PI",
     "alert_zone": "A5",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01001711&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -5170,7 +5170,7 @@
     "station_name": "Orentano (GPRS)",
     "province": "PI",
     "alert_zone": "A4",
-    "latest_timestamp": 1778766900,
+    "latest_timestamp": 1778774400,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01001889&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -5179,7 +5179,7 @@
       "360": 0,
       "720": 0,
       "1440": 0,
-      "2160": 5.6
+      "2160": 5.4
     },
     "altitude_m": 22
   },
@@ -5188,7 +5188,7 @@
     "station_name": "Pisa (Fac. Agraria) (GPRS)",
     "province": "PI",
     "alert_zone": "A6",
-    "latest_timestamp": 1778766900,
+    "latest_timestamp": 1778774400,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01000544&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -5205,7 +5205,7 @@
     "station_name": "Ponsano (RADIO)",
     "province": "PI",
     "alert_zone": "A5",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01002115&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -5213,7 +5213,7 @@
       "180": 0,
       "360": 0,
       "720": 0.2,
-      "1440": 0.6,
+      "1440": 0.2,
       "2160": 4.6
     },
     "altitude_m": 340
@@ -5223,7 +5223,7 @@
     "station_name": "Ponte di Monterufoli (GPRS)",
     "province": "PI",
     "alert_zone": "E1",
-    "latest_timestamp": 1778766900,
+    "latest_timestamp": 1778774400,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01005401&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -5241,15 +5241,15 @@
     "station_name": "Ponte SR439 9 (GPRS)",
     "province": "PI",
     "alert_zone": "E1",
-    "latest_timestamp": 1778766900,
+    "latest_timestamp": 1778774400,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01005386&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
       "60": 0,
       "180": 0,
       "360": 0,
-      "720": 0.2,
-      "1440": 4,
+      "720": 0,
+      "1440": 0.2,
       "2160": 16
     },
     "altitude_m": 85
@@ -5259,7 +5259,7 @@
     "station_name": "Pontedera (GPRS)",
     "province": "PI",
     "alert_zone": "A4",
-    "latest_timestamp": 1778766900,
+    "latest_timestamp": 1778774400,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01005181&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -5268,7 +5268,7 @@
       "360": 0,
       "720": 0,
       "1440": 0,
-      "2160": 0.6
+      "2160": 0.2
     },
     "altitude_m": 11
   },
@@ -5277,7 +5277,7 @@
     "station_name": "Ripafratta (GPRS)",
     "province": "PI",
     "alert_zone": "S3",
-    "latest_timestamp": 1778766900,
+    "latest_timestamp": 1778774400,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS02004311&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -5295,7 +5295,7 @@
     "station_name": "Riparbella (RADIO)",
     "province": "PI",
     "alert_zone": "E1",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01002231&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -5313,7 +5313,7 @@
     "station_name": "S. Dalmazio (RADIO)",
     "province": "PI",
     "alert_zone": "E1",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01005377&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -5331,7 +5331,7 @@
     "station_name": "S. Giovanni alla Vena valle (GPRS)",
     "province": "PI",
     "alert_zone": "A4",
-    "latest_timestamp": 1778766900,
+    "latest_timestamp": 1778774400,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01005191&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -5346,10 +5346,10 @@
   },
   {
     "sensor_id": "TOS03002001",
-    "station_name": "S. Luce (RADIO)",
+    "station_name": "S. Luce (GPRS)",
     "province": "PI",
     "alert_zone": "E1",
-    "latest_timestamp": 1778763600,
+    "latest_timestamp": 1778774400,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS03002001&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -5367,7 +5367,7 @@
     "station_name": "S. Miniato (Cimitero) (RADIO)",
     "province": "PI",
     "alert_zone": "A4",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01001491&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -5385,7 +5385,7 @@
     "station_name": "S. Miniato Poggio al Pino (RADIO)",
     "province": "PI",
     "alert_zone": "A4",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS11000045&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -5403,7 +5403,7 @@
     "station_name": "Santermo (RADIO)",
     "province": "PI",
     "alert_zone": "A4",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS11000010&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -5421,7 +5421,7 @@
     "station_name": "Sassa (RADIO)",
     "province": "PI",
     "alert_zone": "E1",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01002181&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -5439,7 +5439,7 @@
     "station_name": "Siberia (RADIO)",
     "province": "PI",
     "alert_zone": "A4",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS11000063&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -5457,7 +5457,7 @@
     "station_name": "Terricciola (RADIO)",
     "province": "PI",
     "alert_zone": "A5",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS11000016&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -5475,7 +5475,7 @@
     "station_name": "Vecchiano (RADIO)",
     "province": "PI",
     "alert_zone": "S3",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS02004365&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -5493,7 +5493,7 @@
     "station_name": "Volterra Balze (RADIO)",
     "province": "PI",
     "alert_zone": "A5",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS03001665&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -5501,7 +5501,7 @@
       "180": 0,
       "360": 0,
       "720": 0,
-      "1440": 0.2,
+      "1440": 0,
       "2160": 7.4
     },
     "altitude_m": 450
@@ -5511,7 +5511,7 @@
     "station_name": "Artimino (RADIO)",
     "province": "PO",
     "alert_zone": "B",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS11000076&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -5519,7 +5519,7 @@
       "180": 0,
       "360": 0,
       "720": 0,
-      "1440": 0.4,
+      "1440": 0,
       "2160": 3.2
     },
     "altitude_m": 107
@@ -5529,7 +5529,7 @@
     "station_name": "Cantagallo (GPRS)",
     "province": "PO",
     "alert_zone": "B",
-    "latest_timestamp": 1778766900,
+    "latest_timestamp": 1778774400,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01001151&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -5537,7 +5537,7 @@
       "180": 0,
       "360": 0,
       "720": 0,
-      "1440": 0.6,
+      "1440": 0.4,
       "2160": 1.6
     },
     "altitude_m": 555
@@ -5547,7 +5547,7 @@
     "station_name": "Cottede (RADIO)",
     "province": "PO",
     "alert_zone": "R1",
-    "latest_timestamp": 1778765400,
+    "latest_timestamp": 1778772600,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS30290100&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -5565,7 +5565,7 @@
     "station_name": "Fattoria Iavello (RADIO)",
     "province": "PO",
     "alert_zone": "B",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01001273&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -5573,8 +5573,8 @@
       "180": 0,
       "360": 0,
       "720": 0,
-      "1440": 0.8,
-      "2160": 11.4
+      "1440": 0.4,
+      "2160": 11.2
     },
     "altitude_m": 518
   },
@@ -5583,7 +5583,7 @@
     "station_name": "Gamberame (GPRS)",
     "province": "PO",
     "alert_zone": "B",
-    "latest_timestamp": 1778766900,
+    "latest_timestamp": 1778774400,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01004779&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -5592,7 +5592,7 @@
       "360": 0,
       "720": 0,
       "1440": 0.2,
-      "2160": 12.6
+      "2160": 7.8
     },
     "altitude_m": 107
   },
@@ -5601,7 +5601,7 @@
     "station_name": "Gavigno (RADIO)",
     "province": "PO",
     "alert_zone": "B",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01001161&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -5609,7 +5609,7 @@
       "180": 0,
       "360": 0,
       "720": 0,
-      "1440": 1.4,
+      "1440": 0.4,
       "2160": 1.4
     },
     "altitude_m": 752
@@ -5619,7 +5619,7 @@
     "station_name": "Prato Università (GPRS)",
     "province": "PO",
     "alert_zone": "B",
-    "latest_timestamp": 1778766900,
+    "latest_timestamp": 1778774400,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01001205&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -5628,7 +5628,7 @@
       "360": 0,
       "720": 0,
       "1440": 0.6,
-      "2160": 21.2
+      "2160": 20.2
     },
     "altitude_m": 65
   },
@@ -5637,7 +5637,7 @@
     "station_name": "Vaiano acquedotto (RADIO)",
     "province": "PO",
     "alert_zone": "B",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS11000503&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -5655,15 +5655,15 @@
     "station_name": "Vernio (RADIO)",
     "province": "PO",
     "alert_zone": "B",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01001171&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
       "60": 0,
       "180": 0,
       "360": 0,
-      "720": 0.2,
-      "1440": 1,
+      "720": 0,
+      "1440": 0.4,
       "2160": 1.4
     },
     "altitude_m": 695
@@ -5673,16 +5673,16 @@
     "station_name": "Acquerino (RADIO)",
     "province": "PT",
     "alert_zone": "R1",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS11000094&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
       "60": 0,
       "180": 0,
       "360": 0,
-      "720": 0.2,
-      "1440": 1.2,
-      "2160": 9.8
+      "720": 0,
+      "1440": 0.4,
+      "2160": 9.6
     },
     "altitude_m": 950
   },
@@ -5691,7 +5691,7 @@
     "station_name": "Albano (RADIO)",
     "province": "PT",
     "alert_zone": "B",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS11000077&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -5700,7 +5700,7 @@
       "360": 0,
       "720": 0,
       "1440": 0,
-      "2160": 2.2
+      "2160": 0.6
     },
     "altitude_m": 465
   },
@@ -5709,7 +5709,7 @@
     "station_name": "Baggio (GPRS)",
     "province": "PT",
     "alert_zone": "B",
-    "latest_timestamp": 1778766900,
+    "latest_timestamp": 1778774400,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01001263&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -5717,8 +5717,8 @@
       "180": 0,
       "360": 0,
       "720": 0,
-      "1440": 1.2,
-      "2160": 6.2
+      "1440": 0.2,
+      "2160": 6
     },
     "altitude_m": 525
   },
@@ -5727,16 +5727,16 @@
     "station_name": "Boscolungo (RADIO)",
     "province": "PT",
     "alert_zone": "S1",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS02000351&title=&type=pluvio",
     "accumulations_mm": {
-      "15": 0,
-      "60": 0,
-      "180": 0,
-      "360": 0,
-      "720": 0.2,
-      "1440": 3.4,
-      "2160": 4.8
+      "15": 0.4,
+      "60": 3.6,
+      "180": 3.8,
+      "360": 3.8,
+      "720": 3.8,
+      "1440": 6.4,
+      "2160": 8.6
     },
     "altitude_m": 1345
   },
@@ -5745,16 +5745,16 @@
     "station_name": "Casotti di Cutigliano (GPRS)",
     "province": "PT",
     "alert_zone": "S1",
-    "latest_timestamp": 1778766900,
+    "latest_timestamp": 1778774400,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS02004215&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
-      "60": 0,
-      "180": 0,
-      "360": 0,
-      "720": 0.2,
+      "60": 0.4,
+      "180": 0.4,
+      "360": 0.4,
+      "720": 0.4,
       "1440": 4.6,
-      "2160": 6
+      "2160": 6.4
     },
     "altitude_m": 593
   },
@@ -5763,7 +5763,7 @@
     "station_name": "Castelmartini (GPRS)",
     "province": "PT",
     "alert_zone": "A4",
-    "latest_timestamp": 1778766900,
+    "latest_timestamp": 1778774400,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01001629&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -5781,7 +5781,7 @@
     "station_name": "Croce Arcana (RADIO)",
     "province": "PT",
     "alert_zone": "S1",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS02000372&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -5789,7 +5789,7 @@
       "180": 0,
       "360": 0,
       "720": 0,
-      "1440": 2,
+      "1440": 0,
       "2160": 4
     },
     "altitude_m": 1716
@@ -5799,16 +5799,16 @@
     "station_name": "La Ferruccia (RADIO)",
     "province": "PT",
     "alert_zone": "B",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01001269&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
       "60": 0,
       "180": 0,
       "360": 0,
-      "720": 0.2,
+      "720": 0,
       "1440": 0.4,
-      "2160": 6.4
+      "2160": 5.6
     },
     "altitude_m": 40
   },
@@ -5817,16 +5817,16 @@
     "station_name": "Melo (RADIO)",
     "province": "PT",
     "alert_zone": "S1",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS02000359&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
       "60": 0,
-      "180": 0,
-      "360": 0,
-      "720": 1.8,
-      "1440": 5.4,
-      "2160": 6.6
+      "180": 0.2,
+      "360": 0.2,
+      "720": 0.2,
+      "1440": 3.8,
+      "2160": 6.8
     },
     "altitude_m": 1000
   },
@@ -5835,7 +5835,7 @@
     "station_name": "Montagnana (RADIO)",
     "province": "PT",
     "alert_zone": "S1",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01001253&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -5843,7 +5843,7 @@
       "180": 0,
       "360": 0,
       "720": 0,
-      "1440": 0.8,
+      "1440": 0.6,
       "2160": 5
     },
     "altitude_m": 385
@@ -5853,7 +5853,7 @@
     "station_name": "Monte Oppio (RADIO)",
     "province": "PT",
     "alert_zone": "S1",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS02000421&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -5861,7 +5861,7 @@
       "180": 0,
       "360": 0,
       "720": 0.4,
-      "1440": 6.8,
+      "1440": 2.4,
       "2160": 6.8
     },
     "altitude_m": 810
@@ -5871,7 +5871,7 @@
     "station_name": "Montecatini Terme (GPRS)",
     "province": "PT",
     "alert_zone": "S1",
-    "latest_timestamp": 1778766900,
+    "latest_timestamp": 1778774400,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01001601&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -5880,7 +5880,7 @@
       "360": 0,
       "720": 0,
       "1440": 0,
-      "2160": 4.8
+      "2160": 0
     },
     "altitude_m": 95
   },
@@ -5889,7 +5889,7 @@
     "station_name": "Pescia (GPRS)",
     "province": "PT",
     "alert_zone": "S1",
-    "latest_timestamp": 1778766900,
+    "latest_timestamp": 1778774400,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS03001580&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -5898,7 +5898,7 @@
       "360": 0,
       "720": 0,
       "1440": 0.6,
-      "2160": 4
+      "2160": 0.6
     },
     "altitude_m": 78
   },
@@ -5907,7 +5907,7 @@
     "station_name": "Pontelungo valle (GPRS)",
     "province": "PT",
     "alert_zone": "B",
-    "latest_timestamp": 1778766900,
+    "latest_timestamp": 1778774400,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01004839&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -5916,7 +5916,7 @@
       "360": 0,
       "720": 0,
       "1440": 0.2,
-      "2160": 5.8
+      "2160": 5
     },
     "altitude_m": 66
   },
@@ -5925,7 +5925,7 @@
     "station_name": "Pracchia (RADIO)",
     "province": "PT",
     "alert_zone": "R1",
-    "latest_timestamp": 1778765400,
+    "latest_timestamp": 1778771700,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS30150800&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -5933,8 +5933,8 @@
       "180": 0,
       "360": 0,
       "720": 0,
-      "1440": 3.6,
-      "2160": 8.2
+      "1440": 1.4,
+      "2160": 7.8
     },
     "altitude_m": 620
   },
@@ -5943,15 +5943,15 @@
     "station_name": "Prunetta (RADIO)",
     "province": "PT",
     "alert_zone": "S1",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS02000441&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
       "60": 0,
       "180": 0,
-      "360": 0.2,
+      "360": 0,
       "720": 0.2,
-      "1440": 2.6,
+      "1440": 2.4,
       "2160": 8.2
     },
     "altitude_m": 960
@@ -5961,7 +5961,7 @@
     "station_name": "S. Baronto (GPRS)",
     "province": "PT",
     "alert_zone": "A4",
-    "latest_timestamp": 1778766900,
+    "latest_timestamp": 1778774400,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01001634&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -5970,7 +5970,7 @@
       "360": 0,
       "720": 0,
       "1440": 0,
-      "2160": 1.8
+      "2160": 1.4
     },
     "altitude_m": 442
   },
@@ -5979,14 +5979,14 @@
     "station_name": "S. Marcello Pistoiese (GPRS)",
     "province": "PT",
     "alert_zone": "S1",
-    "latest_timestamp": 1778766900,
+    "latest_timestamp": 1778774400,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS02000431&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
       "60": 0,
       "180": 0,
       "360": 0,
-      "720": 1,
+      "720": 0.4,
       "1440": 3.4,
       "2160": 3.4
     },
@@ -5997,7 +5997,7 @@
     "station_name": "Sammommè (GPRS)",
     "province": "PT",
     "alert_zone": "B",
-    "latest_timestamp": 1778766900,
+    "latest_timestamp": 1778774400,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS03001241&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -6005,8 +6005,8 @@
       "180": 0,
       "360": 0,
       "720": 0.2,
-      "1440": 4.4,
-      "2160": 7
+      "1440": 1.6,
+      "2160": 6.8
     },
     "altitude_m": 785
   },
@@ -6015,7 +6015,7 @@
     "station_name": "Santomato (RADIO)",
     "province": "PT",
     "alert_zone": "B",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS11000093&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -6023,8 +6023,8 @@
       "180": 0,
       "360": 0,
       "720": 0,
-      "1440": 0.6,
-      "2160": 14.8
+      "1440": 0.2,
+      "2160": 13.6
     },
     "altitude_m": 125
   },
@@ -6033,7 +6033,7 @@
     "station_name": "Selva dei Porci (RADIO)",
     "province": "PT",
     "alert_zone": "S1",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS02000401&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -6051,7 +6051,7 @@
     "station_name": "Serra Pistoiese (GPRS)",
     "province": "PT",
     "alert_zone": "S1",
-    "latest_timestamp": 1778766900,
+    "latest_timestamp": 1778774400,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01001561&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -6059,7 +6059,7 @@
       "180": 0,
       "360": 0,
       "720": 0,
-      "1440": 3.6,
+      "1440": 2,
       "2160": 3.6
     },
     "altitude_m": 790
@@ -6069,7 +6069,7 @@
     "station_name": "Sorana (RADIO)",
     "province": "PT",
     "alert_zone": "S1",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS11000091&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -6077,8 +6077,8 @@
       "180": 0,
       "360": 0,
       "720": 0,
-      "1440": 1.8,
-      "2160": 2.2
+      "1440": 1.6,
+      "2160": 2
     },
     "altitude_m": 560
   },
@@ -6087,7 +6087,7 @@
     "station_name": "Treppio (RADIO)",
     "province": "PT",
     "alert_zone": "R1",
-    "latest_timestamp": 1778764500,
+    "latest_timestamp": 1778771700,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS30290700&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -6095,7 +6095,7 @@
       "180": 0,
       "360": 0,
       "720": 0,
-      "1440": 1.2,
+      "1440": 0.6,
       "2160": 2.2
     },
     "altitude_m": 727
@@ -6105,7 +6105,7 @@
     "station_name": "Abbadia S. S. - Laghetto Verde 1 (GPRS)",
     "province": "SI",
     "alert_zone": "F1",
-    "latest_timestamp": 1778766900,
+    "latest_timestamp": 1778774400,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS11000114&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -6123,7 +6123,7 @@
     "station_name": "Abbadia S. S. - Vetta Amiata 1 (GPRS)",
     "province": "SI",
     "alert_zone": "O2",
-    "latest_timestamp": 1778766900,
+    "latest_timestamp": 1778774400,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS11000115&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -6141,7 +6141,7 @@
     "station_name": "Abbadia S. Salvatore (RADIO)",
     "province": "SI",
     "alert_zone": "F1",
-    "latest_timestamp": 1778765400,
+    "latest_timestamp": 1778772600,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS07000001&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -6159,7 +6159,7 @@
     "station_name": "Anqua (RADIO)",
     "province": "SI",
     "alert_zone": "E1",
-    "latest_timestamp": 1778765400,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01002085&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -6167,7 +6167,7 @@
       "180": 0,
       "360": 0,
       "720": 0,
-      "1440": 2.2,
+      "1440": 1.2,
       "2160": 7.4
     },
     "altitude_m": 440
@@ -6177,7 +6177,7 @@
     "station_name": "Bettolle (RADIO)",
     "province": "SI",
     "alert_zone": "C",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778772600,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01000721&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -6195,7 +6195,7 @@
     "station_name": "Buonconvento (RADIO)",
     "province": "SI",
     "alert_zone": "O2",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS11000067&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -6213,7 +6213,7 @@
     "station_name": "Castellina in Chianti (GPRS)",
     "province": "SI",
     "alert_zone": "O1",
-    "latest_timestamp": 1778766900,
+    "latest_timestamp": 1778774400,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS03001286&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -6221,7 +6221,7 @@
       "180": 0,
       "360": 0,
       "720": 0,
-      "1440": 0.4,
+      "1440": 0,
       "2160": 0.6
     },
     "altitude_m": 572
@@ -6231,7 +6231,7 @@
     "station_name": "Castelnuovo B.ga (RADIO)",
     "province": "SI",
     "alert_zone": "O1",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS11000019&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -6249,7 +6249,7 @@
     "station_name": "Castiglione d'Orcia (RADIO)",
     "province": "SI",
     "alert_zone": "O2",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS11000058&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -6257,7 +6257,7 @@
       "180": 0,
       "360": 0,
       "720": 0,
-      "1440": 0.2,
+      "1440": 0,
       "2160": 0.2
     },
     "altitude_m": 672
@@ -6267,7 +6267,7 @@
     "station_name": "Gaiole in Chianti (RADIO)",
     "province": "SI",
     "alert_zone": "O1",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS11000087&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -6285,7 +6285,7 @@
     "station_name": "Madonna a Brolio (RADIO)",
     "province": "SI",
     "alert_zone": "O1",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS03002643&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -6303,7 +6303,7 @@
     "station_name": "Mensano (GPRS)",
     "province": "SI",
     "alert_zone": "O1",
-    "latest_timestamp": 1778766900,
+    "latest_timestamp": 1778774100,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS03001385&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -6311,7 +6311,7 @@
       "180": 0,
       "360": 0,
       "720": 0,
-      "1440": 1.4,
+      "1440": 1.2,
       "2160": 4.4
     },
     "altitude_m": 365
@@ -6321,7 +6321,7 @@
     "station_name": "Monastero d'Ombrone (RADIO)",
     "province": "SI",
     "alert_zone": "O1",
-    "latest_timestamp": 1778764500,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS03002613&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -6339,7 +6339,7 @@
     "station_name": "Montalcinello (RADIO)",
     "province": "SI",
     "alert_zone": "O1",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS03002733&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -6347,7 +6347,7 @@
       "180": 0,
       "360": 0,
       "720": 0.2,
-      "1440": 4.2,
+      "1440": 3.4,
       "2160": 7.8
     },
     "altitude_m": 380
@@ -6357,7 +6357,7 @@
     "station_name": "Montalcino (RADIO)",
     "province": "SI",
     "alert_zone": "O2",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS03002701&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -6365,17 +6365,17 @@
       "180": 0,
       "360": 0,
       "720": 0,
-      "1440": 0.4,
+      "1440": 0,
       "2160": 9.6
     },
     "altitude_m": 594
   },
   {
     "sensor_id": "TOS03002621",
-    "station_name": "Monte Oliveto (RADIO)",
+    "station_name": "Monte Oliveto (GPRS)",
     "province": "SI",
     "alert_zone": "O1",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773800,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS03002621&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -6383,7 +6383,7 @@
       "180": 0,
       "360": 0,
       "720": 0,
-      "1440": 0.4,
+      "1440": 0,
       "2160": 0.4
     },
     "altitude_m": 267
@@ -6393,7 +6393,7 @@
     "station_name": "Montepulciano  (RADIO)",
     "province": "SI",
     "alert_zone": "C",
-    "latest_timestamp": 1778763600,
+    "latest_timestamp": 1778770800,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS03000691&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -6411,7 +6411,7 @@
     "station_name": "Montepulciano Azienda (RADIO)",
     "province": "SI",
     "alert_zone": "C",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS11000113&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -6429,7 +6429,7 @@
     "station_name": "Monteroni Arbia Biena (RADIO)",
     "province": "SI",
     "alert_zone": "O1",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS11000082&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -6447,7 +6447,7 @@
     "station_name": "Monticchiello (RADIO)",
     "province": "SI",
     "alert_zone": "O2",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS03002869&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -6455,7 +6455,7 @@
       "180": 0,
       "360": 0,
       "720": 0,
-      "1440": 1,
+      "1440": 0.4,
       "2160": 1
     },
     "altitude_m": 495
@@ -6465,14 +6465,14 @@
     "station_name": "Monticiano La Pineta (GPRS)",
     "province": "SI",
     "alert_zone": "O1",
-    "latest_timestamp": 1778766900,
+    "latest_timestamp": 1778774400,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS03002742&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
       "60": 0,
       "180": 0,
       "360": 0,
-      "720": 0.2,
+      "720": 0,
       "1440": 0.2,
       "2160": 2.4
     },
@@ -6483,7 +6483,7 @@
     "station_name": "Montisi (GPRS)",
     "province": "SI",
     "alert_zone": "O1",
-    "latest_timestamp": 1778766900,
+    "latest_timestamp": 1778774400,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS03002888&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -6491,7 +6491,7 @@
       "180": 0,
       "360": 0,
       "720": 0,
-      "1440": 0.8,
+      "1440": 0.2,
       "2160": 0.8
     },
     "altitude_m": 400
@@ -6501,7 +6501,7 @@
     "station_name": "Nusenna in Chianti (RADIO)",
     "province": "SI",
     "alert_zone": "O1",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01000831&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -6519,7 +6519,7 @@
     "station_name": "Pentolina (RADIO)",
     "province": "SI",
     "alert_zone": "O1",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS11000080&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -6527,7 +6527,7 @@
       "180": 0,
       "360": 0,
       "720": 0,
-      "1440": 2.2,
+      "1440": 0.4,
       "2160": 2.2
     },
     "altitude_m": 450
@@ -6537,7 +6537,7 @@
     "station_name": "Piancastagnaio (RADIO)",
     "province": "SI",
     "alert_zone": "F1",
-    "latest_timestamp": 1778760900,
+    "latest_timestamp": 1778764500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS11000060&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -6555,7 +6555,7 @@
     "station_name": "Poggibonsi (GPRS)",
     "province": "SI",
     "alert_zone": "A5",
-    "latest_timestamp": 1778766900,
+    "latest_timestamp": 1778774400,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01004965&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -6563,7 +6563,7 @@
       "180": 0,
       "360": 0,
       "720": 0,
-      "1440": 0.2,
+      "1440": 0,
       "2160": 16.6
     },
     "altitude_m": 88
@@ -6573,7 +6573,7 @@
     "station_name": "Ponte Orgia (RADIO)",
     "province": "SI",
     "alert_zone": "O1",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS03005707&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -6581,7 +6581,7 @@
       "180": 0,
       "360": 0,
       "720": 0,
-      "1440": 1,
+      "1440": 0.2,
       "2160": 10.6
     },
     "altitude_m": 0
@@ -6591,7 +6591,7 @@
     "station_name": "Radda in Chianti (RADIO)",
     "province": "SI",
     "alert_zone": "O1",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01001284&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -6609,7 +6609,7 @@
     "station_name": "Radicofani (RADIO)",
     "province": "SI",
     "alert_zone": "F1",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS11000061&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -6627,7 +6627,7 @@
     "station_name": "Rigomagno (GPRS)",
     "province": "SI",
     "alert_zone": "C",
-    "latest_timestamp": 1778766900,
+    "latest_timestamp": 1778774400,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS03000715&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -6645,7 +6645,7 @@
     "station_name": "Ripa d'Orcia (RADIO)",
     "province": "SI",
     "alert_zone": "O2",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS11000059&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -6653,7 +6653,7 @@
       "180": 0,
       "360": 0,
       "720": 0,
-      "1440": 1.4,
+      "1440": 0,
       "2160": 1.8
     },
     "altitude_m": 506
@@ -6663,7 +6663,7 @@
     "station_name": "S. Gimignano (GPRS)",
     "province": "SI",
     "alert_zone": "A5",
-    "latest_timestamp": 1778766900,
+    "latest_timestamp": 1778774400,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01001419&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -6681,7 +6681,7 @@
     "station_name": "Scorgiano (RADIO)",
     "province": "SI",
     "alert_zone": "O1",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS11000025&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -6689,7 +6689,7 @@
       "180": 0,
       "360": 0,
       "720": 0,
-      "1440": 3.1,
+      "1440": 0,
       "2160": 11.3
     },
     "altitude_m": 233
@@ -6699,7 +6699,7 @@
     "station_name": "Siena Poggio al Vento (RADIO)",
     "province": "SI",
     "alert_zone": "O1",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01002661&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -6707,7 +6707,7 @@
       "180": 0,
       "360": 0,
       "720": 0,
-      "1440": 0.2,
+      "1440": 0,
       "2160": 7.7
     },
     "altitude_m": 348
@@ -6717,7 +6717,7 @@
     "station_name": "Simignano (RADIO)",
     "province": "SI",
     "alert_zone": "O1",
-    "latest_timestamp": 1778765400,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01001379&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -6725,7 +6725,7 @@
       "180": 0,
       "360": 0,
       "720": 0,
-      "1440": 2.2,
+      "1440": 0.4,
       "2160": 2.4
     },
     "altitude_m": 420
@@ -6735,7 +6735,7 @@
     "station_name": "Sovicille (RADIO)",
     "province": "SI",
     "alert_zone": "O1",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778773500,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS03002761&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -6743,17 +6743,17 @@
       "180": 0,
       "360": 0,
       "720": 0,
-      "1440": 1.6,
+      "1440": 0.2,
       "2160": 2.2
     },
     "altitude_m": 260
   },
   {
     "sensor_id": "TOS03002819",
-    "station_name": "Spineta (RADIO)",
+    "station_name": "Spineta (GPRS)",
     "province": "SI",
     "alert_zone": "F1",
-    "latest_timestamp": 1778766300,
+    "latest_timestamp": 1778774400,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS03002819&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -6761,7 +6761,7 @@
       "180": 0,
       "360": 0,
       "720": 0,
-      "1440": 5.6,
+      "1440": 0.4,
       "2160": 5.6
     },
     "altitude_m": 633
@@ -6771,7 +6771,7 @@
     "station_name": "Vagliagli (GPRS)",
     "province": "SI",
     "alert_zone": "O1",
-    "latest_timestamp": 1778766900,
+    "latest_timestamp": 1778774400,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS03002640&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
@@ -6789,7 +6789,7 @@
     "station_name": "Vivo d'Orcia (GPRS)",
     "province": "SI",
     "alert_zone": "O2",
-    "latest_timestamp": 1778766900,
+    "latest_timestamp": 1778774400,
     "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS10002910&title=&type=pluvio",
     "accumulations_mm": {
       "15": 0,
