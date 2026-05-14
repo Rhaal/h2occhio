@@ -8,5 +8,15 @@
     "river": "Vezza",
     "province": "LU",
     "station_name": "Ruosina (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02004017",
+    "timestamp": 1778717700,
+    "value": 0.19,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Vezza",
+    "province": "LU",
+    "station_name": "Ruosina (RADIO)"
   }
 ]
