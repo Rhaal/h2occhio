@@ -558,5 +558,75 @@
     "window_minutes": 2160,
     "province": "AR",
     "station_name": "Badia Prataglia (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000621",
+    "timestamp": 1778790600,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "AR",
+    "station_name": "Badia Prataglia (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000621",
+    "timestamp": 1778790600,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "AR",
+    "station_name": "Badia Prataglia (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000621",
+    "timestamp": 1778790600,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "AR",
+    "station_name": "Badia Prataglia (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000621",
+    "timestamp": 1778790600,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "AR",
+    "station_name": "Badia Prataglia (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000621",
+    "timestamp": 1778790600,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "AR",
+    "station_name": "Badia Prataglia (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000621",
+    "timestamp": 1778790600,
+    "value": 0.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "AR",
+    "station_name": "Badia Prataglia (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000621",
+    "timestamp": 1778790600,
+    "value": 2.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "AR",
+    "station_name": "Badia Prataglia (RADIO)"
   }
 ]
