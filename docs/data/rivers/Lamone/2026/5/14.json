@@ -28,5 +28,15 @@
     "river": "Lamone",
     "province": "FI",
     "station_name": "Marradi (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30250000",
+    "timestamp": 1778741100,
+    "value": 0.36,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Lamone",
+    "province": "FI",
+    "station_name": "Marradi (RADIO)"
   }
 ]
