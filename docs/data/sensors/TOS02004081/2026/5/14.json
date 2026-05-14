@@ -398,5 +398,85 @@
     "window_minutes": 2160,
     "province": "LU",
     "station_name": "Torre del Lago (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02004081",
+    "timestamp": 1778756400,
+    "value": 0.11,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Lago Massaciuccoli",
+    "province": "LU",
+    "station_name": "Torre del Lago (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02004081",
+    "timestamp": 1778757000,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "LU",
+    "station_name": "Torre del Lago (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02004081",
+    "timestamp": 1778757000,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "LU",
+    "station_name": "Torre del Lago (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02004081",
+    "timestamp": 1778757000,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "LU",
+    "station_name": "Torre del Lago (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02004081",
+    "timestamp": 1778757000,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "LU",
+    "station_name": "Torre del Lago (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02004081",
+    "timestamp": 1778757000,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "LU",
+    "station_name": "Torre del Lago (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02004081",
+    "timestamp": 1778757000,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "LU",
+    "station_name": "Torre del Lago (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02004081",
+    "timestamp": 1778757000,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "LU",
+    "station_name": "Torre del Lago (GPRS)"
   }
 ]
