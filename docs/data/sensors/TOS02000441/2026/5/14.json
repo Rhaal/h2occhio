@@ -628,5 +628,75 @@
     "window_minutes": 2160,
     "province": "PT",
     "station_name": "Prunetta (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000441",
+    "timestamp": 1778787000,
+    "value": 1.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "PT",
+    "station_name": "Prunetta (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000441",
+    "timestamp": 1778787000,
+    "value": 1.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "PT",
+    "station_name": "Prunetta (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000441",
+    "timestamp": 1778787000,
+    "value": 4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "PT",
+    "station_name": "Prunetta (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000441",
+    "timestamp": 1778787000,
+    "value": 4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "PT",
+    "station_name": "Prunetta (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000441",
+    "timestamp": 1778787000,
+    "value": 4.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "PT",
+    "station_name": "Prunetta (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000441",
+    "timestamp": 1778787000,
+    "value": 6.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "PT",
+    "station_name": "Prunetta (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000441",
+    "timestamp": 1778787000,
+    "value": 12.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "PT",
+    "station_name": "Prunetta (RADIO)"
   }
 ]

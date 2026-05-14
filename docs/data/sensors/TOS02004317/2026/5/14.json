@@ -88,5 +88,15 @@
     "river": "Ozzeri",
     "province": "PI",
     "station_name": "Ripafratta 2 (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02004317",
+    "timestamp": 1778787600,
+    "value": 0.61,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Ozzeri",
+    "province": "PI",
+    "station_name": "Ripafratta 2 (GPRS)"
   }
 ]
