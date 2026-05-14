@@ -278,5 +278,75 @@
     "window_minutes": 2160,
     "province": "PI",
     "station_name": "Orentano (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01001889",
+    "timestamp": 1778751300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "PI",
+    "station_name": "Orentano (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01001889",
+    "timestamp": 1778751300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "PI",
+    "station_name": "Orentano (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01001889",
+    "timestamp": 1778751300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "PI",
+    "station_name": "Orentano (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01001889",
+    "timestamp": 1778751300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "PI",
+    "station_name": "Orentano (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01001889",
+    "timestamp": 1778751300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "PI",
+    "station_name": "Orentano (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01001889",
+    "timestamp": 1778751300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "PI",
+    "station_name": "Orentano (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01001889",
+    "timestamp": 1778751300,
+    "value": 5.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "PI",
+    "station_name": "Orentano (GPRS)"
   }
 ]
