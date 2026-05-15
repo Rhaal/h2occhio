@@ -348,5 +348,75 @@
     "window_minutes": 2160,
     "province": "MS",
     "station_name": "Equi Terme (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001220",
+    "timestamp": 1778846400,
+    "value": 1.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "MS",
+    "station_name": "Equi Terme (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001220",
+    "timestamp": 1778846400,
+    "value": 3.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "MS",
+    "station_name": "Equi Terme (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001220",
+    "timestamp": 1778846400,
+    "value": 8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "MS",
+    "station_name": "Equi Terme (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001220",
+    "timestamp": 1778846400,
+    "value": 19.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "MS",
+    "station_name": "Equi Terme (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001220",
+    "timestamp": 1778846400,
+    "value": 41.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "MS",
+    "station_name": "Equi Terme (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001220",
+    "timestamp": 1778846400,
+    "value": 48.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "MS",
+    "station_name": "Equi Terme (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001220",
+    "timestamp": 1778846400,
+    "value": 49.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "MS",
+    "station_name": "Equi Terme (RADIO)"
   }
 ]

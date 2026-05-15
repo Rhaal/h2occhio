@@ -348,5 +348,75 @@
     "window_minutes": 2160,
     "province": "FI",
     "station_name": "Monte Faggiola (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30287700",
+    "timestamp": 1778844600,
+    "value": 0.5,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "FI",
+    "station_name": "Monte Faggiola (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30287700",
+    "timestamp": 1778844600,
+    "value": 1.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "FI",
+    "station_name": "Monte Faggiola (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30287700",
+    "timestamp": 1778844600,
+    "value": 3.7,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "FI",
+    "station_name": "Monte Faggiola (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30287700",
+    "timestamp": 1778844600,
+    "value": 3.9,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "FI",
+    "station_name": "Monte Faggiola (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30287700",
+    "timestamp": 1778844600,
+    "value": 3.9,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "FI",
+    "station_name": "Monte Faggiola (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30287700",
+    "timestamp": 1778844600,
+    "value": 3.9,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "FI",
+    "station_name": "Monte Faggiola (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30287700",
+    "timestamp": 1778844600,
+    "value": 3.9,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "FI",
+    "station_name": "Monte Faggiola (RADIO)"
   }
 ]

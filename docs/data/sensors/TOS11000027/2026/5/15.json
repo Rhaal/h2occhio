@@ -348,5 +348,75 @@
     "window_minutes": 2160,
     "province": "MS",
     "station_name": "Candia Scurtarola (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000027",
+    "timestamp": 1778846400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "MS",
+    "station_name": "Candia Scurtarola (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000027",
+    "timestamp": 1778846400,
+    "value": 8.5,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "MS",
+    "station_name": "Candia Scurtarola (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000027",
+    "timestamp": 1778846400,
+    "value": 11.1,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "MS",
+    "station_name": "Candia Scurtarola (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000027",
+    "timestamp": 1778846400,
+    "value": 16.7,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "MS",
+    "station_name": "Candia Scurtarola (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000027",
+    "timestamp": 1778846400,
+    "value": 18.5,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "MS",
+    "station_name": "Candia Scurtarola (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000027",
+    "timestamp": 1778846400,
+    "value": 18.5,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "MS",
+    "station_name": "Candia Scurtarola (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000027",
+    "timestamp": 1778846400,
+    "value": 18.5,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "MS",
+    "station_name": "Candia Scurtarola (RADIO)"
   }
 ]

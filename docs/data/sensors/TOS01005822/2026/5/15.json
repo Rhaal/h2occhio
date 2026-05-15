@@ -48,5 +48,15 @@
     "river": "OmbroneGR",
     "province": "GR",
     "station_name": "Istia (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01005822",
+    "timestamp": 1778847000,
+    "value": 0.02,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "OmbroneGR",
+    "province": "GR",
+    "station_name": "Istia (GPRS)"
   }
 ]

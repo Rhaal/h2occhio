@@ -398,5 +398,85 @@
     "window_minutes": 2160,
     "province": "MS",
     "station_name": "Soliera (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03000109",
+    "timestamp": 1778846400,
+    "value": 2.36,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Aulella",
+    "province": "MS",
+    "station_name": "Soliera (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03000109",
+    "timestamp": 1778846400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "MS",
+    "station_name": "Soliera (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03000109",
+    "timestamp": 1778846400,
+    "value": 0.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "MS",
+    "station_name": "Soliera (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03000109",
+    "timestamp": 1778846400,
+    "value": 2.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "MS",
+    "station_name": "Soliera (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03000109",
+    "timestamp": 1778846400,
+    "value": 10.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "MS",
+    "station_name": "Soliera (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03000109",
+    "timestamp": 1778846400,
+    "value": 20,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "MS",
+    "station_name": "Soliera (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03000109",
+    "timestamp": 1778846400,
+    "value": 22.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "MS",
+    "station_name": "Soliera (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03000109",
+    "timestamp": 1778846400,
+    "value": 22.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "MS",
+    "station_name": "Soliera (RADIO)"
   }
 ]

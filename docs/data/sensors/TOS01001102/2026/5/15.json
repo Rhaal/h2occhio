@@ -348,5 +348,75 @@
     "window_minutes": 2160,
     "province": "FI",
     "station_name": "Cercina (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01001102",
+    "timestamp": 1778846400,
+    "value": 1.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "FI",
+    "station_name": "Cercina (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01001102",
+    "timestamp": 1778846400,
+    "value": 3.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "FI",
+    "station_name": "Cercina (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01001102",
+    "timestamp": 1778846400,
+    "value": 8.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "FI",
+    "station_name": "Cercina (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01001102",
+    "timestamp": 1778846400,
+    "value": 9,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "FI",
+    "station_name": "Cercina (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01001102",
+    "timestamp": 1778846400,
+    "value": 9,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "FI",
+    "station_name": "Cercina (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01001102",
+    "timestamp": 1778846400,
+    "value": 9,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "FI",
+    "station_name": "Cercina (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01001102",
+    "timestamp": 1778846400,
+    "value": 9,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "FI",
+    "station_name": "Cercina (RADIO)"
   }
 ]

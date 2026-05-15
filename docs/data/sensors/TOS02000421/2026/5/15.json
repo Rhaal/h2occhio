@@ -348,5 +348,75 @@
     "window_minutes": 2160,
     "province": "PT",
     "station_name": "Monte Oppio (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000421",
+    "timestamp": 1778846400,
+    "value": 0.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "PT",
+    "station_name": "Monte Oppio (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000421",
+    "timestamp": 1778846400,
+    "value": 4.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "PT",
+    "station_name": "Monte Oppio (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000421",
+    "timestamp": 1778846400,
+    "value": 14.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "PT",
+    "station_name": "Monte Oppio (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000421",
+    "timestamp": 1778846400,
+    "value": 24,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "PT",
+    "station_name": "Monte Oppio (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000421",
+    "timestamp": 1778846400,
+    "value": 31.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "PT",
+    "station_name": "Monte Oppio (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000421",
+    "timestamp": 1778846400,
+    "value": 59.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "PT",
+    "station_name": "Monte Oppio (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000421",
+    "timestamp": 1778846400,
+    "value": 61.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "PT",
+    "station_name": "Monte Oppio (RADIO)"
   }
 ]
