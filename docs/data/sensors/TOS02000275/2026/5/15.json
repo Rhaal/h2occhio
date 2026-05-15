@@ -558,5 +558,75 @@
     "window_minutes": 2160,
     "province": "LU",
     "station_name": "Monte Romecchio (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000275",
+    "timestamp": 1778867100,
+    "value": 0.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "LU",
+    "station_name": "Monte Romecchio (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000275",
+    "timestamp": 1778867100,
+    "value": 0.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "LU",
+    "station_name": "Monte Romecchio (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000275",
+    "timestamp": 1778867100,
+    "value": 0.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "LU",
+    "station_name": "Monte Romecchio (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000275",
+    "timestamp": 1778867100,
+    "value": 2.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "LU",
+    "station_name": "Monte Romecchio (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000275",
+    "timestamp": 1778867100,
+    "value": 19.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "LU",
+    "station_name": "Monte Romecchio (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000275",
+    "timestamp": 1778867100,
+    "value": 55.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "LU",
+    "station_name": "Monte Romecchio (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000275",
+    "timestamp": 1778867100,
+    "value": 66.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "LU",
+    "station_name": "Monte Romecchio (RADIO)"
   }
 ]

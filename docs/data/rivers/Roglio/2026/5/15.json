@@ -78,5 +78,15 @@
     "river": "Roglio",
     "province": "PI",
     "station_name": "Forcoli (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01005135",
+    "timestamp": 1778867100,
+    "value": 0.42,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Roglio",
+    "province": "PI",
+    "station_name": "Forcoli (RADIO)"
   }
 ]
