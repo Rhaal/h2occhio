@@ -488,5 +488,75 @@
     "window_minutes": 2160,
     "province": "LU",
     "station_name": "Monte Castellino (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000171",
+    "timestamp": 1778860800,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "LU",
+    "station_name": "Monte Castellino (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000171",
+    "timestamp": 1778860800,
+    "value": 0.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "LU",
+    "station_name": "Monte Castellino (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000171",
+    "timestamp": 1778860800,
+    "value": 3.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "LU",
+    "station_name": "Monte Castellino (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000171",
+    "timestamp": 1778860800,
+    "value": 9.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "LU",
+    "station_name": "Monte Castellino (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000171",
+    "timestamp": 1778860800,
+    "value": 24.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "LU",
+    "station_name": "Monte Castellino (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000171",
+    "timestamp": 1778860800,
+    "value": 70.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "LU",
+    "station_name": "Monte Castellino (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000171",
+    "timestamp": 1778860800,
+    "value": 76.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "LU",
+    "station_name": "Monte Castellino (RADIO)"
   }
 ]

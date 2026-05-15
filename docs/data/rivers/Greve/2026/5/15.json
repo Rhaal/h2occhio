@@ -208,5 +208,35 @@
     "river": "Greve",
     "province": "FI",
     "station_name": "Ponte di Scandicci (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01004705",
+    "timestamp": 1778860800,
+    "value": 0.51,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Greve",
+    "province": "FI",
+    "station_name": "Greve (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01004723",
+    "timestamp": 1778860800,
+    "value": 0.3,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Greve",
+    "province": "FI",
+    "station_name": "Tavarnuzze (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01004731",
+    "timestamp": 1778860800,
+    "value": -0.01,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Greve",
+    "province": "FI",
+    "station_name": "Ponte di Scandicci (RADIO)"
   }
 ]

@@ -488,5 +488,75 @@
     "window_minutes": 2160,
     "province": "GR",
     "station_name": "Castel del Piano (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03002901",
+    "timestamp": 1778861400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "GR",
+    "station_name": "Castel del Piano (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03002901",
+    "timestamp": 1778861400,
+    "value": 2.9,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "GR",
+    "station_name": "Castel del Piano (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03002901",
+    "timestamp": 1778861400,
+    "value": 3.9,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "GR",
+    "station_name": "Castel del Piano (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03002901",
+    "timestamp": 1778861400,
+    "value": 5.7,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "GR",
+    "station_name": "Castel del Piano (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03002901",
+    "timestamp": 1778861400,
+    "value": 6.1,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "GR",
+    "station_name": "Castel del Piano (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03002901",
+    "timestamp": 1778861400,
+    "value": 6.1,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "GR",
+    "station_name": "Castel del Piano (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03002901",
+    "timestamp": 1778861400,
+    "value": 6.1,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "GR",
+    "station_name": "Castel del Piano (GPRS)"
   }
 ]

@@ -488,5 +488,75 @@
     "window_minutes": 2160,
     "province": "SI",
     "station_name": "Bettolle (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000721",
+    "timestamp": 1778860800,
+    "value": 1.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "SI",
+    "station_name": "Bettolle (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000721",
+    "timestamp": 1778860800,
+    "value": 4.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "SI",
+    "station_name": "Bettolle (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000721",
+    "timestamp": 1778860800,
+    "value": 20.7,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "SI",
+    "station_name": "Bettolle (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000721",
+    "timestamp": 1778860800,
+    "value": 24.5,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "SI",
+    "station_name": "Bettolle (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000721",
+    "timestamp": 1778860800,
+    "value": 28.9,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "SI",
+    "station_name": "Bettolle (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000721",
+    "timestamp": 1778860800,
+    "value": 29.3,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "SI",
+    "station_name": "Bettolle (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000721",
+    "timestamp": 1778860800,
+    "value": 29.3,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "SI",
+    "station_name": "Bettolle (RADIO)"
   }
 ]

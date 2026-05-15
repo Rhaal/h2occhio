@@ -488,5 +488,75 @@
     "window_minutes": 2160,
     "province": "SI",
     "station_name": "S. Gimignano (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01001419",
+    "timestamp": 1778861400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "SI",
+    "station_name": "S. Gimignano (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01001419",
+    "timestamp": 1778861400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "SI",
+    "station_name": "S. Gimignano (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01001419",
+    "timestamp": 1778861400,
+    "value": 0.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "SI",
+    "station_name": "S. Gimignano (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01001419",
+    "timestamp": 1778861400,
+    "value": 1,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "SI",
+    "station_name": "S. Gimignano (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01001419",
+    "timestamp": 1778861400,
+    "value": 1.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "SI",
+    "station_name": "S. Gimignano (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01001419",
+    "timestamp": 1778861400,
+    "value": 1.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "SI",
+    "station_name": "S. Gimignano (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01001419",
+    "timestamp": 1778861400,
+    "value": 1.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "SI",
+    "station_name": "S. Gimignano (GPRS)"
   }
 ]

@@ -558,5 +558,85 @@
     "window_minutes": 2160,
     "province": "AR",
     "station_name": "Montevarchi (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01004571",
+    "timestamp": 1778861400,
+    "value": 0.1,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Arno",
+    "province": "AR",
+    "station_name": "Montevarchi (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01004571",
+    "timestamp": 1778861400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "AR",
+    "station_name": "Montevarchi (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01004571",
+    "timestamp": 1778861400,
+    "value": 0.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "AR",
+    "station_name": "Montevarchi (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01004571",
+    "timestamp": 1778861400,
+    "value": 3,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "AR",
+    "station_name": "Montevarchi (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01004571",
+    "timestamp": 1778861400,
+    "value": 11,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "AR",
+    "station_name": "Montevarchi (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01004571",
+    "timestamp": 1778861400,
+    "value": 12.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "AR",
+    "station_name": "Montevarchi (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01004571",
+    "timestamp": 1778861400,
+    "value": 12.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "AR",
+    "station_name": "Montevarchi (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01004571",
+    "timestamp": 1778861400,
+    "value": 12.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "AR",
+    "station_name": "Montevarchi (GPRS)"
   }
 ]
