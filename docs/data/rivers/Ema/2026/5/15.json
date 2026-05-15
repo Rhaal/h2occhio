@@ -58,5 +58,35 @@
     "river": "Ema",
     "province": "FI",
     "station_name": "Strada in Chianti (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03004729",
+    "timestamp": 1778821200,
+    "value": 0.35,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Ema",
+    "province": "FI",
+    "station_name": "Ponte a Niccheri (RADIO)"
+  },
+  {
+    "sensor_id": "TOS19000704",
+    "timestamp": 1778821200,
+    "value": 0.33,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Ema",
+    "province": "FI",
+    "station_name": "Grassina (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01004725",
+    "timestamp": 1778822100,
+    "value": 0.31,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Ema",
+    "province": "FI",
+    "station_name": "Strada in Chianti (GPRS)"
   }
 ]
