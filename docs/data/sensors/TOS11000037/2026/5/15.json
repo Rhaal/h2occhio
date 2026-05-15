@@ -68,5 +68,75 @@
     "window_minutes": 2160,
     "province": "AR",
     "station_name": "Cesa (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000037",
+    "timestamp": 1778807700,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "AR",
+    "station_name": "Cesa (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000037",
+    "timestamp": 1778807700,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "AR",
+    "station_name": "Cesa (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000037",
+    "timestamp": 1778807700,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "AR",
+    "station_name": "Cesa (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000037",
+    "timestamp": 1778807700,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "AR",
+    "station_name": "Cesa (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000037",
+    "timestamp": 1778807700,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "AR",
+    "station_name": "Cesa (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000037",
+    "timestamp": 1778807700,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "AR",
+    "station_name": "Cesa (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000037",
+    "timestamp": 1778807700,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "AR",
+    "station_name": "Cesa (RADIO)"
   }
 ]
