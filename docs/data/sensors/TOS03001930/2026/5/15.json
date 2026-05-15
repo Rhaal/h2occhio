@@ -698,5 +698,75 @@
     "window_minutes": 2160,
     "province": "LI",
     "station_name": "Parrana S. Martino (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03001930",
+    "timestamp": 1778876700,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "LI",
+    "station_name": "Parrana S. Martino (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03001930",
+    "timestamp": 1778876700,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "LI",
+    "station_name": "Parrana S. Martino (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03001930",
+    "timestamp": 1778876700,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "LI",
+    "station_name": "Parrana S. Martino (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03001930",
+    "timestamp": 1778876700,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "LI",
+    "station_name": "Parrana S. Martino (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03001930",
+    "timestamp": 1778876700,
+    "value": 18.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "LI",
+    "station_name": "Parrana S. Martino (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03001930",
+    "timestamp": 1778876700,
+    "value": 32.7,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "LI",
+    "station_name": "Parrana S. Martino (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03001930",
+    "timestamp": 1778876700,
+    "value": 32.7,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "LI",
+    "station_name": "Parrana S. Martino (GPRS)"
   }
 ]

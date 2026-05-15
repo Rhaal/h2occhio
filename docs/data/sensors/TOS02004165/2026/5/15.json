@@ -518,5 +518,75 @@
     "window_minutes": 2160,
     "province": "LU",
     "station_name": "Ponte di Campia (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02004165",
+    "timestamp": 1778876700,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "LU",
+    "station_name": "Ponte di Campia (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02004165",
+    "timestamp": 1778876700,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "LU",
+    "station_name": "Ponte di Campia (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02004165",
+    "timestamp": 1778876700,
+    "value": 0.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "LU",
+    "station_name": "Ponte di Campia (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02004165",
+    "timestamp": 1778876700,
+    "value": 1.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "LU",
+    "station_name": "Ponte di Campia (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02004165",
+    "timestamp": 1778876700,
+    "value": 1.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "LU",
+    "station_name": "Ponte di Campia (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02004165",
+    "timestamp": 1778876700,
+    "value": 14.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "LU",
+    "station_name": "Ponte di Campia (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02004165",
+    "timestamp": 1778876700,
+    "value": 21.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "LU",
+    "station_name": "Ponte di Campia (GPRS)"
   }
 ]
