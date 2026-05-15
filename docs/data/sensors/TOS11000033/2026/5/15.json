@@ -208,5 +208,75 @@
     "window_minutes": 2160,
     "province": "LU",
     "station_name": "Pieve di Compito (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000033",
+    "timestamp": 1778832900,
+    "value": 0.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "LU",
+    "station_name": "Pieve di Compito (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000033",
+    "timestamp": 1778832900,
+    "value": 1.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "LU",
+    "station_name": "Pieve di Compito (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000033",
+    "timestamp": 1778832900,
+    "value": 7.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "LU",
+    "station_name": "Pieve di Compito (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000033",
+    "timestamp": 1778832900,
+    "value": 13,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "LU",
+    "station_name": "Pieve di Compito (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000033",
+    "timestamp": 1778832900,
+    "value": 13.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "LU",
+    "station_name": "Pieve di Compito (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000033",
+    "timestamp": 1778832900,
+    "value": 13.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "LU",
+    "station_name": "Pieve di Compito (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000033",
+    "timestamp": 1778832900,
+    "value": 13.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "LU",
+    "station_name": "Pieve di Compito (RADIO)"
   }
 ]

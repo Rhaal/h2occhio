@@ -208,5 +208,75 @@
     "window_minutes": 2160,
     "province": "PI",
     "station_name": "Volterra Balze (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03001665",
+    "timestamp": 1778832900,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "PI",
+    "station_name": "Volterra Balze (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03001665",
+    "timestamp": 1778832900,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "PI",
+    "station_name": "Volterra Balze (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03001665",
+    "timestamp": 1778832900,
+    "value": 0.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "PI",
+    "station_name": "Volterra Balze (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03001665",
+    "timestamp": 1778832900,
+    "value": 0.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "PI",
+    "station_name": "Volterra Balze (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03001665",
+    "timestamp": 1778832900,
+    "value": 0.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "PI",
+    "station_name": "Volterra Balze (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03001665",
+    "timestamp": 1778832900,
+    "value": 0.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "PI",
+    "station_name": "Volterra Balze (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03001665",
+    "timestamp": 1778832900,
+    "value": 0.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "PI",
+    "station_name": "Volterra Balze (RADIO)"
   }
 ]
