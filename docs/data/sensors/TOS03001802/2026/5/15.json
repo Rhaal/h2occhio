@@ -768,5 +768,75 @@
     "window_minutes": 2160,
     "province": "PI",
     "station_name": "Cimone - Monte Serra (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03001802",
+    "timestamp": 1778879700,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "PI",
+    "station_name": "Cimone - Monte Serra (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03001802",
+    "timestamp": 1778879700,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "PI",
+    "station_name": "Cimone - Monte Serra (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03001802",
+    "timestamp": 1778879700,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "PI",
+    "station_name": "Cimone - Monte Serra (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03001802",
+    "timestamp": 1778879700,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "PI",
+    "station_name": "Cimone - Monte Serra (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03001802",
+    "timestamp": 1778879700,
+    "value": 2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "PI",
+    "station_name": "Cimone - Monte Serra (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03001802",
+    "timestamp": 1778879700,
+    "value": 4.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "PI",
+    "station_name": "Cimone - Monte Serra (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03001802",
+    "timestamp": 1778879700,
+    "value": 4.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "PI",
+    "station_name": "Cimone - Monte Serra (RADIO)"
   }
 ]

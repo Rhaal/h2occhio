@@ -108,5 +108,15 @@
     "river": "Laguna",
     "province": "GR",
     "station_name": "Ansedonia (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03003118",
+    "timestamp": 1778880600,
+    "value": 0.16,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Laguna",
+    "province": "GR",
+    "station_name": "Ansedonia (GPRS)"
   }
 ]

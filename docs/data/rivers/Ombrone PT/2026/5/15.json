@@ -438,5 +438,45 @@
     "river": "Ombrone PT",
     "province": "PT",
     "station_name": "Pontelungo valle (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01004875",
+    "timestamp": 1778879700,
+    "value": 1.09,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Ombrone PT",
+    "province": "PO",
+    "station_name": "Poggio a Caiano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03004863",
+    "timestamp": 1778879700,
+    "value": 1.04,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Ombrone PT",
+    "province": "PO",
+    "station_name": "Ponte alle Vanne  (RADIO)"
+  },
+  {
+    "sensor_id": "TOS15004865",
+    "timestamp": 1778879700,
+    "value": -0.03,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Ombrone PT",
+    "province": "PO",
+    "station_name": "Ponte alle Vanne Cassa (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01004839",
+    "timestamp": 1778880600,
+    "value": 0.79,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Ombrone PT",
+    "province": "PT",
+    "station_name": "Pontelungo valle (GPRS)"
   }
 ]

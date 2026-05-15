@@ -698,5 +698,75 @@
     "window_minutes": 2160,
     "province": "MS",
     "station_name": "Lago Paduli (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30209600",
+    "timestamp": 1778877000,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "MS",
+    "station_name": "Lago Paduli (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30209600",
+    "timestamp": 1778877000,
+    "value": 1.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "MS",
+    "station_name": "Lago Paduli (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30209600",
+    "timestamp": 1778877000,
+    "value": 1.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "MS",
+    "station_name": "Lago Paduli (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30209600",
+    "timestamp": 1778877000,
+    "value": 6.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "MS",
+    "station_name": "Lago Paduli (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30209600",
+    "timestamp": 1778877000,
+    "value": 16,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "MS",
+    "station_name": "Lago Paduli (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30209600",
+    "timestamp": 1778877000,
+    "value": 41.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "MS",
+    "station_name": "Lago Paduli (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30209600",
+    "timestamp": 1778877000,
+    "value": 59.5,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "MS",
+    "station_name": "Lago Paduli (RADIO)"
   }
 ]
