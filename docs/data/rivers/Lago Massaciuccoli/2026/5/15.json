@@ -88,5 +88,15 @@
     "river": "Lago Massaciuccoli",
     "province": "LU",
     "station_name": "Torre del Lago (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02004081",
+    "timestamp": 1778871600,
+    "value": 0.13,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Lago Massaciuccoli",
+    "province": "LU",
+    "station_name": "Torre del Lago (RADIO)"
   }
 ]

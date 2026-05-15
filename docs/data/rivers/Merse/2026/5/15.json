@@ -268,5 +268,35 @@
     "river": "Merse",
     "province": "SI",
     "station_name": "Montepescini (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03005707",
+    "timestamp": 1778871600,
+    "value": 0.37,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Merse",
+    "province": "SI",
+    "station_name": "Ponte Orgia (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01005801",
+    "timestamp": 1778872200,
+    "value": 0.31,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Merse",
+    "province": "GR",
+    "station_name": "Montieri (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03005711",
+    "timestamp": 1778872200,
+    "value": -0.44,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Merse",
+    "province": "SI",
+    "station_name": "Montepescini (GPRS)"
   }
 ]

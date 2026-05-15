@@ -88,5 +88,15 @@
     "river": "Tevere",
     "province": "AR",
     "station_name": "Sansepolcro (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03006123",
+    "timestamp": 1778871600,
+    "value": 0.15,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Tevere",
+    "province": "AR",
+    "station_name": "Sansepolcro (RADIO)"
   }
 ]
