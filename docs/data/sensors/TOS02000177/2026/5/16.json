@@ -1,0 +1,72 @@
+[
+  {
+    "sensor_id": "TOS02000177",
+    "timestamp": 1778884200,
+    "value": 0.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "LU",
+    "station_name": "Orto di Donna (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02000177",
+    "timestamp": 1778884200,
+    "value": 0.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "LU",
+    "station_name": "Orto di Donna (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02000177",
+    "timestamp": 1778884200,
+    "value": 4.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "LU",
+    "station_name": "Orto di Donna (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02000177",
+    "timestamp": 1778884200,
+    "value": 11.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "LU",
+    "station_name": "Orto di Donna (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02000177",
+    "timestamp": 1778884200,
+    "value": 28.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "LU",
+    "station_name": "Orto di Donna (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02000177",
+    "timestamp": 1778884200,
+    "value": 89,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "LU",
+    "station_name": "Orto di Donna (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02000177",
+    "timestamp": 1778884200,
+    "value": 100.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "LU",
+    "station_name": "Orto di Donna (GPRS)"
+  }
+]

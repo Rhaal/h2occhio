@@ -1,0 +1,12 @@
+[
+  {
+    "sensor_id": "TOS01005403",
+    "timestamp": 1778883300,
+    "value": 0.63,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Sterza",
+    "province": "PI",
+    "station_name": "Case Grisella (RADIO)"
+  }
+]

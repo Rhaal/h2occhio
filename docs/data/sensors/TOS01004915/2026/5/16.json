@@ -1,0 +1,82 @@
+[
+  {
+    "sensor_id": "TOS01004915",
+    "timestamp": 1778884200,
+    "value": 0.09,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Virginio",
+    "province": "FI",
+    "station_name": "Montespertoli (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01004915",
+    "timestamp": 1778884200,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "FI",
+    "station_name": "Montespertoli (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01004915",
+    "timestamp": 1778884200,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "FI",
+    "station_name": "Montespertoli (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01004915",
+    "timestamp": 1778884200,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "FI",
+    "station_name": "Montespertoli (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01004915",
+    "timestamp": 1778884200,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "FI",
+    "station_name": "Montespertoli (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01004915",
+    "timestamp": 1778884200,
+    "value": 3.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "FI",
+    "station_name": "Montespertoli (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01004915",
+    "timestamp": 1778884200,
+    "value": 7.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "FI",
+    "station_name": "Montespertoli (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01004915",
+    "timestamp": 1778884200,
+    "value": 7.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "FI",
+    "station_name": "Montespertoli (GPRS)"
+  }
+]

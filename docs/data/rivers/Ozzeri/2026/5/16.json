@@ -1,0 +1,22 @@
+[
+  {
+    "sensor_id": "TOS02004315",
+    "timestamp": 1778884200,
+    "value": 0.33,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Ozzeri",
+    "province": "LU",
+    "station_name": "Pontetetto (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02004317",
+    "timestamp": 1778884200,
+    "value": 0.92,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Ozzeri",
+    "province": "PI",
+    "station_name": "Ripafratta 2 (GPRS)"
+  }
+]
