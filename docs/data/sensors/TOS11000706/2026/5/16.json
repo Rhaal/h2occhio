@@ -18,5 +18,15 @@
     "river": "Teglia",
     "province": "MS",
     "station_name": "Ponte Teglia (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000706",
+    "timestamp": 1778902200,
+    "value": 0.74,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Teglia",
+    "province": "MS",
+    "station_name": "Ponte Teglia (RADIO)"
   }
 ]

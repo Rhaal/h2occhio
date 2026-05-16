@@ -158,5 +158,85 @@
     "window_minutes": 2160,
     "province": "PI",
     "station_name": "Capannoli (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01005131",
+    "timestamp": 1778902800,
+    "value": 2.13,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Era",
+    "province": "PI",
+    "station_name": "Capannoli (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01005131",
+    "timestamp": 1778902800,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "PI",
+    "station_name": "Capannoli (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01005131",
+    "timestamp": 1778902800,
+    "value": 0.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "PI",
+    "station_name": "Capannoli (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01005131",
+    "timestamp": 1778902800,
+    "value": 0.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "PI",
+    "station_name": "Capannoli (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01005131",
+    "timestamp": 1778902800,
+    "value": 0.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "PI",
+    "station_name": "Capannoli (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01005131",
+    "timestamp": 1778902800,
+    "value": 0.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "PI",
+    "station_name": "Capannoli (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01005131",
+    "timestamp": 1778902800,
+    "value": 14.3,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "PI",
+    "station_name": "Capannoli (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01005131",
+    "timestamp": 1778902800,
+    "value": 14.3,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "PI",
+    "station_name": "Capannoli (GPRS)"
   }
 ]
