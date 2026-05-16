@@ -148,5 +148,15 @@
     "river": "Arno",
     "province": "FI",
     "station_name": "Firenze Uffizi (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01004679",
+    "timestamp": 1778963100,
+    "value": 1.09,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Arno",
+    "province": "FI",
+    "station_name": "Firenze Uffizi (GPRS)"
   }
 ]

@@ -1048,5 +1048,75 @@
     "window_minutes": 2160,
     "province": "SI",
     "station_name": "Anqua (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01002085",
+    "timestamp": 1778961600,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "SI",
+    "station_name": "Anqua (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01002085",
+    "timestamp": 1778961600,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "SI",
+    "station_name": "Anqua (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01002085",
+    "timestamp": 1778961600,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "SI",
+    "station_name": "Anqua (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01002085",
+    "timestamp": 1778961600,
+    "value": 1.3,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "SI",
+    "station_name": "Anqua (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01002085",
+    "timestamp": 1778961600,
+    "value": 3.1,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "SI",
+    "station_name": "Anqua (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01002085",
+    "timestamp": 1778961600,
+    "value": 11.9,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "SI",
+    "station_name": "Anqua (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01002085",
+    "timestamp": 1778961600,
+    "value": 25.9,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "SI",
+    "station_name": "Anqua (RADIO)"
   }
 ]

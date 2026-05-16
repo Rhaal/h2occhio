@@ -978,5 +978,75 @@
     "window_minutes": 2160,
     "province": "LU",
     "station_name": "Careggine (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000096",
+    "timestamp": 1778961600,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "LU",
+    "station_name": "Careggine (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000096",
+    "timestamp": 1778961600,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "LU",
+    "station_name": "Careggine (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000096",
+    "timestamp": 1778961600,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "LU",
+    "station_name": "Careggine (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000096",
+    "timestamp": 1778961600,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "LU",
+    "station_name": "Careggine (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000096",
+    "timestamp": 1778961600,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "LU",
+    "station_name": "Careggine (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000096",
+    "timestamp": 1778961600,
+    "value": 9.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "LU",
+    "station_name": "Careggine (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000096",
+    "timestamp": 1778961600,
+    "value": 33.9,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "LU",
+    "station_name": "Careggine (RADIO)"
   }
 ]

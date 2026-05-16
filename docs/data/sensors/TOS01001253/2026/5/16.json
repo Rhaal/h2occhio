@@ -1048,5 +1048,75 @@
     "window_minutes": 2160,
     "province": "PT",
     "station_name": "Montagnana (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01001253",
+    "timestamp": 1778962500,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "PT",
+    "station_name": "Montagnana (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01001253",
+    "timestamp": 1778962500,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "PT",
+    "station_name": "Montagnana (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01001253",
+    "timestamp": 1778962500,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "PT",
+    "station_name": "Montagnana (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01001253",
+    "timestamp": 1778962500,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "PT",
+    "station_name": "Montagnana (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01001253",
+    "timestamp": 1778962500,
+    "value": 4.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "PT",
+    "station_name": "Montagnana (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01001253",
+    "timestamp": 1778962500,
+    "value": 6.5,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "PT",
+    "station_name": "Montagnana (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01001253",
+    "timestamp": 1778962500,
+    "value": 19.3,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "PT",
+    "station_name": "Montagnana (RADIO)"
   }
 ]
