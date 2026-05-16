@@ -488,5 +488,75 @@
     "window_minutes": 2160,
     "province": "GR",
     "station_name": "Poggio Perotto (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03003011",
+    "timestamp": 1778931300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "GR",
+    "station_name": "Poggio Perotto (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03003011",
+    "timestamp": 1778931300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "GR",
+    "station_name": "Poggio Perotto (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03003011",
+    "timestamp": 1778931300,
+    "value": 1.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "GR",
+    "station_name": "Poggio Perotto (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03003011",
+    "timestamp": 1778931300,
+    "value": 4.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "GR",
+    "station_name": "Poggio Perotto (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03003011",
+    "timestamp": 1778931300,
+    "value": 8.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "GR",
+    "station_name": "Poggio Perotto (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03003011",
+    "timestamp": 1778931300,
+    "value": 8.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "GR",
+    "station_name": "Poggio Perotto (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03003011",
+    "timestamp": 1778931300,
+    "value": 8.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "GR",
+    "station_name": "Poggio Perotto (GPRS)"
   }
 ]

@@ -418,5 +418,75 @@
     "window_minutes": 2160,
     "province": "GR",
     "station_name": "Prata (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03002073",
+    "timestamp": 1778931000,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "GR",
+    "station_name": "Prata (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03002073",
+    "timestamp": 1778931000,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "GR",
+    "station_name": "Prata (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03002073",
+    "timestamp": 1778931000,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "GR",
+    "station_name": "Prata (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03002073",
+    "timestamp": 1778931000,
+    "value": 2.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "GR",
+    "station_name": "Prata (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03002073",
+    "timestamp": 1778931000,
+    "value": 3.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "GR",
+    "station_name": "Prata (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03002073",
+    "timestamp": 1778931000,
+    "value": 13.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "GR",
+    "station_name": "Prata (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03002073",
+    "timestamp": 1778931000,
+    "value": 19.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "GR",
+    "station_name": "Prata (RADIO)"
   }
 ]

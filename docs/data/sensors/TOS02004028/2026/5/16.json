@@ -68,5 +68,15 @@
     "river": "Versilia",
     "province": "LU",
     "station_name": "Seravezza 1 (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02004028",
+    "timestamp": 1778931300,
+    "value": 1.09,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Versilia",
+    "province": "LU",
+    "station_name": "Seravezza 1 (GPRS)"
   }
 ]

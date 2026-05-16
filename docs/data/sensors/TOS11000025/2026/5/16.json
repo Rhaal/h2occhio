@@ -488,5 +488,75 @@
     "window_minutes": 2160,
     "province": "SI",
     "station_name": "Scorgiano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000025",
+    "timestamp": 1778931000,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "SI",
+    "station_name": "Scorgiano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000025",
+    "timestamp": 1778931000,
+    "value": 0.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "SI",
+    "station_name": "Scorgiano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000025",
+    "timestamp": 1778931000,
+    "value": 0.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "SI",
+    "station_name": "Scorgiano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000025",
+    "timestamp": 1778931000,
+    "value": 2.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "SI",
+    "station_name": "Scorgiano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000025",
+    "timestamp": 1778931000,
+    "value": 2.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "SI",
+    "station_name": "Scorgiano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000025",
+    "timestamp": 1778931000,
+    "value": 5.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "SI",
+    "station_name": "Scorgiano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000025",
+    "timestamp": 1778931000,
+    "value": 14.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "SI",
+    "station_name": "Scorgiano (RADIO)"
   }
 ]

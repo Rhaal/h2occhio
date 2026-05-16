@@ -68,5 +68,15 @@
     "river": "Possera",
     "province": "PI",
     "station_name": "Bulera (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03005379",
+    "timestamp": 1778931300,
+    "value": 0.51,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Possera",
+    "province": "PI",
+    "station_name": "Bulera (GPRS)"
   }
 ]
