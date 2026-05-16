@@ -118,5 +118,15 @@
     "river": "Pecora",
     "province": "GR",
     "station_name": "La Cura SP152 (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01005572",
+    "timestamp": 1778952600,
+    "value": 1.39,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Pecora",
+    "province": "GR",
+    "station_name": "La Cura SP152 (GPRS)"
   }
 ]

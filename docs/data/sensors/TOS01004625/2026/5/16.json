@@ -118,5 +118,15 @@
     "river": "Sieve",
     "province": "FI",
     "station_name": "Dicomano (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01004625",
+    "timestamp": 1778952600,
+    "value": 0.84,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Sieve",
+    "province": "FI",
+    "station_name": "Dicomano (GPRS)"
   }
 ]

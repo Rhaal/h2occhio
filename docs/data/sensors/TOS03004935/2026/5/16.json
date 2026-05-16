@@ -118,5 +118,15 @@
     "river": "Orme",
     "province": "FI",
     "station_name": "Empoli-Pontorme (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03004935",
+    "timestamp": 1778951700,
+    "value": -0.23,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Orme",
+    "province": "FI",
+    "station_name": "Empoli-Pontorme (RADIO)"
   }
 ]
