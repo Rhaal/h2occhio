@@ -28,5 +28,15 @@
     "river": "Chioma",
     "province": "LI",
     "station_name": "Porticciolo del Chioma (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03005351",
+    "timestamp": 1778911500,
+    "value": -0.08,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Chioma",
+    "province": "LI",
+    "station_name": "Porticciolo del Chioma (GPRS)"
   }
 ]

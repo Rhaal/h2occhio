@@ -208,5 +208,75 @@
     "window_minutes": 2160,
     "province": "PT",
     "station_name": "S. Baronto (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01001634",
+    "timestamp": 1778911500,
+    "value": 0.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "PT",
+    "station_name": "S. Baronto (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01001634",
+    "timestamp": 1778911500,
+    "value": 0.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "PT",
+    "station_name": "S. Baronto (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01001634",
+    "timestamp": 1778911500,
+    "value": 0.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "PT",
+    "station_name": "S. Baronto (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01001634",
+    "timestamp": 1778911500,
+    "value": 0.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "PT",
+    "station_name": "S. Baronto (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01001634",
+    "timestamp": 1778911500,
+    "value": 0.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "PT",
+    "station_name": "S. Baronto (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01001634",
+    "timestamp": 1778911500,
+    "value": 14.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "PT",
+    "station_name": "S. Baronto (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01001634",
+    "timestamp": 1778911500,
+    "value": 14.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "PT",
+    "station_name": "S. Baronto (GPRS)"
   }
 ]

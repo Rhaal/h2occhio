@@ -208,5 +208,75 @@
     "window_minutes": 2160,
     "province": "AR",
     "station_name": "Monte Ginezzo (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03000757",
+    "timestamp": 1778911200,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "AR",
+    "station_name": "Monte Ginezzo (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03000757",
+    "timestamp": 1778911200,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "AR",
+    "station_name": "Monte Ginezzo (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03000757",
+    "timestamp": 1778911200,
+    "value": 0.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "AR",
+    "station_name": "Monte Ginezzo (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03000757",
+    "timestamp": 1778911200,
+    "value": 6.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "AR",
+    "station_name": "Monte Ginezzo (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03000757",
+    "timestamp": 1778911200,
+    "value": 6.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "AR",
+    "station_name": "Monte Ginezzo (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03000757",
+    "timestamp": 1778911200,
+    "value": 21.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "AR",
+    "station_name": "Monte Ginezzo (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03000757",
+    "timestamp": 1778911200,
+    "value": 22.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "AR",
+    "station_name": "Monte Ginezzo (RADIO)"
   }
 ]

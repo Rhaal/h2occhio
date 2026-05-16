@@ -238,5 +238,85 @@
     "window_minutes": 2160,
     "province": "LU",
     "station_name": "Camporgiano (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02004115",
+    "timestamp": 1778911500,
+    "value": 0.31,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Serchio",
+    "province": "LU",
+    "station_name": "Camporgiano (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02004115",
+    "timestamp": 1778911500,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "LU",
+    "station_name": "Camporgiano (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02004115",
+    "timestamp": 1778911500,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "LU",
+    "station_name": "Camporgiano (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02004115",
+    "timestamp": 1778911500,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "LU",
+    "station_name": "Camporgiano (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02004115",
+    "timestamp": 1778911500,
+    "value": 1.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "LU",
+    "station_name": "Camporgiano (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02004115",
+    "timestamp": 1778911500,
+    "value": 10.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "LU",
+    "station_name": "Camporgiano (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02004115",
+    "timestamp": 1778911500,
+    "value": 31.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "LU",
+    "station_name": "Camporgiano (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02004115",
+    "timestamp": 1778911500,
+    "value": 77.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "LU",
+    "station_name": "Camporgiano (GPRS)"
   }
 ]
