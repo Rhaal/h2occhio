@@ -128,5 +128,15 @@
     "river": "Ombrone PT",
     "province": "PO",
     "station_name": "Poggio a Caiano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01004875",
+    "timestamp": 1778956200,
+    "value": 0.77,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Ombrone PT",
+    "province": "PO",
+    "station_name": "Poggio a Caiano (RADIO)"
   }
 ]
