@@ -1,0 +1,22 @@
+[
+  {
+    "sensor_id": "TOS03004519",
+    "timestamp": 1778969700,
+    "value": 1.15,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Canale della Chiana",
+    "province": "AR",
+    "station_name": "Ponte di Cesa (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01004521",
+    "timestamp": 1778970000,
+    "value": 0.51,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Canale della Chiana",
+    "province": "AR",
+    "station_name": "Ponte Ferrovia FI-Roma (GPRS)"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "sensor_id": "TOS01005441",
+    "timestamp": 1778969700,
+    "value": 2.14,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Mare",
+    "province": "LI",
+    "station_name": "Portoferraio (RADIO)"
+  }
+]

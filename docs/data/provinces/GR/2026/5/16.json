@@ -56918,5 +56918,155 @@
     "window_minutes": 2160,
     "province": "GR",
     "station_name": "S. Fiora 1 (GPRS)"
+  },
+  {
+    "sensor_id": "TOS07000072",
+    "timestamp": 1778967000,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "GR",
+    "station_name": "Sorano Meteo (RADIO)"
+  },
+  {
+    "sensor_id": "TOS07000072",
+    "timestamp": 1778967000,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "GR",
+    "station_name": "Sorano Meteo (RADIO)"
+  },
+  {
+    "sensor_id": "TOS07000072",
+    "timestamp": 1778967000,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "GR",
+    "station_name": "Sorano Meteo (RADIO)"
+  },
+  {
+    "sensor_id": "TOS07000072",
+    "timestamp": 1778967000,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "GR",
+    "station_name": "Sorano Meteo (RADIO)"
+  },
+  {
+    "sensor_id": "TOS07000072",
+    "timestamp": 1778967000,
+    "value": 2.3,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "GR",
+    "station_name": "Sorano Meteo (RADIO)"
+  },
+  {
+    "sensor_id": "TOS07000072",
+    "timestamp": 1778967000,
+    "value": 5.7,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "GR",
+    "station_name": "Sorano Meteo (RADIO)"
+  },
+  {
+    "sensor_id": "TOS07000072",
+    "timestamp": 1778967000,
+    "value": 48.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "GR",
+    "station_name": "Sorano Meteo (RADIO)"
+  },
+  {
+    "sensor_id": "TOS07000046",
+    "timestamp": 1778967900,
+    "value": 2.63,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Fiora",
+    "province": "GR",
+    "station_name": "Pitigliano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS07000046",
+    "timestamp": 1778967900,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "GR",
+    "station_name": "Pitigliano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS07000046",
+    "timestamp": 1778967900,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "GR",
+    "station_name": "Pitigliano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS07000046",
+    "timestamp": 1778967900,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "GR",
+    "station_name": "Pitigliano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS07000046",
+    "timestamp": 1778967900,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "GR",
+    "station_name": "Pitigliano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS07000046",
+    "timestamp": 1778967900,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "GR",
+    "station_name": "Pitigliano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS07000046",
+    "timestamp": 1778967900,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "GR",
+    "station_name": "Pitigliano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS07000046",
+    "timestamp": 1778967900,
+    "value": 3.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "GR",
+    "station_name": "Pitigliano (RADIO)"
   }
 ]

@@ -1,0 +1,12 @@
+[
+  {
+    "sensor_id": "TOS15004338",
+    "timestamp": 1778969700,
+    "value": 0.26,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Guappero",
+    "province": "LU",
+    "station_name": "Guappero cassa valle 2 (RADIO)"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "sensor_id": "TOS01004705",
+    "timestamp": 1778969700,
+    "value": 0.5,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Greve",
+    "province": "FI",
+    "station_name": "Greve (RADIO)"
+  }
+]

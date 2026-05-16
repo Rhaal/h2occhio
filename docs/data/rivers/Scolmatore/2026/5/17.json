@@ -1,0 +1,32 @@
+[
+  {
+    "sensor_id": "TOS03005282",
+    "timestamp": 1778969700,
+    "value": 1.05,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Scolmatore",
+    "province": "LI",
+    "station_name": "SR206 Emilia (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01005262",
+    "timestamp": 1778970000,
+    "value": 1.84,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Scolmatore",
+    "province": "PI",
+    "station_name": "Gello (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01005342",
+    "timestamp": 1778970000,
+    "value": 0.32,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Scolmatore",
+    "province": "LI",
+    "station_name": "Stagno (GPRS)"
+  }
+]

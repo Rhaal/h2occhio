@@ -1,0 +1,12 @@
+[
+  {
+    "sensor_id": "TOS03005351",
+    "timestamp": 1778970000,
+    "value": -0.13,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Chioma",
+    "province": "LI",
+    "station_name": "Porticciolo del Chioma (GPRS)"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "sensor_id": "TOS03001286",
+    "timestamp": 1778970000,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "SI",
+    "station_name": "Castellina in Chianti (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03001286",
+    "timestamp": 1778970000,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "SI",
+    "station_name": "Castellina in Chianti (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03001286",
+    "timestamp": 1778970000,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "SI",
+    "station_name": "Castellina in Chianti (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03001286",
+    "timestamp": 1778970000,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "SI",
+    "station_name": "Castellina in Chianti (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03001286",
+    "timestamp": 1778970000,
+    "value": 6.1,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "SI",
+    "station_name": "Castellina in Chianti (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03001286",
+    "timestamp": 1778970000,
+    "value": 7.9,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "SI",
+    "station_name": "Castellina in Chianti (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03001286",
+    "timestamp": 1778970000,
+    "value": 18.1,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "SI",
+    "station_name": "Castellina in Chianti (GPRS)"
+  }
+]
