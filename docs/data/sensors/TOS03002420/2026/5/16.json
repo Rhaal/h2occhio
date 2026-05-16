@@ -558,5 +558,75 @@
     "window_minutes": 2160,
     "province": "LI",
     "station_name": "Campiglia Marittima (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03002420",
+    "timestamp": 1778936700,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "LI",
+    "station_name": "Campiglia Marittima (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03002420",
+    "timestamp": 1778936700,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "LI",
+    "station_name": "Campiglia Marittima (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03002420",
+    "timestamp": 1778936700,
+    "value": 1,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "LI",
+    "station_name": "Campiglia Marittima (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03002420",
+    "timestamp": 1778936700,
+    "value": 5.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "LI",
+    "station_name": "Campiglia Marittima (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03002420",
+    "timestamp": 1778936700,
+    "value": 6.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "LI",
+    "station_name": "Campiglia Marittima (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03002420",
+    "timestamp": 1778936700,
+    "value": 8.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "LI",
+    "station_name": "Campiglia Marittima (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03002420",
+    "timestamp": 1778936700,
+    "value": 16.3,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "LI",
+    "station_name": "Campiglia Marittima (GPRS)"
   }
 ]

@@ -558,5 +558,75 @@
     "window_minutes": 2160,
     "province": "GR",
     "station_name": "Semproniano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000055",
+    "timestamp": 1778936400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "GR",
+    "station_name": "Semproniano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000055",
+    "timestamp": 1778936400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "GR",
+    "station_name": "Semproniano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000055",
+    "timestamp": 1778936400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "GR",
+    "station_name": "Semproniano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000055",
+    "timestamp": 1778936400,
+    "value": 2.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "GR",
+    "station_name": "Semproniano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000055",
+    "timestamp": 1778936400,
+    "value": 6.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "GR",
+    "station_name": "Semproniano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000055",
+    "timestamp": 1778936400,
+    "value": 9.3,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "GR",
+    "station_name": "Semproniano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000055",
+    "timestamp": 1778936400,
+    "value": 14.9,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "GR",
+    "station_name": "Semproniano (RADIO)"
   }
 ]
