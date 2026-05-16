@@ -138,5 +138,15 @@
     "river": "Egola",
     "province": "PI",
     "station_name": "Fornacino (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01005005",
+    "timestamp": 1778960100,
+    "value": 0.16,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Egola",
+    "province": "PI",
+    "station_name": "Fornacino (GPRS)"
   }
 ]

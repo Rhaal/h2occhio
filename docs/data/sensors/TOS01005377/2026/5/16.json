@@ -1118,5 +1118,85 @@
     "window_minutes": 2160,
     "province": "PI",
     "station_name": "S. Dalmazio (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01005377",
+    "timestamp": 1778959800,
+    "value": 2.48,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Pavone",
+    "province": "PI",
+    "station_name": "S. Dalmazio (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01005377",
+    "timestamp": 1778959800,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "PI",
+    "station_name": "S. Dalmazio (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01005377",
+    "timestamp": 1778959800,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "PI",
+    "station_name": "S. Dalmazio (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01005377",
+    "timestamp": 1778959800,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "PI",
+    "station_name": "S. Dalmazio (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01005377",
+    "timestamp": 1778959800,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "PI",
+    "station_name": "S. Dalmazio (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01005377",
+    "timestamp": 1778959800,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "PI",
+    "station_name": "S. Dalmazio (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01005377",
+    "timestamp": 1778959800,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "PI",
+    "station_name": "S. Dalmazio (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01005377",
+    "timestamp": 1778959800,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "PI",
+    "station_name": "S. Dalmazio (RADIO)"
   }
 ]

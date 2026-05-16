@@ -138,5 +138,15 @@
     "river": "Allacciante di Sx",
     "province": "AR",
     "station_name": "Foiano SP28 (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03004517",
+    "timestamp": 1778959800,
+    "value": 1.45,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Allacciante di Sx",
+    "province": "AR",
+    "station_name": "Foiano SP28 (RADIO)"
   }
 ]
