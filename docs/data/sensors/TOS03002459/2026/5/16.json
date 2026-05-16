@@ -768,5 +768,75 @@
     "window_minutes": 2160,
     "province": "GR",
     "station_name": "Follonica (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03002459",
+    "timestamp": 1778948100,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "GR",
+    "station_name": "Follonica (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03002459",
+    "timestamp": 1778948100,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "GR",
+    "station_name": "Follonica (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03002459",
+    "timestamp": 1778948100,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "GR",
+    "station_name": "Follonica (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03002459",
+    "timestamp": 1778948100,
+    "value": 3,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "GR",
+    "station_name": "Follonica (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03002459",
+    "timestamp": 1778948100,
+    "value": 9.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "GR",
+    "station_name": "Follonica (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03002459",
+    "timestamp": 1778948100,
+    "value": 14.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "GR",
+    "station_name": "Follonica (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03002459",
+    "timestamp": 1778948100,
+    "value": 19.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "GR",
+    "station_name": "Follonica (RADIO)"
   }
 ]
