@@ -418,5 +418,75 @@
     "window_minutes": 2160,
     "province": "SI",
     "station_name": "Gaiole in Chianti (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000087",
+    "timestamp": 1778926500,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "SI",
+    "station_name": "Gaiole in Chianti (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000087",
+    "timestamp": 1778926500,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "SI",
+    "station_name": "Gaiole in Chianti (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000087",
+    "timestamp": 1778926500,
+    "value": 2.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "SI",
+    "station_name": "Gaiole in Chianti (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000087",
+    "timestamp": 1778926500,
+    "value": 3,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "SI",
+    "station_name": "Gaiole in Chianti (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000087",
+    "timestamp": 1778926500,
+    "value": 6.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "SI",
+    "station_name": "Gaiole in Chianti (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000087",
+    "timestamp": 1778926500,
+    "value": 19.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "SI",
+    "station_name": "Gaiole in Chianti (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000087",
+    "timestamp": 1778926500,
+    "value": 21.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "SI",
+    "station_name": "Gaiole in Chianti (RADIO)"
   }
 ]
