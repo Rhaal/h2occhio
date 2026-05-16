@@ -348,5 +348,75 @@
     "window_minutes": 2160,
     "province": "GR",
     "station_name": "Montenero (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000051",
+    "timestamp": 1778922900,
+    "value": 0.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "GR",
+    "station_name": "Montenero (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000051",
+    "timestamp": 1778922900,
+    "value": 0.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "GR",
+    "station_name": "Montenero (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000051",
+    "timestamp": 1778922900,
+    "value": 3.1,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "GR",
+    "station_name": "Montenero (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000051",
+    "timestamp": 1778922900,
+    "value": 3.1,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "GR",
+    "station_name": "Montenero (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000051",
+    "timestamp": 1778922900,
+    "value": 9.5,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "GR",
+    "station_name": "Montenero (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000051",
+    "timestamp": 1778922900,
+    "value": 19.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "GR",
+    "station_name": "Montenero (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000051",
+    "timestamp": 1778922900,
+    "value": 21.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "GR",
+    "station_name": "Montenero (RADIO)"
   }
 ]

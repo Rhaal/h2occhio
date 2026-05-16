@@ -348,5 +348,75 @@
     "window_minutes": 2160,
     "province": "SI",
     "station_name": "Monteroni Arbia Biena (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000082",
+    "timestamp": 1778922900,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "SI",
+    "station_name": "Monteroni Arbia Biena (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000082",
+    "timestamp": 1778922900,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "SI",
+    "station_name": "Monteroni Arbia Biena (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000082",
+    "timestamp": 1778922900,
+    "value": 3.9,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "SI",
+    "station_name": "Monteroni Arbia Biena (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000082",
+    "timestamp": 1778922900,
+    "value": 3.9,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "SI",
+    "station_name": "Monteroni Arbia Biena (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000082",
+    "timestamp": 1778922900,
+    "value": 9.5,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "SI",
+    "station_name": "Monteroni Arbia Biena (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000082",
+    "timestamp": 1778922900,
+    "value": 36.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "SI",
+    "station_name": "Monteroni Arbia Biena (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000082",
+    "timestamp": 1778922900,
+    "value": 36.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "SI",
+    "station_name": "Monteroni Arbia Biena (RADIO)"
   }
 ]
