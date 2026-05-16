@@ -78,5 +78,25 @@
     "river": "Canale della Chiana",
     "province": "AR",
     "station_name": "Ponte Ferrovia FI-Roma (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03004519",
+    "timestamp": 1778917500,
+    "value": 0.99,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Canale della Chiana",
+    "province": "AR",
+    "station_name": "Ponte di Cesa (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01004521",
+    "timestamp": 1778918100,
+    "value": 0.42,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Canale della Chiana",
+    "province": "AR",
+    "station_name": "Ponte Ferrovia FI-Roma (GPRS)"
   }
 ]
