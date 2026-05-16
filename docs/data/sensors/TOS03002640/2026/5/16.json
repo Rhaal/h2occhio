@@ -698,5 +698,75 @@
     "window_minutes": 2160,
     "province": "SI",
     "station_name": "Vagliagli (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03002640",
+    "timestamp": 1778944800,
+    "value": 4.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "SI",
+    "station_name": "Vagliagli (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03002640",
+    "timestamp": 1778944800,
+    "value": 5.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "SI",
+    "station_name": "Vagliagli (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03002640",
+    "timestamp": 1778944800,
+    "value": 5.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "SI",
+    "station_name": "Vagliagli (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03002640",
+    "timestamp": 1778944800,
+    "value": 8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "SI",
+    "station_name": "Vagliagli (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03002640",
+    "timestamp": 1778944800,
+    "value": 15.3,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "SI",
+    "station_name": "Vagliagli (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03002640",
+    "timestamp": 1778944800,
+    "value": 17.3,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "SI",
+    "station_name": "Vagliagli (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03002640",
+    "timestamp": 1778944800,
+    "value": 34.3,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "SI",
+    "station_name": "Vagliagli (GPRS)"
   }
 ]

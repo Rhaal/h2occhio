@@ -698,5 +698,75 @@
     "window_minutes": 2160,
     "province": "SI",
     "station_name": "Monastero d'Ombrone (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03002613",
+    "timestamp": 1778944500,
+    "value": 0.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "SI",
+    "station_name": "Monastero d'Ombrone (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03002613",
+    "timestamp": 1778944500,
+    "value": 1.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "SI",
+    "station_name": "Monastero d'Ombrone (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03002613",
+    "timestamp": 1778944500,
+    "value": 2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "SI",
+    "station_name": "Monastero d'Ombrone (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03002613",
+    "timestamp": 1778944500,
+    "value": 3.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "SI",
+    "station_name": "Monastero d'Ombrone (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03002613",
+    "timestamp": 1778944500,
+    "value": 4.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "SI",
+    "station_name": "Monastero d'Ombrone (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03002613",
+    "timestamp": 1778944500,
+    "value": 11.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "SI",
+    "station_name": "Monastero d'Ombrone (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03002613",
+    "timestamp": 1778944500,
+    "value": 37.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "SI",
+    "station_name": "Monastero d'Ombrone (RADIO)"
   }
 ]

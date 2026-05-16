@@ -798,5 +798,85 @@
     "window_minutes": 2160,
     "province": "FI",
     "station_name": "Turbone (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01004921",
+    "timestamp": 1778944800,
+    "value": 1.23,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Pesa",
+    "province": "FI",
+    "station_name": "Turbone (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01004921",
+    "timestamp": 1778944800,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "FI",
+    "station_name": "Turbone (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01004921",
+    "timestamp": 1778944800,
+    "value": 0.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "FI",
+    "station_name": "Turbone (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01004921",
+    "timestamp": 1778944800,
+    "value": 0.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "FI",
+    "station_name": "Turbone (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01004921",
+    "timestamp": 1778944800,
+    "value": 1,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "FI",
+    "station_name": "Turbone (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01004921",
+    "timestamp": 1778944800,
+    "value": 1,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "FI",
+    "station_name": "Turbone (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01004921",
+    "timestamp": 1778944800,
+    "value": 2.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "FI",
+    "station_name": "Turbone (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01004921",
+    "timestamp": 1778944800,
+    "value": 13,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "FI",
+    "station_name": "Turbone (GPRS)"
   }
 ]

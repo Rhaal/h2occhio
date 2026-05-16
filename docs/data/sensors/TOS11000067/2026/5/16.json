@@ -698,5 +698,75 @@
     "window_minutes": 2160,
     "province": "SI",
     "station_name": "Buonconvento (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000067",
+    "timestamp": 1778944500,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "SI",
+    "station_name": "Buonconvento (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000067",
+    "timestamp": 1778944500,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "SI",
+    "station_name": "Buonconvento (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000067",
+    "timestamp": 1778944500,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "SI",
+    "station_name": "Buonconvento (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000067",
+    "timestamp": 1778944500,
+    "value": 0.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "SI",
+    "station_name": "Buonconvento (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000067",
+    "timestamp": 1778944500,
+    "value": 5.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "SI",
+    "station_name": "Buonconvento (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000067",
+    "timestamp": 1778944500,
+    "value": 18.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "SI",
+    "station_name": "Buonconvento (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000067",
+    "timestamp": 1778944500,
+    "value": 58.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "SI",
+    "station_name": "Buonconvento (RADIO)"
   }
 ]

@@ -698,5 +698,75 @@
     "window_minutes": 2160,
     "province": "SI",
     "station_name": "Monticchiello (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03002869",
+    "timestamp": 1778944500,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "SI",
+    "station_name": "Monticchiello (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03002869",
+    "timestamp": 1778944500,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "SI",
+    "station_name": "Monticchiello (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03002869",
+    "timestamp": 1778944500,
+    "value": 1.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "SI",
+    "station_name": "Monticchiello (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03002869",
+    "timestamp": 1778944500,
+    "value": 2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "SI",
+    "station_name": "Monticchiello (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03002869",
+    "timestamp": 1778944500,
+    "value": 4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "SI",
+    "station_name": "Monticchiello (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03002869",
+    "timestamp": 1778944500,
+    "value": 11.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "SI",
+    "station_name": "Monticchiello (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03002869",
+    "timestamp": 1778944500,
+    "value": 13.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "SI",
+    "station_name": "Monticchiello (RADIO)"
   }
 ]
