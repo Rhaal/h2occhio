@@ -8,5 +8,15 @@
     "river": "Arbia",
     "province": "SI",
     "station_name": "Pianella (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03005651",
+    "timestamp": 1778889600,
+    "value": 0.44,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Arbia",
+    "province": "SI",
+    "station_name": "Pianella (RADIO)"
   }
 ]

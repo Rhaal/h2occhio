@@ -1,0 +1,72 @@
+[
+  {
+    "sensor_id": "TOS07000072",
+    "timestamp": 1778887800,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "GR",
+    "station_name": "Sorano Meteo (RADIO)"
+  },
+  {
+    "sensor_id": "TOS07000072",
+    "timestamp": 1778887800,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "GR",
+    "station_name": "Sorano Meteo (RADIO)"
+  },
+  {
+    "sensor_id": "TOS07000072",
+    "timestamp": 1778887800,
+    "value": 7.5,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "GR",
+    "station_name": "Sorano Meteo (RADIO)"
+  },
+  {
+    "sensor_id": "TOS07000072",
+    "timestamp": 1778887800,
+    "value": 14.7,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "GR",
+    "station_name": "Sorano Meteo (RADIO)"
+  },
+  {
+    "sensor_id": "TOS07000072",
+    "timestamp": 1778887800,
+    "value": 41.9,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "GR",
+    "station_name": "Sorano Meteo (RADIO)"
+  },
+  {
+    "sensor_id": "TOS07000072",
+    "timestamp": 1778887800,
+    "value": 47.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "GR",
+    "station_name": "Sorano Meteo (RADIO)"
+  },
+  {
+    "sensor_id": "TOS07000072",
+    "timestamp": 1778887800,
+    "value": 47.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "GR",
+    "station_name": "Sorano Meteo (RADIO)"
+  }
+]
