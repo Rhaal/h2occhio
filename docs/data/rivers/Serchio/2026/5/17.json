@@ -878,5 +878,85 @@
     "river": "Serchio",
     "province": "PI",
     "station_name": "Vecchiano (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02004369",
+    "timestamp": 1779035400,
+    "value": 0.42,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Serchio",
+    "province": "PI",
+    "station_name": "Bocca di Serchio (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02004115",
+    "timestamp": 1779035700,
+    "value": 0,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Serchio",
+    "province": "LU",
+    "station_name": "Camporgiano (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02004195",
+    "timestamp": 1779035700,
+    "value": 1.38,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Serchio",
+    "province": "LU",
+    "station_name": "Calavorno (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02004271",
+    "timestamp": 1779035700,
+    "value": -1.6,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Serchio",
+    "province": "LU",
+    "station_name": "Borgo a Mozzano (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02004284",
+    "timestamp": 1779035700,
+    "value": -0.44,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Serchio",
+    "province": "LU",
+    "station_name": "Piaggione (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02004291",
+    "timestamp": 1779035700,
+    "value": 0.5,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Serchio",
+    "province": "LU",
+    "station_name": "Monte S. Quirico (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02004311",
+    "timestamp": 1779035700,
+    "value": 1.58,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Serchio",
+    "province": "PI",
+    "station_name": "Ripafratta (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02004365",
+    "timestamp": 1779035700,
+    "value": 1.85,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Serchio",
+    "province": "PI",
+    "station_name": "Vecchiano (GPRS)"
   }
 ]
