@@ -1,0 +1,12 @@
+[
+  {
+    "sensor_id": "TOS03005335",
+    "timestamp": 1779057000,
+    "value": 0.16,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Tora",
+    "province": "LI",
+    "station_name": "Ponte SS555 (RADIO)"
+  }
+]
