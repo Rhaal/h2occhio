@@ -8,5 +8,15 @@
     "river": "Canale della Chiana",
     "province": "AR",
     "station_name": "Ponte Ferrovia FI-Roma (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01004521",
+    "timestamp": 1778977200,
+    "value": 0.5,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Canale della Chiana",
+    "province": "AR",
+    "station_name": "Ponte Ferrovia FI-Roma (GPRS)"
   }
 ]

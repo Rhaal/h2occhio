@@ -8,5 +8,15 @@
     "river": "Osa",
     "province": "GR",
     "station_name": "Podere Peretti (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03005865",
+    "timestamp": 1778977200,
+    "value": 0.34,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Osa",
+    "province": "GR",
+    "station_name": "Podere Peretti (GPRS)"
   }
 ]
