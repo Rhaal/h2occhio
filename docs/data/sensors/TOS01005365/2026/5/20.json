@@ -48,5 +48,15 @@
     "river": "Fine",
     "province": "PI",
     "station_name": "Castellina Marittima (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01005365",
+    "timestamp": 1779294000,
+    "value": 0.3,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Fine",
+    "province": "PI",
+    "station_name": "Castellina Marittima (GPRS)"
   }
 ]
