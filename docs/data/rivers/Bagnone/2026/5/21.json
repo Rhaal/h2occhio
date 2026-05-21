@@ -1,0 +1,12 @@
+[
+  {
+    "sensor_id": "TOS09000015",
+    "timestamp": 1779317700,
+    "value": 0.96,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Bagnone",
+    "province": "MS",
+    "station_name": "Bagnone (GPRS)"
+  }
+]

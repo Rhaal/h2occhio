@@ -1,0 +1,12 @@
+[
+  {
+    "sensor_id": "TOS01005471",
+    "timestamp": 1779317700,
+    "value": 0.54,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Cornia",
+    "province": "LI",
+    "station_name": "Ponte per Montioni (GPRS)"
+  }
+]
