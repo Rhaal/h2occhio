@@ -1,0 +1,12 @@
+[
+  {
+    "sensor_id": "TOS01005465",
+    "timestamp": 1779575700,
+    "value": -0.23,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Massera",
+    "province": "PI",
+    "station_name": "Molino del Balzone (GPRS)"
+  }
+]
