@@ -1,0 +1,12 @@
+[
+  {
+    "sensor_id": "TOS01004623",
+    "timestamp": 1779747300,
+    "value": 1.1,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Carza",
+    "province": "FI",
+    "station_name": "S. Piero a Sieve-Carza (RADIO)"
+  }
+]
