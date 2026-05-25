@@ -58,5 +58,15 @@
     "river": "OmbroneGR",
     "province": "SI",
     "station_name": "Ponte del Garbo (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03005641",
+    "timestamp": 1779727500,
+    "value": 0.44,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "OmbroneGR",
+    "province": "SI",
+    "station_name": "Ponte del Garbo (RADIO)"
   }
 ]
