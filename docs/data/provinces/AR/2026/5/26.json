@@ -20760,6 +20760,16 @@
     "station_name": "Ponte Romito (RADIO)"
   },
   {
+    "sensor_id": "TOS01004568",
+    "timestamp": 1779829200,
+    "value": 0.49,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Ambra",
+    "province": "AR",
+    "station_name": "Bucine (RADIO)"
+  },
+  {
     "sensor_id": "TOS03000755",
     "timestamp": 1779829200,
     "value": 0,
@@ -22578,5 +22588,165 @@
     "window_minutes": 2160,
     "province": "AR",
     "station_name": "Palazzo del Pero 1 (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03004509",
+    "timestamp": 1779830100,
+    "value": -0.06,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Mucchia",
+    "province": "AR",
+    "station_name": "Ponte SP Lauretana (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03004515",
+    "timestamp": 1779830100,
+    "value": -0.57,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Esse",
+    "province": "AR",
+    "station_name": "Foiano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000881",
+    "timestamp": 1779831000,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "AR",
+    "station_name": "Pian di Scò (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000881",
+    "timestamp": 1779831000,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "AR",
+    "station_name": "Pian di Scò (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000881",
+    "timestamp": 1779831000,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "AR",
+    "station_name": "Pian di Scò (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000881",
+    "timestamp": 1779831000,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "AR",
+    "station_name": "Pian di Scò (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000881",
+    "timestamp": 1779831000,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "AR",
+    "station_name": "Pian di Scò (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000881",
+    "timestamp": 1779831000,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "AR",
+    "station_name": "Pian di Scò (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000881",
+    "timestamp": 1779831000,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "AR",
+    "station_name": "Pian di Scò (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30233300",
+    "timestamp": 1779831900,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "AR",
+    "station_name": "Badia Tedalda (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30233300",
+    "timestamp": 1779831900,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "AR",
+    "station_name": "Badia Tedalda (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30233300",
+    "timestamp": 1779831900,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "AR",
+    "station_name": "Badia Tedalda (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30233300",
+    "timestamp": 1779831900,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "AR",
+    "station_name": "Badia Tedalda (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30233300",
+    "timestamp": 1779831900,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "AR",
+    "station_name": "Badia Tedalda (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30233300",
+    "timestamp": 1779831900,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "AR",
+    "station_name": "Badia Tedalda (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30233300",
+    "timestamp": 1779831900,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "AR",
+    "station_name": "Badia Tedalda (RADIO)"
   }
 ]
