@@ -1,0 +1,12 @@
+[
+  {
+    "sensor_id": "TOS01005135",
+    "timestamp": 1779919200,
+    "value": 0.32,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Roglio",
+    "province": "PI",
+    "station_name": "Forcoli (RADIO)"
+  }
+]
