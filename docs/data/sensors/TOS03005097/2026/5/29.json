@@ -68,5 +68,15 @@
     "river": "Allacciante",
     "province": "PI",
     "station_name": "Calcinaia (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03005097",
+    "timestamp": 1780088400,
+    "value": 0.42,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Allacciante",
+    "province": "PI",
+    "station_name": "Calcinaia (RADIO)"
   }
 ]
