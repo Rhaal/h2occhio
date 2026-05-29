@@ -1,0 +1,12 @@
+[
+  {
+    "sensor_id": "TOS01005395",
+    "timestamp": 1780009500,
+    "value": 0.93,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Cecina",
+    "province": "PI",
+    "station_name": "Montegemoli (GPRS)"
+  }
+]
