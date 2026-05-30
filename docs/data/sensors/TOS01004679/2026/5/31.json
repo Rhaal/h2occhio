@@ -1,0 +1,12 @@
+[
+  {
+    "sensor_id": "TOS01004679",
+    "timestamp": 1780181400,
+    "value": 0.7,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Arno",
+    "province": "FI",
+    "station_name": "Firenze Uffizi (GPRS)"
+  }
+]
