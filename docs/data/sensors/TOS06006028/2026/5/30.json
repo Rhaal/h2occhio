@@ -58,5 +58,15 @@
     "river": "Tevere",
     "province": "AR",
     "station_name": "Gorgabuia (RADIO)"
+  },
+  {
+    "sensor_id": "TOS06006028",
+    "timestamp": 1780140600,
+    "value": 0.51,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Tevere",
+    "province": "AR",
+    "station_name": "Gorgabuia (RADIO)"
   }
 ]
