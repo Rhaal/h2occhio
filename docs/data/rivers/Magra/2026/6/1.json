@@ -288,5 +288,15 @@
     "river": "Magra",
     "province": "MS",
     "station_name": "Piccatello (GPRS)"
+  },
+  {
+    "sensor_id": "TOS09001246",
+    "timestamp": 1780350300,
+    "value": 0.28,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Magra",
+    "province": "MS",
+    "station_name": "Calamazza ARPAL (RADIO)"
   }
 ]

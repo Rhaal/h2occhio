@@ -1,0 +1,12 @@
+[
+  {
+    "sensor_id": "TOS01005761",
+    "timestamp": 1780351200,
+    "value": 1.4,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Orcia",
+    "province": "SI",
+    "station_name": "Monte Amiata Scalo (RADIO)"
+  }
+]

@@ -19058,5 +19058,85 @@
     "window_minutes": 2160,
     "province": "PI",
     "station_name": "Castellina Marittima  (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01002011",
+    "timestamp": 1780350300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "PI",
+    "station_name": "Miemo (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01002011",
+    "timestamp": 1780350300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "PI",
+    "station_name": "Miemo (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01002011",
+    "timestamp": 1780350300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "PI",
+    "station_name": "Miemo (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01002011",
+    "timestamp": 1780350300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "PI",
+    "station_name": "Miemo (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01002011",
+    "timestamp": 1780350300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "PI",
+    "station_name": "Miemo (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01002011",
+    "timestamp": 1780350300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "PI",
+    "station_name": "Miemo (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01002011",
+    "timestamp": 1780350300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "PI",
+    "station_name": "Miemo (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01005403",
+    "timestamp": 1780350300,
+    "value": 0.55,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Sterza",
+    "province": "PI",
+    "station_name": "Case Grisella (RADIO)"
   }
 ]

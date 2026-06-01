@@ -17068,5 +17068,215 @@
     "window_minutes": 2160,
     "province": "SI",
     "station_name": "Abbadia S. S. - Vetta Amiata 1 (GPRS)"
+  },
+  {
+    "sensor_id": "TOS10002910",
+    "timestamp": 1780348200,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "SI",
+    "station_name": "Vivo d'Orcia (GPRS)"
+  },
+  {
+    "sensor_id": "TOS10002910",
+    "timestamp": 1780348200,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "SI",
+    "station_name": "Vivo d'Orcia (GPRS)"
+  },
+  {
+    "sensor_id": "TOS10002910",
+    "timestamp": 1780348200,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "SI",
+    "station_name": "Vivo d'Orcia (GPRS)"
+  },
+  {
+    "sensor_id": "TOS10002910",
+    "timestamp": 1780348200,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "SI",
+    "station_name": "Vivo d'Orcia (GPRS)"
+  },
+  {
+    "sensor_id": "TOS10002910",
+    "timestamp": 1780348200,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "SI",
+    "station_name": "Vivo d'Orcia (GPRS)"
+  },
+  {
+    "sensor_id": "TOS10002910",
+    "timestamp": 1780348200,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "SI",
+    "station_name": "Vivo d'Orcia (GPRS)"
+  },
+  {
+    "sensor_id": "TOS10002910",
+    "timestamp": 1780348200,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "SI",
+    "station_name": "Vivo d'Orcia (GPRS)"
+  },
+  {
+    "sensor_id": "TOS07000001",
+    "timestamp": 1780349400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "SI",
+    "station_name": "Abbadia S. Salvatore (RADIO)"
+  },
+  {
+    "sensor_id": "TOS07000001",
+    "timestamp": 1780349400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "SI",
+    "station_name": "Abbadia S. Salvatore (RADIO)"
+  },
+  {
+    "sensor_id": "TOS07000001",
+    "timestamp": 1780349400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "SI",
+    "station_name": "Abbadia S. Salvatore (RADIO)"
+  },
+  {
+    "sensor_id": "TOS07000001",
+    "timestamp": 1780349400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "SI",
+    "station_name": "Abbadia S. Salvatore (RADIO)"
+  },
+  {
+    "sensor_id": "TOS07000001",
+    "timestamp": 1780349400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "SI",
+    "station_name": "Abbadia S. Salvatore (RADIO)"
+  },
+  {
+    "sensor_id": "TOS07000001",
+    "timestamp": 1780349400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "SI",
+    "station_name": "Abbadia S. Salvatore (RADIO)"
+  },
+  {
+    "sensor_id": "TOS07000001",
+    "timestamp": 1780349400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "SI",
+    "station_name": "Abbadia S. Salvatore (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01002085",
+    "timestamp": 1780350300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "SI",
+    "station_name": "Anqua (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01002085",
+    "timestamp": 1780350300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "SI",
+    "station_name": "Anqua (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01002085",
+    "timestamp": 1780350300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "SI",
+    "station_name": "Anqua (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01002085",
+    "timestamp": 1780350300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "SI",
+    "station_name": "Anqua (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01002085",
+    "timestamp": 1780350300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "SI",
+    "station_name": "Anqua (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01002085",
+    "timestamp": 1780350300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "SI",
+    "station_name": "Anqua (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01002085",
+    "timestamp": 1780350300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "SI",
+    "station_name": "Anqua (RADIO)"
   }
 ]

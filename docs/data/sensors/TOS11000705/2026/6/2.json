@@ -1,0 +1,12 @@
+[
+  {
+    "sensor_id": "TOS11000705",
+    "timestamp": 1780351200,
+    "value": 0.41,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Magra",
+    "province": "MS",
+    "station_name": "Ponte Magra (RADIO)"
+  }
+]
