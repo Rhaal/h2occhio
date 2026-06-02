@@ -1,0 +1,12 @@
+[
+  {
+    "sensor_id": "TOS03003111",
+    "timestamp": 1780438500,
+    "value": 0.13,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Laguna",
+    "province": "GR",
+    "station_name": "Fibia (GPRS)"
+  }
+]
