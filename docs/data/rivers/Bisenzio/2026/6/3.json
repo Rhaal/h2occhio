@@ -200,6 +200,16 @@
     "station_name": "Gamberame (GPRS)"
   },
   {
+    "sensor_id": "TOS01004782",
+    "timestamp": 1780523100,
+    "value": -0.27,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Bisenzio",
+    "province": "PO",
+    "station_name": "Prato (RADIO)"
+  },
+  {
     "sensor_id": "TOS01004791",
     "timestamp": 1780523100,
     "value": 1.69,
