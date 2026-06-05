@@ -40720,6 +40720,76 @@
     "station_name": "Vallombrosa (RADIO)"
   },
   {
+    "sensor_id": "TOS01000911",
+    "timestamp": 1780693200,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "FI",
+    "station_name": "Cavallina (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000911",
+    "timestamp": 1780693200,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "FI",
+    "station_name": "Cavallina (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000911",
+    "timestamp": 1780693200,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "FI",
+    "station_name": "Cavallina (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000911",
+    "timestamp": 1780693200,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "FI",
+    "station_name": "Cavallina (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000911",
+    "timestamp": 1780693200,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "FI",
+    "station_name": "Cavallina (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000911",
+    "timestamp": 1780693200,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "FI",
+    "station_name": "Cavallina (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000911",
+    "timestamp": 1780693200,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "FI",
+    "station_name": "Cavallina (RADIO)"
+  },
+  {
     "sensor_id": "TOS01000926",
     "timestamp": 1780693200,
     "value": 0,
@@ -40928,6 +40998,146 @@
     "window_minutes": 2160,
     "province": "FI",
     "station_name": "S. Agata di Mugello (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000979",
+    "timestamp": 1780693200,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "FI",
+    "station_name": "Razzuolo (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000979",
+    "timestamp": 1780693200,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "FI",
+    "station_name": "Razzuolo (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000979",
+    "timestamp": 1780693200,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "FI",
+    "station_name": "Razzuolo (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000979",
+    "timestamp": 1780693200,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "FI",
+    "station_name": "Razzuolo (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000979",
+    "timestamp": 1780693200,
+    "value": 0.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "FI",
+    "station_name": "Razzuolo (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000979",
+    "timestamp": 1780693200,
+    "value": 1.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "FI",
+    "station_name": "Razzuolo (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000979",
+    "timestamp": 1780693200,
+    "value": 1.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "FI",
+    "station_name": "Razzuolo (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000991",
+    "timestamp": 1780693200,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "FI",
+    "station_name": "Ronta (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000991",
+    "timestamp": 1780693200,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "FI",
+    "station_name": "Ronta (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000991",
+    "timestamp": 1780693200,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "FI",
+    "station_name": "Ronta (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000991",
+    "timestamp": 1780693200,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "FI",
+    "station_name": "Ronta (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000991",
+    "timestamp": 1780693200,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "FI",
+    "station_name": "Ronta (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000991",
+    "timestamp": 1780693200,
+    "value": 2.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "FI",
+    "station_name": "Ronta (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000991",
+    "timestamp": 1780693200,
+    "value": 2.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "FI",
+    "station_name": "Ronta (RADIO)"
   },
   {
     "sensor_id": "TOS01001011",
@@ -40998,6 +41208,76 @@
     "window_minutes": 2160,
     "province": "FI",
     "station_name": "Villore (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01001029",
+    "timestamp": 1780693200,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "FI",
+    "station_name": "Dicomano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01001029",
+    "timestamp": 1780693200,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "FI",
+    "station_name": "Dicomano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01001029",
+    "timestamp": 1780693200,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "FI",
+    "station_name": "Dicomano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01001029",
+    "timestamp": 1780693200,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "FI",
+    "station_name": "Dicomano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01001029",
+    "timestamp": 1780693200,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "FI",
+    "station_name": "Dicomano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01001029",
+    "timestamp": 1780693200,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "FI",
+    "station_name": "Dicomano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01001029",
+    "timestamp": 1780693200,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "FI",
+    "station_name": "Dicomano (RADIO)"
   },
   {
     "sensor_id": "TOS01001041",
@@ -44338,5 +44618,75 @@
     "window_minutes": 2160,
     "province": "FI",
     "station_name": "Cerreto Guidi (GPRS)"
+  },
+  {
+    "sensor_id": "TOS30287700",
+    "timestamp": 1780695900,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "FI",
+    "station_name": "Monte Faggiola (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30287700",
+    "timestamp": 1780695900,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "FI",
+    "station_name": "Monte Faggiola (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30287700",
+    "timestamp": 1780695900,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "FI",
+    "station_name": "Monte Faggiola (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30287700",
+    "timestamp": 1780695900,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "FI",
+    "station_name": "Monte Faggiola (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30287700",
+    "timestamp": 1780695900,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "FI",
+    "station_name": "Monte Faggiola (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30287700",
+    "timestamp": 1780695900,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "FI",
+    "station_name": "Monte Faggiola (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30287700",
+    "timestamp": 1780695900,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "FI",
+    "station_name": "Monte Faggiola (RADIO)"
   }
 ]
