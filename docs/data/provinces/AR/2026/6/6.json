@@ -38910,6 +38910,76 @@
     "station_name": "Stia (GPRS)"
   },
   {
+    "sensor_id": "TOS01000621",
+    "timestamp": 1780781400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "AR",
+    "station_name": "Badia Prataglia (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000621",
+    "timestamp": 1780781400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "AR",
+    "station_name": "Badia Prataglia (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000621",
+    "timestamp": 1780781400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "AR",
+    "station_name": "Badia Prataglia (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000621",
+    "timestamp": 1780781400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "AR",
+    "station_name": "Badia Prataglia (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000621",
+    "timestamp": 1780781400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "AR",
+    "station_name": "Badia Prataglia (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000621",
+    "timestamp": 1780781400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "AR",
+    "station_name": "Badia Prataglia (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000621",
+    "timestamp": 1780781400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "AR",
+    "station_name": "Badia Prataglia (RADIO)"
+  },
+  {
     "sensor_id": "TOS01000626",
     "timestamp": 1780781400,
     "value": 0,
@@ -39658,5 +39728,15 @@
     "window_minutes": 2160,
     "province": "AR",
     "station_name": "Palazzo del Pero 1 (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03004515",
+    "timestamp": 1780782300,
+    "value": -0.55,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Esse",
+    "province": "AR",
+    "station_name": "Foiano (RADIO)"
   }
 ]

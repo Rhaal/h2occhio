@@ -1,0 +1,12 @@
+[
+  {
+    "sensor_id": "TOS03003117",
+    "timestamp": 1780785000,
+    "value": 0.07,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Laguna",
+    "province": "GR",
+    "station_name": "Nassa (GPRS)"
+  }
+]

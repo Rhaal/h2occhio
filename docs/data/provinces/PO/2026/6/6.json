@@ -9360,6 +9360,16 @@
     "station_name": "Fattoria Iavello (RADIO)"
   },
   {
+    "sensor_id": "TOS01004782",
+    "timestamp": 1780780500,
+    "value": -0.45,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Bisenzio",
+    "province": "PO",
+    "station_name": "Prato (RADIO)"
+  },
+  {
     "sensor_id": "TOS01004875",
     "timestamp": 1780780500,
     "value": 0.44,
