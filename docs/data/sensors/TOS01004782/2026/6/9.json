@@ -38,5 +38,15 @@
     "river": "Bisenzio",
     "province": "PO",
     "station_name": "Prato (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01004782",
+    "timestamp": 1781019000,
+    "value": -0.47,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Bisenzio",
+    "province": "PO",
+    "station_name": "Prato (RADIO)"
   }
 ]

@@ -48,5 +48,15 @@
     "river": "Frigido",
     "province": "MS",
     "station_name": "Canevara (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02004011",
+    "timestamp": 1781019600,
+    "value": -0.94,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Frigido",
+    "province": "MS",
+    "station_name": "Canevara (GPRS)"
   }
 ]
