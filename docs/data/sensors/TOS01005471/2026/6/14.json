@@ -58,5 +58,15 @@
     "river": "Cornia",
     "province": "LI",
     "station_name": "Ponte per Montioni (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01005471",
+    "timestamp": 1781451000,
+    "value": 0.45,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Cornia",
+    "province": "LI",
+    "station_name": "Ponte per Montioni (RADIO)"
   }
 ]
