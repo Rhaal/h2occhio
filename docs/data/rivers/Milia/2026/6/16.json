@@ -1,0 +1,12 @@
+[
+  {
+    "sensor_id": "TOS01005485",
+    "timestamp": 1781560800,
+    "value": -0.56,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Milia",
+    "province": "LI",
+    "station_name": "Calzalunga (RADIO)"
+  }
+]

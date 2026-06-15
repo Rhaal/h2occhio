@@ -19130,6 +19130,76 @@
     "station_name": "Bulera (GPRS)"
   },
   {
+    "sensor_id": "TOS01002011",
+    "timestamp": 1781557200,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "PI",
+    "station_name": "Miemo (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01002011",
+    "timestamp": 1781557200,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "PI",
+    "station_name": "Miemo (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01002011",
+    "timestamp": 1781557200,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "PI",
+    "station_name": "Miemo (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01002011",
+    "timestamp": 1781557200,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "PI",
+    "station_name": "Miemo (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01002011",
+    "timestamp": 1781557200,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "PI",
+    "station_name": "Miemo (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01002011",
+    "timestamp": 1781557200,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "PI",
+    "station_name": "Miemo (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01002011",
+    "timestamp": 1781557200,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "PI",
+    "station_name": "Miemo (RADIO)"
+  },
+  {
     "sensor_id": "TOS03002016",
     "timestamp": 1781557200,
     "value": 0,
@@ -19198,5 +19268,85 @@
     "window_minutes": 2160,
     "province": "PI",
     "station_name": "Castellina Marittima  (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01005377",
+    "timestamp": 1781559900,
+    "value": 0.36,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Pavone",
+    "province": "PI",
+    "station_name": "S. Dalmazio (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01005377",
+    "timestamp": 1781559900,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "PI",
+    "station_name": "S. Dalmazio (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01005377",
+    "timestamp": 1781559900,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "PI",
+    "station_name": "S. Dalmazio (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01005377",
+    "timestamp": 1781559900,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "PI",
+    "station_name": "S. Dalmazio (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01005377",
+    "timestamp": 1781559900,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "PI",
+    "station_name": "S. Dalmazio (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01005377",
+    "timestamp": 1781559900,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "PI",
+    "station_name": "S. Dalmazio (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01005377",
+    "timestamp": 1781559900,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "PI",
+    "station_name": "S. Dalmazio (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01005377",
+    "timestamp": 1781559900,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "PI",
+    "station_name": "S. Dalmazio (RADIO)"
   }
 ]
