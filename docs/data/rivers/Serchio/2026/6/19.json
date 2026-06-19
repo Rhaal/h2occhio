@@ -798,5 +798,15 @@
     "river": "Serchio",
     "province": "PI",
     "station_name": "Vecchiano (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02004369",
+    "timestamp": 1781905500,
+    "value": 0.43,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Serchio",
+    "province": "PI",
+    "station_name": "Bocca di Serchio (RADIO)"
   }
 ]

@@ -1,0 +1,22 @@
+[
+  {
+    "sensor_id": "TOS01005672",
+    "timestamp": 1781906400,
+    "value": -0.14,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "OmbroneGR",
+    "province": "SI",
+    "station_name": "Buonconvento (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01005822",
+    "timestamp": 1781906400,
+    "value": 0,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "OmbroneGR",
+    "province": "GR",
+    "station_name": "Istia (GPRS)"
+  }
+]
