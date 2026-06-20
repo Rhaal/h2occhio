@@ -1,0 +1,12 @@
+[
+  {
+    "sensor_id": "TOS03005711",
+    "timestamp": 1781994600,
+    "value": -0.89,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Merse",
+    "province": "SI",
+    "station_name": "Montepescini (GPRS)"
+  }
+]
