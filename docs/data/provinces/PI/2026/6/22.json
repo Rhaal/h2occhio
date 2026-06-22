@@ -19070,6 +19070,76 @@
     "station_name": "Bulera (GPRS)"
   },
   {
+    "sensor_id": "TOS01002011",
+    "timestamp": 1782162000,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "PI",
+    "station_name": "Miemo (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01002011",
+    "timestamp": 1782162000,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "PI",
+    "station_name": "Miemo (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01002011",
+    "timestamp": 1782162000,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "PI",
+    "station_name": "Miemo (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01002011",
+    "timestamp": 1782162000,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "PI",
+    "station_name": "Miemo (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01002011",
+    "timestamp": 1782162000,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "PI",
+    "station_name": "Miemo (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01002011",
+    "timestamp": 1782162000,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "PI",
+    "station_name": "Miemo (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01002011",
+    "timestamp": 1782162000,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "PI",
+    "station_name": "Miemo (RADIO)"
+  },
+  {
     "sensor_id": "TOS03002016",
     "timestamp": 1782163800,
     "value": 0,
@@ -19138,5 +19208,15 @@
     "window_minutes": 2160,
     "province": "PI",
     "station_name": "Castellina Marittima  (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01005403",
+    "timestamp": 1782164700,
+    "value": 0.67,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Sterza",
+    "province": "PI",
+    "station_name": "Case Grisella (RADIO)"
   }
 ]
