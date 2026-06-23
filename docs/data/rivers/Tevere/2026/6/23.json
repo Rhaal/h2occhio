@@ -138,5 +138,35 @@
     "river": "Tevere",
     "province": "AR",
     "station_name": "Pieve S. Stefano (GPRS)"
+  },
+  {
+    "sensor_id": "TOS06006028",
+    "timestamp": 1782219600,
+    "value": 0.4,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Tevere",
+    "province": "AR",
+    "station_name": "Gorgabuia (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03006123",
+    "timestamp": 1782220500,
+    "value": 0,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Tevere",
+    "province": "AR",
+    "station_name": "Sansepolcro (RADIO)"
+  },
+  {
+    "sensor_id": "TOS19000702",
+    "timestamp": 1782221400,
+    "value": -0.08,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Tevere",
+    "province": "AR",
+    "station_name": "Pieve S. Stefano (GPRS)"
   }
 ]
