@@ -258,5 +258,25 @@
     "river": "Bisenzio",
     "province": "FI",
     "station_name": "S. Piero a Ponti (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01004779",
+    "timestamp": 1782250200,
+    "value": 0.23,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Bisenzio",
+    "province": "PO",
+    "station_name": "Gamberame (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01004791",
+    "timestamp": 1782250200,
+    "value": 1.28,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Bisenzio",
+    "province": "FI",
+    "station_name": "S. Piero a Ponti (GPRS)"
   }
 ]

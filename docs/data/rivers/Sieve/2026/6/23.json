@@ -408,5 +408,35 @@
     "river": "Sieve",
     "province": "FI",
     "station_name": "Dicomano (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01004625",
+    "timestamp": 1782250200,
+    "value": 0.85,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Sieve",
+    "province": "FI",
+    "station_name": "Dicomano (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01004641",
+    "timestamp": 1782250200,
+    "value": 0.39,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Sieve",
+    "province": "FI",
+    "station_name": "Fornacina (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01004642",
+    "timestamp": 1782250200,
+    "value": 0.38,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Sieve",
+    "province": "FI",
+    "station_name": "Fornacina 2 ul (GPRS)"
   }
 ]
