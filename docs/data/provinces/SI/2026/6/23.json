@@ -22778,5 +22778,1035 @@
     "window_minutes": 2160,
     "province": "SI",
     "station_name": "Abbadia S. S. - Vetta Amiata 1 (GPRS)"
+  },
+  {
+    "sensor_id": "TOS10002910",
+    "timestamp": 1782240900,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "SI",
+    "station_name": "Vivo d'Orcia (GPRS)"
+  },
+  {
+    "sensor_id": "TOS10002910",
+    "timestamp": 1782240900,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "SI",
+    "station_name": "Vivo d'Orcia (GPRS)"
+  },
+  {
+    "sensor_id": "TOS10002910",
+    "timestamp": 1782240900,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "SI",
+    "station_name": "Vivo d'Orcia (GPRS)"
+  },
+  {
+    "sensor_id": "TOS10002910",
+    "timestamp": 1782240900,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "SI",
+    "station_name": "Vivo d'Orcia (GPRS)"
+  },
+  {
+    "sensor_id": "TOS10002910",
+    "timestamp": 1782240900,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "SI",
+    "station_name": "Vivo d'Orcia (GPRS)"
+  },
+  {
+    "sensor_id": "TOS10002910",
+    "timestamp": 1782240900,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "SI",
+    "station_name": "Vivo d'Orcia (GPRS)"
+  },
+  {
+    "sensor_id": "TOS10002910",
+    "timestamp": 1782240900,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "SI",
+    "station_name": "Vivo d'Orcia (GPRS)"
+  },
+  {
+    "sensor_id": "TOS07000001",
+    "timestamp": 1782243000,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "SI",
+    "station_name": "Abbadia S. Salvatore (RADIO)"
+  },
+  {
+    "sensor_id": "TOS07000001",
+    "timestamp": 1782243000,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "SI",
+    "station_name": "Abbadia S. Salvatore (RADIO)"
+  },
+  {
+    "sensor_id": "TOS07000001",
+    "timestamp": 1782243000,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "SI",
+    "station_name": "Abbadia S. Salvatore (RADIO)"
+  },
+  {
+    "sensor_id": "TOS07000001",
+    "timestamp": 1782243000,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "SI",
+    "station_name": "Abbadia S. Salvatore (RADIO)"
+  },
+  {
+    "sensor_id": "TOS07000001",
+    "timestamp": 1782243000,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "SI",
+    "station_name": "Abbadia S. Salvatore (RADIO)"
+  },
+  {
+    "sensor_id": "TOS07000001",
+    "timestamp": 1782243000,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "SI",
+    "station_name": "Abbadia S. Salvatore (RADIO)"
+  },
+  {
+    "sensor_id": "TOS07000001",
+    "timestamp": 1782243000,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "SI",
+    "station_name": "Abbadia S. Salvatore (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01001419",
+    "timestamp": 1782245100,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "SI",
+    "station_name": "S. Gimignano (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01001419",
+    "timestamp": 1782245100,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "SI",
+    "station_name": "S. Gimignano (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01001419",
+    "timestamp": 1782245100,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "SI",
+    "station_name": "S. Gimignano (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01001419",
+    "timestamp": 1782245100,
+    "value": 3.5,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "SI",
+    "station_name": "S. Gimignano (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01001419",
+    "timestamp": 1782245100,
+    "value": 3.5,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "SI",
+    "station_name": "S. Gimignano (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01001419",
+    "timestamp": 1782245100,
+    "value": 3.5,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "SI",
+    "station_name": "S. Gimignano (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01001419",
+    "timestamp": 1782245100,
+    "value": 3.5,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "SI",
+    "station_name": "S. Gimignano (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01004965",
+    "timestamp": 1782245100,
+    "value": 0.71,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Elsa",
+    "province": "SI",
+    "station_name": "Poggibonsi (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01004965",
+    "timestamp": 1782245100,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "SI",
+    "station_name": "Poggibonsi (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01004965",
+    "timestamp": 1782245100,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "SI",
+    "station_name": "Poggibonsi (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01004965",
+    "timestamp": 1782245100,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "SI",
+    "station_name": "Poggibonsi (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01004965",
+    "timestamp": 1782245100,
+    "value": 0.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "SI",
+    "station_name": "Poggibonsi (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01004965",
+    "timestamp": 1782245100,
+    "value": 0.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "SI",
+    "station_name": "Poggibonsi (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01004965",
+    "timestamp": 1782245100,
+    "value": 0.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "SI",
+    "station_name": "Poggibonsi (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01004965",
+    "timestamp": 1782245100,
+    "value": 0.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "SI",
+    "station_name": "Poggibonsi (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01005672",
+    "timestamp": 1782245100,
+    "value": -0.14,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "OmbroneGR",
+    "province": "SI",
+    "station_name": "Buonconvento (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03000715",
+    "timestamp": 1782245100,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "SI",
+    "station_name": "Rigomagno (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03000715",
+    "timestamp": 1782245100,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "SI",
+    "station_name": "Rigomagno (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03000715",
+    "timestamp": 1782245100,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "SI",
+    "station_name": "Rigomagno (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03000715",
+    "timestamp": 1782245100,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "SI",
+    "station_name": "Rigomagno (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03000715",
+    "timestamp": 1782245100,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "SI",
+    "station_name": "Rigomagno (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03000715",
+    "timestamp": 1782245100,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "SI",
+    "station_name": "Rigomagno (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03000715",
+    "timestamp": 1782245100,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "SI",
+    "station_name": "Rigomagno (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03001286",
+    "timestamp": 1782245100,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "SI",
+    "station_name": "Castellina in Chianti (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03001286",
+    "timestamp": 1782245100,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "SI",
+    "station_name": "Castellina in Chianti (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03001286",
+    "timestamp": 1782245100,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "SI",
+    "station_name": "Castellina in Chianti (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03001286",
+    "timestamp": 1782245100,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "SI",
+    "station_name": "Castellina in Chianti (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03001286",
+    "timestamp": 1782245100,
+    "value": 2.3,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "SI",
+    "station_name": "Castellina in Chianti (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03001286",
+    "timestamp": 1782245100,
+    "value": 2.3,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "SI",
+    "station_name": "Castellina in Chianti (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03001286",
+    "timestamp": 1782245100,
+    "value": 2.3,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "SI",
+    "station_name": "Castellina in Chianti (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03001385",
+    "timestamp": 1782245100,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "SI",
+    "station_name": "Mensano (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03001385",
+    "timestamp": 1782245100,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "SI",
+    "station_name": "Mensano (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03001385",
+    "timestamp": 1782245100,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "SI",
+    "station_name": "Mensano (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03001385",
+    "timestamp": 1782245100,
+    "value": 10.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "SI",
+    "station_name": "Mensano (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03001385",
+    "timestamp": 1782245100,
+    "value": 10.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "SI",
+    "station_name": "Mensano (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03001385",
+    "timestamp": 1782245100,
+    "value": 10.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "SI",
+    "station_name": "Mensano (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03001385",
+    "timestamp": 1782245100,
+    "value": 10.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "SI",
+    "station_name": "Mensano (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03002621",
+    "timestamp": 1782245100,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "SI",
+    "station_name": "Monte Oliveto (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03002621",
+    "timestamp": 1782245100,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "SI",
+    "station_name": "Monte Oliveto (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03002621",
+    "timestamp": 1782245100,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "SI",
+    "station_name": "Monte Oliveto (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03002621",
+    "timestamp": 1782245100,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "SI",
+    "station_name": "Monte Oliveto (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03002621",
+    "timestamp": 1782245100,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "SI",
+    "station_name": "Monte Oliveto (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03002621",
+    "timestamp": 1782245100,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "SI",
+    "station_name": "Monte Oliveto (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03002621",
+    "timestamp": 1782245100,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "SI",
+    "station_name": "Monte Oliveto (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03002640",
+    "timestamp": 1782245100,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "SI",
+    "station_name": "Vagliagli (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03002640",
+    "timestamp": 1782245100,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "SI",
+    "station_name": "Vagliagli (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03002640",
+    "timestamp": 1782245100,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "SI",
+    "station_name": "Vagliagli (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03002640",
+    "timestamp": 1782245100,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "SI",
+    "station_name": "Vagliagli (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03002640",
+    "timestamp": 1782245100,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "SI",
+    "station_name": "Vagliagli (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03002640",
+    "timestamp": 1782245100,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "SI",
+    "station_name": "Vagliagli (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03002640",
+    "timestamp": 1782245100,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "SI",
+    "station_name": "Vagliagli (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03002742",
+    "timestamp": 1782245100,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "SI",
+    "station_name": "Monticiano La Pineta (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03002742",
+    "timestamp": 1782245100,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "SI",
+    "station_name": "Monticiano La Pineta (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03002742",
+    "timestamp": 1782245100,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "SI",
+    "station_name": "Monticiano La Pineta (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03002742",
+    "timestamp": 1782245100,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "SI",
+    "station_name": "Monticiano La Pineta (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03002742",
+    "timestamp": 1782245100,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "SI",
+    "station_name": "Monticiano La Pineta (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03002742",
+    "timestamp": 1782245100,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "SI",
+    "station_name": "Monticiano La Pineta (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03002742",
+    "timestamp": 1782245100,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "SI",
+    "station_name": "Monticiano La Pineta (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03002819",
+    "timestamp": 1782245100,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "SI",
+    "station_name": "Spineta (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03002819",
+    "timestamp": 1782245100,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "SI",
+    "station_name": "Spineta (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03002819",
+    "timestamp": 1782245100,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "SI",
+    "station_name": "Spineta (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03002819",
+    "timestamp": 1782245100,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "SI",
+    "station_name": "Spineta (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03002819",
+    "timestamp": 1782245100,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "SI",
+    "station_name": "Spineta (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03002819",
+    "timestamp": 1782245100,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "SI",
+    "station_name": "Spineta (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03002819",
+    "timestamp": 1782245100,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "SI",
+    "station_name": "Spineta (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03002888",
+    "timestamp": 1782245100,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "SI",
+    "station_name": "Montisi (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03002888",
+    "timestamp": 1782245100,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "SI",
+    "station_name": "Montisi (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03002888",
+    "timestamp": 1782245100,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "SI",
+    "station_name": "Montisi (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03002888",
+    "timestamp": 1782245100,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "SI",
+    "station_name": "Montisi (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03002888",
+    "timestamp": 1782245100,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "SI",
+    "station_name": "Montisi (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03002888",
+    "timestamp": 1782245100,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "SI",
+    "station_name": "Montisi (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03002888",
+    "timestamp": 1782245100,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "SI",
+    "station_name": "Montisi (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03005655",
+    "timestamp": 1782245100,
+    "value": -0.28,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Arbia",
+    "province": "SI",
+    "station_name": "Podere Nuovo (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03005711",
+    "timestamp": 1782245100,
+    "value": -0.84,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Merse",
+    "province": "SI",
+    "station_name": "Montepescini (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03005725",
+    "timestamp": 1782245100,
+    "value": -0.19,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Farma",
+    "province": "SI",
+    "station_name": "Petriolo (GPRS)"
+  },
+  {
+    "sensor_id": "TOS11000114",
+    "timestamp": 1782245100,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "SI",
+    "station_name": "Abbadia S. S. - Laghetto Verde 1 (GPRS)"
+  },
+  {
+    "sensor_id": "TOS11000114",
+    "timestamp": 1782245100,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "SI",
+    "station_name": "Abbadia S. S. - Laghetto Verde 1 (GPRS)"
+  },
+  {
+    "sensor_id": "TOS11000114",
+    "timestamp": 1782245100,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "SI",
+    "station_name": "Abbadia S. S. - Laghetto Verde 1 (GPRS)"
+  },
+  {
+    "sensor_id": "TOS11000114",
+    "timestamp": 1782245100,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "SI",
+    "station_name": "Abbadia S. S. - Laghetto Verde 1 (GPRS)"
+  },
+  {
+    "sensor_id": "TOS11000114",
+    "timestamp": 1782245100,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "SI",
+    "station_name": "Abbadia S. S. - Laghetto Verde 1 (GPRS)"
+  },
+  {
+    "sensor_id": "TOS11000114",
+    "timestamp": 1782245100,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "SI",
+    "station_name": "Abbadia S. S. - Laghetto Verde 1 (GPRS)"
+  },
+  {
+    "sensor_id": "TOS11000114",
+    "timestamp": 1782245100,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "SI",
+    "station_name": "Abbadia S. S. - Laghetto Verde 1 (GPRS)"
+  },
+  {
+    "sensor_id": "TOS11000115",
+    "timestamp": 1782245100,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "SI",
+    "station_name": "Abbadia S. S. - Vetta Amiata 1 (GPRS)"
+  },
+  {
+    "sensor_id": "TOS11000115",
+    "timestamp": 1782245100,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "SI",
+    "station_name": "Abbadia S. S. - Vetta Amiata 1 (GPRS)"
+  },
+  {
+    "sensor_id": "TOS11000115",
+    "timestamp": 1782245100,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "SI",
+    "station_name": "Abbadia S. S. - Vetta Amiata 1 (GPRS)"
+  },
+  {
+    "sensor_id": "TOS11000115",
+    "timestamp": 1782245100,
+    "value": 0.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "SI",
+    "station_name": "Abbadia S. S. - Vetta Amiata 1 (GPRS)"
+  },
+  {
+    "sensor_id": "TOS11000115",
+    "timestamp": 1782245100,
+    "value": 0.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "SI",
+    "station_name": "Abbadia S. S. - Vetta Amiata 1 (GPRS)"
+  },
+  {
+    "sensor_id": "TOS11000115",
+    "timestamp": 1782245100,
+    "value": 0.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "SI",
+    "station_name": "Abbadia S. S. - Vetta Amiata 1 (GPRS)"
+  },
+  {
+    "sensor_id": "TOS11000115",
+    "timestamp": 1782245100,
+    "value": 0.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "SI",
+    "station_name": "Abbadia S. S. - Vetta Amiata 1 (GPRS)"
   }
 ]

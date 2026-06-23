@@ -41,7 +41,7 @@
       "station_name": "Arezzo - Fattoria S. Fabiano (GPRS)",
       "province": "AR",
       "alert_zone": "C",
-      "latest_timestamp": 1782238200,
+      "latest_timestamp": 1782245100,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01000772&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
@@ -59,12 +59,12 @@
       "station_name": "Badia Agnano (GPRS)",
       "province": "AR",
       "alert_zone": "A2",
-      "latest_timestamp": 1782238200,
+      "latest_timestamp": 1782245100,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01000811&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
         "60": 0,
-        "180": 6.5,
+        "180": 0,
         "360": 9,
         "720": 9,
         "1440": 9,
@@ -95,7 +95,7 @@
       "station_name": "Badia Tedalda (RADIO)",
       "province": "AR",
       "alert_zone": "T",
-      "latest_timestamp": 1782236700,
+      "latest_timestamp": 1782243900,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS30233300&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
@@ -113,7 +113,7 @@
       "station_name": "Bibbiena (GPRS)",
       "province": "AR",
       "alert_zone": "A1",
-      "latest_timestamp": 1782238200,
+      "latest_timestamp": 1782245100,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01000626&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
@@ -239,7 +239,7 @@
       "station_name": "Cortona (GPRS)",
       "province": "AR",
       "alert_zone": "C",
-      "latest_timestamp": 1782238200,
+      "latest_timestamp": 1782245100,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01000751&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
@@ -275,7 +275,7 @@
       "station_name": "La Verna (GPRS)",
       "province": "AR",
       "alert_zone": "A1",
-      "latest_timestamp": 1782238200,
+      "latest_timestamp": 1782245100,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01000639&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
@@ -329,7 +329,7 @@
       "station_name": "Montecchio (GPRS)",
       "province": "AR",
       "alert_zone": "A1",
-      "latest_timestamp": 1782238200,
+      "latest_timestamp": 1782245100,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS03000653&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
@@ -347,7 +347,7 @@
       "station_name": "Montedoglio (RADIO)",
       "province": "AR",
       "alert_zone": "T",
-      "latest_timestamp": 1782236700,
+      "latest_timestamp": 1782243900,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS06006078&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
@@ -401,7 +401,7 @@
       "station_name": "Montevarchi (GPRS)",
       "province": "AR",
       "alert_zone": "A2",
-      "latest_timestamp": 1782238200,
+      "latest_timestamp": 1782245100,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01004571&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
@@ -455,7 +455,7 @@
       "station_name": "Palazzo del Pero 1 (GPRS)",
       "province": "AR",
       "alert_zone": "C",
-      "latest_timestamp": 1782238200,
+      "latest_timestamp": 1782245100,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS19000703&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
@@ -491,7 +491,7 @@
       "station_name": "Pieve S. Stefano (GPRS)",
       "province": "AR",
       "alert_zone": "T",
-      "latest_timestamp": 1782238200,
+      "latest_timestamp": 1782245100,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS19000702&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
@@ -581,7 +581,7 @@
       "station_name": "Stia (GPRS)",
       "province": "AR",
       "alert_zone": "A1",
-      "latest_timestamp": 1782238200,
+      "latest_timestamp": 1782245100,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01000581&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
@@ -617,7 +617,7 @@
       "station_name": "Trappola (GPRS)",
       "province": "AR",
       "alert_zone": "A2",
-      "latest_timestamp": 1782238200,
+      "latest_timestamp": 1782245100,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS03000855&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
@@ -709,7 +709,7 @@
       "station_name": "Barco (RADIO)",
       "province": "FI",
       "alert_zone": "R2",
-      "latest_timestamp": 1782236700,
+      "latest_timestamp": 1782243900,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS30287500&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
@@ -727,7 +727,7 @@
       "station_name": "Bibbiana (RADIO)",
       "province": "FI",
       "alert_zone": "R2",
-      "latest_timestamp": 1782236700,
+      "latest_timestamp": 1782243900,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS30248000&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
@@ -745,7 +745,7 @@
       "station_name": "Borgo S. Lorenzo (GPRS)",
       "province": "FI",
       "alert_zone": "M",
-      "latest_timestamp": 1782238200,
+      "latest_timestamp": 1782245100,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01000999&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
@@ -781,7 +781,7 @@
       "station_name": "Caldine (GPRS)",
       "province": "FI",
       "alert_zone": "A3",
-      "latest_timestamp": 1782238200,
+      "latest_timestamp": 1782245100,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01001103&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
@@ -799,7 +799,7 @@
       "station_name": "Calenzano (GPRS)",
       "province": "FI",
       "alert_zone": "B",
-      "latest_timestamp": 1782238200,
+      "latest_timestamp": 1782245100,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01004784&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
@@ -835,7 +835,7 @@
       "station_name": "Casaglia (RADIO)",
       "province": "FI",
       "alert_zone": "M",
-      "latest_timestamp": 1782236700,
+      "latest_timestamp": 1782243900,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS30248400&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
@@ -871,7 +871,7 @@
       "station_name": "Castelfiorentino (GPRS)",
       "province": "FI",
       "alert_zone": "A5",
-      "latest_timestamp": 1782238200,
+      "latest_timestamp": 1782245100,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01004971&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
@@ -925,7 +925,7 @@
       "station_name": "Cerreto Guidi (GPRS)",
       "province": "FI",
       "alert_zone": "A4",
-      "latest_timestamp": 1782238200,
+      "latest_timestamp": 1782245100,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS11000071&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
@@ -943,7 +943,7 @@
       "station_name": "Certaldo (GPRS)",
       "province": "FI",
       "alert_zone": "A5",
-      "latest_timestamp": 1782238200,
+      "latest_timestamp": 1782245100,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01004967&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
@@ -997,7 +997,7 @@
       "station_name": "Empoli (GPRS)",
       "province": "FI",
       "alert_zone": "A4",
-      "latest_timestamp": 1782238200,
+      "latest_timestamp": 1782245100,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01004941&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
@@ -1069,7 +1069,7 @@
       "station_name": "Firenze Università (GPRS)",
       "province": "FI",
       "alert_zone": "A3",
-      "latest_timestamp": 1782238200,
+      "latest_timestamp": 1782245100,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01001096&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
@@ -1087,7 +1087,7 @@
       "station_name": "Firenzuola (RADIO)",
       "province": "FI",
       "alert_zone": "R2",
-      "latest_timestamp": 1782236700,
+      "latest_timestamp": 1782243900,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS30290300&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
@@ -1159,7 +1159,7 @@
       "station_name": "Incisa Valle (GPRS)",
       "province": "FI",
       "alert_zone": "A2",
-      "latest_timestamp": 1782238200,
+      "latest_timestamp": 1782245100,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01004591&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
@@ -1213,7 +1213,7 @@
       "station_name": "Le Croci di Calenzano (GPRS)",
       "province": "FI",
       "alert_zone": "B",
-      "latest_timestamp": 1782238200,
+      "latest_timestamp": 1782245100,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01001189&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
@@ -1231,7 +1231,7 @@
       "station_name": "Mangona (GPRS)",
       "province": "FI",
       "alert_zone": "M",
-      "latest_timestamp": 1782238200,
+      "latest_timestamp": 1782245100,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01000921&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
@@ -1249,7 +1249,7 @@
       "station_name": "Marradi (RADIO)",
       "province": "FI",
       "alert_zone": "R2",
-      "latest_timestamp": 1782235800,
+      "latest_timestamp": 1782242100,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS30250000&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
@@ -1267,7 +1267,7 @@
       "station_name": "Monte di Fò (GPRS)",
       "province": "FI",
       "alert_zone": "M",
-      "latest_timestamp": 1782238200,
+      "latest_timestamp": 1782245100,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01000916&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
@@ -1285,7 +1285,7 @@
       "station_name": "Monte Faggiola (RADIO)",
       "province": "FI",
       "alert_zone": "R2",
-      "latest_timestamp": 1782235800,
+      "latest_timestamp": 1782243000,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS30287700&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
@@ -1303,7 +1303,7 @@
       "station_name": "Monte Giovi (GPRS)",
       "province": "FI",
       "alert_zone": "M",
-      "latest_timestamp": 1782238200,
+      "latest_timestamp": 1782245100,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS03001001&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
@@ -1339,7 +1339,7 @@
       "station_name": "Montespertoli (GPRS)",
       "province": "FI",
       "alert_zone": "A5",
-      "latest_timestamp": 1782238200,
+      "latest_timestamp": 1782245100,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01004915&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
@@ -1357,7 +1357,7 @@
       "station_name": "Nave di Rosano (GPRS)",
       "province": "FI",
       "alert_zone": "A3",
-      "latest_timestamp": 1782238200,
+      "latest_timestamp": 1782245100,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01004659&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
@@ -1375,7 +1375,7 @@
       "station_name": "Palazzuolo sul Senio (RADIO)",
       "province": "FI",
       "alert_zone": "R2",
-      "latest_timestamp": 1782236700,
+      "latest_timestamp": 1782243900,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS30290400&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
@@ -1411,7 +1411,7 @@
       "station_name": "Piancaldoli (RADIO)",
       "province": "FI",
       "alert_zone": "R2",
-      "latest_timestamp": 1782236700,
+      "latest_timestamp": 1782243900,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS30290200&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
@@ -1429,7 +1429,7 @@
       "station_name": "Poggio Aglione (GPRS)",
       "province": "FI",
       "alert_zone": "A5",
-      "latest_timestamp": 1782238200,
+      "latest_timestamp": 1782245100,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01001445&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
@@ -1519,7 +1519,7 @@
       "station_name": "Remole (GPRS)",
       "province": "FI",
       "alert_zone": "A3",
-      "latest_timestamp": 1782238200,
+      "latest_timestamp": 1782245100,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS11000024&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
@@ -1609,7 +1609,7 @@
       "station_name": "S. Giusto (GPRS)",
       "province": "FI",
       "alert_zone": "A3",
-      "latest_timestamp": 1782238200,
+      "latest_timestamp": 1782245100,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01001215&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
@@ -1663,7 +1663,7 @@
       "station_name": "Strada in Chianti (GPRS)",
       "province": "FI",
       "alert_zone": "A3",
-      "latest_timestamp": 1782238200,
+      "latest_timestamp": 1782245100,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01004725&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
@@ -1681,7 +1681,7 @@
       "station_name": "Tavarnelle (GPRS)",
       "province": "FI",
       "alert_zone": "A3",
-      "latest_timestamp": 1782238200,
+      "latest_timestamp": 1782241500,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS11000021&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
@@ -1699,7 +1699,7 @@
       "station_name": "Turbone (GPRS)",
       "province": "FI",
       "alert_zone": "A4",
-      "latest_timestamp": 1782238200,
+      "latest_timestamp": 1782245100,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01004921&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
@@ -1717,7 +1717,7 @@
       "station_name": "Vaglia (GPRS)",
       "province": "FI",
       "alert_zone": "M",
-      "latest_timestamp": 1782238200,
+      "latest_timestamp": 1782245100,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01000941&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
@@ -1735,7 +1735,7 @@
       "station_name": "Vallombrosa (GPRS)",
       "province": "FI",
       "alert_zone": "A2",
-      "latest_timestamp": 1782238200,
+      "latest_timestamp": 1782245100,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01000901&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
@@ -1863,7 +1863,7 @@
       "station_name": "Batignano (GPRS)",
       "province": "GR",
       "alert_zone": "O3",
-      "latest_timestamp": 1782234600,
+      "latest_timestamp": 1782234900,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS03002571&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
@@ -1899,7 +1899,7 @@
       "station_name": "Caldana (GPRS)",
       "province": "GR",
       "alert_zone": "E1",
-      "latest_timestamp": 1782238200,
+      "latest_timestamp": 1782245100,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS03002551&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
@@ -1917,7 +1917,7 @@
       "station_name": "Campiano (GPRS)",
       "province": "GR",
       "alert_zone": "E1",
-      "latest_timestamp": 1782238200,
+      "latest_timestamp": 1782245100,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01002779&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
@@ -1953,7 +1953,7 @@
       "station_name": "Capanne (GPRS)",
       "province": "GR",
       "alert_zone": "F1",
-      "latest_timestamp": 1782238200,
+      "latest_timestamp": 1782245100,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS03003041&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
@@ -2007,7 +2007,7 @@
       "station_name": "Castel del Piano (GPRS)",
       "province": "GR",
       "alert_zone": "O2",
-      "latest_timestamp": 1782238200,
+      "latest_timestamp": 1782245100,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS03002901&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
@@ -2061,7 +2061,7 @@
       "station_name": "Giglio Castello (GPRS)",
       "province": "GR",
       "alert_zone": "F2",
-      "latest_timestamp": 1782238200,
+      "latest_timestamp": 1782245100,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS03003269&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
@@ -2115,7 +2115,7 @@
       "station_name": "Manciano (GPRS)",
       "province": "GR",
       "alert_zone": "F1",
-      "latest_timestamp": 1782238200,
+      "latest_timestamp": 1782245100,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS03003079&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
@@ -2133,7 +2133,7 @@
       "station_name": "Marsiliana (GPRS)",
       "province": "GR",
       "alert_zone": "F1",
-      "latest_timestamp": 1782238200,
+      "latest_timestamp": 1782242700,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS03005895&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
@@ -2223,7 +2223,7 @@
       "station_name": "Monterotondo (GPRS)",
       "province": "GR",
       "alert_zone": "E1",
-      "latest_timestamp": 1782238200,
+      "latest_timestamp": 1782245100,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01002371&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
@@ -2259,7 +2259,7 @@
       "station_name": "Paganico (GPRS)",
       "province": "GR",
       "alert_zone": "O2",
-      "latest_timestamp": 1782238200,
+      "latest_timestamp": 1782245100,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS03002921&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
@@ -2295,7 +2295,7 @@
       "station_name": "Pitigliano (RADIO)",
       "province": "GR",
       "alert_zone": "F1",
-      "latest_timestamp": 1782235800,
+      "latest_timestamp": 1782243000,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS07000046&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
@@ -2331,7 +2331,7 @@
       "station_name": "Poggio Perotto (GPRS)",
       "province": "GR",
       "alert_zone": "F2",
-      "latest_timestamp": 1782238200,
+      "latest_timestamp": 1782244200,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS03003011&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
@@ -2403,12 +2403,12 @@
       "station_name": "Roccalbegna (GPRS)",
       "province": "GR",
       "alert_zone": "F1",
-      "latest_timestamp": 1782238200,
+      "latest_timestamp": 1782245100,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS03003019&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
         "60": 0,
-        "180": 2.6,
+        "180": 0,
         "360": 2.6,
         "720": 2.6,
         "1440": 2.6,
@@ -2421,7 +2421,7 @@
       "station_name": "Roccastrada (GPRS)",
       "province": "GR",
       "alert_zone": "E1",
-      "latest_timestamp": 1782238200,
+      "latest_timestamp": 1782245100,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS03002531&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
@@ -2493,7 +2493,7 @@
       "station_name": "S. Fiora 1 (GPRS)",
       "province": "GR",
       "alert_zone": "O2",
-      "latest_timestamp": 1782238200,
+      "latest_timestamp": 1782245100,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS11000052&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
@@ -2511,7 +2511,7 @@
       "station_name": "Scansano (GPRS)",
       "province": "GR",
       "alert_zone": "O2",
-      "latest_timestamp": 1782238200,
+      "latest_timestamp": 1782245100,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS03003071&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
@@ -2547,16 +2547,16 @@
       "station_name": "Sorano Meteo (RADIO)",
       "province": "GR",
       "alert_zone": "F1",
-      "latest_timestamp": 1782235800,
+      "latest_timestamp": 1782243000,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS07000072&title=&type=pluvio",
       "accumulations_mm": {
-        "15": 0.2,
-        "60": 1,
-        "180": 1,
-        "360": 1,
-        "720": 1,
-        "1440": 1,
-        "2160": 1
+        "15": 0,
+        "60": 0,
+        "180": 1.2,
+        "360": 1.2,
+        "720": 1.2,
+        "1440": 1.2,
+        "2160": 1.2
       },
       "altitude_m": 782
     },
@@ -2583,7 +2583,7 @@
       "station_name": "Torricelle (GPRS)",
       "province": "GR",
       "alert_zone": "O2",
-      "latest_timestamp": 1782238200,
+      "latest_timestamp": 1782245100,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS03003063&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
@@ -2657,7 +2657,7 @@
       "station_name": "Campiglia Marittima (GPRS)",
       "province": "LI",
       "alert_zone": "E1",
-      "latest_timestamp": 1782237000,
+      "latest_timestamp": 1782245100,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS03002420&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
@@ -2747,7 +2747,7 @@
       "station_name": "Corbolone (GPRS)",
       "province": "LI",
       "alert_zone": "A6",
-      "latest_timestamp": 1782238200,
+      "latest_timestamp": 1782245100,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS03001963&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
@@ -2783,7 +2783,7 @@
       "station_name": "Gabbro (GPRS)",
       "province": "LI",
       "alert_zone": "A6",
-      "latest_timestamp": 1782238200,
+      "latest_timestamp": 1782245100,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS03001965&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
@@ -2819,7 +2819,7 @@
       "station_name": "Livorno Mareografo (GPRS)",
       "province": "LI",
       "alert_zone": "A6",
-      "latest_timestamp": 1782220500,
+      "latest_timestamp": 1782245100,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01005981&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
@@ -2873,7 +2873,7 @@
       "station_name": "Parrana S. Martino (GPRS)",
       "province": "LI",
       "alert_zone": "A4",
-      "latest_timestamp": 1782238200,
+      "latest_timestamp": 1782245100,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS03001930&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
@@ -2891,7 +2891,7 @@
       "station_name": "Patresi Mortigliano (GPRS)",
       "province": "LI",
       "alert_zone": "I",
-      "latest_timestamp": 1782238200,
+      "latest_timestamp": 1782245100,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS03003200&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
@@ -2909,7 +2909,7 @@
       "station_name": "Populonia (GPRS)",
       "province": "LI",
       "alert_zone": "E2",
-      "latest_timestamp": 1782237900,
+      "latest_timestamp": 1782241800,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS03002300&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
@@ -2981,7 +2981,7 @@
       "station_name": "S. Martino (GPRS)",
       "province": "LI",
       "alert_zone": "I",
-      "latest_timestamp": 1782238200,
+      "latest_timestamp": 1782245100,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS03003179&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
@@ -3053,7 +3053,7 @@
       "station_name": "Stagno (GPRS)",
       "province": "LI",
       "alert_zone": "A6",
-      "latest_timestamp": 1782238200,
+      "latest_timestamp": 1782245100,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01005342&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
@@ -3104,10 +3104,10 @@
     },
     {
       "sensor_id": "TOS01005489",
-      "station_name": "Vecchia SS Aurelia (RADIO)",
+      "station_name": "Vecchia SS Aurelia (GPRS)",
       "province": "LI",
       "alert_zone": "E1",
-      "latest_timestamp": 1782232200,
+      "latest_timestamp": 1782245100,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01005489&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
@@ -3217,7 +3217,7 @@
       "station_name": "Borgo a Mozzano (GPRS)",
       "province": "LU",
       "alert_zone": "S2",
-      "latest_timestamp": 1782238200,
+      "latest_timestamp": 1782245100,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS02004271&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
@@ -3235,7 +3235,7 @@
       "station_name": "Calavorno (GPRS)",
       "province": "LU",
       "alert_zone": "S2",
-      "latest_timestamp": 1782238200,
+      "latest_timestamp": 1782245100,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS02004195&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
@@ -3253,7 +3253,7 @@
       "station_name": "Camaiore (GPRS)",
       "province": "LU",
       "alert_zone": "V",
-      "latest_timestamp": 1782238200,
+      "latest_timestamp": 1782245100,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS02004059&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
@@ -3271,7 +3271,7 @@
       "station_name": "Campagrina (GPRS)",
       "province": "LU",
       "alert_zone": "S1",
-      "latest_timestamp": 1782238200,
+      "latest_timestamp": 1782245100,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS02000241&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
@@ -3289,7 +3289,7 @@
       "station_name": "Camporgiano (GPRS)",
       "province": "LU",
       "alert_zone": "S1",
-      "latest_timestamp": 1782238200,
+      "latest_timestamp": 1782245100,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS02004115&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
@@ -3433,13 +3433,13 @@
       "station_name": "Chifenti (GPRS)",
       "province": "LU",
       "alert_zone": "S1",
-      "latest_timestamp": 1782238200,
+      "latest_timestamp": 1782245100,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS02004255&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
         "60": 0,
         "180": 0,
-        "360": 0.8,
+        "360": 0,
         "720": 0.8,
         "1440": 0.8,
         "2160": 0.8
@@ -3469,7 +3469,7 @@
       "station_name": "Fabbriche di Vallico (GPRS)",
       "province": "LU",
       "alert_zone": "S1",
-      "latest_timestamp": 1782238200,
+      "latest_timestamp": 1782245100,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS02000332&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
@@ -3577,7 +3577,7 @@
       "station_name": "Lido di Camaiore (GPRS)",
       "province": "LU",
       "alert_zone": "V",
-      "latest_timestamp": 1782238200,
+      "latest_timestamp": 1782245100,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS11000011&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
@@ -3595,7 +3595,7 @@
       "station_name": "Lucca (Orto Botanico) (GPRS)",
       "province": "LU",
       "alert_zone": "S2",
-      "latest_timestamp": 1782238200,
+      "latest_timestamp": 1782245100,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS02000512&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
@@ -3703,7 +3703,7 @@
       "station_name": "Mutigliano (GPRS)",
       "province": "LU",
       "alert_zone": "S2",
-      "latest_timestamp": 1782238200,
+      "latest_timestamp": 1782245100,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS02004286&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
@@ -3739,7 +3739,7 @@
       "station_name": "Orto di Donna (GPRS)",
       "province": "LU",
       "alert_zone": "S1",
-      "latest_timestamp": 1782238200,
+      "latest_timestamp": 1782245100,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS02000177&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
@@ -3811,7 +3811,7 @@
       "station_name": "Passo Radici (RADIO)",
       "province": "LU",
       "alert_zone": "S1",
-      "latest_timestamp": 1782236700,
+      "latest_timestamp": 1782243900,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS30355400&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
@@ -3829,7 +3829,7 @@
       "station_name": "Piaggione (GPRS)",
       "province": "LU",
       "alert_zone": "S2",
-      "latest_timestamp": 1782238200,
+      "latest_timestamp": 1782245100,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS02004284&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
@@ -3865,7 +3865,7 @@
       "station_name": "Pietrasanta (GPRS)",
       "province": "LU",
       "alert_zone": "V",
-      "latest_timestamp": 1782238200,
+      "latest_timestamp": 1782245100,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS03000091&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
@@ -3901,7 +3901,7 @@
       "station_name": "Pizzorne (GPRS)",
       "province": "LU",
       "alert_zone": "A4",
-      "latest_timestamp": 1782237000,
+      "latest_timestamp": 1782245100,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS03001841&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
@@ -3937,7 +3937,7 @@
       "station_name": "Ponte di Campia (GPRS)",
       "province": "LU",
       "alert_zone": "S1",
-      "latest_timestamp": 1782238200,
+      "latest_timestamp": 1782245100,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS02004165&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
@@ -3973,7 +3973,7 @@
       "station_name": "Ponte Guido (GPRS)",
       "province": "LU",
       "alert_zone": "S2",
-      "latest_timestamp": 1782238200,
+      "latest_timestamp": 1782245100,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS02004305&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
@@ -3991,7 +3991,7 @@
       "station_name": "Ponte Tavole (GPRS)",
       "province": "LU",
       "alert_zone": "S1",
-      "latest_timestamp": 1782238200,
+      "latest_timestamp": 1782245100,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS02004045&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
@@ -4009,7 +4009,7 @@
       "station_name": "Pontetetto (GPRS)",
       "province": "LU",
       "alert_zone": "S2",
-      "latest_timestamp": 1782238200,
+      "latest_timestamp": 1782245100,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS02004315&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
@@ -4027,13 +4027,13 @@
       "station_name": "Renaio (GPRS)",
       "province": "LU",
       "alert_zone": "S1",
-      "latest_timestamp": 1782238200,
+      "latest_timestamp": 1782245100,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS03000278&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
         "60": 0,
         "180": 0,
-        "360": 0.2,
+        "360": 0,
         "720": 0.2,
         "1440": 0.2,
         "2160": 0.2
@@ -4045,7 +4045,7 @@
       "station_name": "Retignano (GPRS)",
       "province": "LU",
       "alert_zone": "S1",
-      "latest_timestamp": 1782238200,
+      "latest_timestamp": 1782245100,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS02000079&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
@@ -4081,7 +4081,7 @@
       "station_name": "Strettoia 1 (GPRS)",
       "province": "LU",
       "alert_zone": "V",
-      "latest_timestamp": 1782238200,
+      "latest_timestamp": 1782245100,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS11000102&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
@@ -4135,7 +4135,7 @@
       "station_name": "Torre del Lago (GPRS)",
       "province": "LU",
       "alert_zone": "S3",
-      "latest_timestamp": 1782238200,
+      "latest_timestamp": 1782245100,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS02004081&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
@@ -4171,7 +4171,7 @@
       "station_name": "Vallelunga (GPRS)",
       "province": "LU",
       "alert_zone": "V",
-      "latest_timestamp": 1782238200,
+      "latest_timestamp": 1782245100,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS02000108&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
@@ -4189,7 +4189,7 @@
       "station_name": "Viareggio 1 (GPRS)",
       "province": "LU",
       "alert_zone": "S3",
-      "latest_timestamp": 1782238200,
+      "latest_timestamp": 1782245100,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS02004091&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
@@ -4245,7 +4245,7 @@
       "station_name": "Avenza (GPRS)",
       "province": "MS",
       "alert_zone": "V",
-      "latest_timestamp": 1782238200,
+      "latest_timestamp": 1782245100,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01004007&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
@@ -4263,13 +4263,13 @@
       "station_name": "Bagnone (GPRS)",
       "province": "MS",
       "alert_zone": "L",
-      "latest_timestamp": 1782238200,
+      "latest_timestamp": 1782245100,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS09000015&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
         "60": 0,
         "180": 0,
-        "360": 0.6,
+        "360": 0,
         "720": 2,
         "1440": 2,
         "2160": 2
@@ -4299,7 +4299,7 @@
       "station_name": "Campocecina (GPRS)",
       "province": "MS",
       "alert_zone": "V",
-      "latest_timestamp": 1782238200,
+      "latest_timestamp": 1782245100,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS11000029&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
@@ -4335,7 +4335,7 @@
       "station_name": "Canevara (GPRS)",
       "province": "MS",
       "alert_zone": "V",
-      "latest_timestamp": 1782238200,
+      "latest_timestamp": 1782245100,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS02004011&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
@@ -4371,7 +4371,7 @@
       "station_name": "Comano (GPRS)",
       "province": "MS",
       "alert_zone": "L",
-      "latest_timestamp": 1782238200,
+      "latest_timestamp": 1782245100,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS09001143&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
@@ -4425,7 +4425,7 @@
       "station_name": "Lago Paduli (RADIO)",
       "province": "MS",
       "alert_zone": "L",
-      "latest_timestamp": 1782234000,
+      "latest_timestamp": 1782243900,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS30209600&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
@@ -4443,7 +4443,7 @@
       "station_name": "Licciana Nardi (GPRS)",
       "province": "MS",
       "alert_zone": "L",
-      "latest_timestamp": 1782238200,
+      "latest_timestamp": 1782245100,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS09000021&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
@@ -4530,10 +4530,10 @@
     },
     {
       "sensor_id": "TOS09001160",
-      "station_name": "Passo del Cerreto (RADIO)",
+      "station_name": "Passo del Cerreto (GPRS)",
       "province": "MS",
       "alert_zone": "L",
-      "latest_timestamp": 1782232200,
+      "latest_timestamp": 1782245100,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS09001160&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
@@ -4551,7 +4551,7 @@
       "station_name": "Passo della Cisa (GPRS)",
       "province": "MS",
       "alert_zone": "L",
-      "latest_timestamp": 1782238200,
+      "latest_timestamp": 1782245100,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS09001053&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
@@ -4569,7 +4569,7 @@
       "station_name": "Patigno (GPRS)",
       "province": "MS",
       "alert_zone": "L",
-      "latest_timestamp": 1782238200,
+      "latest_timestamp": 1782245100,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS09001061&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
@@ -4605,7 +4605,7 @@
       "station_name": "Pietra Piccata (GPRS)",
       "province": "MS",
       "alert_zone": "L",
-      "latest_timestamp": 1782238200,
+      "latest_timestamp": 1782245100,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS09000022&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
@@ -4823,7 +4823,7 @@
       "station_name": "Bocca d'Arno 1 (GPRS)",
       "province": "PI",
       "alert_zone": "A6",
-      "latest_timestamp": 1782238200,
+      "latest_timestamp": 1782245100,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01005251&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
@@ -4859,12 +4859,12 @@
       "station_name": "Bulera (GPRS)",
       "province": "PI",
       "alert_zone": "E1",
-      "latest_timestamp": 1782238200,
+      "latest_timestamp": 1782245100,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS03005379&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
         "60": 0,
-        "180": 1.2,
+        "180": 0,
         "360": 1.2,
         "720": 1.2,
         "1440": 1.2,
@@ -4877,12 +4877,12 @@
       "station_name": "Canneto 9 (GPRS)",
       "province": "PI",
       "alert_zone": "E1",
-      "latest_timestamp": 1782238200,
+      "latest_timestamp": 1782245100,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01002171&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
         "60": 0,
-        "180": 16,
+        "180": 0,
         "360": 16,
         "720": 16,
         "1440": 16,
@@ -4895,7 +4895,7 @@
       "station_name": "Capannoli (GPRS)",
       "province": "PI",
       "alert_zone": "A4",
-      "latest_timestamp": 1782238200,
+      "latest_timestamp": 1782245100,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01005131&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
@@ -4913,7 +4913,7 @@
       "station_name": "Casciana Terme (GPRS)",
       "province": "PI",
       "alert_zone": "A4",
-      "latest_timestamp": 1782238200,
+      "latest_timestamp": 1782245100,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01001781&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
@@ -5003,7 +5003,7 @@
       "station_name": "Fornacino (GPRS)",
       "province": "PI",
       "alert_zone": "A4",
-      "latest_timestamp": 1782238200,
+      "latest_timestamp": 1782245100,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01005005&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
@@ -5021,7 +5021,7 @@
       "station_name": "Gello (GPRS)",
       "province": "PI",
       "alert_zone": "A4",
-      "latest_timestamp": 1782238200,
+      "latest_timestamp": 1782245100,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01005262&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
@@ -5075,12 +5075,12 @@
       "station_name": "Libbiano (GPRS)",
       "province": "PI",
       "alert_zone": "E1",
-      "latest_timestamp": 1782238200,
+      "latest_timestamp": 1782245100,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01002161&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
         "60": 0,
-        "180": 2.9,
+        "180": 0,
         "360": 2.9,
         "720": 2.9,
         "1440": 2.9,
@@ -5129,7 +5129,7 @@
       "station_name": "Molino d'Era (GPRS)",
       "province": "PI",
       "alert_zone": "A5",
-      "latest_timestamp": 1782238200,
+      "latest_timestamp": 1782245100,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01005115&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
@@ -5219,7 +5219,7 @@
       "station_name": "Orentano (GPRS)",
       "province": "PI",
       "alert_zone": "A4",
-      "latest_timestamp": 1782238200,
+      "latest_timestamp": 1782245100,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01001889&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
@@ -5237,7 +5237,7 @@
       "station_name": "Pisa (Fac. Agraria) (GPRS)",
       "province": "PI",
       "alert_zone": "A6",
-      "latest_timestamp": 1782238200,
+      "latest_timestamp": 1782245100,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01000544&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
@@ -5272,7 +5272,7 @@
       "station_name": "Ponte di Monterufoli (GPRS)",
       "province": "PI",
       "alert_zone": "E1",
-      "latest_timestamp": 1782238200,
+      "latest_timestamp": 1782245100,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01005401&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
@@ -5290,12 +5290,12 @@
       "station_name": "Ponte SR439 9 (GPRS)",
       "province": "PI",
       "alert_zone": "E1",
-      "latest_timestamp": 1782238200,
+      "latest_timestamp": 1782245100,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01005386&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
         "60": 0,
-        "180": 2.4,
+        "180": 0,
         "360": 2.4,
         "720": 2.4,
         "1440": 2.4,
@@ -5308,7 +5308,7 @@
       "station_name": "Pontedera (GPRS)",
       "province": "PI",
       "alert_zone": "A4",
-      "latest_timestamp": 1782238200,
+      "latest_timestamp": 1782245100,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01005181&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
@@ -5326,7 +5326,7 @@
       "station_name": "Ripafratta (GPRS)",
       "province": "PI",
       "alert_zone": "S3",
-      "latest_timestamp": 1782238200,
+      "latest_timestamp": 1782245100,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS02004311&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
@@ -5380,7 +5380,7 @@
       "station_name": "S. Giovanni alla Vena valle (GPRS)",
       "province": "PI",
       "alert_zone": "A4",
-      "latest_timestamp": 1782238200,
+      "latest_timestamp": 1782245100,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01005191&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
@@ -5398,7 +5398,7 @@
       "station_name": "S. Luce (GPRS)",
       "province": "PI",
       "alert_zone": "E1",
-      "latest_timestamp": 1782238200,
+      "latest_timestamp": 1782245100,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS03002001&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
@@ -5524,7 +5524,7 @@
       "station_name": "Vecchiano (GPRS)",
       "province": "PI",
       "alert_zone": "S3",
-      "latest_timestamp": 1782238200,
+      "latest_timestamp": 1782245100,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS02004365&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
@@ -5580,7 +5580,7 @@
       "station_name": "Cantagallo (GPRS)",
       "province": "PO",
       "alert_zone": "B",
-      "latest_timestamp": 1782238200,
+      "latest_timestamp": 1782245100,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01001151&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
@@ -5598,7 +5598,7 @@
       "station_name": "Cottede (RADIO)",
       "province": "PO",
       "alert_zone": "R1",
-      "latest_timestamp": 1782236700,
+      "latest_timestamp": 1782243900,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS30290100&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
@@ -5634,7 +5634,7 @@
       "station_name": "Gamberame (GPRS)",
       "province": "PO",
       "alert_zone": "B",
-      "latest_timestamp": 1782238200,
+      "latest_timestamp": 1782245100,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01004779&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
@@ -5670,7 +5670,7 @@
       "station_name": "Prato Università (GPRS)",
       "province": "PO",
       "alert_zone": "B",
-      "latest_timestamp": 1782238200,
+      "latest_timestamp": 1782245100,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01001205&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
@@ -5762,7 +5762,7 @@
       "station_name": "Baggio (GPRS)",
       "province": "PT",
       "alert_zone": "B",
-      "latest_timestamp": 1782238200,
+      "latest_timestamp": 1782245100,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01001263&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
@@ -5780,7 +5780,7 @@
       "station_name": "Boscolungo (GPRS)",
       "province": "PT",
       "alert_zone": "S1",
-      "latest_timestamp": 1782238200,
+      "latest_timestamp": 1782245100,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS02000351&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
@@ -5798,7 +5798,7 @@
       "station_name": "Casotti di Cutigliano (GPRS)",
       "province": "PT",
       "alert_zone": "S1",
-      "latest_timestamp": 1782238200,
+      "latest_timestamp": 1782245100,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS02004215&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
@@ -5816,7 +5816,7 @@
       "station_name": "Castelmartini (GPRS)",
       "province": "PT",
       "alert_zone": "A4",
-      "latest_timestamp": 1782238200,
+      "latest_timestamp": 1782245100,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01001629&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
@@ -5924,7 +5924,7 @@
       "station_name": "Montecatini Terme (GPRS)",
       "province": "PT",
       "alert_zone": "S1",
-      "latest_timestamp": 1782238200,
+      "latest_timestamp": 1782245100,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01001601&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
@@ -5942,7 +5942,7 @@
       "station_name": "Pescia (GPRS)",
       "province": "PT",
       "alert_zone": "S1",
-      "latest_timestamp": 1782238200,
+      "latest_timestamp": 1782245100,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS03001580&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
@@ -5960,7 +5960,7 @@
       "station_name": "Pontelungo valle (GPRS)",
       "province": "PT",
       "alert_zone": "B",
-      "latest_timestamp": 1782238200,
+      "latest_timestamp": 1782245100,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01004839&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
@@ -5978,7 +5978,7 @@
       "station_name": "Pracchia (RADIO)",
       "province": "PT",
       "alert_zone": "R1",
-      "latest_timestamp": 1782236700,
+      "latest_timestamp": 1782243900,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS30150800&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
@@ -6014,7 +6014,7 @@
       "station_name": "S. Baronto (GPRS)",
       "province": "PT",
       "alert_zone": "A4",
-      "latest_timestamp": 1782238200,
+      "latest_timestamp": 1782245100,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01001634&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
@@ -6032,14 +6032,14 @@
       "station_name": "S. Marcello Pistoiese (GPRS)",
       "province": "PT",
       "alert_zone": "S1",
-      "latest_timestamp": 1782238200,
+      "latest_timestamp": 1782245100,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS02000431&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
         "60": 0,
         "180": 0,
         "360": 0,
-        "720": 0.2,
+        "720": 0,
         "1440": 0.2,
         "2160": 0.2
       },
@@ -6050,7 +6050,7 @@
       "station_name": "Sammommè (GPRS)",
       "province": "PT",
       "alert_zone": "B",
-      "latest_timestamp": 1782238200,
+      "latest_timestamp": 1782245100,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS03001241&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
@@ -6104,7 +6104,7 @@
       "station_name": "Serra Pistoiese (GPRS)",
       "province": "PT",
       "alert_zone": "S1",
-      "latest_timestamp": 1782238200,
+      "latest_timestamp": 1782245100,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01001561&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
@@ -6140,7 +6140,7 @@
       "station_name": "Treppio (RADIO)",
       "province": "PT",
       "alert_zone": "R1",
-      "latest_timestamp": 1782236700,
+      "latest_timestamp": 1782243900,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS30290700&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
@@ -6160,7 +6160,7 @@
       "station_name": "Abbadia S. S. - Laghetto Verde 1 (GPRS)",
       "province": "SI",
       "alert_zone": "F1",
-      "latest_timestamp": 1782238200,
+      "latest_timestamp": 1782245100,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS11000114&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
@@ -6178,12 +6178,12 @@
       "station_name": "Abbadia S. S. - Vetta Amiata 1 (GPRS)",
       "province": "SI",
       "alert_zone": "O2",
-      "latest_timestamp": 1782238200,
+      "latest_timestamp": 1782245100,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS11000115&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
         "60": 0,
-        "180": 0.8,
+        "180": 0,
         "360": 0.8,
         "720": 0.8,
         "1440": 0.8,
@@ -6196,7 +6196,7 @@
       "station_name": "Abbadia S. Salvatore (RADIO)",
       "province": "SI",
       "alert_zone": "F1",
-      "latest_timestamp": 1782235800,
+      "latest_timestamp": 1782243000,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS07000001&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
@@ -6268,13 +6268,13 @@
       "station_name": "Castellina in Chianti (GPRS)",
       "province": "SI",
       "alert_zone": "O1",
-      "latest_timestamp": 1782238200,
+      "latest_timestamp": 1782245100,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS03001286&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
         "60": 0,
         "180": 0,
-        "360": 2.3,
+        "360": 0,
         "720": 2.3,
         "1440": 2.3,
         "2160": 2.3
@@ -6358,7 +6358,7 @@
       "station_name": "Mensano (GPRS)",
       "province": "SI",
       "alert_zone": "O1",
-      "latest_timestamp": 1782238200,
+      "latest_timestamp": 1782245100,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS03001385&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
@@ -6430,7 +6430,7 @@
       "station_name": "Monte Oliveto (GPRS)",
       "province": "SI",
       "alert_zone": "O1",
-      "latest_timestamp": 1782238200,
+      "latest_timestamp": 1782245100,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS03002621&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
@@ -6520,7 +6520,7 @@
       "station_name": "Monticiano La Pineta (GPRS)",
       "province": "SI",
       "alert_zone": "O1",
-      "latest_timestamp": 1782238200,
+      "latest_timestamp": 1782245100,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS03002742&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
@@ -6538,7 +6538,7 @@
       "station_name": "Montisi (GPRS)",
       "province": "SI",
       "alert_zone": "O1",
-      "latest_timestamp": 1782238200,
+      "latest_timestamp": 1782245100,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS03002888&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
@@ -6610,12 +6610,12 @@
       "station_name": "Poggibonsi (GPRS)",
       "province": "SI",
       "alert_zone": "A5",
-      "latest_timestamp": 1782238200,
+      "latest_timestamp": 1782245100,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01004965&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
         "60": 0,
-        "180": 0.4,
+        "180": 0,
         "360": 0.4,
         "720": 0.4,
         "1440": 0.4,
@@ -6682,7 +6682,7 @@
       "station_name": "Rigomagno (GPRS)",
       "province": "SI",
       "alert_zone": "C",
-      "latest_timestamp": 1782238200,
+      "latest_timestamp": 1782245100,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS03000715&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
@@ -6718,7 +6718,7 @@
       "station_name": "S. Gimignano (GPRS)",
       "province": "SI",
       "alert_zone": "A5",
-      "latest_timestamp": 1782238200,
+      "latest_timestamp": 1782245100,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS01001419&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
@@ -6808,7 +6808,7 @@
       "station_name": "Spineta (GPRS)",
       "province": "SI",
       "alert_zone": "F1",
-      "latest_timestamp": 1782238200,
+      "latest_timestamp": 1782245100,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS03002819&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
@@ -6826,7 +6826,7 @@
       "station_name": "Vagliagli (GPRS)",
       "province": "SI",
       "alert_zone": "O1",
-      "latest_timestamp": 1782238200,
+      "latest_timestamp": 1782245100,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS03002640&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
@@ -6844,7 +6844,7 @@
       "station_name": "Vivo d'Orcia (GPRS)",
       "province": "SI",
       "alert_zone": "O2",
-      "latest_timestamp": 1782238200,
+      "latest_timestamp": 1782240900,
       "detail_url": "https://www.sir.toscana.it/monitoraggio/dettaglio.php?id=TOS10002910&title=&type=pluvio",
       "accumulations_mm": {
         "15": 0,
