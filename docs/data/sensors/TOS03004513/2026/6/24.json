@@ -1,0 +1,12 @@
+[
+  {
+    "sensor_id": "TOS03004513",
+    "timestamp": 1782256500,
+    "value": 0.03,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Foenna",
+    "province": "SI",
+    "station_name": "Sinalunga (RADIO)"
+  }
+]
