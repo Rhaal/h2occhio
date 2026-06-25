@@ -1888,5 +1888,15 @@
     "river": "Arno",
     "province": "PI",
     "station_name": "S. Giovanni alla Vena valle_r (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01004561",
+    "timestamp": 1782423900,
+    "value": 4.75,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Arno",
+    "province": "AR",
+    "station_name": "Ponte Romito (RADIO)"
   }
 ]

@@ -30088,5 +30088,295 @@
     "river": "Albegna",
     "province": "GR",
     "station_name": "Ponte di Montemerano (GPRS)"
+  },
+  {
+    "sensor_id": "TOS07000072",
+    "timestamp": 1782423000,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "GR",
+    "station_name": "Sorano Meteo (RADIO)"
+  },
+  {
+    "sensor_id": "TOS07000072",
+    "timestamp": 1782423000,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "GR",
+    "station_name": "Sorano Meteo (RADIO)"
+  },
+  {
+    "sensor_id": "TOS07000072",
+    "timestamp": 1782423000,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "GR",
+    "station_name": "Sorano Meteo (RADIO)"
+  },
+  {
+    "sensor_id": "TOS07000072",
+    "timestamp": 1782423000,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "GR",
+    "station_name": "Sorano Meteo (RADIO)"
+  },
+  {
+    "sensor_id": "TOS07000072",
+    "timestamp": 1782423000,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "GR",
+    "station_name": "Sorano Meteo (RADIO)"
+  },
+  {
+    "sensor_id": "TOS07000072",
+    "timestamp": 1782423000,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "GR",
+    "station_name": "Sorano Meteo (RADIO)"
+  },
+  {
+    "sensor_id": "TOS07000072",
+    "timestamp": 1782423000,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "GR",
+    "station_name": "Sorano Meteo (RADIO)"
+  },
+  {
+    "sensor_id": "TOS07000046",
+    "timestamp": 1782423900,
+    "value": 2.57,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Fiora",
+    "province": "GR",
+    "station_name": "Pitigliano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS07000046",
+    "timestamp": 1782423900,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "GR",
+    "station_name": "Pitigliano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS07000046",
+    "timestamp": 1782423900,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "GR",
+    "station_name": "Pitigliano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS07000046",
+    "timestamp": 1782423900,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "GR",
+    "station_name": "Pitigliano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS07000046",
+    "timestamp": 1782423900,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "GR",
+    "station_name": "Pitigliano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS07000046",
+    "timestamp": 1782423900,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "GR",
+    "station_name": "Pitigliano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS07000046",
+    "timestamp": 1782423900,
+    "value": 0.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "GR",
+    "station_name": "Pitigliano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS07000046",
+    "timestamp": 1782423900,
+    "value": 5.1,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "GR",
+    "station_name": "Pitigliano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000041",
+    "timestamp": 1782423900,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "GR",
+    "station_name": "Massa Marittima Valpiana (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000041",
+    "timestamp": 1782423900,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "GR",
+    "station_name": "Massa Marittima Valpiana (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000041",
+    "timestamp": 1782423900,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "GR",
+    "station_name": "Massa Marittima Valpiana (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000041",
+    "timestamp": 1782423900,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "GR",
+    "station_name": "Massa Marittima Valpiana (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000041",
+    "timestamp": 1782423900,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "GR",
+    "station_name": "Massa Marittima Valpiana (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000041",
+    "timestamp": 1782423900,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "GR",
+    "station_name": "Massa Marittima Valpiana (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000041",
+    "timestamp": 1782423900,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "GR",
+    "station_name": "Massa Marittima Valpiana (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000051",
+    "timestamp": 1782423900,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "GR",
+    "station_name": "Montenero (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000051",
+    "timestamp": 1782423900,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "GR",
+    "station_name": "Montenero (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000051",
+    "timestamp": 1782423900,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "GR",
+    "station_name": "Montenero (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000051",
+    "timestamp": 1782423900,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "GR",
+    "station_name": "Montenero (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000051",
+    "timestamp": 1782423900,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "GR",
+    "station_name": "Montenero (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000051",
+    "timestamp": 1782423900,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "GR",
+    "station_name": "Montenero (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000051",
+    "timestamp": 1782423900,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "GR",
+    "station_name": "Montenero (RADIO)"
   }
 ]
