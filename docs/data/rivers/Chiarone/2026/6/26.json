@@ -38,5 +38,15 @@
     "river": "Chiarone",
     "province": "GR",
     "station_name": "S. S. 1 Aurelia (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03005995",
+    "timestamp": 1782469800,
+    "value": 0.13,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Chiarone",
+    "province": "GR",
+    "station_name": "S. S. 1 Aurelia (RADIO)"
   }
 ]
