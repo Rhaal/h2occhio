@@ -1,0 +1,12 @@
+[
+  {
+    "sensor_id": "TOS03005655",
+    "timestamp": 1782599700,
+    "value": -0.27,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Arbia",
+    "province": "SI",
+    "station_name": "Podere Nuovo (GPRS)"
+  }
+]
