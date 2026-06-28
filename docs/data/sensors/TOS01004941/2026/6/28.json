@@ -1028,5 +1028,15 @@
     "window_minutes": 2160,
     "province": "FI",
     "station_name": "Empoli (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01004941",
+    "timestamp": 1782683100,
+    "value": -6.12,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Arno",
+    "province": "FI",
+    "station_name": "Empoli (RADIO)"
   }
 ]
