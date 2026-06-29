@@ -37870,6 +37870,16 @@
     "station_name": "Renaio (GPRS)"
   },
   {
+    "sensor_id": "TOS03005077",
+    "timestamp": 1782766800,
+    "value": 1.27,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Pescia di Collodi",
+    "province": "LU",
+    "station_name": "San Salvatore (RADIO)"
+  },
+  {
     "sensor_id": "TOS11000011",
     "timestamp": 1782766800,
     "value": 2.7,
@@ -38008,5 +38018,145 @@
     "window_minutes": 2160,
     "province": "LU",
     "station_name": "Strettoia 1 (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02000155",
+    "timestamp": 1782769500,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "LU",
+    "station_name": "Passo Pradarena (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000155",
+    "timestamp": 1782769500,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "LU",
+    "station_name": "Passo Pradarena (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000155",
+    "timestamp": 1782769500,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "LU",
+    "station_name": "Passo Pradarena (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000155",
+    "timestamp": 1782769500,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "LU",
+    "station_name": "Passo Pradarena (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000155",
+    "timestamp": 1782769500,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "LU",
+    "station_name": "Passo Pradarena (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000155",
+    "timestamp": 1782769500,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "LU",
+    "station_name": "Passo Pradarena (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000155",
+    "timestamp": 1782769500,
+    "value": 2.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "LU",
+    "station_name": "Passo Pradarena (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30355400",
+    "timestamp": 1782769500,
+    "value": 7.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "LU",
+    "station_name": "Passo Radici (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30355400",
+    "timestamp": 1782769500,
+    "value": 21.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "LU",
+    "station_name": "Passo Radici (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30355400",
+    "timestamp": 1782769500,
+    "value": 21.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "LU",
+    "station_name": "Passo Radici (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30355400",
+    "timestamp": 1782769500,
+    "value": 21.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "LU",
+    "station_name": "Passo Radici (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30355400",
+    "timestamp": 1782769500,
+    "value": 21.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "LU",
+    "station_name": "Passo Radici (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30355400",
+    "timestamp": 1782769500,
+    "value": 21.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "LU",
+    "station_name": "Passo Radici (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30355400",
+    "timestamp": 1782769500,
+    "value": 22.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "LU",
+    "station_name": "Passo Radici (RADIO)"
   }
 ]
