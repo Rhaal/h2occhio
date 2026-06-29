@@ -78,5 +78,35 @@
     "river": "Era",
     "province": "PI",
     "station_name": "Belvedere (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03005141",
+    "timestamp": 1782722700,
+    "value": -0.03,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Era",
+    "province": "PI",
+    "station_name": "Ponte via Chiavaccini (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01005131",
+    "timestamp": 1782723000,
+    "value": 1.95,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Era",
+    "province": "PI",
+    "station_name": "Capannoli (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01005161",
+    "timestamp": 1782723000,
+    "value": 3.83,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Era",
+    "province": "PI",
+    "station_name": "Belvedere (GPRS)"
   }
 ]
