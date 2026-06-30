@@ -298,5 +298,15 @@
     "river": "Era",
     "province": "PI",
     "station_name": "Belvedere (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03005141",
+    "timestamp": 1782855900,
+    "value": -0.06,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Era",
+    "province": "PI",
+    "station_name": "Ponte via Chiavaccini (RADIO)"
   }
 ]
