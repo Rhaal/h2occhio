@@ -1,0 +1,12 @@
+[
+  {
+    "sensor_id": "TOS03006000",
+    "timestamp": 1782860400,
+    "value": 0.18,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "",
+    "province": "GR",
+    "station_name": "Giglio Porto (RADIO)"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "sensor_id": "TOS03004563",
+    "timestamp": 1782860400,
+    "value": 0.24,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Ambra",
+    "province": "AR",
+    "station_name": "Ambra (RADIO)"
+  }
+]
