@@ -108,5 +108,25 @@
     "river": "Canale Burlamacca",
     "province": "LU",
     "station_name": "Viareggio 1 (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02004101",
+    "timestamp": 1782919800,
+    "value": 0.05,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Canale Burlamacca",
+    "province": "LU",
+    "station_name": "Viareggio 2 (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02004091",
+    "timestamp": 1782920100,
+    "value": -0.05,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Canale Burlamacca",
+    "province": "LU",
+    "station_name": "Viareggio 1 (GPRS)"
   }
 ]
