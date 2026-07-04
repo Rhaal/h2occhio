@@ -108,5 +108,15 @@
     "river": "Cascina",
     "province": "PI",
     "station_name": "Ponsacco (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01005151",
+    "timestamp": 1783188900,
+    "value": 0.86,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Cascina",
+    "province": "PI",
+    "station_name": "Ponsacco (RADIO)"
   }
 ]
