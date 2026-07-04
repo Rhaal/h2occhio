@@ -482,7 +482,7 @@
   {
     "sensor_id": "TOS30290700",
     "timestamp": 1783091700,
-    "value": 3.2,
+    "value": 1.2,
     "unit": "mm",
     "type": "pluviometric",
     "window_minutes": 2160,
