@@ -48,5 +48,15 @@
     "river": "Ema",
     "province": "FI",
     "station_name": "Ponte a Niccheri (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03004729",
+    "timestamp": 1783353600,
+    "value": 0.54,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Ema",
+    "province": "FI",
+    "station_name": "Ponte a Niccheri (RADIO)"
   }
 ]
