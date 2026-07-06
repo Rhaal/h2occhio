@@ -1,0 +1,22 @@
+[
+  {
+    "sensor_id": "TOS03004911",
+    "timestamp": 1783376100,
+    "value": 0.64,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Pesa",
+    "province": "FI",
+    "station_name": "Sambuca (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01004921",
+    "timestamp": 1783377000,
+    "value": 0.95,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Pesa",
+    "province": "FI",
+    "station_name": "Turbone (GPRS)"
+  }
+]
