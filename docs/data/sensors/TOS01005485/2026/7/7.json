@@ -238,5 +238,15 @@
     "river": "Milia",
     "province": "LI",
     "station_name": "Calzalunga (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01005485",
+    "timestamp": 1783410300,
+    "value": -0.69,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Milia",
+    "province": "LI",
+    "station_name": "Calzalunga (GPRS)"
   }
 ]
