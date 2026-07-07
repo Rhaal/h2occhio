@@ -98,5 +98,15 @@
     "river": "Arno",
     "province": "AR",
     "station_name": "Stia (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01004379",
+    "timestamp": 1783461000,
+    "value": 1.25,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Arno",
+    "province": "AR",
+    "station_name": "Stia (GPRS)"
   }
 ]
