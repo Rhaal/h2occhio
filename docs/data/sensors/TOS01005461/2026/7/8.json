@@ -58,5 +58,15 @@
     "river": "Cornia",
     "province": "PI",
     "station_name": "SP Lodano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01005461",
+    "timestamp": 1783516500,
+    "value": 0.33,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Cornia",
+    "province": "PI",
+    "station_name": "SP Lodano (RADIO)"
   }
 ]
