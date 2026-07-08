@@ -38,5 +38,15 @@
     "river": "Contesora",
     "province": "LU",
     "station_name": "Ponte Guido (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02004305",
+    "timestamp": 1783501800,
+    "value": 0.11,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Contesora",
+    "province": "LU",
+    "station_name": "Ponte Guido (GPRS)"
   }
 ]
