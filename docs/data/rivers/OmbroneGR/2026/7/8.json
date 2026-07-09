@@ -730,6 +730,16 @@
     "station_name": "Sasso d'Ombrone (RADIO)"
   },
   {
+    "sensor_id": "TOS03005641",
+    "timestamp": 1783547100,
+    "value": 0.42,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "OmbroneGR",
+    "province": "SI",
+    "station_name": "Ponte del Garbo (RADIO)"
+  },
+  {
     "sensor_id": "TOS03005831",
     "timestamp": 1783547100,
     "value": 0.41,

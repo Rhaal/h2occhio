@@ -35670,6 +35670,16 @@
     "station_name": "Sinalunga (RADIO)"
   },
   {
+    "sensor_id": "TOS03005641",
+    "timestamp": 1783547100,
+    "value": 0.42,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "OmbroneGR",
+    "province": "SI",
+    "station_name": "Ponte del Garbo (RADIO)"
+  },
+  {
     "sensor_id": "TOS03005651",
     "timestamp": 1783547100,
     "value": 0.13,
