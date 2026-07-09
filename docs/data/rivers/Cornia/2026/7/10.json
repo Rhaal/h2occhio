@@ -1,0 +1,32 @@
+[
+  {
+    "sensor_id": "TOS01005471",
+    "timestamp": 1783634400,
+    "value": 0.38,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Cornia",
+    "province": "LI",
+    "station_name": "Ponte per Montioni (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01005472",
+    "timestamp": 1783634400,
+    "value": 0.32,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Cornia",
+    "province": "LI",
+    "station_name": "Ponte per Montioni 2 (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01005489",
+    "timestamp": 1783634400,
+    "value": 0.59,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Cornia",
+    "province": "LI",
+    "station_name": "Vecchia SS Aurelia (GPRS)"
+  }
+]
