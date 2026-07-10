@@ -1,0 +1,12 @@
+[
+  {
+    "sensor_id": "TOS02004317",
+    "timestamp": 1783722600,
+    "value": 0.98,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Ozzeri",
+    "province": "PI",
+    "station_name": "Ripafratta 2 (GPRS)"
+  }
+]

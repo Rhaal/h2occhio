@@ -7918,5 +7918,15 @@
     "river": "Bisenzio",
     "province": "PO",
     "station_name": "Gamberame (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03004869",
+    "timestamp": 1783719900,
+    "value": 0.42,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Bagnolo",
+    "province": "PO",
+    "station_name": "Bagnolo (RADIO)"
   }
 ]
