@@ -1,0 +1,12 @@
+[
+  {
+    "sensor_id": "TOS03004515",
+    "timestamp": 1783634400,
+    "value": -0.59,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Esse",
+    "province": "AR",
+    "station_name": "Foiano (RADIO)"
+  }
+]
