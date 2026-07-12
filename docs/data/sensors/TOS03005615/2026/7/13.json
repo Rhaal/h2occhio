@@ -1,0 +1,12 @@
+[
+  {
+    "sensor_id": "TOS03005615",
+    "timestamp": 1783894800,
+    "value": 0.85,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Sovata",
+    "province": "GR",
+    "station_name": "Sovata (GPRS)"
+  }
+]
