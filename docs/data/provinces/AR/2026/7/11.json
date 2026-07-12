@@ -44910,6 +44910,16 @@
     "station_name": "Badia Prataglia (RADIO)"
   },
   {
+    "sensor_id": "TOS03004515",
+    "timestamp": 1783801800,
+    "value": -0.54,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Esse",
+    "province": "AR",
+    "station_name": "Foiano (RADIO)"
+  },
+  {
     "sensor_id": "TOS06006028",
     "timestamp": 1783801800,
     "value": 0.39,
@@ -47528,6 +47538,16 @@
     "window_minutes": 2160,
     "province": "AR",
     "station_name": "Palazzo del Pero 1 (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01004568",
+    "timestamp": 1783805400,
+    "value": 0.48,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Ambra",
+    "province": "AR",
+    "station_name": "Bucine (RADIO)"
   },
   {
     "sensor_id": "TOS06006028",
