@@ -31070,6 +31070,26 @@
     "station_name": "Badia Tedalda (RADIO)"
   },
   {
+    "sensor_id": "TOS01004568",
+    "timestamp": 1783976400,
+    "value": 0.41,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Ambra",
+    "province": "AR",
+    "station_name": "Bucine (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03004515",
+    "timestamp": 1783976400,
+    "value": -0.56,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Esse",
+    "province": "AR",
+    "station_name": "Foiano (RADIO)"
+  },
+  {
     "sensor_id": "TOS06006028",
     "timestamp": 1783976400,
     "value": 0.44,
@@ -33748,5 +33768,75 @@
     "window_minutes": 2160,
     "province": "AR",
     "station_name": "Palazzo del Pero 1 (GPRS)"
+  },
+  {
+    "sensor_id": "TOS30233300",
+    "timestamp": 1783979100,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "AR",
+    "station_name": "Badia Tedalda (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30233300",
+    "timestamp": 1783979100,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "AR",
+    "station_name": "Badia Tedalda (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30233300",
+    "timestamp": 1783979100,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "AR",
+    "station_name": "Badia Tedalda (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30233300",
+    "timestamp": 1783979100,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "AR",
+    "station_name": "Badia Tedalda (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30233300",
+    "timestamp": 1783979100,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "AR",
+    "station_name": "Badia Tedalda (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30233300",
+    "timestamp": 1783979100,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "AR",
+    "station_name": "Badia Tedalda (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30233300",
+    "timestamp": 1783979100,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "AR",
+    "station_name": "Badia Tedalda (RADIO)"
   }
 ]

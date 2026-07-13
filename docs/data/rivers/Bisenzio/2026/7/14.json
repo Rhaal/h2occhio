@@ -1,0 +1,22 @@
+[
+  {
+    "sensor_id": "TOS01004779",
+    "timestamp": 1783981800,
+    "value": 0.18,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Bisenzio",
+    "province": "PO",
+    "station_name": "Gamberame (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01004791",
+    "timestamp": 1783981800,
+    "value": 1.21,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Bisenzio",
+    "province": "FI",
+    "station_name": "S. Piero a Ponti (GPRS)"
+  }
+]

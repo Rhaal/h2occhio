@@ -1,0 +1,22 @@
+[
+  {
+    "sensor_id": "TOS03005651",
+    "timestamp": 1783980900,
+    "value": 0.08,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Arbia",
+    "province": "SI",
+    "station_name": "Pianella (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03005655",
+    "timestamp": 1783981800,
+    "value": -0.27,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Arbia",
+    "province": "SI",
+    "station_name": "Podere Nuovo (GPRS)"
+  }
+]
