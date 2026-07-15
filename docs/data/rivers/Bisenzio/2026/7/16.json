@@ -1,0 +1,32 @@
+[
+  {
+    "sensor_id": "TOS01004782",
+    "timestamp": 1784154600,
+    "value": -0.55,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Bisenzio",
+    "province": "PO",
+    "station_name": "Prato (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01004791",
+    "timestamp": 1784154600,
+    "value": 1.21,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Bisenzio",
+    "province": "FI",
+    "station_name": "S. Piero a Ponti (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01004779",
+    "timestamp": 1784154900,
+    "value": 0.19,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Bisenzio",
+    "province": "PO",
+    "station_name": "Gamberame (GPRS)"
+  }
+]
