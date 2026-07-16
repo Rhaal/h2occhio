@@ -108,5 +108,15 @@
     "river": "Cornia",
     "province": "PI",
     "station_name": "SP Lodano (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01005461",
+    "timestamp": 1784227800,
+    "value": 0.19,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Cornia",
+    "province": "PI",
+    "station_name": "SP Lodano (GPRS)"
   }
 ]
