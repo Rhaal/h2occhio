@@ -128,5 +128,15 @@
     "river": "Mugnone",
     "province": "FI",
     "station_name": "Ponte alle Mosse (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01004702",
+    "timestamp": 1784316600,
+    "value": 0.03,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Mugnone",
+    "province": "FI",
+    "station_name": "Ponte alle Mosse (RADIO)"
   }
 ]
