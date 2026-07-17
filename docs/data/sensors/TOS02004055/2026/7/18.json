@@ -1,0 +1,12 @@
+[
+  {
+    "sensor_id": "TOS02004055",
+    "timestamp": 1784326500,
+    "value": 0.35,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Mare",
+    "province": "LU",
+    "station_name": "Forte dei Marmi (RADIO)"
+  }
+]
