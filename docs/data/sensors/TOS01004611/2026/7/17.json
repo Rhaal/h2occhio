@@ -98,5 +98,15 @@
     "river": "Sieve",
     "province": "FI",
     "station_name": "Bilancino (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01004611",
+    "timestamp": 1784304000,
+    "value": 0.82,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Sieve",
+    "province": "FI",
+    "station_name": "Bilancino (RADIO)"
   }
 ]
