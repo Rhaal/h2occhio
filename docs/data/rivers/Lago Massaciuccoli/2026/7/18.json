@@ -98,5 +98,15 @@
     "river": "Lago Massaciuccoli",
     "province": "LU",
     "station_name": "Torre del Lago (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02004081",
+    "timestamp": 1784384400,
+    "value": -0.21,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Lago Massaciuccoli",
+    "province": "LU",
+    "station_name": "Torre del Lago (GPRS)"
   }
 ]
