@@ -128,5 +128,15 @@
     "river": "Laguna",
     "province": "GR",
     "station_name": "Nassa (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03003117",
+    "timestamp": 1784394900,
+    "value": -0.04,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Laguna",
+    "province": "GR",
+    "station_name": "Nassa (GPRS)"
   }
 ]
