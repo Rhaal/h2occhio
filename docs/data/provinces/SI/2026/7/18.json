@@ -47210,6 +47210,76 @@
     "station_name": "Ripa d'Orcia (RADIO)"
   },
   {
+    "sensor_id": "TOS11000060",
+    "timestamp": 1784404800,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "SI",
+    "station_name": "Piancastagnaio (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000060",
+    "timestamp": 1784404800,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "SI",
+    "station_name": "Piancastagnaio (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000060",
+    "timestamp": 1784404800,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "SI",
+    "station_name": "Piancastagnaio (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000060",
+    "timestamp": 1784404800,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "SI",
+    "station_name": "Piancastagnaio (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000060",
+    "timestamp": 1784404800,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "SI",
+    "station_name": "Piancastagnaio (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000060",
+    "timestamp": 1784404800,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "SI",
+    "station_name": "Piancastagnaio (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000060",
+    "timestamp": 1784404800,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "SI",
+    "station_name": "Piancastagnaio (RADIO)"
+  },
+  {
     "sensor_id": "TOS11000061",
     "timestamp": 1784404800,
     "value": 0,
@@ -51328,5 +51398,215 @@
     "window_minutes": 2160,
     "province": "SI",
     "station_name": "Abbadia S. S. - Vetta Amiata 1 (GPRS)"
+  },
+  {
+    "sensor_id": "TOS10002910",
+    "timestamp": 1784410800,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "SI",
+    "station_name": "Vivo d'Orcia (GPRS)"
+  },
+  {
+    "sensor_id": "TOS10002910",
+    "timestamp": 1784410800,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "SI",
+    "station_name": "Vivo d'Orcia (GPRS)"
+  },
+  {
+    "sensor_id": "TOS10002910",
+    "timestamp": 1784410800,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "SI",
+    "station_name": "Vivo d'Orcia (GPRS)"
+  },
+  {
+    "sensor_id": "TOS10002910",
+    "timestamp": 1784410800,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "SI",
+    "station_name": "Vivo d'Orcia (GPRS)"
+  },
+  {
+    "sensor_id": "TOS10002910",
+    "timestamp": 1784410800,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "SI",
+    "station_name": "Vivo d'Orcia (GPRS)"
+  },
+  {
+    "sensor_id": "TOS10002910",
+    "timestamp": 1784410800,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "SI",
+    "station_name": "Vivo d'Orcia (GPRS)"
+  },
+  {
+    "sensor_id": "TOS10002910",
+    "timestamp": 1784410800,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "SI",
+    "station_name": "Vivo d'Orcia (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01002661",
+    "timestamp": 1784411100,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "SI",
+    "station_name": "Siena Poggio al Vento (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01002661",
+    "timestamp": 1784411100,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "SI",
+    "station_name": "Siena Poggio al Vento (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01002661",
+    "timestamp": 1784411100,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "SI",
+    "station_name": "Siena Poggio al Vento (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01002661",
+    "timestamp": 1784411100,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "SI",
+    "station_name": "Siena Poggio al Vento (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01002661",
+    "timestamp": 1784411100,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "SI",
+    "station_name": "Siena Poggio al Vento (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01002661",
+    "timestamp": 1784411100,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "SI",
+    "station_name": "Siena Poggio al Vento (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01002661",
+    "timestamp": 1784411100,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "SI",
+    "station_name": "Siena Poggio al Vento (RADIO)"
+  },
+  {
+    "sensor_id": "TOS07000001",
+    "timestamp": 1784411100,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "SI",
+    "station_name": "Abbadia S. Salvatore (RADIO)"
+  },
+  {
+    "sensor_id": "TOS07000001",
+    "timestamp": 1784411100,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "SI",
+    "station_name": "Abbadia S. Salvatore (RADIO)"
+  },
+  {
+    "sensor_id": "TOS07000001",
+    "timestamp": 1784411100,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "SI",
+    "station_name": "Abbadia S. Salvatore (RADIO)"
+  },
+  {
+    "sensor_id": "TOS07000001",
+    "timestamp": 1784411100,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "SI",
+    "station_name": "Abbadia S. Salvatore (RADIO)"
+  },
+  {
+    "sensor_id": "TOS07000001",
+    "timestamp": 1784411100,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "SI",
+    "station_name": "Abbadia S. Salvatore (RADIO)"
+  },
+  {
+    "sensor_id": "TOS07000001",
+    "timestamp": 1784411100,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "SI",
+    "station_name": "Abbadia S. Salvatore (RADIO)"
+  },
+  {
+    "sensor_id": "TOS07000001",
+    "timestamp": 1784411100,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "SI",
+    "station_name": "Abbadia S. Salvatore (RADIO)"
   }
 ]

@@ -48580,6 +48580,76 @@
     "station_name": "Villa dell'Olio (RADIO)"
   },
   {
+    "sensor_id": "TOS01000881",
+    "timestamp": 1784408400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "AR",
+    "station_name": "Pian di Scò (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000881",
+    "timestamp": 1784408400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "AR",
+    "station_name": "Pian di Scò (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000881",
+    "timestamp": 1784408400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "AR",
+    "station_name": "Pian di Scò (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000881",
+    "timestamp": 1784408400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "AR",
+    "station_name": "Pian di Scò (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000881",
+    "timestamp": 1784408400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "AR",
+    "station_name": "Pian di Scò (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000881",
+    "timestamp": 1784408400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "AR",
+    "station_name": "Pian di Scò (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000881",
+    "timestamp": 1784408400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "AR",
+    "station_name": "Pian di Scò (RADIO)"
+  },
+  {
     "sensor_id": "TOS01004557",
     "timestamp": 1784408400,
     "value": -0.01,
@@ -48598,6 +48668,16 @@
     "river": "Arno",
     "province": "AR",
     "station_name": "Ponte Romito (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01004568",
+    "timestamp": 1784408400,
+    "value": 0.37,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Ambra",
+    "province": "AR",
+    "station_name": "Bucine (RADIO)"
   },
   {
     "sensor_id": "TOS03000755",
@@ -48768,6 +48848,16 @@
     "river": "Esse",
     "province": "AR",
     "station_name": "Foiano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03004517",
+    "timestamp": 1784408400,
+    "value": 1.46,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Allacciante di Sx",
+    "province": "AR",
+    "station_name": "Foiano SP28 (RADIO)"
   },
   {
     "sensor_id": "TOS03004519",
@@ -50408,5 +50498,145 @@
     "window_minutes": 2160,
     "province": "AR",
     "station_name": "Palazzo del Pero 1 (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03000775",
+    "timestamp": 1784409300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "AR",
+    "station_name": "Alpe di Poti (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03000775",
+    "timestamp": 1784409300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "AR",
+    "station_name": "Alpe di Poti (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03000775",
+    "timestamp": 1784409300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "AR",
+    "station_name": "Alpe di Poti (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03000775",
+    "timestamp": 1784409300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "AR",
+    "station_name": "Alpe di Poti (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03000775",
+    "timestamp": 1784409300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "AR",
+    "station_name": "Alpe di Poti (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03000775",
+    "timestamp": 1784409300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "AR",
+    "station_name": "Alpe di Poti (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03000775",
+    "timestamp": 1784409300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "AR",
+    "station_name": "Alpe di Poti (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30233300",
+    "timestamp": 1784411100,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "AR",
+    "station_name": "Badia Tedalda (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30233300",
+    "timestamp": 1784411100,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "AR",
+    "station_name": "Badia Tedalda (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30233300",
+    "timestamp": 1784411100,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "AR",
+    "station_name": "Badia Tedalda (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30233300",
+    "timestamp": 1784411100,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "AR",
+    "station_name": "Badia Tedalda (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30233300",
+    "timestamp": 1784411100,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "AR",
+    "station_name": "Badia Tedalda (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30233300",
+    "timestamp": 1784411100,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "AR",
+    "station_name": "Badia Tedalda (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30233300",
+    "timestamp": 1784411100,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "AR",
+    "station_name": "Badia Tedalda (RADIO)"
   }
 ]
