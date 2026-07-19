@@ -58,5 +58,15 @@
     "river": "Cornia",
     "province": "LI",
     "station_name": "Cafaggio (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03005487",
+    "timestamp": 1784456100,
+    "value": -0.79,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Cornia",
+    "province": "LI",
+    "station_name": "Cafaggio (RADIO)"
   }
 ]
