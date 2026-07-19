@@ -78,5 +78,15 @@
     "river": "Cecina",
     "province": "LI",
     "station_name": "Cecina SP39 (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03005435",
+    "timestamp": 1784465100,
+    "value": 0.08,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Cecina",
+    "province": "LI",
+    "station_name": "Cecina SP39 (RADIO)"
   }
 ]
