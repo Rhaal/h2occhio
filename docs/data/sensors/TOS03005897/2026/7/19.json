@@ -128,5 +128,15 @@
     "river": "Albegna",
     "province": "GR",
     "station_name": "SP323 Amiatina (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03005897",
+    "timestamp": 1784484900,
+    "value": 0.61,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Albegna",
+    "province": "GR",
+    "station_name": "SP323 Amiatina (RADIO)"
   }
 ]
