@@ -33530,6 +33530,16 @@
     "station_name": "Trappola (GPRS)"
   },
   {
+    "sensor_id": "TOS06006028",
+    "timestamp": 1784583000,
+    "value": 0.39,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Tevere",
+    "province": "AR",
+    "station_name": "Gorgabuia (RADIO)"
+  },
+  {
     "sensor_id": "TOS19000702",
     "timestamp": 1784583000,
     "value": -0.07,
@@ -33678,5 +33688,225 @@
     "window_minutes": 2160,
     "province": "AR",
     "station_name": "Palazzo del Pero 1 (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01000621",
+    "timestamp": 1784583900,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "AR",
+    "station_name": "Badia Prataglia (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000621",
+    "timestamp": 1784583900,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "AR",
+    "station_name": "Badia Prataglia (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000621",
+    "timestamp": 1784583900,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "AR",
+    "station_name": "Badia Prataglia (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000621",
+    "timestamp": 1784583900,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "AR",
+    "station_name": "Badia Prataglia (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000621",
+    "timestamp": 1784583900,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "AR",
+    "station_name": "Badia Prataglia (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000621",
+    "timestamp": 1784583900,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "AR",
+    "station_name": "Badia Prataglia (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000621",
+    "timestamp": 1784583900,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "AR",
+    "station_name": "Badia Prataglia (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000881",
+    "timestamp": 1784583900,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "AR",
+    "station_name": "Pian di Scò (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000881",
+    "timestamp": 1784583900,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "AR",
+    "station_name": "Pian di Scò (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000881",
+    "timestamp": 1784583900,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "AR",
+    "station_name": "Pian di Scò (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000881",
+    "timestamp": 1784583900,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "AR",
+    "station_name": "Pian di Scò (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000881",
+    "timestamp": 1784583900,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "AR",
+    "station_name": "Pian di Scò (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000881",
+    "timestamp": 1784583900,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "AR",
+    "station_name": "Pian di Scò (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000881",
+    "timestamp": 1784583900,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "AR",
+    "station_name": "Pian di Scò (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01004568",
+    "timestamp": 1784583900,
+    "value": 0.36,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Ambra",
+    "province": "AR",
+    "station_name": "Bucine (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30233300",
+    "timestamp": 1784583900,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "AR",
+    "station_name": "Badia Tedalda (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30233300",
+    "timestamp": 1784583900,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "AR",
+    "station_name": "Badia Tedalda (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30233300",
+    "timestamp": 1784583900,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "AR",
+    "station_name": "Badia Tedalda (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30233300",
+    "timestamp": 1784583900,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "AR",
+    "station_name": "Badia Tedalda (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30233300",
+    "timestamp": 1784583900,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "AR",
+    "station_name": "Badia Tedalda (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30233300",
+    "timestamp": 1784583900,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "AR",
+    "station_name": "Badia Tedalda (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30233300",
+    "timestamp": 1784583900,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "AR",
+    "station_name": "Badia Tedalda (RADIO)"
   }
 ]

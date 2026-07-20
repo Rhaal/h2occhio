@@ -32320,6 +32320,16 @@
     "station_name": "Ponte Orgia (RADIO)"
   },
   {
+    "sensor_id": "TOS03005725",
+    "timestamp": 1784582100,
+    "value": -0.27,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Farma",
+    "province": "SI",
+    "station_name": "Petriolo (RADIO)"
+  },
+  {
     "sensor_id": "TOS11000019",
     "timestamp": 1784582100,
     "value": 0,
@@ -33830,6 +33840,86 @@
     "station_name": "Podere Nuovo (GPRS)"
   },
   {
+    "sensor_id": "TOS03005707",
+    "timestamp": 1784583000,
+    "value": 0.2,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Merse",
+    "province": "SI",
+    "station_name": "Ponte Orgia (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03005707",
+    "timestamp": 1784583000,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "SI",
+    "station_name": "Ponte Orgia (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03005707",
+    "timestamp": 1784583000,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "SI",
+    "station_name": "Ponte Orgia (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03005707",
+    "timestamp": 1784583000,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "SI",
+    "station_name": "Ponte Orgia (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03005707",
+    "timestamp": 1784583000,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "SI",
+    "station_name": "Ponte Orgia (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03005707",
+    "timestamp": 1784583000,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "SI",
+    "station_name": "Ponte Orgia (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03005707",
+    "timestamp": 1784583000,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "SI",
+    "station_name": "Ponte Orgia (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03005707",
+    "timestamp": 1784583000,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "SI",
+    "station_name": "Ponte Orgia (RADIO)"
+  },
+  {
     "sensor_id": "TOS03005711",
     "timestamp": 1784583000,
     "value": -0.87,
@@ -33908,6 +33998,76 @@
     "window_minutes": 2160,
     "province": "SI",
     "station_name": "Vivo d'Orcia (GPRS)"
+  },
+  {
+    "sensor_id": "TOS11000060",
+    "timestamp": 1784583000,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "SI",
+    "station_name": "Piancastagnaio (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000060",
+    "timestamp": 1784583000,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "SI",
+    "station_name": "Piancastagnaio (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000060",
+    "timestamp": 1784583000,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "SI",
+    "station_name": "Piancastagnaio (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000060",
+    "timestamp": 1784583000,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "SI",
+    "station_name": "Piancastagnaio (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000060",
+    "timestamp": 1784583000,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "SI",
+    "station_name": "Piancastagnaio (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000060",
+    "timestamp": 1784583000,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "SI",
+    "station_name": "Piancastagnaio (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000060",
+    "timestamp": 1784583000,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "SI",
+    "station_name": "Piancastagnaio (RADIO)"
   },
   {
     "sensor_id": "TOS11000114",
