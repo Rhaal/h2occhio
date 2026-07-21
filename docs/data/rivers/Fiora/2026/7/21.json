@@ -78,5 +78,15 @@
     "river": "Fiora",
     "province": "GR",
     "station_name": "Pitigliano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS07000046",
+    "timestamp": 1784649600,
+    "value": 1.87,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Fiora",
+    "province": "GR",
+    "station_name": "Pitigliano (RADIO)"
   }
 ]
