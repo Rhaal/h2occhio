@@ -908,5 +908,15 @@
     "river": "Cecina",
     "province": "PI",
     "station_name": "Ponte di Monterufoli (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03005435",
+    "timestamp": 1784756700,
+    "value": 0.09,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Cecina",
+    "province": "LI",
+    "station_name": "Cecina SP39 (RADIO)"
   }
 ]
