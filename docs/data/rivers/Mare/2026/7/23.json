@@ -178,5 +178,35 @@
     "river": "Mare",
     "province": "LI",
     "station_name": "Livorno Mareografo (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01005441",
+    "timestamp": 1784806200,
+    "value": 1.92,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Mare",
+    "province": "LI",
+    "station_name": "Portoferraio (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02004055",
+    "timestamp": 1784807100,
+    "value": 0.15,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Mare",
+    "province": "LU",
+    "station_name": "Forte dei Marmi (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01005981",
+    "timestamp": 1784807400,
+    "value": 0.13,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Mare",
+    "province": "LI",
+    "station_name": "Livorno Mareografo (GPRS)"
   }
 ]
