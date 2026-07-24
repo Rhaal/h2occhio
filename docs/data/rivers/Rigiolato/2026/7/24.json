@@ -98,5 +98,15 @@
     "river": "Rigiolato",
     "province": "GR",
     "station_name": "Scarlino (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03005577",
+    "timestamp": 1784917200,
+    "value": 1.74,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Rigiolato",
+    "province": "GR",
+    "station_name": "Scarlino (GPRS)"
   }
 ]
