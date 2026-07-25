@@ -78,5 +78,15 @@
     "river": "",
     "province": "GR",
     "station_name": "Giglio Porto (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03006000",
+    "timestamp": 1784992500,
+    "value": 0.32,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "",
+    "province": "GR",
+    "station_name": "Giglio Porto (RADIO)"
   }
 ]
