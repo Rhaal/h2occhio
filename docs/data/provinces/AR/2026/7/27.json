@@ -27930,6 +27930,16 @@
     "station_name": "Ponte Ferrovia FI-Roma (GPRS)"
   },
   {
+    "sensor_id": "TOS01004568",
+    "timestamp": 1785184200,
+    "value": 0.39,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Ambra",
+    "province": "AR",
+    "station_name": "Bucine (RADIO)"
+  },
+  {
     "sensor_id": "TOS01004571",
     "timestamp": 1785184200,
     "value": 0.02,
