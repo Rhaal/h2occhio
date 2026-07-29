@@ -37470,6 +37470,76 @@
     "station_name": "Coltano (RADIO)"
   },
   {
+    "sensor_id": "TOS01002011",
+    "timestamp": 1785358800,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "PI",
+    "station_name": "Miemo (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01002011",
+    "timestamp": 1785358800,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "PI",
+    "station_name": "Miemo (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01002011",
+    "timestamp": 1785358800,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "PI",
+    "station_name": "Miemo (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01002011",
+    "timestamp": 1785358800,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "PI",
+    "station_name": "Miemo (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01002011",
+    "timestamp": 1785358800,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "PI",
+    "station_name": "Miemo (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01002011",
+    "timestamp": 1785358800,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "PI",
+    "station_name": "Miemo (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01002011",
+    "timestamp": 1785358800,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "PI",
+    "station_name": "Miemo (RADIO)"
+  },
+  {
     "sensor_id": "TOS01002115",
     "timestamp": 1785358800,
     "value": 0,
@@ -40168,5 +40238,95 @@
     "river": "Arno",
     "province": "PI",
     "station_name": "S. Giovanni alla Vena valle_r (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01005403",
+    "timestamp": 1785361500,
+    "value": 0.56,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Sterza",
+    "province": "PI",
+    "station_name": "Case Grisella (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03005379",
+    "timestamp": 1785361500,
+    "value": 0.44,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Possera",
+    "province": "PI",
+    "station_name": "Bulera (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03005379",
+    "timestamp": 1785361500,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "PI",
+    "station_name": "Bulera (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03005379",
+    "timestamp": 1785361500,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "PI",
+    "station_name": "Bulera (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03005379",
+    "timestamp": 1785361500,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "PI",
+    "station_name": "Bulera (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03005379",
+    "timestamp": 1785361500,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "PI",
+    "station_name": "Bulera (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03005379",
+    "timestamp": 1785361500,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "PI",
+    "station_name": "Bulera (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03005379",
+    "timestamp": 1785361500,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "PI",
+    "station_name": "Bulera (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03005379",
+    "timestamp": 1785361500,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "PI",
+    "station_name": "Bulera (RADIO)"
   }
 ]

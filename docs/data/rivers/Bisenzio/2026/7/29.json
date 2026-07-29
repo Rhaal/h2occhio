@@ -360,6 +360,16 @@
     "station_name": "S. Piero a Ponti (GPRS)"
   },
   {
+    "sensor_id": "TOS01004782",
+    "timestamp": 1785358800,
+    "value": -0.56,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Bisenzio",
+    "province": "PO",
+    "station_name": "Prato (RADIO)"
+  },
+  {
     "sensor_id": "TOS01004779",
     "timestamp": 1785359100,
     "value": 0.18,
