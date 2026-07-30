@@ -40458,5 +40458,15 @@
     "window_minutes": 2160,
     "province": "PI",
     "station_name": "Bulera (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01005191",
+    "timestamp": 1785447900,
+    "value": 0.43,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Arno",
+    "province": "PI",
+    "station_name": "S. Giovanni alla Vena valle (RADIO)"
   }
 ]

@@ -8590,6 +8590,16 @@
     "station_name": "Fattoria Iavello (RADIO)"
   },
   {
+    "sensor_id": "TOS01004782",
+    "timestamp": 1785445200,
+    "value": -0.56,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Bisenzio",
+    "province": "PO",
+    "station_name": "Prato (RADIO)"
+  },
+  {
     "sensor_id": "TOS01004875",
     "timestamp": 1785445200,
     "value": 0.24,
@@ -8618,6 +8628,16 @@
     "river": "Ombrone PT",
     "province": "PO",
     "station_name": "Ponte alle Vanne  (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03004869",
+    "timestamp": 1785445200,
+    "value": 0.34,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Bagnolo",
+    "province": "PO",
+    "station_name": "Bagnolo (RADIO)"
   },
   {
     "sensor_id": "TOS11000076",
@@ -8988,5 +9008,75 @@
     "window_minutes": 2160,
     "province": "PO",
     "station_name": "Gamberame (GPRS)"
+  },
+  {
+    "sensor_id": "TOS30290100",
+    "timestamp": 1785448500,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "PO",
+    "station_name": "Cottede (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30290100",
+    "timestamp": 1785448500,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "PO",
+    "station_name": "Cottede (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30290100",
+    "timestamp": 1785448500,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "PO",
+    "station_name": "Cottede (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30290100",
+    "timestamp": 1785448500,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "PO",
+    "station_name": "Cottede (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30290100",
+    "timestamp": 1785448500,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "PO",
+    "station_name": "Cottede (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30290100",
+    "timestamp": 1785448500,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "PO",
+    "station_name": "Cottede (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30290100",
+    "timestamp": 1785448500,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "PO",
+    "station_name": "Cottede (RADIO)"
   }
 ]
