@@ -48440,6 +48440,16 @@
     "station_name": "Montisi (GPRS)"
   },
   {
+    "sensor_id": "TOS03005641",
+    "timestamp": 1785619800,
+    "value": 0.42,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "OmbroneGR",
+    "province": "SI",
+    "station_name": "Ponte del Garbo (RADIO)"
+  },
+  {
     "sensor_id": "TOS03005655",
     "timestamp": 1785619800,
     "value": -0.28,
