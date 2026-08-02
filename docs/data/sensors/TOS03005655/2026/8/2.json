@@ -118,5 +118,15 @@
     "river": "Arbia",
     "province": "SI",
     "station_name": "Podere Nuovo (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03005655",
+    "timestamp": 1785694500,
+    "value": -0.32,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Arbia",
+    "province": "SI",
+    "station_name": "Podere Nuovo (RADIO)"
   }
 ]
