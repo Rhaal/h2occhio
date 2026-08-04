@@ -28020,6 +28020,76 @@
     "station_name": "Montecchio (GPRS)"
   },
   {
+    "sensor_id": "TOS03000775",
+    "timestamp": 1785870000,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "AR",
+    "station_name": "Alpe di Poti (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03000775",
+    "timestamp": 1785870000,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "AR",
+    "station_name": "Alpe di Poti (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03000775",
+    "timestamp": 1785870000,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "AR",
+    "station_name": "Alpe di Poti (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03000775",
+    "timestamp": 1785870000,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "AR",
+    "station_name": "Alpe di Poti (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03000775",
+    "timestamp": 1785870000,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "AR",
+    "station_name": "Alpe di Poti (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03000775",
+    "timestamp": 1785870000,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "AR",
+    "station_name": "Alpe di Poti (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03000775",
+    "timestamp": 1785870000,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "AR",
+    "station_name": "Alpe di Poti (RADIO)"
+  },
+  {
     "sensor_id": "TOS03000855",
     "timestamp": 1785870000,
     "value": 0,
@@ -31008,6 +31078,16 @@
     "window_minutes": 2160,
     "province": "AR",
     "station_name": "Palazzo del Pero 1 (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03004517",
+    "timestamp": 1785877200,
+    "value": 1.47,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Allacciante di Sx",
+    "province": "AR",
+    "station_name": "Foiano SP28 (RADIO)"
   },
   {
     "sensor_id": "TOS06006028",

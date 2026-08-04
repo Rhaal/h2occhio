@@ -8398,5 +8398,15 @@
     "window_minutes": 2160,
     "province": "PO",
     "station_name": "Gamberame (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03004869",
+    "timestamp": 1785879900,
+    "value": 0.39,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Bagnolo",
+    "province": "PO",
+    "station_name": "Bagnolo (RADIO)"
   }
 ]
