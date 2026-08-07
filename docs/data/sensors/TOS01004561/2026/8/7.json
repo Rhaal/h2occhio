@@ -178,5 +178,15 @@
     "river": "Arno",
     "province": "AR",
     "station_name": "Ponte Romito (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01004561",
+    "timestamp": 1786131900,
+    "value": 2.85,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Arno",
+    "province": "AR",
+    "station_name": "Ponte Romito (RADIO)"
   }
 ]
