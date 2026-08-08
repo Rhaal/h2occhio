@@ -268,5 +268,15 @@
     "river": "Laguna",
     "province": "GR",
     "station_name": "Fibia (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03003111",
+    "timestamp": 1786212900,
+    "value": 0.07,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Laguna",
+    "province": "GR",
+    "station_name": "Fibia (GPRS)"
   }
 ]
