@@ -278,5 +278,15 @@
     "river": "Merse",
     "province": "SI",
     "station_name": "Montepescini (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03005711",
+    "timestamp": 1786214700,
+    "value": -0.86,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Merse",
+    "province": "SI",
+    "station_name": "Montepescini (RADIO)"
   }
 ]
