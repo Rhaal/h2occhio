@@ -308,5 +308,15 @@
     "river": "Cecina",
     "province": "PI",
     "station_name": "Montegemoli (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01005395",
+    "timestamp": 1786221900,
+    "value": 1,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Cecina",
+    "province": "PI",
+    "station_name": "Montegemoli (RADIO)"
   }
 ]
