@@ -268,5 +268,15 @@
     "river": "Mare",
     "province": "LI",
     "station_name": "Portoferraio (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01005441",
+    "timestamp": 1786302900,
+    "value": 2,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Mare",
+    "province": "LI",
+    "station_name": "Portoferraio (RADIO)"
   }
 ]

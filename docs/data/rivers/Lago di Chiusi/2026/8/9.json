@@ -268,5 +268,15 @@
     "river": "Lago di Chiusi",
     "province": "SI",
     "station_name": "Sbarchino (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03004508",
+    "timestamp": 1786302900,
+    "value": 0.67,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Lago di Chiusi",
+    "province": "SI",
+    "station_name": "Sbarchino (RADIO)"
   }
 ]
