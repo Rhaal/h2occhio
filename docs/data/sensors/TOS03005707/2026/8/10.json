@@ -1678,5 +1678,15 @@
     "window_minutes": 2160,
     "province": "SI",
     "station_name": "Ponte Orgia (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03005707",
+    "timestamp": 1786398300,
+    "value": 0.19,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Merse",
+    "province": "SI",
+    "station_name": "Ponte Orgia (RADIO)"
   }
 ]

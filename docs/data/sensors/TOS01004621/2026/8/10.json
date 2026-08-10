@@ -1678,5 +1678,15 @@
     "window_minutes": 2160,
     "province": "FI",
     "station_name": "S. Piero a Sieve-Sieve (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01004621",
+    "timestamp": 1786398300,
+    "value": 0.9,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Sieve",
+    "province": "FI",
+    "station_name": "S. Piero a Sieve-Sieve (RADIO)"
   }
 ]

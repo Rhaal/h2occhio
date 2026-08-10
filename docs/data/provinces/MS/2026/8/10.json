@@ -50538,5 +50538,255 @@
     "window_minutes": 2160,
     "province": "MS",
     "station_name": "Campocecina (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03004001",
+    "timestamp": 1786397400,
+    "value": 0.22,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Carrione (ramo Colonnata)",
+    "province": "MS",
+    "station_name": "Pesa Miseglia (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03004002",
+    "timestamp": 1786397400,
+    "value": -0.08,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Carrione (ramo Colonnata)",
+    "province": "MS",
+    "station_name": "Colonnata Valle (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03004005",
+    "timestamp": 1786397400,
+    "value": -1.17,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Carrione",
+    "province": "MS",
+    "station_name": "Ponte della Bugia (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001246",
+    "timestamp": 1786397400,
+    "value": 0.11,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Magra",
+    "province": "MS",
+    "station_name": "Calamazza ARPAL (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30209600",
+    "timestamp": 1786398000,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "MS",
+    "station_name": "Lago Paduli (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30209600",
+    "timestamp": 1786398000,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "MS",
+    "station_name": "Lago Paduli (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30209600",
+    "timestamp": 1786398000,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "MS",
+    "station_name": "Lago Paduli (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30209600",
+    "timestamp": 1786398000,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "MS",
+    "station_name": "Lago Paduli (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30209600",
+    "timestamp": 1786398000,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "MS",
+    "station_name": "Lago Paduli (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30209600",
+    "timestamp": 1786398000,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "MS",
+    "station_name": "Lago Paduli (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30209600",
+    "timestamp": 1786398000,
+    "value": 5.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "MS",
+    "station_name": "Lago Paduli (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03000109",
+    "timestamp": 1786398300,
+    "value": 1.06,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Aulella",
+    "province": "MS",
+    "station_name": "Soliera (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03000109",
+    "timestamp": 1786398300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "MS",
+    "station_name": "Soliera (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03000109",
+    "timestamp": 1786398300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "MS",
+    "station_name": "Soliera (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03000109",
+    "timestamp": 1786398300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "MS",
+    "station_name": "Soliera (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03000109",
+    "timestamp": 1786398300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "MS",
+    "station_name": "Soliera (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03000109",
+    "timestamp": 1786398300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "MS",
+    "station_name": "Soliera (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03000109",
+    "timestamp": 1786398300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "MS",
+    "station_name": "Soliera (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03000109",
+    "timestamp": 1786398300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "MS",
+    "station_name": "Soliera (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03004003",
+    "timestamp": 1786398300,
+    "value": 0.02,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Carrione (ramo di Torano)",
+    "province": "MS",
+    "station_name": "Torano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03004006",
+    "timestamp": 1786398300,
+    "value": 0.09,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Gragnana",
+    "province": "MS",
+    "station_name": "Santuario della Salute (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03004009",
+    "timestamp": 1786398300,
+    "value": 0.31,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Ricortola",
+    "province": "MS",
+    "station_name": "Ricortola (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001083",
+    "timestamp": 1786398300,
+    "value": -1.41,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Magra",
+    "province": "MS",
+    "station_name": "S. Giustina (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000705",
+    "timestamp": 1786398300,
+    "value": 0.19,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Magra",
+    "province": "MS",
+    "station_name": "Ponte Magra (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000706",
+    "timestamp": 1786398300,
+    "value": 0.68,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Teglia",
+    "province": "MS",
+    "station_name": "Ponte Teglia (RADIO)"
   }
 ]

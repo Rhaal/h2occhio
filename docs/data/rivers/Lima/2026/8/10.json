@@ -618,5 +618,15 @@
     "river": "Lima",
     "province": "LU",
     "station_name": "Chifenti (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02004231",
+    "timestamp": 1786398300,
+    "value": 0.59,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Lima",
+    "province": "LU",
+    "station_name": "Ponte di Lucchio (RADIO)"
   }
 ]

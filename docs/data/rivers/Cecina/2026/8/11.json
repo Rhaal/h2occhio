@@ -1,0 +1,22 @@
+[
+  {
+    "sensor_id": "TOS01005386",
+    "timestamp": 1786399200,
+    "value": 2.36,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Cecina",
+    "province": "PI",
+    "station_name": "Ponte SR439 (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01005401",
+    "timestamp": 1786399200,
+    "value": -0.24,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Cecina",
+    "province": "PI",
+    "station_name": "Ponte di Monterufoli (GPRS)"
+  }
+]
