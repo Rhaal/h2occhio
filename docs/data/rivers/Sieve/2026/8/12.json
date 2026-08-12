@@ -960,6 +960,16 @@
     "station_name": "Fornacina 2 ul (GPRS)"
   },
   {
+    "sensor_id": "TOS01004625",
+    "timestamp": 1786569300,
+    "value": -0.14,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Sieve",
+    "province": "FI",
+    "station_name": "Dicomano (RADIO)"
+  },
+  {
     "sensor_id": "TOS01004611",
     "timestamp": 1786571100,
     "value": 0.77,
