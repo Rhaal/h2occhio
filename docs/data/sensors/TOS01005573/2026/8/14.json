@@ -1,0 +1,12 @@
+[
+  {
+    "sensor_id": "TOS01005573",
+    "timestamp": 1786661100,
+    "value": 1.02,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Pecora",
+    "province": "GR",
+    "station_name": "Cura Nuova (GPRS)"
+  }
+]
