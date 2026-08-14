@@ -65420,6 +65420,16 @@
     "station_name": "Gorgabuia (RADIO)"
   },
   {
+    "sensor_id": "TOS06006078",
+    "timestamp": 1786743000,
+    "value": 387.6,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Invaso Diga",
+    "province": "AR",
+    "station_name": "Montedoglio (RADIO)"
+  },
+  {
     "sensor_id": "TOS11000026",
     "timestamp": 1786743000,
     "value": 0,
@@ -67008,5 +67018,245 @@
     "window_minutes": 2160,
     "province": "AR",
     "station_name": "Palazzo del Pero 1 (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03000757",
+    "timestamp": 1786743900,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "AR",
+    "station_name": "Monte Ginezzo (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03000757",
+    "timestamp": 1786743900,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "AR",
+    "station_name": "Monte Ginezzo (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03000757",
+    "timestamp": 1786743900,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "AR",
+    "station_name": "Monte Ginezzo (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03000757",
+    "timestamp": 1786743900,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "AR",
+    "station_name": "Monte Ginezzo (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03000757",
+    "timestamp": 1786743900,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "AR",
+    "station_name": "Monte Ginezzo (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03000757",
+    "timestamp": 1786743900,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "AR",
+    "station_name": "Monte Ginezzo (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03000757",
+    "timestamp": 1786743900,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "AR",
+    "station_name": "Monte Ginezzo (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03004511",
+    "timestamp": 1786743900,
+    "value": 0.35,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Esse di Cortona",
+    "province": "AR",
+    "station_name": "Camucia (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03004517",
+    "timestamp": 1786743900,
+    "value": 1.48,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Allacciante di Sx",
+    "province": "AR",
+    "station_name": "Foiano SP28 (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03004563",
+    "timestamp": 1786743900,
+    "value": 0.21,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Ambra",
+    "province": "AR",
+    "station_name": "Ambra (RADIO)"
+  },
+  {
+    "sensor_id": "TOS06006078",
+    "timestamp": 1786743900,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "AR",
+    "station_name": "Montedoglio (RADIO)"
+  },
+  {
+    "sensor_id": "TOS06006078",
+    "timestamp": 1786743900,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "AR",
+    "station_name": "Montedoglio (RADIO)"
+  },
+  {
+    "sensor_id": "TOS06006078",
+    "timestamp": 1786743900,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "AR",
+    "station_name": "Montedoglio (RADIO)"
+  },
+  {
+    "sensor_id": "TOS06006078",
+    "timestamp": 1786743900,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "AR",
+    "station_name": "Montedoglio (RADIO)"
+  },
+  {
+    "sensor_id": "TOS06006078",
+    "timestamp": 1786743900,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "AR",
+    "station_name": "Montedoglio (RADIO)"
+  },
+  {
+    "sensor_id": "TOS06006078",
+    "timestamp": 1786743900,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "AR",
+    "station_name": "Montedoglio (RADIO)"
+  },
+  {
+    "sensor_id": "TOS06006078",
+    "timestamp": 1786743900,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "AR",
+    "station_name": "Montedoglio (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30233300",
+    "timestamp": 1786743900,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "AR",
+    "station_name": "Badia Tedalda (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30233300",
+    "timestamp": 1786743900,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "AR",
+    "station_name": "Badia Tedalda (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30233300",
+    "timestamp": 1786743900,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "AR",
+    "station_name": "Badia Tedalda (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30233300",
+    "timestamp": 1786743900,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "AR",
+    "station_name": "Badia Tedalda (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30233300",
+    "timestamp": 1786743900,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "AR",
+    "station_name": "Badia Tedalda (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30233300",
+    "timestamp": 1786743900,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "AR",
+    "station_name": "Badia Tedalda (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30233300",
+    "timestamp": 1786743900,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "AR",
+    "station_name": "Badia Tedalda (RADIO)"
   }
 ]
