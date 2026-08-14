@@ -178,5 +178,15 @@
     "river": "Ambra",
     "province": "AR",
     "station_name": "Bucine (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01004568",
+    "timestamp": 1786741200,
+    "value": 0.34,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Ambra",
+    "province": "AR",
+    "station_name": "Bucine (RADIO)"
   }
 ]
