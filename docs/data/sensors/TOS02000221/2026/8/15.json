@@ -1482,7 +1482,7 @@
   {
     "sensor_id": "TOS02000221",
     "timestamp": 1786797000,
-    "value": 0,
+    "value": 0.2,
     "unit": "mm",
     "type": "pluviometric",
     "window_minutes": 60,
