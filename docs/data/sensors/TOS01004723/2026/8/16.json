@@ -248,5 +248,15 @@
     "river": "Greve",
     "province": "FI",
     "station_name": "Tavarnuzze (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01004723",
+    "timestamp": 1786884300,
+    "value": -0.08,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Greve",
+    "province": "FI",
+    "station_name": "Tavarnuzze (RADIO)"
   }
 ]
