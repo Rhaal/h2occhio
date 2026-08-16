@@ -38,5 +38,15 @@
     "river": "Salarco",
     "province": "SI",
     "station_name": "Montepulciano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03004512",
+    "timestamp": 1786846500,
+    "value": 0.71,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Salarco",
+    "province": "SI",
+    "station_name": "Montepulciano (RADIO)"
   }
 ]
