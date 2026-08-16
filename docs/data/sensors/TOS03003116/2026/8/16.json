@@ -468,5 +468,15 @@
     "river": "Laguna",
     "province": "GR",
     "station_name": "Diga (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03003116",
+    "timestamp": 1786914000,
+    "value": 0.11,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Laguna",
+    "province": "GR",
+    "station_name": "Diga (GPRS)"
   }
 ]
