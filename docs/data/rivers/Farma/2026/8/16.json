@@ -458,5 +458,15 @@
     "river": "Farma",
     "province": "SI",
     "station_name": "Petriolo (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03005725",
+    "timestamp": 1786913400,
+    "value": -0.21,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Farma",
+    "province": "SI",
+    "station_name": "Petriolo (GPRS)"
   }
 ]
