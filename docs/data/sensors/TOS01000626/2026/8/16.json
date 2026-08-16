@@ -3428,5 +3428,75 @@
     "window_minutes": 2160,
     "province": "AR",
     "station_name": "Bibbiena (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01000626",
+    "timestamp": 1786917300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "AR",
+    "station_name": "Bibbiena (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01000626",
+    "timestamp": 1786917300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "AR",
+    "station_name": "Bibbiena (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01000626",
+    "timestamp": 1786917300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "AR",
+    "station_name": "Bibbiena (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01000626",
+    "timestamp": 1786917300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "AR",
+    "station_name": "Bibbiena (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01000626",
+    "timestamp": 1786917300,
+    "value": 5.5,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "AR",
+    "station_name": "Bibbiena (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01000626",
+    "timestamp": 1786917300,
+    "value": 5.5,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "AR",
+    "station_name": "Bibbiena (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01000626",
+    "timestamp": 1786917300,
+    "value": 5.5,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "AR",
+    "station_name": "Bibbiena (GPRS)"
   }
 ]
