@@ -780,9 +780,29 @@
     "station_name": "Cura Nuova (GPRS)"
   },
   {
+    "sensor_id": "TOS01005572",
+    "timestamp": 1786905900,
+    "value": 1.74,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Pecora",
+    "province": "GR",
+    "station_name": "La Cura SP152 (RADIO)"
+  },
+  {
     "sensor_id": "TOS01005573",
     "timestamp": 1786906200,
     "value": 0.38,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Pecora",
+    "province": "GR",
+    "station_name": "Cura Nuova (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01005573",
+    "timestamp": 1786907400,
+    "value": -0.28,
     "unit": "m",
     "type": "hydrometric",
     "river": "Pecora",
