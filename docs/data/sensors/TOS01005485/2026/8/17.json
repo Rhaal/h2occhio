@@ -1232,7 +1232,7 @@
   {
     "sensor_id": "TOS01005485",
     "timestamp": 1786976100,
-    "value": 0.2,
+    "value": 0.6,
     "unit": "mm",
     "type": "pluviometric",
     "window_minutes": 180,
@@ -1242,7 +1242,7 @@
   {
     "sensor_id": "TOS01005485",
     "timestamp": 1786976100,
-    "value": 0.2,
+    "value": 0.6,
     "unit": "mm",
     "type": "pluviometric",
     "window_minutes": 360,
@@ -1252,7 +1252,7 @@
   {
     "sensor_id": "TOS01005485",
     "timestamp": 1786976100,
-    "value": 0.2,
+    "value": 0.6,
     "unit": "mm",
     "type": "pluviometric",
     "window_minutes": 720,
@@ -1262,7 +1262,7 @@
   {
     "sensor_id": "TOS01005485",
     "timestamp": 1786976100,
-    "value": 0.2,
+    "value": 0.6,
     "unit": "mm",
     "type": "pluviometric",
     "window_minutes": 1440,
@@ -1272,7 +1272,7 @@
   {
     "sensor_id": "TOS01005485",
     "timestamp": 1786976100,
-    "value": 0.2,
+    "value": 0.6,
     "unit": "mm",
     "type": "pluviometric",
     "window_minutes": 2160,
@@ -1292,6 +1292,16 @@
   {
     "sensor_id": "TOS01005485",
     "timestamp": 1786977900,
+    "value": -0.77,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Milia",
+    "province": "LI",
+    "station_name": "Calzalunga (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01005485",
+    "timestamp": 1786979700,
     "value": -0.77,
     "unit": "m",
     "type": "hydrometric",
