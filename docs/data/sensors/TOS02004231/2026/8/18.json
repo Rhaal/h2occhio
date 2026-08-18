@@ -558,5 +558,15 @@
     "window_minutes": 2160,
     "province": "LU",
     "station_name": "Ponte di Lucchio (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02004231",
+    "timestamp": 1787026500,
+    "value": 0.61,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Lima",
+    "province": "LU",
+    "station_name": "Ponte di Lucchio (RADIO)"
   }
 ]
