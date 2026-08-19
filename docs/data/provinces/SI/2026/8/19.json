@@ -109230,6 +109230,76 @@
     "station_name": "Ponte Orgia (RADIO)"
   },
   {
+    "sensor_id": "TOS07000001",
+    "timestamp": 1787175000,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "SI",
+    "station_name": "Abbadia S. Salvatore (RADIO)"
+  },
+  {
+    "sensor_id": "TOS07000001",
+    "timestamp": 1787175000,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "SI",
+    "station_name": "Abbadia S. Salvatore (RADIO)"
+  },
+  {
+    "sensor_id": "TOS07000001",
+    "timestamp": 1787175000,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "SI",
+    "station_name": "Abbadia S. Salvatore (RADIO)"
+  },
+  {
+    "sensor_id": "TOS07000001",
+    "timestamp": 1787175000,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "SI",
+    "station_name": "Abbadia S. Salvatore (RADIO)"
+  },
+  {
+    "sensor_id": "TOS07000001",
+    "timestamp": 1787175000,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "SI",
+    "station_name": "Abbadia S. Salvatore (RADIO)"
+  },
+  {
+    "sensor_id": "TOS07000001",
+    "timestamp": 1787175000,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "SI",
+    "station_name": "Abbadia S. Salvatore (RADIO)"
+  },
+  {
+    "sensor_id": "TOS07000001",
+    "timestamp": 1787175000,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "SI",
+    "station_name": "Abbadia S. Salvatore (RADIO)"
+  },
+  {
     "sensor_id": "TOS11000019",
     "timestamp": 1787175000,
     "value": 0,
@@ -109998,6 +110068,76 @@
     "window_minutes": 2160,
     "province": "SI",
     "station_name": "S. Gimignano (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01002661",
+    "timestamp": 1787175900,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "SI",
+    "station_name": "Siena Poggio al Vento (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01002661",
+    "timestamp": 1787175900,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "SI",
+    "station_name": "Siena Poggio al Vento (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01002661",
+    "timestamp": 1787175900,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "SI",
+    "station_name": "Siena Poggio al Vento (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01002661",
+    "timestamp": 1787175900,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "SI",
+    "station_name": "Siena Poggio al Vento (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01002661",
+    "timestamp": 1787175900,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "SI",
+    "station_name": "Siena Poggio al Vento (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01002661",
+    "timestamp": 1787175900,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "SI",
+    "station_name": "Siena Poggio al Vento (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01002661",
+    "timestamp": 1787175900,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "SI",
+    "station_name": "Siena Poggio al Vento (RADIO)"
   },
   {
     "sensor_id": "TOS01004965",
@@ -110438,6 +110578,76 @@
     "window_minutes": 2160,
     "province": "SI",
     "station_name": "Vagliagli (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03002643",
+    "timestamp": 1787175900,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "SI",
+    "station_name": "Madonna a Brolio (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03002643",
+    "timestamp": 1787175900,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "SI",
+    "station_name": "Madonna a Brolio (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03002643",
+    "timestamp": 1787175900,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "SI",
+    "station_name": "Madonna a Brolio (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03002643",
+    "timestamp": 1787175900,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "SI",
+    "station_name": "Madonna a Brolio (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03002643",
+    "timestamp": 1787175900,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "SI",
+    "station_name": "Madonna a Brolio (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03002643",
+    "timestamp": 1787175900,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "SI",
+    "station_name": "Madonna a Brolio (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03002643",
+    "timestamp": 1787175900,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "SI",
+    "station_name": "Madonna a Brolio (RADIO)"
   },
   {
     "sensor_id": "TOS03002742",
