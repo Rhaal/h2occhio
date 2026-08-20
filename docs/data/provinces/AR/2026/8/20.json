@@ -103730,6 +103730,16 @@
     "station_name": "Pian di Scò (RADIO)"
   },
   {
+    "sensor_id": "TOS01004561",
+    "timestamp": 1787262300,
+    "value": -0.18,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Arno",
+    "province": "AR",
+    "station_name": "Ponte Romito (RADIO)"
+  },
+  {
     "sensor_id": "TOS03000755",
     "timestamp": 1787262300,
     "value": 0,
@@ -103948,6 +103958,76 @@
     "river": "Tevere",
     "province": "AR",
     "station_name": "Sansepolcro (RADIO)"
+  },
+  {
+    "sensor_id": "TOS06006078",
+    "timestamp": 1787262300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "AR",
+    "station_name": "Montedoglio (RADIO)"
+  },
+  {
+    "sensor_id": "TOS06006078",
+    "timestamp": 1787262300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "AR",
+    "station_name": "Montedoglio (RADIO)"
+  },
+  {
+    "sensor_id": "TOS06006078",
+    "timestamp": 1787262300,
+    "value": 7.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "AR",
+    "station_name": "Montedoglio (RADIO)"
+  },
+  {
+    "sensor_id": "TOS06006078",
+    "timestamp": 1787262300,
+    "value": 7.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "AR",
+    "station_name": "Montedoglio (RADIO)"
+  },
+  {
+    "sensor_id": "TOS06006078",
+    "timestamp": 1787262300,
+    "value": 7.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "AR",
+    "station_name": "Montedoglio (RADIO)"
+  },
+  {
+    "sensor_id": "TOS06006078",
+    "timestamp": 1787262300,
+    "value": 7.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "AR",
+    "station_name": "Montedoglio (RADIO)"
+  },
+  {
+    "sensor_id": "TOS06006078",
+    "timestamp": 1787262300,
+    "value": 7.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "AR",
+    "station_name": "Montedoglio (RADIO)"
   },
   {
     "sensor_id": "TOS11000026",
@@ -104718,6 +104798,76 @@
     "window_minutes": 2160,
     "province": "AR",
     "station_name": "Monterchi (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30233300",
+    "timestamp": 1787262300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "AR",
+    "station_name": "Badia Tedalda (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30233300",
+    "timestamp": 1787262300,
+    "value": 0.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "AR",
+    "station_name": "Badia Tedalda (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30233300",
+    "timestamp": 1787262300,
+    "value": 16.7,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "AR",
+    "station_name": "Badia Tedalda (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30233300",
+    "timestamp": 1787262300,
+    "value": 16.7,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "AR",
+    "station_name": "Badia Tedalda (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30233300",
+    "timestamp": 1787262300,
+    "value": 16.7,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "AR",
+    "station_name": "Badia Tedalda (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30233300",
+    "timestamp": 1787262300,
+    "value": 16.7,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "AR",
+    "station_name": "Badia Tedalda (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30233300",
+    "timestamp": 1787262300,
+    "value": 16.7,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "AR",
+    "station_name": "Badia Tedalda (RADIO)"
   },
   {
     "sensor_id": "TOS01000581",
