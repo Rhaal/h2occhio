@@ -1328,5 +1328,75 @@
     "window_minutes": 2160,
     "province": "LU",
     "station_name": "Capannori (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03000513",
+    "timestamp": 1787313600,
+    "value": 0.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "LU",
+    "station_name": "Capannori (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03000513",
+    "timestamp": 1787313600,
+    "value": 3.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "LU",
+    "station_name": "Capannori (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03000513",
+    "timestamp": 1787313600,
+    "value": 9.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "LU",
+    "station_name": "Capannori (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03000513",
+    "timestamp": 1787313600,
+    "value": 12.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "LU",
+    "station_name": "Capannori (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03000513",
+    "timestamp": 1787313600,
+    "value": 14,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "LU",
+    "station_name": "Capannori (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03000513",
+    "timestamp": 1787313600,
+    "value": 46.5,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "LU",
+    "station_name": "Capannori (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03000513",
+    "timestamp": 1787313600,
+    "value": 46.5,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "LU",
+    "station_name": "Capannori (RADIO)"
   }
 ]
