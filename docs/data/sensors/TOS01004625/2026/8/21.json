@@ -168,5 +168,15 @@
     "river": "Sieve",
     "province": "FI",
     "station_name": "Dicomano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01004625",
+    "timestamp": 1787331600,
+    "value": 0.31,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Sieve",
+    "province": "FI",
+    "station_name": "Dicomano (RADIO)"
   }
 ]

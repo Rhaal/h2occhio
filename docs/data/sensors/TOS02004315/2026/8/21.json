@@ -2238,5 +2238,85 @@
     "river": "Ozzeri",
     "province": "LU",
     "station_name": "Pontetetto (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02004315",
+    "timestamp": 1787334600,
+    "value": 0.44,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Ozzeri",
+    "province": "LU",
+    "station_name": "Pontetetto (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02004315",
+    "timestamp": 1787334600,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "LU",
+    "station_name": "Pontetetto (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02004315",
+    "timestamp": 1787334600,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "LU",
+    "station_name": "Pontetetto (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02004315",
+    "timestamp": 1787334600,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "LU",
+    "station_name": "Pontetetto (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02004315",
+    "timestamp": 1787334600,
+    "value": 8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "LU",
+    "station_name": "Pontetetto (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02004315",
+    "timestamp": 1787334600,
+    "value": 20.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "LU",
+    "station_name": "Pontetetto (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02004315",
+    "timestamp": 1787334600,
+    "value": 28.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "LU",
+    "station_name": "Pontetetto (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02004315",
+    "timestamp": 1787334600,
+    "value": 56.3,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "LU",
+    "station_name": "Pontetetto (GPRS)"
   }
 ]

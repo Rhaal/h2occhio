@@ -278,5 +278,15 @@
     "river": "Ciuffenna",
     "province": "AR",
     "station_name": "Terranuova (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03004575",
+    "timestamp": 1787334300,
+    "value": 0.51,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Ciuffenna",
+    "province": "AR",
+    "station_name": "Terranuova (RADIO)"
   }
 ]
