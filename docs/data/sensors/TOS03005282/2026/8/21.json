@@ -238,5 +238,15 @@
     "river": "Scolmatore",
     "province": "LI",
     "station_name": "SR206 Emilia (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03005282",
+    "timestamp": 1787325300,
+    "value": 1.31,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Scolmatore",
+    "province": "LI",
+    "station_name": "SR206 Emilia (RADIO)"
   }
 ]

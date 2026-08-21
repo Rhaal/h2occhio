@@ -1608,5 +1608,75 @@
     "window_minutes": 2160,
     "province": "MS",
     "station_name": "Villafranca (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000100",
+    "timestamp": 1787325300,
+    "value": 0.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "MS",
+    "station_name": "Villafranca (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000100",
+    "timestamp": 1787325300,
+    "value": 1,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "MS",
+    "station_name": "Villafranca (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000100",
+    "timestamp": 1787325300,
+    "value": 3.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "MS",
+    "station_name": "Villafranca (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000100",
+    "timestamp": 1787325300,
+    "value": 28.9,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "MS",
+    "station_name": "Villafranca (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000100",
+    "timestamp": 1787325300,
+    "value": 257.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "MS",
+    "station_name": "Villafranca (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000100",
+    "timestamp": 1787325300,
+    "value": 283.7,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "MS",
+    "station_name": "Villafranca (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000100",
+    "timestamp": 1787325300,
+    "value": 316.5,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "MS",
+    "station_name": "Villafranca (RADIO)"
   }
 ]
