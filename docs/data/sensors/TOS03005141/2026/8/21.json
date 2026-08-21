@@ -268,5 +268,15 @@
     "river": "Era",
     "province": "PI",
     "station_name": "Ponte via Chiavaccini (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03005141",
+    "timestamp": 1787330700,
+    "value": 0.38,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Era",
+    "province": "PI",
+    "station_name": "Ponte via Chiavaccini (RADIO)"
   }
 ]

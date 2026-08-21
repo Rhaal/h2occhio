@@ -268,5 +268,15 @@
     "river": "Baccatoio",
     "province": "LU",
     "station_name": "Baccatoio (RADIO)"
+  },
+  {
+    "sensor_id": "TOS09001000",
+    "timestamp": 1787330700,
+    "value": 1.15,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Baccatoio",
+    "province": "LU",
+    "station_name": "Baccatoio (RADIO)"
   }
 ]
