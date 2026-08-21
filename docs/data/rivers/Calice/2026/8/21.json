@@ -198,5 +198,15 @@
     "river": "Calice",
     "province": "PO",
     "station_name": "Variante Pratese (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03004847",
+    "timestamp": 1787316300,
+    "value": 1.18,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Calice",
+    "province": "PO",
+    "station_name": "Variante Pratese (RADIO)"
   }
 ]

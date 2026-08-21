@@ -1598,5 +1598,85 @@
     "window_minutes": 2160,
     "province": "MS",
     "station_name": "Bagnone (GPRS)"
+  },
+  {
+    "sensor_id": "TOS09000015",
+    "timestamp": 1787316600,
+    "value": 1.12,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Bagnone",
+    "province": "MS",
+    "station_name": "Bagnone (GPRS)"
+  },
+  {
+    "sensor_id": "TOS09000015",
+    "timestamp": 1787316600,
+    "value": 2.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "MS",
+    "station_name": "Bagnone (GPRS)"
+  },
+  {
+    "sensor_id": "TOS09000015",
+    "timestamp": 1787316600,
+    "value": 13.5,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "MS",
+    "station_name": "Bagnone (GPRS)"
+  },
+  {
+    "sensor_id": "TOS09000015",
+    "timestamp": 1787316600,
+    "value": 28.7,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "MS",
+    "station_name": "Bagnone (GPRS)"
+  },
+  {
+    "sensor_id": "TOS09000015",
+    "timestamp": 1787316600,
+    "value": 158,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "MS",
+    "station_name": "Bagnone (GPRS)"
+  },
+  {
+    "sensor_id": "TOS09000015",
+    "timestamp": 1787316600,
+    "value": 346.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "MS",
+    "station_name": "Bagnone (GPRS)"
+  },
+  {
+    "sensor_id": "TOS09000015",
+    "timestamp": 1787316600,
+    "value": 374.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "MS",
+    "station_name": "Bagnone (GPRS)"
+  },
+  {
+    "sensor_id": "TOS09000015",
+    "timestamp": 1787316600,
+    "value": 379.5,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "MS",
+    "station_name": "Bagnone (GPRS)"
   }
 ]

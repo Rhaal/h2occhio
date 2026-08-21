@@ -1398,5 +1398,75 @@
     "window_minutes": 2160,
     "province": "MS",
     "station_name": "Novegigola (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000099",
+    "timestamp": 1787316300,
+    "value": 1.7,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "MS",
+    "station_name": "Novegigola (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000099",
+    "timestamp": 1787316300,
+    "value": 9.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "MS",
+    "station_name": "Novegigola (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000099",
+    "timestamp": 1787316300,
+    "value": 20.5,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "MS",
+    "station_name": "Novegigola (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000099",
+    "timestamp": 1787316300,
+    "value": 77.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "MS",
+    "station_name": "Novegigola (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000099",
+    "timestamp": 1787316300,
+    "value": 151.7,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "MS",
+    "station_name": "Novegigola (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000099",
+    "timestamp": 1787316300,
+    "value": 169.1,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "MS",
+    "station_name": "Novegigola (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000099",
+    "timestamp": 1787316300,
+    "value": 199.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "MS",
+    "station_name": "Novegigola (RADIO)"
   }
 ]
