@@ -1048,5 +1048,75 @@
     "window_minutes": 2160,
     "province": "LU",
     "station_name": "Vallelunga (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02000108",
+    "timestamp": 1787304900,
+    "value": 0.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "LU",
+    "station_name": "Vallelunga (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02000108",
+    "timestamp": 1787304900,
+    "value": 22.5,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "LU",
+    "station_name": "Vallelunga (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02000108",
+    "timestamp": 1787304900,
+    "value": 25.1,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "LU",
+    "station_name": "Vallelunga (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02000108",
+    "timestamp": 1787304900,
+    "value": 27.5,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "LU",
+    "station_name": "Vallelunga (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02000108",
+    "timestamp": 1787304900,
+    "value": 27.5,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "LU",
+    "station_name": "Vallelunga (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02000108",
+    "timestamp": 1787304900,
+    "value": 34.1,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "LU",
+    "station_name": "Vallelunga (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02000108",
+    "timestamp": 1787304900,
+    "value": 34.1,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "LU",
+    "station_name": "Vallelunga (GPRS)"
   }
 ]

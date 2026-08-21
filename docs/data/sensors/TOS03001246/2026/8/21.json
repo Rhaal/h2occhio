@@ -148,5 +148,15 @@
     "river": "Magra",
     "province": "MS",
     "station_name": "Calamazza (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03001246",
+    "timestamp": 1787303700,
+    "value": 3.17,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Magra",
+    "province": "MS",
+    "station_name": "Calamazza (RADIO)"
   }
 ]
