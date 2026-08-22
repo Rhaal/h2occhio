@@ -398,5 +398,15 @@
     "river": "Ricortola",
     "province": "MS",
     "station_name": "Ricortola (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03004009",
+    "timestamp": 1787424300,
+    "value": 0.28,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Ricortola",
+    "province": "MS",
+    "station_name": "Ricortola (RADIO)"
   }
 ]
