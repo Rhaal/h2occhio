@@ -532,7 +532,7 @@
   {
     "sensor_id": "TOS01000025",
     "timestamp": 1787285700,
-    "value": 0.8,
+    "value": 0.2,
     "unit": "mm",
     "type": "pluviometric",
     "window_minutes": 720,
@@ -542,7 +542,7 @@
   {
     "sensor_id": "TOS01000025",
     "timestamp": 1787285700,
-    "value": 0.8,
+    "value": 0.2,
     "unit": "mm",
     "type": "pluviometric",
     "window_minutes": 1440,
@@ -552,7 +552,7 @@
   {
     "sensor_id": "TOS01000025",
     "timestamp": 1787285700,
-    "value": 0.8,
+    "value": 0.2,
     "unit": "mm",
     "type": "pluviometric",
     "window_minutes": 2160,
