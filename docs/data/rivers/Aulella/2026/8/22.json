@@ -308,5 +308,15 @@
     "river": "Aulella",
     "province": "MS",
     "station_name": "Soliera (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03000109",
+    "timestamp": 1787413500,
+    "value": 1.24,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Aulella",
+    "province": "MS",
+    "station_name": "Soliera (RADIO)"
   }
 ]
