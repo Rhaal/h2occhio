@@ -298,5 +298,15 @@
     "river": "Massera",
     "province": "PI",
     "station_name": "Molino del Balzone (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01005465",
+    "timestamp": 1787499900,
+    "value": -0.28,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Massera",
+    "province": "PI",
+    "station_name": "Molino del Balzone (RADIO)"
   }
 ]
