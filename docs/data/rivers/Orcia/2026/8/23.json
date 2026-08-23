@@ -928,5 +928,15 @@
     "river": "Orcia",
     "province": "SI",
     "station_name": "S. Angelo Cinigiano (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01005761",
+    "timestamp": 1787521500,
+    "value": 0.25,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Orcia",
+    "province": "SI",
+    "station_name": "Monte Amiata Scalo (RADIO)"
   }
 ]
