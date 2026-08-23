@@ -188,5 +188,15 @@
     "river": "Merse",
     "province": "SI",
     "station_name": "Montepescini (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03005711",
+    "timestamp": 1787479800,
+    "value": -0.83,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Merse",
+    "province": "SI",
+    "station_name": "Montepescini (GPRS)"
   }
 ]
