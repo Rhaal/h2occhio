@@ -1810,6 +1810,16 @@
     "station_name": "S. Giustina (RADIO)"
   },
   {
+    "sensor_id": "TOS09001246",
+    "timestamp": 1787507100,
+    "value": 0.35,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Magra",
+    "province": "MS",
+    "station_name": "Calamazza ARPAL (RADIO)"
+  },
+  {
     "sensor_id": "TOS11000705",
     "timestamp": 1787507100,
     "value": 0.42,
@@ -1832,6 +1842,46 @@
   {
     "sensor_id": "TOS09000001",
     "timestamp": 1787507400,
+    "value": 0.12,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Magra",
+    "province": "MS",
+    "station_name": "Piccatello (GPRS)"
+  },
+  {
+    "sensor_id": "TOS09001083",
+    "timestamp": 1787508000,
+    "value": -1.36,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Magra",
+    "province": "MS",
+    "station_name": "S. Giustina (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000705",
+    "timestamp": 1787508000,
+    "value": 0.42,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Magra",
+    "province": "MS",
+    "station_name": "Ponte Magra (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03001246",
+    "timestamp": 1787508900,
+    "value": 0.33,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Magra",
+    "province": "MS",
+    "station_name": "Calamazza (GPRS)"
+  },
+  {
+    "sensor_id": "TOS09000001",
+    "timestamp": 1787508900,
     "value": 0.12,
     "unit": "m",
     "type": "hydrometric",
