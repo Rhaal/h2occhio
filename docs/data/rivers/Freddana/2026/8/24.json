@@ -208,5 +208,15 @@
     "river": "Freddana",
     "province": "LU",
     "station_name": "Mutigliano (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02004286",
+    "timestamp": 1787585100,
+    "value": 0.26,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Freddana",
+    "province": "LU",
+    "station_name": "Mutigliano (GPRS)"
   }
 ]
