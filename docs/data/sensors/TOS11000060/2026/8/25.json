@@ -672,7 +672,7 @@
   {
     "sensor_id": "TOS11000060",
     "timestamp": 1787644800,
-    "value": 9.4,
+    "value": 9.6,
     "unit": "mm",
     "type": "pluviometric",
     "window_minutes": 720,
@@ -682,7 +682,7 @@
   {
     "sensor_id": "TOS11000060",
     "timestamp": 1787644800,
-    "value": 9.4,
+    "value": 9.6,
     "unit": "mm",
     "type": "pluviometric",
     "window_minutes": 1440,
@@ -692,7 +692,7 @@
   {
     "sensor_id": "TOS11000060",
     "timestamp": 1787644800,
-    "value": 9.4,
+    "value": 9.6,
     "unit": "mm",
     "type": "pluviometric",
     "window_minutes": 2160,
