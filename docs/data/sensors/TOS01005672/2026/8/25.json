@@ -318,5 +318,15 @@
     "river": "OmbroneGR",
     "province": "SI",
     "station_name": "Buonconvento (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01005672",
+    "timestamp": 1787690400,
+    "value": -0.03,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "OmbroneGR",
+    "province": "SI",
+    "station_name": "Buonconvento (GPRS)"
   }
 ]

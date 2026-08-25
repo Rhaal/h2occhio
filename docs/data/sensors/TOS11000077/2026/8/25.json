@@ -1818,5 +1818,75 @@
     "window_minutes": 2160,
     "province": "PT",
     "station_name": "Albano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000077",
+    "timestamp": 1787689800,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "PT",
+    "station_name": "Albano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000077",
+    "timestamp": 1787689800,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "PT",
+    "station_name": "Albano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000077",
+    "timestamp": 1787689800,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "PT",
+    "station_name": "Albano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000077",
+    "timestamp": 1787689800,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "PT",
+    "station_name": "Albano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000077",
+    "timestamp": 1787689800,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "PT",
+    "station_name": "Albano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000077",
+    "timestamp": 1787689800,
+    "value": 8.7,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "PT",
+    "station_name": "Albano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000077",
+    "timestamp": 1787689800,
+    "value": 8.7,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "PT",
+    "station_name": "Albano (RADIO)"
   }
 ]
