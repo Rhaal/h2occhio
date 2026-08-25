@@ -502,7 +502,7 @@
   {
     "sensor_id": "TOS01001059",
     "timestamp": 1787641200,
-    "value": 0,
+    "value": 2,
     "unit": "mm",
     "type": "pluviometric",
     "window_minutes": 60,
@@ -512,7 +512,7 @@
   {
     "sensor_id": "TOS01001059",
     "timestamp": 1787641200,
-    "value": 0,
+    "value": 2,
     "unit": "mm",
     "type": "pluviometric",
     "window_minutes": 180,
@@ -522,7 +522,7 @@
   {
     "sensor_id": "TOS01001059",
     "timestamp": 1787641200,
-    "value": 0,
+    "value": 2,
     "unit": "mm",
     "type": "pluviometric",
     "window_minutes": 360,
@@ -532,7 +532,7 @@
   {
     "sensor_id": "TOS01001059",
     "timestamp": 1787641200,
-    "value": 13.1,
+    "value": 15.1,
     "unit": "mm",
     "type": "pluviometric",
     "window_minutes": 720,
@@ -542,7 +542,7 @@
   {
     "sensor_id": "TOS01001059",
     "timestamp": 1787641200,
-    "value": 13.1,
+    "value": 15.1,
     "unit": "mm",
     "type": "pluviometric",
     "window_minutes": 1440,
@@ -552,7 +552,7 @@
   {
     "sensor_id": "TOS01001059",
     "timestamp": 1787641200,
-    "value": 13.1,
+    "value": 15.1,
     "unit": "mm",
     "type": "pluviometric",
     "window_minutes": 2160,
