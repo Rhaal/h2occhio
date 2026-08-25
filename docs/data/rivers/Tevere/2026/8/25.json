@@ -408,5 +408,25 @@
     "river": "Tevere",
     "province": "AR",
     "station_name": "Pieve S. Stefano (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03006123",
+    "timestamp": 1787647500,
+    "value": 0.01,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Tevere",
+    "province": "AR",
+    "station_name": "Sansepolcro (RADIO)"
+  },
+  {
+    "sensor_id": "TOS19000702",
+    "timestamp": 1787648400,
+    "value": -0.08,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Tevere",
+    "province": "AR",
+    "station_name": "Pieve S. Stefano (GPRS)"
   }
 ]
