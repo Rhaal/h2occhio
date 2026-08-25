@@ -114950,6 +114950,86 @@
     "station_name": "Giglio Porto (RADIO)"
   },
   {
+    "sensor_id": "TOS07000046",
+    "timestamp": 1787694300,
+    "value": 1.97,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Fiora",
+    "province": "GR",
+    "station_name": "Pitigliano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS07000046",
+    "timestamp": 1787694300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "GR",
+    "station_name": "Pitigliano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS07000046",
+    "timestamp": 1787694300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "GR",
+    "station_name": "Pitigliano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS07000046",
+    "timestamp": 1787694300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "GR",
+    "station_name": "Pitigliano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS07000046",
+    "timestamp": 1787694300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "GR",
+    "station_name": "Pitigliano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS07000046",
+    "timestamp": 1787694300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "GR",
+    "station_name": "Pitigliano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS07000046",
+    "timestamp": 1787694300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "GR",
+    "station_name": "Pitigliano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS07000046",
+    "timestamp": 1787694300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "GR",
+    "station_name": "Pitigliano (RADIO)"
+  },
+  {
     "sensor_id": "TOS11000005",
     "timestamp": 1787694300,
     "value": 0,

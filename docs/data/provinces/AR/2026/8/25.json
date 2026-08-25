@@ -95780,6 +95780,16 @@
     "station_name": "Camucia (RADIO)"
   },
   {
+    "sensor_id": "TOS03004515",
+    "timestamp": 1787692500,
+    "value": -0.45,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Esse",
+    "province": "AR",
+    "station_name": "Foiano (RADIO)"
+  },
+  {
     "sensor_id": "TOS03004517",
     "timestamp": 1787692500,
     "value": 1.5,
@@ -97930,6 +97940,76 @@
     "station_name": "Camaldoli (RADIO)"
   },
   {
+    "sensor_id": "TOS01000651",
+    "timestamp": 1787694300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "AR",
+    "station_name": "Salutio (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000651",
+    "timestamp": 1787694300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "AR",
+    "station_name": "Salutio (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000651",
+    "timestamp": 1787694300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "AR",
+    "station_name": "Salutio (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000651",
+    "timestamp": 1787694300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "AR",
+    "station_name": "Salutio (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000651",
+    "timestamp": 1787694300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "AR",
+    "station_name": "Salutio (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000651",
+    "timestamp": 1787694300,
+    "value": 7.1,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "AR",
+    "station_name": "Salutio (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000651",
+    "timestamp": 1787694300,
+    "value": 7.1,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "AR",
+    "station_name": "Salutio (RADIO)"
+  },
+  {
     "sensor_id": "TOS01000701",
     "timestamp": 1787694300,
     "value": 0,
@@ -99268,5 +99348,75 @@
     "window_minutes": 2160,
     "province": "AR",
     "station_name": "Monterchi (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30233300",
+    "timestamp": 1787694300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "AR",
+    "station_name": "Badia Tedalda (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30233300",
+    "timestamp": 1787694300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "AR",
+    "station_name": "Badia Tedalda (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30233300",
+    "timestamp": 1787694300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "AR",
+    "station_name": "Badia Tedalda (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30233300",
+    "timestamp": 1787694300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "AR",
+    "station_name": "Badia Tedalda (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30233300",
+    "timestamp": 1787694300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "AR",
+    "station_name": "Badia Tedalda (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30233300",
+    "timestamp": 1787694300,
+    "value": 7.7,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "AR",
+    "station_name": "Badia Tedalda (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30233300",
+    "timestamp": 1787694300,
+    "value": 7.7,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "AR",
+    "station_name": "Badia Tedalda (RADIO)"
   }
 ]
