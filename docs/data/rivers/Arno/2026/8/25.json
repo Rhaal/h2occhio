@@ -7110,6 +7110,16 @@
     "station_name": "Subbiano (GPRS)"
   },
   {
+    "sensor_id": "TOS01004561",
+    "timestamp": 1787693400,
+    "value": -0.39,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Arno",
+    "province": "AR",
+    "station_name": "Ponte Romito (RADIO)"
+  },
+  {
     "sensor_id": "TOS01004571",
     "timestamp": 1787693400,
     "value": 0.01,
