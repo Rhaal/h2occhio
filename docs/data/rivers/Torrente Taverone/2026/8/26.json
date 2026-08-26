@@ -8,5 +8,15 @@
     "river": "Torrente Taverone",
     "province": "MS",
     "station_name": "Licciana Nardi (GPRS)"
+  },
+  {
+    "sensor_id": "TOS09000021",
+    "timestamp": 1787740800,
+    "value": 3.85,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Torrente Taverone",
+    "province": "MS",
+    "station_name": "Licciana Nardi (GPRS)"
   }
 ]
