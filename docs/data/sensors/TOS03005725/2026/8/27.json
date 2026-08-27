@@ -1,0 +1,12 @@
+[
+  {
+    "sensor_id": "TOS03005725",
+    "timestamp": 1787784300,
+    "value": -0.23,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Farma",
+    "province": "SI",
+    "station_name": "Petriolo (RADIO)"
+  }
+]
