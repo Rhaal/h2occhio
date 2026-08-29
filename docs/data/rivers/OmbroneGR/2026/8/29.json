@@ -358,5 +358,15 @@
     "river": "OmbroneGR",
     "province": "GR",
     "station_name": "Istia (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03005641",
+    "timestamp": 1788035400,
+    "value": 0.42,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "OmbroneGR",
+    "province": "SI",
+    "station_name": "Ponte del Garbo (RADIO)"
   }
 ]
