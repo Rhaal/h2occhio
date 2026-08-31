@@ -13970,6 +13970,16 @@
     "station_name": "Foiano (RADIO)"
   },
   {
+    "sensor_id": "TOS01004561",
+    "timestamp": 1788111000,
+    "value": -0.63,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Arno",
+    "province": "AR",
+    "station_name": "Ponte Romito (RADIO)"
+  },
+  {
     "sensor_id": "TOS01004568",
     "timestamp": 1788112800,
     "value": 0.34,

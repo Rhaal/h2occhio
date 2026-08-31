@@ -1,0 +1,12 @@
+[
+  {
+    "sensor_id": "TOS01004379",
+    "timestamp": 1788133200,
+    "value": 1.21,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Arno",
+    "province": "AR",
+    "station_name": "Stia (GPRS)"
+  }
+]
