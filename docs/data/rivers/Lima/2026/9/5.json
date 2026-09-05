@@ -238,5 +238,25 @@
     "river": "Lima",
     "province": "LU",
     "station_name": "Chifenti (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02004215",
+    "timestamp": 1788642000,
+    "value": 0.97,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Lima",
+    "province": "PT",
+    "station_name": "Casotti di Cutigliano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02004255",
+    "timestamp": 1788642900,
+    "value": 0.87,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Lima",
+    "province": "LU",
+    "station_name": "Chifenti (GPRS)"
   }
 ]
