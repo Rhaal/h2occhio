@@ -24950,6 +24950,16 @@
     "station_name": "Trappola (GPRS)"
   },
   {
+    "sensor_id": "TOS03004515",
+    "timestamp": 1788642900,
+    "value": -0.59,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Esse",
+    "province": "AR",
+    "station_name": "Foiano (RADIO)"
+  },
+  {
     "sensor_id": "TOS19000702",
     "timestamp": 1788642900,
     "value": -0.08,
