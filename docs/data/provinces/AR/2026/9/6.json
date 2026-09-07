@@ -22320,6 +22320,16 @@
     "station_name": "Palazzo del Pero 1 (GPRS)"
   },
   {
+    "sensor_id": "TOS01004561",
+    "timestamp": 1788728400,
+    "value": -0.69,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Arno",
+    "province": "AR",
+    "station_name": "Ponte Romito (RADIO)"
+  },
+  {
     "sensor_id": "TOS01004568",
     "timestamp": 1788728400,
     "value": 0.34,
