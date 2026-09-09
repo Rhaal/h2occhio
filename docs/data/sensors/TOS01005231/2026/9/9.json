@@ -48,5 +48,15 @@
     "river": "Arno",
     "province": "PI",
     "station_name": "Pisa a Sostegno (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01005231",
+    "timestamp": 1788975600,
+    "value": 1.01,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Arno",
+    "province": "PI",
+    "station_name": "Pisa a Sostegno (GPRS)"
   }
 ]
