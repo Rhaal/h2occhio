@@ -4798,5 +4798,85 @@
     "window_minutes": 2160,
     "province": "PO",
     "station_name": "Gamberame (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03004869",
+    "timestamp": 1789074000,
+    "value": 0.33,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Bagnolo",
+    "province": "PO",
+    "station_name": "Bagnolo (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30290100",
+    "timestamp": 1789077300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "PO",
+    "station_name": "Cottede (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30290100",
+    "timestamp": 1789077300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "PO",
+    "station_name": "Cottede (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30290100",
+    "timestamp": 1789077300,
+    "value": 1.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "PO",
+    "station_name": "Cottede (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30290100",
+    "timestamp": 1789077300,
+    "value": 1.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "PO",
+    "station_name": "Cottede (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30290100",
+    "timestamp": 1789077300,
+    "value": 19.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "PO",
+    "station_name": "Cottede (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30290100",
+    "timestamp": 1789077300,
+    "value": 21.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "PO",
+    "station_name": "Cottede (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30290100",
+    "timestamp": 1789077300,
+    "value": 27.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "PO",
+    "station_name": "Cottede (RADIO)"
   }
 ]

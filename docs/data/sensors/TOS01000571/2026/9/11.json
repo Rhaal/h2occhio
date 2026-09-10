@@ -1,0 +1,72 @@
+[
+  {
+    "sensor_id": "TOS01000571",
+    "timestamp": 1789077600,
+    "value": 0.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "AR",
+    "station_name": "Vallucciole (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000571",
+    "timestamp": 1789077600,
+    "value": 2.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "AR",
+    "station_name": "Vallucciole (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000571",
+    "timestamp": 1789077600,
+    "value": 3,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "AR",
+    "station_name": "Vallucciole (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000571",
+    "timestamp": 1789077600,
+    "value": 3,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "AR",
+    "station_name": "Vallucciole (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000571",
+    "timestamp": 1789077600,
+    "value": 26.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "AR",
+    "station_name": "Vallucciole (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000571",
+    "timestamp": 1789077600,
+    "value": 37.7,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "AR",
+    "station_name": "Vallucciole (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000571",
+    "timestamp": 1789077600,
+    "value": 44.9,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "AR",
+    "station_name": "Vallucciole (RADIO)"
+  }
+]
