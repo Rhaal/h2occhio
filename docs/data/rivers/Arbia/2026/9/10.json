@@ -98,5 +98,25 @@
     "river": "Arbia",
     "province": "SI",
     "station_name": "Podere Nuovo (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03005655",
+    "timestamp": 1789059600,
+    "value": -0.11,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Arbia",
+    "province": "SI",
+    "station_name": "Podere Nuovo (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03005651",
+    "timestamp": 1789060500,
+    "value": -0.5,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Arbia",
+    "province": "SI",
+    "station_name": "Pianella (RADIO)"
   }
 ]

@@ -48,5 +48,15 @@
     "river": "Bruna",
     "province": "GR",
     "station_name": "Lepri (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03005611",
+    "timestamp": 1789060500,
+    "value": 1.19,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Bruna",
+    "province": "GR",
+    "station_name": "Lepri (GPRS)"
   }
 ]
