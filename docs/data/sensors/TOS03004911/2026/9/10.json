@@ -38,5 +38,15 @@
     "river": "Pesa",
     "province": "FI",
     "station_name": "Sambuca (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03004911",
+    "timestamp": 1789047900,
+    "value": 1.03,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Pesa",
+    "province": "FI",
+    "station_name": "Sambuca (RADIO)"
   }
 ]
