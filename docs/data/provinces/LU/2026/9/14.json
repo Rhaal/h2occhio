@@ -22648,5 +22648,155 @@
     "window_minutes": 2160,
     "province": "LU",
     "station_name": "Strettoia (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02000221",
+    "timestamp": 1789419600,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "LU",
+    "station_name": "Casone di Profecchia (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000221",
+    "timestamp": 1789419600,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "LU",
+    "station_name": "Casone di Profecchia (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000221",
+    "timestamp": 1789419600,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "LU",
+    "station_name": "Casone di Profecchia (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000221",
+    "timestamp": 1789419600,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "LU",
+    "station_name": "Casone di Profecchia (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000221",
+    "timestamp": 1789419600,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "LU",
+    "station_name": "Casone di Profecchia (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000221",
+    "timestamp": 1789419600,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "LU",
+    "station_name": "Casone di Profecchia (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000221",
+    "timestamp": 1789419600,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "LU",
+    "station_name": "Casone di Profecchia (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03005077",
+    "timestamp": 1789419600,
+    "value": 1.12,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Pescia di Collodi",
+    "province": "LU",
+    "station_name": "San Salvatore (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30355400",
+    "timestamp": 1789422300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "LU",
+    "station_name": "Passo Radici (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30355400",
+    "timestamp": 1789422300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "LU",
+    "station_name": "Passo Radici (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30355400",
+    "timestamp": 1789422300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "LU",
+    "station_name": "Passo Radici (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30355400",
+    "timestamp": 1789422300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "LU",
+    "station_name": "Passo Radici (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30355400",
+    "timestamp": 1789422300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "LU",
+    "station_name": "Passo Radici (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30355400",
+    "timestamp": 1789422300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "LU",
+    "station_name": "Passo Radici (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30355400",
+    "timestamp": 1789422300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "LU",
+    "station_name": "Passo Radici (RADIO)"
   }
 ]
