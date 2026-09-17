@@ -27178,5 +27178,85 @@
     "window_minutes": 2160,
     "province": "LU",
     "station_name": "Strettoia (GPRS)"
+  },
+  {
+    "sensor_id": "TOS15004336",
+    "timestamp": 1789678800,
+    "value": 0.07,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Guappero",
+    "province": "LU",
+    "station_name": "Guappero cassa monte (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000515",
+    "timestamp": 1789680600,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "LU",
+    "station_name": "Chiatri (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000515",
+    "timestamp": 1789680600,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "LU",
+    "station_name": "Chiatri (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000515",
+    "timestamp": 1789680600,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "LU",
+    "station_name": "Chiatri (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000515",
+    "timestamp": 1789680600,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "LU",
+    "station_name": "Chiatri (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000515",
+    "timestamp": 1789680600,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "LU",
+    "station_name": "Chiatri (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000515",
+    "timestamp": 1789680600,
+    "value": 28.1,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "LU",
+    "station_name": "Chiatri (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000515",
+    "timestamp": 1789680600,
+    "value": 28.1,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "LU",
+    "station_name": "Chiatri (RADIO)"
   }
 ]
