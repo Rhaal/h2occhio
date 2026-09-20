@@ -21838,5 +21838,235 @@
     "window_minutes": 2160,
     "province": "PI",
     "station_name": "Bulera (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01002231",
+    "timestamp": 1789940700,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "PI",
+    "station_name": "Riparbella (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01002231",
+    "timestamp": 1789940700,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "PI",
+    "station_name": "Riparbella (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01002231",
+    "timestamp": 1789940700,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "PI",
+    "station_name": "Riparbella (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01002231",
+    "timestamp": 1789940700,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "PI",
+    "station_name": "Riparbella (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01002231",
+    "timestamp": 1789940700,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "PI",
+    "station_name": "Riparbella (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01002231",
+    "timestamp": 1789940700,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "PI",
+    "station_name": "Riparbella (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01002231",
+    "timestamp": 1789940700,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "PI",
+    "station_name": "Riparbella (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01005377",
+    "timestamp": 1789940700,
+    "value": 0.49,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Pavone",
+    "province": "PI",
+    "station_name": "S. Dalmazio (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01005377",
+    "timestamp": 1789940700,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "PI",
+    "station_name": "S. Dalmazio (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01005377",
+    "timestamp": 1789940700,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "PI",
+    "station_name": "S. Dalmazio (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01005377",
+    "timestamp": 1789940700,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "PI",
+    "station_name": "S. Dalmazio (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01005377",
+    "timestamp": 1789940700,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "PI",
+    "station_name": "S. Dalmazio (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01005377",
+    "timestamp": 1789940700,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "PI",
+    "station_name": "S. Dalmazio (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01005377",
+    "timestamp": 1789940700,
+    "value": 0.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "PI",
+    "station_name": "S. Dalmazio (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01005377",
+    "timestamp": 1789940700,
+    "value": 0.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "PI",
+    "station_name": "S. Dalmazio (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03005417",
+    "timestamp": 1789940700,
+    "value": 1.74,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Cecina",
+    "province": "PI",
+    "station_name": "Steccaia (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000056",
+    "timestamp": 1789940700,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "PI",
+    "station_name": "Castelnuovo Val di Cecina (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000056",
+    "timestamp": 1789940700,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "PI",
+    "station_name": "Castelnuovo Val di Cecina (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000056",
+    "timestamp": 1789940700,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "PI",
+    "station_name": "Castelnuovo Val di Cecina (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000056",
+    "timestamp": 1789940700,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "PI",
+    "station_name": "Castelnuovo Val di Cecina (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000056",
+    "timestamp": 1789940700,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "PI",
+    "station_name": "Castelnuovo Val di Cecina (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000056",
+    "timestamp": 1789940700,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "PI",
+    "station_name": "Castelnuovo Val di Cecina (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000056",
+    "timestamp": 1789940700,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "PI",
+    "station_name": "Castelnuovo Val di Cecina (RADIO)"
   }
 ]

@@ -19998,5 +19998,225 @@
     "window_minutes": 2160,
     "province": "SI",
     "station_name": "Abbadia S. S. - Vetta Amiata 1 (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03002869",
+    "timestamp": 1789938900,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "SI",
+    "station_name": "Monticchiello (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03002869",
+    "timestamp": 1789938900,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "SI",
+    "station_name": "Monticchiello (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03002869",
+    "timestamp": 1789938900,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "SI",
+    "station_name": "Monticchiello (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03002869",
+    "timestamp": 1789938900,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "SI",
+    "station_name": "Monticchiello (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03002869",
+    "timestamp": 1789938900,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "SI",
+    "station_name": "Monticchiello (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03002869",
+    "timestamp": 1789938900,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "SI",
+    "station_name": "Monticchiello (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03002869",
+    "timestamp": 1789938900,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "SI",
+    "station_name": "Monticchiello (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03004508",
+    "timestamp": 1789940700,
+    "value": 0.54,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Lago di Chiusi",
+    "province": "SI",
+    "station_name": "Sbarchino (RADIO)"
+  },
+  {
+    "sensor_id": "TOS07000001",
+    "timestamp": 1789940700,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "SI",
+    "station_name": "Abbadia S. Salvatore (RADIO)"
+  },
+  {
+    "sensor_id": "TOS07000001",
+    "timestamp": 1789940700,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "SI",
+    "station_name": "Abbadia S. Salvatore (RADIO)"
+  },
+  {
+    "sensor_id": "TOS07000001",
+    "timestamp": 1789940700,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "SI",
+    "station_name": "Abbadia S. Salvatore (RADIO)"
+  },
+  {
+    "sensor_id": "TOS07000001",
+    "timestamp": 1789940700,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "SI",
+    "station_name": "Abbadia S. Salvatore (RADIO)"
+  },
+  {
+    "sensor_id": "TOS07000001",
+    "timestamp": 1789940700,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "SI",
+    "station_name": "Abbadia S. Salvatore (RADIO)"
+  },
+  {
+    "sensor_id": "TOS07000001",
+    "timestamp": 1789940700,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "SI",
+    "station_name": "Abbadia S. Salvatore (RADIO)"
+  },
+  {
+    "sensor_id": "TOS07000001",
+    "timestamp": 1789940700,
+    "value": 1,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "SI",
+    "station_name": "Abbadia S. Salvatore (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000060",
+    "timestamp": 1789940700,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "SI",
+    "station_name": "Piancastagnaio (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000060",
+    "timestamp": 1789940700,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "SI",
+    "station_name": "Piancastagnaio (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000060",
+    "timestamp": 1789940700,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "SI",
+    "station_name": "Piancastagnaio (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000060",
+    "timestamp": 1789940700,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "SI",
+    "station_name": "Piancastagnaio (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000060",
+    "timestamp": 1789940700,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "SI",
+    "station_name": "Piancastagnaio (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000060",
+    "timestamp": 1789940700,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "SI",
+    "station_name": "Piancastagnaio (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000060",
+    "timestamp": 1789940700,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "SI",
+    "station_name": "Piancastagnaio (RADIO)"
   }
 ]
