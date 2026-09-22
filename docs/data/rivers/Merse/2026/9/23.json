@@ -1,0 +1,22 @@
+[
+  {
+    "sensor_id": "TOS03005707",
+    "timestamp": 1790117100,
+    "value": 0.22,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Merse",
+    "province": "SI",
+    "station_name": "Ponte Orgia (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01005801",
+    "timestamp": 1790117400,
+    "value": 0.24,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Merse",
+    "province": "GR",
+    "station_name": "Montieri (GPRS)"
+  }
+]

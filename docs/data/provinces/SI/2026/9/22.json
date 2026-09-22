@@ -14350,6 +14350,76 @@
     "station_name": "Montepulciano  (RADIO)"
   },
   {
+    "sensor_id": "TOS11000060",
+    "timestamp": 1790107200,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "SI",
+    "station_name": "Piancastagnaio (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000060",
+    "timestamp": 1790107200,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "SI",
+    "station_name": "Piancastagnaio (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000060",
+    "timestamp": 1790107200,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "SI",
+    "station_name": "Piancastagnaio (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000060",
+    "timestamp": 1790107200,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "SI",
+    "station_name": "Piancastagnaio (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000060",
+    "timestamp": 1790107200,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "SI",
+    "station_name": "Piancastagnaio (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000060",
+    "timestamp": 1790107200,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "SI",
+    "station_name": "Piancastagnaio (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000060",
+    "timestamp": 1790107200,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "SI",
+    "station_name": "Piancastagnaio (RADIO)"
+  },
+  {
     "sensor_id": "TOS03004508",
     "timestamp": 1790108100,
     "value": 0.53,
