@@ -9258,5 +9258,15 @@
     "window_minutes": 2160,
     "province": "MS",
     "station_name": "Campocecina (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03004001",
+    "timestamp": 1790631900,
+    "value": 0.21,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Carrione (ramo Colonnata)",
+    "province": "MS",
+    "station_name": "Pesa Miseglia (RADIO)"
   }
 ]
