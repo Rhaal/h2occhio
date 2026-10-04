@@ -14200,6 +14200,16 @@
     "station_name": "Bucine (RADIO)"
   },
   {
+    "sensor_id": "TOS03004515",
+    "timestamp": 1791057600,
+    "value": -0.66,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Esse",
+    "province": "AR",
+    "station_name": "Foiano (RADIO)"
+  },
+  {
     "sensor_id": "TOS06006078",
     "timestamp": 1791057600,
     "value": 385.69,
