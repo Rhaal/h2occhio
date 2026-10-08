@@ -68,5 +68,75 @@
     "window_minutes": 2160,
     "province": "LU",
     "station_name": "Strettoia (GPRS)"
+  },
+  {
+    "sensor_id": "TOS11000102",
+    "timestamp": 1791423900,
+    "value": 20.1,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "LU",
+    "station_name": "Strettoia (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000102",
+    "timestamp": 1791423900,
+    "value": 27.9,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "LU",
+    "station_name": "Strettoia (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000102",
+    "timestamp": 1791423900,
+    "value": 46.9,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "LU",
+    "station_name": "Strettoia (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000102",
+    "timestamp": 1791423900,
+    "value": 63.3,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "LU",
+    "station_name": "Strettoia (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000102",
+    "timestamp": 1791423900,
+    "value": 68.7,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "LU",
+    "station_name": "Strettoia (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000102",
+    "timestamp": 1791423900,
+    "value": 68.7,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "LU",
+    "station_name": "Strettoia (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000102",
+    "timestamp": 1791423900,
+    "value": 68.7,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "LU",
+    "station_name": "Strettoia (RADIO)"
   }
 ]
