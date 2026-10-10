@@ -1,0 +1,12 @@
+[
+  {
+    "sensor_id": "TOS06006078",
+    "timestamp": 1791585000,
+    "value": 385.6,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Invaso Diga",
+    "province": "AR",
+    "station_name": "Montedoglio (RADIO)"
+  }
+]

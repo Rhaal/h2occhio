@@ -11348,5 +11348,15 @@
     "window_minutes": 2160,
     "province": "AR",
     "station_name": "Pieve S. Stefano (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03004515",
+    "timestamp": 1791579600,
+    "value": -0.5,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Esse",
+    "province": "AR",
+    "station_name": "Foiano (RADIO)"
   }
 ]
