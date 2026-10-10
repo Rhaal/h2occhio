@@ -22158,5 +22158,95 @@
     "window_minutes": 2160,
     "province": "LU",
     "station_name": "Strettoia (GPRS)"
+  },
+  {
+    "sensor_id": "TOS15004336",
+    "timestamp": 1791664200,
+    "value": 0.06,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Guappero",
+    "province": "LU",
+    "station_name": "Guappero cassa monte (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000221",
+    "timestamp": 1791667800,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "LU",
+    "station_name": "Casone di Profecchia (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000221",
+    "timestamp": 1791667800,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "LU",
+    "station_name": "Casone di Profecchia (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000221",
+    "timestamp": 1791667800,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "LU",
+    "station_name": "Casone di Profecchia (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000221",
+    "timestamp": 1791667800,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "LU",
+    "station_name": "Casone di Profecchia (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000221",
+    "timestamp": 1791667800,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "LU",
+    "station_name": "Casone di Profecchia (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000221",
+    "timestamp": 1791667800,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "LU",
+    "station_name": "Casone di Profecchia (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000221",
+    "timestamp": 1791667800,
+    "value": 2.1,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "LU",
+    "station_name": "Casone di Profecchia (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03005077",
+    "timestamp": 1791668700,
+    "value": 1.12,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Pescia di Collodi",
+    "province": "LU",
+    "station_name": "San Salvatore (RADIO)"
   }
 ]
