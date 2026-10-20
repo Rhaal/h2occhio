@@ -407,7 +407,7 @@
     "type": "hydrometric",
     "river": "Arno",
     "province": "FI",
-    "station_name": "Empoli (GPRS)"
+    "station_name": "Empoli (RADIO)"
   },
   {
     "sensor_id": "TOS01004941",
