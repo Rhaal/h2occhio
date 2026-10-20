@@ -208,5 +208,75 @@
     "window_minutes": 2160,
     "province": "PI",
     "station_name": "Castellina Marittima  (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03002016",
+    "timestamp": 1792512000,
+    "value": 0.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "PI",
+    "station_name": "Castellina Marittima  (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03002016",
+    "timestamp": 1792512000,
+    "value": 8.5,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "PI",
+    "station_name": "Castellina Marittima  (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03002016",
+    "timestamp": 1792512000,
+    "value": 17.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "PI",
+    "station_name": "Castellina Marittima  (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03002016",
+    "timestamp": 1792512000,
+    "value": 21.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "PI",
+    "station_name": "Castellina Marittima  (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03002016",
+    "timestamp": 1792512000,
+    "value": 22.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "PI",
+    "station_name": "Castellina Marittima  (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03002016",
+    "timestamp": 1792512000,
+    "value": 22.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "PI",
+    "station_name": "Castellina Marittima  (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03002016",
+    "timestamp": 1792512000,
+    "value": 22.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "PI",
+    "station_name": "Castellina Marittima  (RADIO)"
   }
 ]
