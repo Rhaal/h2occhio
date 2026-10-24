@@ -1,0 +1,12 @@
+[
+  {
+    "sensor_id": "TOS09000001",
+    "timestamp": 1792881000,
+    "value": 0.14,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Magra",
+    "province": "MS",
+    "station_name": "Piccatello (RADIO)"
+  }
+]
