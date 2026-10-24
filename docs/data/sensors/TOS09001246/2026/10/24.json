@@ -1,0 +1,12 @@
+[
+  {
+    "sensor_id": "TOS09001246",
+    "timestamp": 1792798200,
+    "value": 0.75,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Magra",
+    "province": "MS",
+    "station_name": "Calamazza ARPAL (RADIO)"
+  }
+]

@@ -9780,6 +9780,16 @@
     "station_name": "Soliera (RADIO)"
   },
   {
+    "sensor_id": "TOS03001246",
+    "timestamp": 1792691100,
+    "value": 0.53,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Magra",
+    "province": "MS",
+    "station_name": "Calamazza (RADIO)"
+  },
+  {
     "sensor_id": "TOS03004001",
     "timestamp": 1792691100,
     "value": 0.22,
