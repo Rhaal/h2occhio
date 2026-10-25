@@ -9360,6 +9360,16 @@
     "station_name": "Licciana Nardi (GPRS)"
   },
   {
+    "sensor_id": "TOS03001246",
+    "timestamp": 1792851000,
+    "value": 0.42,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Magra",
+    "province": "MS",
+    "station_name": "Calamazza (GPRS)"
+  },
+  {
     "sensor_id": "TOS30209600",
     "timestamp": 1792854600,
     "value": 0,
