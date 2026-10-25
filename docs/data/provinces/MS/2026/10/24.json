@@ -14050,6 +14050,16 @@
     "station_name": "Campocecina (GPRS)"
   },
   {
+    "sensor_id": "TOS03001246",
+    "timestamp": 1792866600,
+    "value": 0.37,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Magra",
+    "province": "MS",
+    "station_name": "Calamazza (GPRS)"
+  },
+  {
     "sensor_id": "TOS09001246",
     "timestamp": 1792872900,
     "value": 0.55,
