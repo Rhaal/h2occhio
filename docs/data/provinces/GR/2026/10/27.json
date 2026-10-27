@@ -16808,5 +16808,145 @@
     "window_minutes": 2160,
     "province": "GR",
     "station_name": "S. Fiora 1 (GPRS)"
+  },
+  {
+    "sensor_id": "TOS03002941",
+    "timestamp": 1793138400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "GR",
+    "station_name": "Granaione (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03002941",
+    "timestamp": 1793138400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "GR",
+    "station_name": "Granaione (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03002941",
+    "timestamp": 1793138400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "GR",
+    "station_name": "Granaione (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03002941",
+    "timestamp": 1793138400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "GR",
+    "station_name": "Granaione (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03002941",
+    "timestamp": 1793138400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "GR",
+    "station_name": "Granaione (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03002941",
+    "timestamp": 1793138400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "GR",
+    "station_name": "Granaione (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03002941",
+    "timestamp": 1793138400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "GR",
+    "station_name": "Granaione (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000054",
+    "timestamp": 1793141100,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "GR",
+    "station_name": "Baccinello (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000054",
+    "timestamp": 1793141100,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "GR",
+    "station_name": "Baccinello (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000054",
+    "timestamp": 1793141100,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "GR",
+    "station_name": "Baccinello (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000054",
+    "timestamp": 1793141100,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "GR",
+    "station_name": "Baccinello (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000054",
+    "timestamp": 1793141100,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "GR",
+    "station_name": "Baccinello (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000054",
+    "timestamp": 1793141100,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "GR",
+    "station_name": "Baccinello (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000054",
+    "timestamp": 1793141100,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "GR",
+    "station_name": "Baccinello (RADIO)"
   }
 ]
