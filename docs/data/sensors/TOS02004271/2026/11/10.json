@@ -158,5 +158,85 @@
     "river": "Serchio",
     "province": "LU",
     "station_name": "Borgo a Mozzano (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02004271",
+    "timestamp": 1794334200,
+    "value": 0.95,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Serchio",
+    "province": "LU",
+    "station_name": "Borgo a Mozzano (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02004271",
+    "timestamp": 1794334200,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "LU",
+    "station_name": "Borgo a Mozzano (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02004271",
+    "timestamp": 1794334200,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "LU",
+    "station_name": "Borgo a Mozzano (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02004271",
+    "timestamp": 1794334200,
+    "value": 2.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "LU",
+    "station_name": "Borgo a Mozzano (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02004271",
+    "timestamp": 1794334200,
+    "value": 23.5,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "LU",
+    "station_name": "Borgo a Mozzano (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02004271",
+    "timestamp": 1794334200,
+    "value": 90,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "LU",
+    "station_name": "Borgo a Mozzano (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02004271",
+    "timestamp": 1794334200,
+    "value": 104.7,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "LU",
+    "station_name": "Borgo a Mozzano (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02004271",
+    "timestamp": 1794334200,
+    "value": 110.5,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "LU",
+    "station_name": "Borgo a Mozzano (GPRS)"
   }
 ]
