@@ -14038,5 +14038,715 @@
     "window_minutes": 2160,
     "province": "FI",
     "station_name": "Cerreto Guidi (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01000979",
+    "timestamp": 1794348000,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "FI",
+    "station_name": "Razzuolo (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000979",
+    "timestamp": 1794348000,
+    "value": 0.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "FI",
+    "station_name": "Razzuolo (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000979",
+    "timestamp": 1794348000,
+    "value": 0.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "FI",
+    "station_name": "Razzuolo (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000979",
+    "timestamp": 1794348000,
+    "value": 3.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "FI",
+    "station_name": "Razzuolo (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000979",
+    "timestamp": 1794348000,
+    "value": 26,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "FI",
+    "station_name": "Razzuolo (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000979",
+    "timestamp": 1794348000,
+    "value": 33.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "FI",
+    "station_name": "Razzuolo (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000979",
+    "timestamp": 1794348000,
+    "value": 42.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "FI",
+    "station_name": "Razzuolo (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000991",
+    "timestamp": 1794348000,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "FI",
+    "station_name": "Ronta (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000991",
+    "timestamp": 1794348000,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "FI",
+    "station_name": "Ronta (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000991",
+    "timestamp": 1794348000,
+    "value": 0.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "FI",
+    "station_name": "Ronta (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000991",
+    "timestamp": 1794348000,
+    "value": 1.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "FI",
+    "station_name": "Ronta (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000991",
+    "timestamp": 1794348000,
+    "value": 19.5,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "FI",
+    "station_name": "Ronta (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000991",
+    "timestamp": 1794348000,
+    "value": 24.1,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "FI",
+    "station_name": "Ronta (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000991",
+    "timestamp": 1794348000,
+    "value": 28.5,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "FI",
+    "station_name": "Ronta (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30248400",
+    "timestamp": 1794349800,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "FI",
+    "station_name": "Casaglia (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30248400",
+    "timestamp": 1794349800,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "FI",
+    "station_name": "Casaglia (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30248400",
+    "timestamp": 1794349800,
+    "value": 0.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "FI",
+    "station_name": "Casaglia (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30248400",
+    "timestamp": 1794349800,
+    "value": 3.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "FI",
+    "station_name": "Casaglia (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30248400",
+    "timestamp": 1794349800,
+    "value": 29.3,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "FI",
+    "station_name": "Casaglia (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30248400",
+    "timestamp": 1794349800,
+    "value": 41.5,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "FI",
+    "station_name": "Casaglia (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30248400",
+    "timestamp": 1794349800,
+    "value": 50.9,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "FI",
+    "station_name": "Casaglia (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30290400",
+    "timestamp": 1794349800,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "FI",
+    "station_name": "Palazzuolo sul Senio (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30290400",
+    "timestamp": 1794349800,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "FI",
+    "station_name": "Palazzuolo sul Senio (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30290400",
+    "timestamp": 1794349800,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "FI",
+    "station_name": "Palazzuolo sul Senio (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30290400",
+    "timestamp": 1794349800,
+    "value": 0.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "FI",
+    "station_name": "Palazzuolo sul Senio (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30290400",
+    "timestamp": 1794349800,
+    "value": 29.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "FI",
+    "station_name": "Palazzuolo sul Senio (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30290400",
+    "timestamp": 1794349800,
+    "value": 39.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "FI",
+    "station_name": "Palazzuolo sul Senio (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30290400",
+    "timestamp": 1794349800,
+    "value": 43.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "FI",
+    "station_name": "Palazzuolo sul Senio (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30250000",
+    "timestamp": 1794350100,
+    "value": 0.32,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Lamone",
+    "province": "FI",
+    "station_name": "Marradi (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30250000",
+    "timestamp": 1794350100,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "FI",
+    "station_name": "Marradi (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30250000",
+    "timestamp": 1794350100,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "FI",
+    "station_name": "Marradi (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30250000",
+    "timestamp": 1794350100,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "FI",
+    "station_name": "Marradi (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30250000",
+    "timestamp": 1794350100,
+    "value": 1,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "FI",
+    "station_name": "Marradi (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30250000",
+    "timestamp": 1794350100,
+    "value": 23,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "FI",
+    "station_name": "Marradi (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30250000",
+    "timestamp": 1794350100,
+    "value": 28.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "FI",
+    "station_name": "Marradi (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30250000",
+    "timestamp": 1794350100,
+    "value": 32.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "FI",
+    "station_name": "Marradi (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30287700",
+    "timestamp": 1794350100,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "FI",
+    "station_name": "Monte Faggiola (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30287700",
+    "timestamp": 1794350100,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "FI",
+    "station_name": "Monte Faggiola (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30287700",
+    "timestamp": 1794350100,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "FI",
+    "station_name": "Monte Faggiola (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30287700",
+    "timestamp": 1794350100,
+    "value": 0.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "FI",
+    "station_name": "Monte Faggiola (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30287700",
+    "timestamp": 1794350100,
+    "value": 28.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "FI",
+    "station_name": "Monte Faggiola (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30287700",
+    "timestamp": 1794350100,
+    "value": 33.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "FI",
+    "station_name": "Monte Faggiola (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30287700",
+    "timestamp": 1794350100,
+    "value": 35.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "FI",
+    "station_name": "Monte Faggiola (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30290200",
+    "timestamp": 1794350100,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "FI",
+    "station_name": "Piancaldoli (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30290200",
+    "timestamp": 1794350100,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "FI",
+    "station_name": "Piancaldoli (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30290200",
+    "timestamp": 1794350100,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "FI",
+    "station_name": "Piancaldoli (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30290200",
+    "timestamp": 1794350100,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "FI",
+    "station_name": "Piancaldoli (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30290200",
+    "timestamp": 1794350100,
+    "value": 50.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "FI",
+    "station_name": "Piancaldoli (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30290200",
+    "timestamp": 1794350100,
+    "value": 69.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "FI",
+    "station_name": "Piancaldoli (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30290200",
+    "timestamp": 1794350100,
+    "value": 80.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "FI",
+    "station_name": "Piancaldoli (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30248000",
+    "timestamp": 1794350400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "FI",
+    "station_name": "Bibbiana (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30248000",
+    "timestamp": 1794350400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "FI",
+    "station_name": "Bibbiana (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30248000",
+    "timestamp": 1794350400,
+    "value": 0.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "FI",
+    "station_name": "Bibbiana (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30248000",
+    "timestamp": 1794350400,
+    "value": 0.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "FI",
+    "station_name": "Bibbiana (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30248000",
+    "timestamp": 1794350400,
+    "value": 27.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "FI",
+    "station_name": "Bibbiana (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30248000",
+    "timestamp": 1794350400,
+    "value": 35.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "FI",
+    "station_name": "Bibbiana (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30248000",
+    "timestamp": 1794350400,
+    "value": 38,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "FI",
+    "station_name": "Bibbiana (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30287500",
+    "timestamp": 1794350400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "FI",
+    "station_name": "Barco (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30287500",
+    "timestamp": 1794350400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "FI",
+    "station_name": "Barco (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30287500",
+    "timestamp": 1794350400,
+    "value": 0.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "FI",
+    "station_name": "Barco (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30287500",
+    "timestamp": 1794350400,
+    "value": 1,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "FI",
+    "station_name": "Barco (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30287500",
+    "timestamp": 1794350400,
+    "value": 36.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "FI",
+    "station_name": "Barco (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30287500",
+    "timestamp": 1794350400,
+    "value": 65.7,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "FI",
+    "station_name": "Barco (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30287500",
+    "timestamp": 1794350400,
+    "value": 81.3,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "FI",
+    "station_name": "Barco (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30290300",
+    "timestamp": 1794350400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "FI",
+    "station_name": "Firenzuola (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30290300",
+    "timestamp": 1794350400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "FI",
+    "station_name": "Firenzuola (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30290300",
+    "timestamp": 1794350400,
+    "value": 0.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "FI",
+    "station_name": "Firenzuola (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30290300",
+    "timestamp": 1794350400,
+    "value": 0.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "FI",
+    "station_name": "Firenzuola (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30290300",
+    "timestamp": 1794350400,
+    "value": 43.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "FI",
+    "station_name": "Firenzuola (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30290300",
+    "timestamp": 1794350400,
+    "value": 62.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "FI",
+    "station_name": "Firenzuola (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30290300",
+    "timestamp": 1794350400,
+    "value": 70.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "FI",
+    "station_name": "Firenzuola (RADIO)"
   }
 ]
