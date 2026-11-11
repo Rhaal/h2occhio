@@ -138,5 +138,75 @@
     "window_minutes": 2160,
     "province": "PT",
     "station_name": "Selva dei Porci (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000401",
+    "timestamp": 1794391200,
+    "value": 0.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "PT",
+    "station_name": "Selva dei Porci (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000401",
+    "timestamp": 1794391200,
+    "value": 0.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "PT",
+    "station_name": "Selva dei Porci (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000401",
+    "timestamp": 1794391200,
+    "value": 1.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "PT",
+    "station_name": "Selva dei Porci (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000401",
+    "timestamp": 1794391200,
+    "value": 13,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "PT",
+    "station_name": "Selva dei Porci (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000401",
+    "timestamp": 1794391200,
+    "value": 17.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "PT",
+    "station_name": "Selva dei Porci (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000401",
+    "timestamp": 1794391200,
+    "value": 81.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "PT",
+    "station_name": "Selva dei Porci (RADIO)"
+  },
+  {
+    "sensor_id": "TOS02000401",
+    "timestamp": 1794391200,
+    "value": 122,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "PT",
+    "station_name": "Selva dei Porci (RADIO)"
   }
 ]
