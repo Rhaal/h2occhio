@@ -2110,6 +2110,16 @@
     "station_name": "Bagnolo (RADIO)"
   },
   {
+    "sensor_id": "TOS03004869",
+    "timestamp": 1794348000,
+    "value": 0.41,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Bagnolo",
+    "province": "PO",
+    "station_name": "Bagnolo (RADIO)"
+  },
+  {
     "sensor_id": "TOS30290100",
     "timestamp": 1794349800,
     "value": 0,
