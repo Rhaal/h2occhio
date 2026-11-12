@@ -68,5 +68,75 @@
     "window_minutes": 2160,
     "province": "LU",
     "station_name": "Lido di Camaiore (GPRS)"
+  },
+  {
+    "sensor_id": "TOS11000011",
+    "timestamp": 1794461100,
+    "value": 1.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "LU",
+    "station_name": "Lido di Camaiore (GPRS)"
+  },
+  {
+    "sensor_id": "TOS11000011",
+    "timestamp": 1794461100,
+    "value": 10.7,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "LU",
+    "station_name": "Lido di Camaiore (GPRS)"
+  },
+  {
+    "sensor_id": "TOS11000011",
+    "timestamp": 1794461100,
+    "value": 13.1,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "LU",
+    "station_name": "Lido di Camaiore (GPRS)"
+  },
+  {
+    "sensor_id": "TOS11000011",
+    "timestamp": 1794461100,
+    "value": 19.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "LU",
+    "station_name": "Lido di Camaiore (GPRS)"
+  },
+  {
+    "sensor_id": "TOS11000011",
+    "timestamp": 1794461100,
+    "value": 20,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "LU",
+    "station_name": "Lido di Camaiore (GPRS)"
+  },
+  {
+    "sensor_id": "TOS11000011",
+    "timestamp": 1794461100,
+    "value": 36.7,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "LU",
+    "station_name": "Lido di Camaiore (GPRS)"
+  },
+  {
+    "sensor_id": "TOS11000011",
+    "timestamp": 1794461100,
+    "value": 44.5,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "LU",
+    "station_name": "Lido di Camaiore (GPRS)"
   }
 ]
