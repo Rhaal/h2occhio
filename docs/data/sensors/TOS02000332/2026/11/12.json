@@ -138,5 +138,75 @@
     "window_minutes": 2160,
     "province": "LU",
     "station_name": "Fabbriche di Vallico (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02000332",
+    "timestamp": 1794491400,
+    "value": 1.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "LU",
+    "station_name": "Fabbriche di Vallico (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02000332",
+    "timestamp": 1794491400,
+    "value": 11.5,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "LU",
+    "station_name": "Fabbriche di Vallico (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02000332",
+    "timestamp": 1794491400,
+    "value": 29.1,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "LU",
+    "station_name": "Fabbriche di Vallico (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02000332",
+    "timestamp": 1794491400,
+    "value": 51.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "LU",
+    "station_name": "Fabbriche di Vallico (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02000332",
+    "timestamp": 1794491400,
+    "value": 111.5,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "LU",
+    "station_name": "Fabbriche di Vallico (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02000332",
+    "timestamp": 1794491400,
+    "value": 151.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "LU",
+    "station_name": "Fabbriche di Vallico (GPRS)"
+  },
+  {
+    "sensor_id": "TOS02000332",
+    "timestamp": 1794491400,
+    "value": 195.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "LU",
+    "station_name": "Fabbriche di Vallico (GPRS)"
   }
 ]
