@@ -2098,5 +2098,705 @@
     "window_minutes": 2160,
     "province": "PO",
     "station_name": "Gamberame (GPRS)"
+  },
+  {
+    "sensor_id": "TOS30290100",
+    "timestamp": 1794515400,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "PO",
+    "station_name": "Cottede (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30290100",
+    "timestamp": 1794515400,
+    "value": 0.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "PO",
+    "station_name": "Cottede (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30290100",
+    "timestamp": 1794515400,
+    "value": 2.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "PO",
+    "station_name": "Cottede (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30290100",
+    "timestamp": 1794515400,
+    "value": 48,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "PO",
+    "station_name": "Cottede (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30290100",
+    "timestamp": 1794515400,
+    "value": 84,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "PO",
+    "station_name": "Cottede (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30290100",
+    "timestamp": 1794515400,
+    "value": 115,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "PO",
+    "station_name": "Cottede (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30290100",
+    "timestamp": 1794515400,
+    "value": 142.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "PO",
+    "station_name": "Cottede (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03004869",
+    "timestamp": 1794516300,
+    "value": 0.8,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Bagnolo",
+    "province": "PO",
+    "station_name": "Bagnolo (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01001161",
+    "timestamp": 1794517200,
+    "value": 1.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "PO",
+    "station_name": "Gavigno (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01001161",
+    "timestamp": 1794517200,
+    "value": 2.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "PO",
+    "station_name": "Gavigno (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01001161",
+    "timestamp": 1794517200,
+    "value": 2.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "PO",
+    "station_name": "Gavigno (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01001161",
+    "timestamp": 1794517200,
+    "value": 38,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "PO",
+    "station_name": "Gavigno (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01001161",
+    "timestamp": 1794517200,
+    "value": 89.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "PO",
+    "station_name": "Gavigno (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01001161",
+    "timestamp": 1794517200,
+    "value": 122.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "PO",
+    "station_name": "Gavigno (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01001161",
+    "timestamp": 1794517200,
+    "value": 154,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "PO",
+    "station_name": "Gavigno (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01001171",
+    "timestamp": 1794517200,
+    "value": 1.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "PO",
+    "station_name": "Vernio (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01001171",
+    "timestamp": 1794517200,
+    "value": 3.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "PO",
+    "station_name": "Vernio (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01001171",
+    "timestamp": 1794517200,
+    "value": 4.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "PO",
+    "station_name": "Vernio (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01001171",
+    "timestamp": 1794517200,
+    "value": 40.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "PO",
+    "station_name": "Vernio (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01001171",
+    "timestamp": 1794517200,
+    "value": 92,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "PO",
+    "station_name": "Vernio (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01001171",
+    "timestamp": 1794517200,
+    "value": 121.1,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "PO",
+    "station_name": "Vernio (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01001171",
+    "timestamp": 1794517200,
+    "value": 155.5,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "PO",
+    "station_name": "Vernio (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01001273",
+    "timestamp": 1794517200,
+    "value": 0.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "PO",
+    "station_name": "Fattoria Iavello (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01001273",
+    "timestamp": 1794517200,
+    "value": 9.9,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "PO",
+    "station_name": "Fattoria Iavello (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01001273",
+    "timestamp": 1794517200,
+    "value": 13.9,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "PO",
+    "station_name": "Fattoria Iavello (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01001273",
+    "timestamp": 1794517200,
+    "value": 49.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "PO",
+    "station_name": "Fattoria Iavello (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01001273",
+    "timestamp": 1794517200,
+    "value": 80.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "PO",
+    "station_name": "Fattoria Iavello (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01001273",
+    "timestamp": 1794517200,
+    "value": 95,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "PO",
+    "station_name": "Fattoria Iavello (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01001273",
+    "timestamp": 1794517200,
+    "value": 108.7,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "PO",
+    "station_name": "Fattoria Iavello (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01004782",
+    "timestamp": 1794517200,
+    "value": 0.91,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Bisenzio",
+    "province": "PO",
+    "station_name": "Prato (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01004875",
+    "timestamp": 1794517200,
+    "value": 5.39,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Ombrone PT",
+    "province": "PO",
+    "station_name": "Poggio a Caiano (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03004847",
+    "timestamp": 1794517200,
+    "value": 2.17,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Calice",
+    "province": "PO",
+    "station_name": "Variante Pratese (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03004863",
+    "timestamp": 1794517200,
+    "value": 5.42,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Ombrone PT",
+    "province": "PO",
+    "station_name": "Ponte alle Vanne  (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000076",
+    "timestamp": 1794517200,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "PO",
+    "station_name": "Artimino (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000076",
+    "timestamp": 1794517200,
+    "value": 0.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "PO",
+    "station_name": "Artimino (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000076",
+    "timestamp": 1794517200,
+    "value": 5.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "PO",
+    "station_name": "Artimino (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000076",
+    "timestamp": 1794517200,
+    "value": 11.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "PO",
+    "station_name": "Artimino (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000076",
+    "timestamp": 1794517200,
+    "value": 22.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "PO",
+    "station_name": "Artimino (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000076",
+    "timestamp": 1794517200,
+    "value": 29,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "PO",
+    "station_name": "Artimino (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000076",
+    "timestamp": 1794517200,
+    "value": 32.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "PO",
+    "station_name": "Artimino (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000503",
+    "timestamp": 1794517200,
+    "value": 1,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "PO",
+    "station_name": "Vaiano acquedotto (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000503",
+    "timestamp": 1794517200,
+    "value": 7,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "PO",
+    "station_name": "Vaiano acquedotto (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000503",
+    "timestamp": 1794517200,
+    "value": 16.1,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "PO",
+    "station_name": "Vaiano acquedotto (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000503",
+    "timestamp": 1794517200,
+    "value": 33.1,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "PO",
+    "station_name": "Vaiano acquedotto (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000503",
+    "timestamp": 1794517200,
+    "value": 39.7,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "PO",
+    "station_name": "Vaiano acquedotto (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000503",
+    "timestamp": 1794517200,
+    "value": 51.3,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "PO",
+    "station_name": "Vaiano acquedotto (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000503",
+    "timestamp": 1794517200,
+    "value": 59.1,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "PO",
+    "station_name": "Vaiano acquedotto (RADIO)"
+  },
+  {
+    "sensor_id": "TOS15004865",
+    "timestamp": 1794517200,
+    "value": 1.31,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Ombrone PT",
+    "province": "PO",
+    "station_name": "Ponte alle Vanne Cassa (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01001151",
+    "timestamp": 1794518100,
+    "value": 0.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "PO",
+    "station_name": "Cantagallo (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01001151",
+    "timestamp": 1794518100,
+    "value": 7.9,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "PO",
+    "station_name": "Cantagallo (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01001151",
+    "timestamp": 1794518100,
+    "value": 9.5,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "PO",
+    "station_name": "Cantagallo (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01001151",
+    "timestamp": 1794518100,
+    "value": 50.7,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "PO",
+    "station_name": "Cantagallo (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01001151",
+    "timestamp": 1794518100,
+    "value": 99.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "PO",
+    "station_name": "Cantagallo (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01001151",
+    "timestamp": 1794518100,
+    "value": 123,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "PO",
+    "station_name": "Cantagallo (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01001151",
+    "timestamp": 1794518100,
+    "value": 153.9,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "PO",
+    "station_name": "Cantagallo (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01001205",
+    "timestamp": 1794518100,
+    "value": 0.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "PO",
+    "station_name": "Prato Università (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01001205",
+    "timestamp": 1794518100,
+    "value": 1.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "PO",
+    "station_name": "Prato Università (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01001205",
+    "timestamp": 1794518100,
+    "value": 11.5,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "PO",
+    "station_name": "Prato Università (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01001205",
+    "timestamp": 1794518100,
+    "value": 22.1,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "PO",
+    "station_name": "Prato Università (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01001205",
+    "timestamp": 1794518100,
+    "value": 39.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "PO",
+    "station_name": "Prato Università (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01001205",
+    "timestamp": 1794518100,
+    "value": 48.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "PO",
+    "station_name": "Prato Università (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01001205",
+    "timestamp": 1794518100,
+    "value": 53.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "PO",
+    "station_name": "Prato Università (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01004779",
+    "timestamp": 1794518100,
+    "value": 1.82,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Bisenzio",
+    "province": "PO",
+    "station_name": "Gamberame (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01004779",
+    "timestamp": 1794518100,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "PO",
+    "station_name": "Gamberame (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01004779",
+    "timestamp": 1794518100,
+    "value": 3.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "PO",
+    "station_name": "Gamberame (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01004779",
+    "timestamp": 1794518100,
+    "value": 12.5,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "PO",
+    "station_name": "Gamberame (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01004779",
+    "timestamp": 1794518100,
+    "value": 21.1,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "PO",
+    "station_name": "Gamberame (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01004779",
+    "timestamp": 1794518100,
+    "value": 38.1,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "PO",
+    "station_name": "Gamberame (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01004779",
+    "timestamp": 1794518100,
+    "value": 47.7,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "PO",
+    "station_name": "Gamberame (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01004779",
+    "timestamp": 1794518100,
+    "value": 56.1,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "PO",
+    "station_name": "Gamberame (GPRS)"
   }
 ]
