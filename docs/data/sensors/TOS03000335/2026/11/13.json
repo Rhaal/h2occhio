@@ -68,5 +68,75 @@
     "window_minutes": 2160,
     "province": "LU",
     "station_name": "Foce a Giovo (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03000335",
+    "timestamp": 1794560400,
+    "value": 6.3,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "LU",
+    "station_name": "Foce a Giovo (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03000335",
+    "timestamp": 1794560400,
+    "value": 11.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "LU",
+    "station_name": "Foce a Giovo (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03000335",
+    "timestamp": 1794560400,
+    "value": 20,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "LU",
+    "station_name": "Foce a Giovo (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03000335",
+    "timestamp": 1794560400,
+    "value": 26.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "LU",
+    "station_name": "Foce a Giovo (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03000335",
+    "timestamp": 1794560400,
+    "value": 35.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "LU",
+    "station_name": "Foce a Giovo (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03000335",
+    "timestamp": 1794560400,
+    "value": 88.9,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "LU",
+    "station_name": "Foce a Giovo (RADIO)"
+  },
+  {
+    "sensor_id": "TOS03000335",
+    "timestamp": 1794560400,
+    "value": 142.1,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "LU",
+    "station_name": "Foce a Giovo (RADIO)"
   }
 ]
