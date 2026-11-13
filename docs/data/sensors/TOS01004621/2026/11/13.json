@@ -1,0 +1,82 @@
+[
+  {
+    "sensor_id": "TOS01004621",
+    "timestamp": 1794534300,
+    "value": 0.96,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Sieve",
+    "province": "FI",
+    "station_name": "S. Piero a Sieve-Sieve (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01004621",
+    "timestamp": 1794534300,
+    "value": 0,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "FI",
+    "station_name": "S. Piero a Sieve-Sieve (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01004621",
+    "timestamp": 1794534300,
+    "value": 3.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "FI",
+    "station_name": "S. Piero a Sieve-Sieve (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01004621",
+    "timestamp": 1794534300,
+    "value": 7,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "FI",
+    "station_name": "S. Piero a Sieve-Sieve (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01004621",
+    "timestamp": 1794534300,
+    "value": 22.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "FI",
+    "station_name": "S. Piero a Sieve-Sieve (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01004621",
+    "timestamp": 1794534300,
+    "value": 37.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "FI",
+    "station_name": "S. Piero a Sieve-Sieve (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01004621",
+    "timestamp": 1794534300,
+    "value": 63,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "FI",
+    "station_name": "S. Piero a Sieve-Sieve (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01004621",
+    "timestamp": 1794534300,
+    "value": 63,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "FI",
+    "station_name": "S. Piero a Sieve-Sieve (RADIO)"
+  }
+]

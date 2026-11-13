@@ -1,0 +1,72 @@
+[
+  {
+    "sensor_id": "TOS11000026",
+    "timestamp": 1794534300,
+    "value": 1.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "AR",
+    "station_name": "Sestino (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000026",
+    "timestamp": 1794534300,
+    "value": 2.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "AR",
+    "station_name": "Sestino (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000026",
+    "timestamp": 1794534300,
+    "value": 3,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "AR",
+    "station_name": "Sestino (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000026",
+    "timestamp": 1794534300,
+    "value": 13.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "AR",
+    "station_name": "Sestino (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000026",
+    "timestamp": 1794534300,
+    "value": 30.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "AR",
+    "station_name": "Sestino (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000026",
+    "timestamp": 1794534300,
+    "value": 47.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "AR",
+    "station_name": "Sestino (RADIO)"
+  },
+  {
+    "sensor_id": "TOS11000026",
+    "timestamp": 1794534300,
+    "value": 50,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "AR",
+    "station_name": "Sestino (RADIO)"
+  }
+]

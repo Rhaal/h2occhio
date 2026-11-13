@@ -1,0 +1,12 @@
+[
+  {
+    "sensor_id": "TOS03000109",
+    "timestamp": 1794534300,
+    "value": 2.63,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Aulella",
+    "province": "MS",
+    "station_name": "Soliera (RADIO)"
+  }
+]

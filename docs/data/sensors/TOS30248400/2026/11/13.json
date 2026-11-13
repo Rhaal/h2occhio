@@ -1,0 +1,72 @@
+[
+  {
+    "sensor_id": "TOS30248400",
+    "timestamp": 1794531600,
+    "value": 0.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "FI",
+    "station_name": "Casaglia (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30248400",
+    "timestamp": 1794531600,
+    "value": 2.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "FI",
+    "station_name": "Casaglia (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30248400",
+    "timestamp": 1794531600,
+    "value": 11.7,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "FI",
+    "station_name": "Casaglia (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30248400",
+    "timestamp": 1794531600,
+    "value": 30.9,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "FI",
+    "station_name": "Casaglia (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30248400",
+    "timestamp": 1794531600,
+    "value": 52.1,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "FI",
+    "station_name": "Casaglia (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30248400",
+    "timestamp": 1794531600,
+    "value": 76.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "FI",
+    "station_name": "Casaglia (RADIO)"
+  },
+  {
+    "sensor_id": "TOS30248400",
+    "timestamp": 1794531600,
+    "value": 81.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "FI",
+    "station_name": "Casaglia (RADIO)"
+  }
+]

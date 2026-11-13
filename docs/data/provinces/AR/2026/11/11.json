@@ -8482,7 +8482,7 @@
   {
     "sensor_id": "TOS06006078",
     "timestamp": 1794412800,
-    "value": 1.2,
+    "value": 1,
     "unit": "mm",
     "type": "pluviometric",
     "window_minutes": 1440,
@@ -8492,7 +8492,7 @@
   {
     "sensor_id": "TOS06006078",
     "timestamp": 1794412800,
-    "value": 1.2,
+    "value": 1,
     "unit": "mm",
     "type": "pluviometric",
     "window_minutes": 2160,

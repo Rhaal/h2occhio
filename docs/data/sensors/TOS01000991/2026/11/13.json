@@ -1,0 +1,72 @@
+[
+  {
+    "sensor_id": "TOS01000991",
+    "timestamp": 1794534300,
+    "value": 0.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "FI",
+    "station_name": "Ronta (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000991",
+    "timestamp": 1794534300,
+    "value": 2.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "FI",
+    "station_name": "Ronta (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000991",
+    "timestamp": 1794534300,
+    "value": 6.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "FI",
+    "station_name": "Ronta (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000991",
+    "timestamp": 1794534300,
+    "value": 23.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "FI",
+    "station_name": "Ronta (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000991",
+    "timestamp": 1794534300,
+    "value": 33.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "FI",
+    "station_name": "Ronta (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000991",
+    "timestamp": 1794534300,
+    "value": 56.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "FI",
+    "station_name": "Ronta (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01000991",
+    "timestamp": 1794534300,
+    "value": 57.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "FI",
+    "station_name": "Ronta (RADIO)"
+  }
+]
