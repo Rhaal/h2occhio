@@ -98,5 +98,55 @@
     "river": "Sieve",
     "province": "FI",
     "station_name": "Fornacina 2 ul (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01004611",
+    "timestamp": 1794589200,
+    "value": 1.11,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Sieve",
+    "province": "FI",
+    "station_name": "Bilancino (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01004621",
+    "timestamp": 1794589200,
+    "value": 1,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Sieve",
+    "province": "FI",
+    "station_name": "S. Piero a Sieve-Sieve (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01004625",
+    "timestamp": 1794590100,
+    "value": 1.49,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Sieve",
+    "province": "FI",
+    "station_name": "Dicomano (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01004641",
+    "timestamp": 1794590100,
+    "value": 2.15,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Sieve",
+    "province": "FI",
+    "station_name": "Fornacina (GPRS)"
+  },
+  {
+    "sensor_id": "TOS01004642",
+    "timestamp": 1794590100,
+    "value": 2.09,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Sieve",
+    "province": "FI",
+    "station_name": "Fornacina 2 ul (GPRS)"
   }
 ]
