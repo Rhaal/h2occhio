@@ -1,0 +1,12 @@
+[
+  {
+    "sensor_id": "TOS03005193",
+    "timestamp": 1794970200,
+    "value": 1.44,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Arno",
+    "province": "PI",
+    "station_name": "S. Giovanni alla Vena valle_r (GPRS)"
+  }
+]
