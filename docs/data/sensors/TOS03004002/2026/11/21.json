@@ -1,0 +1,12 @@
+[
+  {
+    "sensor_id": "TOS03004002",
+    "timestamp": 1795230900,
+    "value": 0.13,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Carrione (ramo Colonnata)",
+    "province": "MS",
+    "station_name": "Colonnata Valle (RADIO)"
+  }
+]
