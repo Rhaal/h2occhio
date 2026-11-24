@@ -1,0 +1,12 @@
+[
+  {
+    "sensor_id": "TOS09000015",
+    "timestamp": 1795490100,
+    "value": 0.39,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Bagnone",
+    "province": "MS",
+    "station_name": "Bagnone (RADIO)"
+  }
+]
