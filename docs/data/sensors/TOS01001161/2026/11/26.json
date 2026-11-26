@@ -1,0 +1,72 @@
+[
+  {
+    "sensor_id": "TOS01001161",
+    "timestamp": 1795651200,
+    "value": 2.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 15,
+    "province": "PO",
+    "station_name": "Gavigno (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01001161",
+    "timestamp": 1795651200,
+    "value": 9.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 60,
+    "province": "PO",
+    "station_name": "Gavigno (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01001161",
+    "timestamp": 1795651200,
+    "value": 14.8,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 180,
+    "province": "PO",
+    "station_name": "Gavigno (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01001161",
+    "timestamp": 1795651200,
+    "value": 21.6,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 360,
+    "province": "PO",
+    "station_name": "Gavigno (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01001161",
+    "timestamp": 1795651200,
+    "value": 33.4,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 720,
+    "province": "PO",
+    "station_name": "Gavigno (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01001161",
+    "timestamp": 1795651200,
+    "value": 45.2,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 1440,
+    "province": "PO",
+    "station_name": "Gavigno (RADIO)"
+  },
+  {
+    "sensor_id": "TOS01001161",
+    "timestamp": 1795651200,
+    "value": 51,
+    "unit": "mm",
+    "type": "pluviometric",
+    "window_minutes": 2160,
+    "province": "PO",
+    "station_name": "Gavigno (RADIO)"
+  }
+]
