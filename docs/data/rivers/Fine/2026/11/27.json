@@ -1,0 +1,12 @@
+[
+  {
+    "sensor_id": "TOS01005365",
+    "timestamp": 1795744200,
+    "value": 0.8,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Fine",
+    "province": "PI",
+    "station_name": "Castellina Marittima (GPRS)"
+  }
+]

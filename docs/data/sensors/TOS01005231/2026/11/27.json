@@ -1,0 +1,12 @@
+[
+  {
+    "sensor_id": "TOS01005231",
+    "timestamp": 1795744200,
+    "value": 0.99,
+    "unit": "m",
+    "type": "hydrometric",
+    "river": "Arno",
+    "province": "PI",
+    "station_name": "Pisa a Sostegno (GPRS)"
+  }
+]
