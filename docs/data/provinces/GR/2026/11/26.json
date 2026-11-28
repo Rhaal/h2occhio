@@ -10112,7 +10112,7 @@
   {
     "sensor_id": "TOS03003099",
     "timestamp": 1795723200,
-    "value": 7.7,
+    "value": 0,
     "unit": "mm",
     "type": "pluviometric",
     "window_minutes": 1440,
@@ -10122,7 +10122,7 @@
   {
     "sensor_id": "TOS03003099",
     "timestamp": 1795723200,
-    "value": 8.1,
+    "value": 0,
     "unit": "mm",
     "type": "pluviometric",
     "window_minutes": 2160,
